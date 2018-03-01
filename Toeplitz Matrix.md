@@ -28,20 +28,25 @@ In the above grid, the diagonals are "[9]", "[5, 5]", "[1, 1, 1]", "[2, 2, 2]", 
 * matrix[i][j] will be integers in range [0, 99].
 
 
-    class Solution {
-        public boolean isToeplitzMatrix(int[][] matrix) {
-            int row = matrix.length;
-            int col = matrix[0].length;
-            for(int i = 0; i < row * col; i++){
-                int r = i / col;
-                int c = i % col;
-                if(r + 1 < row && c + 1 < col){
-                    int temp = matrix[r][c];
-                    if(temp != matrix[r + 1][c + 1]){
-                        return false;
-                    }
-                }
-            }
-            return true;
+# Solution
+
+* java
+``` 
+class Solution {
+    public boolean isToeplitzMatrix(int[][] matrix) {
+        int row = matrix.length;
+        int col = matrix[0].length;
+        for(int i = 0; i < row * col; i++){       
+            int r = i / col;  
+            int c = i % col;   
+            if(r + 1 < row && c + 1 < col){
+                int temp = matrix[r][c];
+                if(temp != matrix[r + 1][c + 1]){
+                    return false;
+                } 
+            }  
         }
-    }
+        return true;          
+    }     
+}
+``` 
