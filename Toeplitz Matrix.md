@@ -16,10 +16,10 @@ In the above grid, the diagonals are "[9]", "[5, 5]", "[1, 1, 1]", "[2, 2, 2]", 
 
 # Example 2:
 
-  Input: matrix = [[1,2],[2,2]]
-  Output: False
-  Explanation:
-  The diagonal "[1, 2]" has different elements.
+    Input: matrix = [[1,2],[2,2]]
+    Output: False
+    Explanation:
+    The diagonal "[1, 2]" has different elements.
 
 # Note:
 
