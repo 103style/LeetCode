@@ -13,4 +13,4 @@ exercise
   
   
   * #### Medium
-    * [Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Duplicates%20in%20an%20Array.md)
+    * [Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Duplicates%20in%20an%20Array.md)
