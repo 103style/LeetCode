@@ -33,7 +33,7 @@ class Solution {
 	}
 
 	return list;
-	}
+   }
 }
 ```
 	* use map
