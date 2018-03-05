@@ -19,38 +19,38 @@ Could you do it without extra space and in O(n) runtime?
 ```
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        Map<Integer,Integer> tempMap = new HashMap<>();
-        Map<Integer,Integer> twiceMap = new HashMap<>();
-        Map<Integer,Integer> twiceMoreMap = new HashMap<>();
-        int num = 0;
-        for(int i = 0; i < nums.length; i++)
-            num = nums[i];
-            if(twiceMoreMap.contains(num)){
-                continue;
-            }
-            if(twiceMap.contains(num)){
-                int value = twiceMap.get(num) + 1;
-                if(value > 2){
-                    twiceMoreMap.put(num,1);
-                    twiceMap.remove(num);
-                }else{
-                    twiceMap.put(num,2);      
-                }
-                continue;
-            }
-            if(map.contains(num)){
-                twiceMap.put(num,1);  
-            }else{
-                tempMap.put(num,1);
-            }
+		Map<Integer, Integer> tempMap = new HashMap<>();
+		Map<Integer, Integer> twiceMap = new HashMap<>();
+		Map<Integer, Integer> twiceMoreMap = new HashMap<>();
+		int num = 0;
+		for (int i = 0; i < nums.length; i++) {
+			num = nums[i];
+			if (twiceMoreMap.containsKey(num)) {
+				continue;
+			}
+			if (twiceMap.containsKey(num)) {
+				int value = twiceMap.get(num) + 1;
+				if (value > 2) {
+					twiceMoreMap.put(num, 1);
+					twiceMap.remove(num);
+				} else {
+					twiceMap.put(num, 2);
+				}
+				continue;
+			}
+			if (tempMap.containsKey(num)) {
+				twiceMap.put(num, 1);
+			} else {
+				tempMap.put(num, 1);
+			}
+		}
+		Set<Integer> twiceKey = twiceMap.keySet();
+		List<Integer> output = new ArrayList<>();
+		Iterator<Integer> it = twiceKey.iterator();
+		while (it.hasNext()){
+        	output.add(it.next());     
         }
-        Set twiceKey =  twiceMap.keySet();
-        List<Integer> output = new ArrayList<>();
-        Iterator it = twiceKey.iterator();  
-        while (it.hasNext()) {  
-            output.add(it.next());  
-        }  
-        return output;
-    }
+		return output;
+	}
 }
 ```
