@@ -74,7 +74,7 @@ class Solution {
 	   output.add(it.next());     
         }
 	return output;
-	}
+    }
 }
 ```
 
