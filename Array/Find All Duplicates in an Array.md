@@ -17,7 +17,7 @@ Could you do it without extra space and in O(n) runtime?
 # Solution
 * java
 
-* best one
+	* best one
 ```
 class Solution {
 	public static List<Integer> findDuplicates2(int[] nums) {
@@ -36,7 +36,7 @@ class Solution {
 }
 	
 ```
-
+	* use map
 ```
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
