@@ -19,36 +19,36 @@ Could you do it without extra space and in O(n) runtime?
 ```
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-		Map<Integer, Integer> tempMap = new HashMap<>();
-		Map<Integer, Integer> twiceMap = new HashMap<>();
-		Map<Integer, Integer> twiceMoreMap = new HashMap<>();
-		int num = 0;
-		for (int i = 0; i < nums.length; i++) {
-			num = nums[i];
-			if (twiceMoreMap.containsKey(num)) {
-				continue;
-			}
-			if (twiceMap.containsKey(num)) {
-				int value = twiceMap.get(num) + 1;
-				if (value > 2) {
-					twiceMoreMap.put(num, 1);
-					twiceMap.remove(num);
-				} else {
-					twiceMap.put(num, 2);
-				}
-				continue;
-			}
-			if (tempMap.containsKey(num)) {
-				twiceMap.put(num, 1);
-			} else {
-				tempMap.put(num, 1);
-			}
+	Map<Integer, Integer> tempMap = new HashMap<>();
+	Map<Integer, Integer> twiceMap = new HashMap<>();
+	Map<Integer, Integer> twiceMoreMap = new HashMap<>();
+	int num = 0;
+	for (int i = 0; i < nums.length; i++) {
+		num = nums[i];
+		if (twiceMoreMap.containsKey(num)) {
+			continue;
 		}
-		Set<Integer> twiceKey = twiceMap.keySet();
-		List<Integer> output = new ArrayList<>();
-		Iterator<Integer> it = twiceKey.iterator();
-		while (it.hasNext()){
-        	output.add(it.next());     
+		if (twiceMap.containsKey(num)) {
+			int value = twiceMap.get(num) + 1;
+			if (value > 2) {
+				twiceMoreMap.put(num, 1);
+				twiceMap.remove(num);
+			} else {
+				twiceMap.put(num, 2);
+			}
+			continue;
+		}
+		if (tempMap.containsKey(num)) {
+			twiceMap.put(num, 1);
+		} else {
+			tempMap.put(num, 1);
+		}
+	}
+	Set<Integer> twiceKey = twiceMap.keySet();
+	List<Integer> output = new ArrayList<>();
+	Iterator<Integer> it = twiceKey.iterator();
+	while (it.hasNext()){
+	output.add(it.next());     
         }
 		return output;
 	}
@@ -56,6 +56,7 @@ class Solution {
 ```
 * best one
 ```
+class Solution {
 	public static List<Integer> findDuplicates2(int[] nums) {
 		List<Integer> list = new ArrayList();
 		int a[] = new int[nums.length + 1];
@@ -67,7 +68,8 @@ class Solution {
 				list.add(i);
 			}
 		}
-
 		return list;
 	}
+}
+	
 ```
