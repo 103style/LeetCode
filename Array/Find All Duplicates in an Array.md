@@ -71,9 +71,9 @@ class Solution {
 	List<Integer> output = new ArrayList<>();
 	Iterator<Integer> it = twiceKey.iterator();
 	while (it.hasNext()){
-	output.add(it.next());     
+	   output.add(it.next());     
         }
-		return output;
+	return output;
 	}
 }
 ```
