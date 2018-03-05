@@ -54,3 +54,20 @@ class Solution {
 	}
 }
 ```
+* best one
+```
+	public static List<Integer> findDuplicates2(int[] nums) {
+		List<Integer> list = new ArrayList();
+		int a[] = new int[nums.length + 1];
+		for (int i : nums)
+			a[i]++;
+
+		for (int i = 1; i < a.length; i++) {
+			if (a[i] == 2) {
+				list.add(i);
+			}
+		}
+
+		return list;
+	}
+```
