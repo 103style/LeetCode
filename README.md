@@ -10,6 +10,7 @@ exercise
     * [Array Partition I](https://github.com/103style/LeetCode/blob/master/Array/Array%20Partition%20I.md)
     * [Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/Shortest%20Unsorted%20Continuous%20Subarray.md)
     * [Two Sum](https://github.com/103style/LeetCode/blob/master/Array/Two%20Sum.md)
+    * [Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/Max%20Consecutive%20Ones.md)
   
   
   * #### Medium
