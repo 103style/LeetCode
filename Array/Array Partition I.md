@@ -13,7 +13,7 @@ Given an array of `2n` integers, your task is to group these integers into `n` p
 * All the integers in the array will be in the range of [-10000, 10000].
 
 # Solution
-* java
+* ### java
 ```
 class Solution {
     public int arrayPairSum(int[] nums) {
@@ -87,6 +87,19 @@ class Solution {
         int temp = a[pos1];
         a[pos1] = a[pos2];
         a[pos2] = temp;
+    }
+}
+```
+* ### the most votes
+```
+public class Solution {
+    public int arrayPairSum(int[] nums) {
+        Arrays.sort(nums);
+        int result = 0;
+        for (int i = 0; i < nums.length; i += 2) {
+            result += nums[i];
+        }
+        return result;
     }
 }
 ```
