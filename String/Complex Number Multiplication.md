@@ -1,4 +1,4 @@
-# Judge Route Circle
+# Complex Number Multiplication
 
 Given two strings representing two [complex numbers](https://en.wikipedia.org/wiki/Complex_number).
 
