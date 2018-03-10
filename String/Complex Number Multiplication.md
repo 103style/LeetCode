@@ -56,17 +56,19 @@ class Solution {
 * ### the most votes 
 ```
 //正则
+
+//3 line
 public String complexNumberMultiply(String a, String b) {
     int[] coefs1 = Stream.of(a.split("\\+|i")).mapToInt(Integer::parseInt).toArray(), 
           coefs2 = Stream.of(b.split("\\+|i")).mapToInt(Integer::parseInt).toArray();
     return (coefs1[0]*coefs2[0] - coefs1[1]*coefs2[1]) + "+" + (coefs1[0]*coefs2[1] + coefs1[1]*coefs2[0]) + "i";
 }
-
+//2 line
 public String complexNumberMultiply(String a, String b) {
     int[] coef = Stream.of((a+b).split("\\+|i")).mapToInt(Integer::parseInt).toArray();  
     return (coef[0]*coef[2] - coef[1]*coef[3]) + "+" + (coef[1]*coef[2] + coef[0]*coef[3]) + "i";
 }
-
+//1 line
 public String complexNumberMultiply(String a, String b) {
   return ((Function<int[], String>) vs -> (vs[0] * vs[2] - vs[1] * vs[3]) + "+" + (vs[1] * vs[2] + vs[0] * vs[3]) + "i").apply(Arrays.stream((a + b).split("[+i]")).mapToInt(Integer::parseInt).toArray());
 }
