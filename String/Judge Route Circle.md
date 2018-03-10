@@ -18,11 +18,16 @@ The move sequence is represented by a string. And each move is represent by a ch
 ```
 class Solution {
     public boolean judgeCircle(String moves) {
-        int [] point= {0, 0};
-        if(moves == null || moves.length() == 0){
+        //先判空 以及 长度不是2的倍数
+        if(moves == null || moves.length() == 0
+           || moves.length() % 2 != 0){
             return false;
         }
-        String[] moveArray = moves.split("");
+        //定义一个原点位置 第一个位置表示上下移动  U 加一  D 减一
+        //第二个位置表示左右移动  R 加一  L 减一
+        int [] point= {0, 0};
+        //把string变成String数组
+        String[] moveArray = moves.split("");
         for(String s : moveArray){
             switch(s){
                 case "U":
@@ -41,11 +46,24 @@ class Solution {
                     return false;
             }
         }
-        return point[0] == 0 && point[1] == 0;
+        //如果最后point还是{0，0}的话 就返回true
+        return point[0] == 0 && point[1] == 0;
     }
 }
 ```
 * ### the most votes
 ```
-
+public class Solution {
+    public boolean judgeCircle(String moves) {
+        int x = 0;
+        int y = 0;
+        for (char ch : moves.toCharArray()) {
+            if (ch == 'U') y++;
+            else if (ch == 'D') y--;
+            else if (ch == 'R') x++;
+            else if (ch == 'L') x--;
+        }
+        return x == 0 && y == 0;
+    }
+}
 ```
