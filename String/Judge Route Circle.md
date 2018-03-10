@@ -50,6 +50,37 @@ class Solution {
         return point[0] == 0 && point[1] == 0;
     }
 }
+
+// OR
+
+class Solution {
+    public boolean judgeCircle(String moves) {
+        int [] point= {0, 0};
+        if(moves == null || moves.length() == 0){
+            return false;
+        }
+        for(int i = 0; i < moves.length(); i++){
+            char s = moves.charAt(i);
+            switch(s){
+                case 'U':
+                    point[0]++;    
+                    break;
+                case 'D':
+                    point[0]--;    
+                    break;
+                case 'R':
+                    point[1]++;    
+                    break;
+                case 'L':
+                    point[1]--;    
+                    break;
+                default:
+                    return false;
+            }
+        }
+        return point[0] == 0 && point[1] == 0;
+    }
+}
 ```
 * ### the most votes
 ```
