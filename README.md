@@ -21,10 +21,10 @@ exercise
 
 ### [String](https://github.com/103style/LeetCode/tree/master/String)
   * #### Easy
-    * [Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/Judge%20Route%20Circle.md)
+    * [Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/Judge%20Route%20Circle.md)
     
-    
-  * #### Medium
+  
+  * #### Medium
   
   
   * #### Hard
