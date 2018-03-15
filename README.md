@@ -26,6 +26,6 @@ exercise
   
   * #### Medium
     * [Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/Complex%20Number%20Multiplication.md)
-
+    * [Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/Custom%20Sort%20String.md)
 
   * #### Hard
