@@ -5,7 +5,7 @@
 `S` was sorted in some custom order previously. We want to permute the characters of `T` so that they match the order that `S` was sorted. More specifically, if `x` occurs before `y` in `S`, then `x` should occur before `y` in the returned string.
 
 # Example 1:
-Example :
+	Example :
     Input: 
     S = "cba"
     T = "abcd"
