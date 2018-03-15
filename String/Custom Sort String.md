@@ -27,31 +27,33 @@ class Solution {
 		if (S == null || S.length() == 0) {
 			return T;
 		}
+		//输出的字符串
 		StringBuffer reslut = new StringBuffer();
-		Map<String, List<Integer>> tempMap = new HashMap<>();
+		Map<String, Integer> tempMap = new HashMap<>();
 		for (int i = 0; i < T.length(); i++) {
 			String value = String.valueOf(T.charAt(i));
+			//先判断S里面是不是有这个字符，没有直接加在输出字符串上
 			if (S.indexOf(value) == -1) {
 				reslut.append(value);
 				continue;
 			}
 			if (tempMap.containsKey(value)) {
-			List<Integer> tempList = tempMap.get(value);
-				tempList.add(i);
-				tempMap.put(value, tempList);
+				//保存过 值加一
+				int temp = tempMap.get(value);
+				temp++;
+				tempMap.put(value, temp);
 			} else {
-				List<Integer> values = new ArrayList<>();
-				values.add(i);
-				tempMap.put(value, values);
+				//没保存过 直接设置为1
+				tempMap.put(value, 1);
 			}
 		}
 		for (int i = 0; i < S.length(); i++) {
 			String key = String.valueOf(S.charAt(i));
-			List<Integer> values = tempMap.get(key);
-			if (values == null || values.size() == 0) {
-				continue;
-			}
-			for (Integer value : values) {
+			Integer value = tempMap.get(key);
+            if(value == null){
+                continue;
+            }
+			for (int j = 0; j < value; j++) {
 				reslut.append(key);
 			}
 		}
