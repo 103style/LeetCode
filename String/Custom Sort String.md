@@ -23,84 +23,54 @@ Example :
 * ### java
 ```
 class Solution {
-    public boolean judgeCircle(String moves) {
-        //先判空 以及 长度不是2的倍数
-        if(moves == null || moves.length() == 0
-           || moves.length() % 2 != 0){
-            return false;
-        }
-        //定义一个原点位置 第一个位置表示上下移动  U 加一  D 减一
-        //第二个位置表示左右移动  R 加一  L 减一
-        int [] point= {0, 0};
-        //把string变成String数组
-        String[] moveArray = moves.split("");
-        for(String s : moveArray){
-            switch(s){
-                case "U":
-                    point[0]++;    
-                    break;
-                case "D":
-                    point[0]--;    
-                    break;
-                case "R":
-                    point[1]++;    
-                    break;
-                case "L":
-                    point[1]--;    
-                    break;
-                default:
-                    return false;
-            }
-        }
-        //如果最后point还是{0，0}的话 就返回true
-        return point[0] == 0 && point[1] == 0;
-    }
-}
-
-// OR
-
-class Solution {
-    public boolean judgeCircle(String moves) {
-        int [] point= {0, 0};
-        if(moves == null || moves.length() == 0){
-            return false;
-        }
-        for(int i = 0; i < moves.length(); i++){
-            char s = moves.charAt(i);
-            switch(s){
-                case 'U':
-                    point[0]++;    
-                    break;
-                case 'D':
-                    point[0]--;    
-                    break;
-                case 'R':
-                    point[1]++;    
-                    break;
-                case 'L':
-                    point[1]--;    
-                    break;
-                default:
-                    return false;
-            }
-        }
-        return point[0] == 0 && point[1] == 0;
-    }
+	public static String customSortString(String S, String T) {
+		if (S == null || S.length() == 0) {
+			return T;
+		}
+		StringBuffer reslut = new StringBuffer();
+		Map<String, List<Integer>> tempMap = new HashMap<>();
+		for (int i = 0; i < T.length(); i++) {
+			String value = String.valueOf(T.charAt(i));
+			if (S.indexOf(value) == -1) {
+				reslut.append(value);
+				continue;
+			}
+			if (tempMap.containsKey(value)) {
+				List<Integer> tempList = tempMap.get(value);
+				tempList.add(i);
+				tempMap.put(value, tempList);
+			} else {
+				List<Integer> values = new ArrayList<>();
+				values.add(i);
+				tempMap.put(value, values);
+			}
+		}
+		for (int i = 0; i < S.length(); i++) {
+			String key = String.valueOf(S.charAt(i));
+			List<Integer> values = tempMap.get(key);
+			if (values == null || values.size() == 0) {
+				continue;
+			}
+			for (Integer value : values) {
+				reslut.append(key);
+			}
+		}
+		return reslut.toString();
+	}
 }
 ```
 * ### the most votes
 ```
-public class Solution {
-    public boolean judgeCircle(String moves) {
-        int x = 0;
-        int y = 0;
-        for (char ch : moves.toCharArray()) {
-            if (ch == 'U') y++;
-            else if (ch == 'D') y--;
-            else if (ch == 'R') x++;
-            else if (ch == 'L') x--;
-        }
-        return x == 0 && y == 0;
+public String customSortString(String S, String T) {
+    int[] count = new int[26];
+    for (char c : T.toCharArray()) { ++count[c - 'a']; }  // count each char in T.
+    StringBuilder sb = new StringBuilder();
+    for (char c : S.toCharArray()) {                            
+        while (count[c - 'a']-- > 0) { sb.append(c); }    // sort chars both in T and S by the order of S.
     }
+    for (char c = 'a'; c <= 'z'; ++c) {
+        while (count[c - 'a']-- > 0) { sb.append(c); }   // group chars in T but not in S.
+    }
+    return sb.toString();
 }
 ```
