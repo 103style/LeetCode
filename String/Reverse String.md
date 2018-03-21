@@ -1,0 +1,22 @@
+# 344. Reverse String
+
+Write a function that takes a string as input and returns the string reversed.
+
+# Example:
+Given s = "hello", return "olleh".
+
+
+# Solution
+* ### java
+```
+class Solution {
+    public String reverseString(String s) {
+        StringBuffer buffer = new StringBuffer();
+        for(int i = s.length() - 1; i >= 0; i--){
+            buffer.append(s.charAt(i));
+            
+        }
+        return buffer.toString();
+    }
+}
+```
