@@ -11,6 +11,7 @@ exercise
     * [Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/Shortest%20Unsorted%20Continuous%20Subarray.md)
     * [Two Sum](https://github.com/103style/LeetCode/blob/master/Array/Two%20Sum.md)
     * [Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/Max%20Consecutive%20Ones.md)
+    * [Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/Move%20Zeroes.md)
   
   
   * #### Medium
