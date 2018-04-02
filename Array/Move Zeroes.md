@@ -8,3 +8,25 @@ For example, given `nums = [0, 1, 0, 3, 12]`, after calling your function, `nums
 * You must do this in-place without making a copy of the array.
 * Minimize the total number of operations.
 
+## Solution
+
+### java
+```
+class Solution {
+    public void moveZeroes(int[] nums) {
+        if (nums == null || nums.length == 0){
+            return;  
+        }
+        int insertPos = 0;
+        for (int num: nums) {
+            if (num != 0) {
+                nums[insertPos++] = num;
+            }
+        }        
+
+        while (insertPos < nums.length) {
+            nums[insertPos++] = 0;
+        }
+    }
+}
+```
