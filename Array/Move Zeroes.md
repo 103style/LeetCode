@@ -17,15 +17,16 @@ class Solution {
         if (nums == null || nums.length == 0){
             return;  
         }
-        int insertPos = 0;
+        int noZeroPos = 0;
         for (int num: nums) {
-            if (num != 0) {
-                nums[insertPos++] = num;
+            //先把不为零的数字依次保存到数组
+            if (num != 0) {
+                nums[noZeroPos++] = num;
             }
         }        
-
-        while (insertPos < nums.length) {
-            nums[insertPos++] = 0;
+        //数组长度减去不为0的数字的长度就是0的个数
+        while (noZeroPos < nums.length) {
+            nums[noZeroPos++] = 0;
         }
     }
 }
