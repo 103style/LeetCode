@@ -18,3 +18,13 @@ If there are multiple answers, print any of them.
 
 ### Note:
 * The n and k are in the range 1 <= k < n <= 104.
+
+
+### Solution
+```
+class Solution {
+    public int[] constructArray(int n, int k) {
+    
+    }
+}
+```
