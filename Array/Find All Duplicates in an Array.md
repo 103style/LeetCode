@@ -27,9 +27,9 @@ class Solution {
 	    a[i]++;
 	}
 	for (int i = 1; i < a.length; i++) {
-		if (a[i] == 2) {
-		    list.add(i);
-		}
+	    if (a[i] == 2) {
+	        list.add(i);
+	    }
 	}
 	return list;
    }
