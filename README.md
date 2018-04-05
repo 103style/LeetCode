@@ -12,7 +12,7 @@ exercise
     * [Two Sum](https://github.com/103style/LeetCode/blob/master/Array/Two%20Sum.md)
     * [Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/Max%20Consecutive%20Ones.md)
     * [Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/Move%20Zeroes.md)
-  
+    * [Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
   
   * #### Medium
     * [Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Duplicates%20in%20an%20Array.md)
