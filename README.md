@@ -13,7 +13,8 @@ exercise
     * [Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/Max%20Consecutive%20Ones.md)
     * [Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/Move%20Zeroes.md)
     * [Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
-  
+    * [1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/1-bit%20and%202-bit%20Characters.md)
+  
   * #### Medium
     * [Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Duplicates%20in%20an%20Array.md)
     * [Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/Beautiful%20Arrangement%20II.md)
