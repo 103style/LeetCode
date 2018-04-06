@@ -1,7 +1,8 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-exercise
+#### exercise
 
+>sort by `Acceptance`
 
 ### [Array](https://github.com/103style/LeetCode/tree/master/Array)
   * #### Easy
