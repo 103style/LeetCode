@@ -30,6 +30,7 @@
     * [Reverse String](https://github.com/103style/LeetCode/blob/master/String/Reverse%20String.md)
     * [Reverse Words in a String III](https://github.com/103style/LeetCode/blob/master/String/Reverse%20Words%20in%20a%20String%20III.md)
     * [Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/Longest%20Uncommon%20Subsequence%20I.md)
+    * [Detect Capital](https://github.com/103style/LeetCode/blob/master/String/Detect%20Capital.md)
   
   * #### Medium
     * [Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/Complex%20Number%20Multiplication.md)
