@@ -1,0 +1,74 @@
+# 697. Degree of an Array
+
+Given a non-empty array of non-negative integers `nums`, the degree of this array is defined as the maximum frequency of any one of its elements.
+
+Your task is to find the smallest possible length of a (contiguous) subarray of `nums`, that has the same degree as `nums`.
+
+### Example 1:
+    Input: [1, 2, 2, 3, 1]
+    Output: 2
+    Explanation: 
+    The input array has a degree of 2 because both elements 1 and 2 appear twice.
+    Of the subarrays that have the same degree:
+    [1, 2, 2, 3, 1], [1, 2, 2, 3], [2, 2, 3, 1], [1, 2, 2], [2, 2, 3], [2, 2]
+    The shortest length is 2. So return 2.
+
+### Example 2:
+    Input: [1,2,2,3,1,4,2]
+    Output: 6
+
+
+### Note:
+* nums.length will be between 1 and 50,000.
+* nums[i] will be an integer between 0 and 49,999.
+
+
+### Solution
+
+**java**
+```
+class Solution {
+    public int findShortestSubArray(int[] nums) {
+        //相同数的最大次数
+        int degree = 0;
+        //最短距离
+        int min = nums.length;
+        //用于计算出现字数最多的数
+        Map<Integer,Integer> map = new HashMap<>();
+        //用于保存相同数字第一次出现和最后一次出现的位置
+        Map<Integer,Integer[]> pos = new HashMap<>();
+        for(int i = 0; i < nums.length; i++){
+            int temp = nums[i];
+            //以值为key  value来统计出现的次数
+            map.put(temp, map.getOrDefault(temp,0) + 1);
+            //确定最大次数值
+            degree = Math.max(map.get(temp), degree);
+        
+            //初始化 和 保存 第一次和最后一次出现的位置
+            if(pos.containsKey(temp)){
+                Integer[] tempPos = pos.get(temp);
+                tempPos[1] = i;
+            }else{
+                Integer[] tempPos = new Integer[2];
+                tempPos[0] = i;
+                //注释初始化结束为止，  否则当数组的数都不相同时 会报空指针
+                tempPos[1] = i;
+                pos.put(temp, tempPos);
+            }
+        }
+        
+        for( Map.Entry<Integer,Integer> entry : map.entrySet()){
+            //获取最大次数的值
+            if(degree != entry.getValue()){
+                continue;
+            }
+            //获取对应值的其实位置
+            Integer[] tempPos = pos.get(entry.getKey());
+            //最短距离为  最后出现的为止 - 第一次出现的为止 + 1
+            min = Math.min(min, tempPos[1] - tempPos[0] + 1);
+        }
+        return min;
+    }
+}
+
+```
