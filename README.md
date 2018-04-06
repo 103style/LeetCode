@@ -2,7 +2,7 @@
 
 #### exercise
 
->sort by `Acceptance`
+>sort by `Difficulty`  and  `Acceptance`
 
 ### [Array](https://github.com/103style/LeetCode/tree/master/Array)
   * #### Easy
