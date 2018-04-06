@@ -2,7 +2,11 @@
 
 Given an array of n integers where n > 1, `nums`, return an array `output` such that `output[i]` is equal to the product of all the elements of `nums` except `nums[i]`.
 
+给定一个长度大于1的数组，求输出一个每个元素为所给数组其他元素乘积的数组
+
 Solve it without division and in O(n).
+
+不用除法并且时间复杂度为O(n)
 
 For example, given `[1,2,3,4]`, return `[24,12,8,6]`.
 
