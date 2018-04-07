@@ -1,0 +1,78 @@
+# 122. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+
+Say you have an array for which the i'th element is the price of a given stock on day i.
+
+Design an algorithm to find the maximum profit. You may complete as many transactions as you like (ie, buy one and sell one share of the stock multiple times). However, you may not engage in multiple transactions at the same time (ie, you must sell the stock before you buy again).
+
+### Solution
+
+* **java**
+```
+//O(n) time  O(1) space
+class Solution {
+    public int maxProfit(int[] prices) {
+        if(prices == null || prices.length < 2){
+            return 0;
+        }
+        int res = 0;
+        for(int i = 1; i < prices.length; i++){
+            int temp = prices[i] - prices[i - 1];
+            res+= temp > 0 ? temp : 0;
+        }
+        return res;
+    }
+}
+```
+
+* **other**
+```
+// O(n'n)time  O(n)space
+class Solution {
+    public int maxProfit(int[] prices) {
+        return calculate(prices, 0);
+    }
+
+    public int calculate(int prices[], int s) {
+        if (s >= prices.length)
+            return 0;
+        int max = 0;
+        for (int start = s; start < prices.length; start++) {
+            int maxprofit = 0;
+            for (int i = start + 1; i < prices.length; i++) {
+                if (prices[start] < prices[i]) {
+                    int profit = calculate(prices, i + 1) + prices[i] - prices[start];
+                    if (profit > maxprofit)
+                        maxprofit = profit;
+                }
+            }
+            if (maxprofit > max)
+                max = maxprofit;
+        }
+        return max;
+    }
+}
+
+```
+
+```
+//O(n)time  O(1)space
+class Solution {
+    public int maxProfit(int[] prices) {
+        int i = 0;
+        int valley = prices[0];
+        int peak = prices[0];
+        int maxprofit = 0;
+        while (i < prices.length - 1) {
+            while (i < prices.length - 1 && prices[i] >= prices[i + 1])
+                i++;
+            valley = prices[i];
+            while (i < prices.length - 1 && prices[i] <= prices[i + 1])
+                i++;
+            peak = prices[i];
+            maxprofit += peak - valley;
+        }
+        return maxprofit;
+    }
+}
+```
+**[more](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solution/)**
