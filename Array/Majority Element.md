@@ -7,6 +7,7 @@ You may assume that the array is non-empty and the majority element always exist
 ### Solution
 * **java**
 ```
+// O(n)time  O(n)space
 class Solution {
     public int majorityElement(int[] nums) {
         Map<Integer,Integer> map = new HashMap<>();
@@ -47,8 +48,9 @@ public class Solution {
     }
 }
 ```
-* **nice one**
+* **use Arrays.sort**
 ```
+//O(nlgn) time    O(1) or O(n) space
 public class Solution {
     public int majorityElement(int[] nums) {
         Arrays.sort(nums);
@@ -56,3 +58,24 @@ public class Solution {
     }
 }
 ```
+
+* **Moore Voting Algorithm**
+```
+//O()time  O(1)space
+class Solution {
+    public int majorityElement(int[] nums) {
+        int count = 0;
+        Integer candidate = null;
+
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
+            }
+            count += (num == candidate) ? 1 : -1;
+        }
+
+        return candidate;
+    }
+}
+```
+[more solution](https://leetcode.com/problems/majority-element/solution/)
