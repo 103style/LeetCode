@@ -18,6 +18,7 @@
     * [Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/Degree%20of%20an%20Array.md)
     * [Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/Contains%20Duplicate.md)
     * [Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
+    * [Majority Element](https://github.com/103style/LeetCode/blob/master/Array/Majority%20Element.md)
   
   * #### Medium
     * [Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Duplicates%20in%20an%20Array.md)
