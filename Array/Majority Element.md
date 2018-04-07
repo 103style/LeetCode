@@ -59,7 +59,7 @@ public class Solution {
 }
 ```
 
-* **Moore Voting Algorithm**
+* **Boyer-Moore Voting Algorithm**
 ```
 //O()time  O(1)space
 class Solution {
