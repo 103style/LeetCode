@@ -45,6 +45,7 @@ class Solution {
 
 * **other**
 ```
+// O(n)time O(1)space
 class Solution {
     public int arrayNesting(int[] nums) {
         int res = 0;
