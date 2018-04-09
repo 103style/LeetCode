@@ -1,4 +1,4 @@
-# 807. Max Increase to Keep City Skyline
+# 807. [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)
 
 In a 2 dimensional array `grid`, each value `grid[i][j]` represents the height of a building located there. We are allowed to increase the height of any number of buildings, by any amount (the amounts can be different for different buildings). Height 0 is considered to be a building as well. 
 
@@ -60,3 +60,4 @@ class Solution {
     }
 }
 ```
+* **[more](https://leetcode.com/problems/max-increase-to-keep-city-skyline/solution/)**
