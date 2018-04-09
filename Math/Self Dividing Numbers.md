@@ -70,6 +70,30 @@ class Solution {
     }
 }
 ```
+```
+class Solution {
+    public List<Integer> selfDividingNumbers(int left, int right) {
+        List<Integer> res = new ArrayList<>();
+        for(int i = left; i <= right; i++){
+           if(check(i)){
+               res.add(i);
+           }
+        }
+        return res;
+    }
+    
+    public boolean check(int i){
+        String s = String.valueOf(i);
+        char[] array = s.toCharArray();
+        for(char c : array){
+            if(c == '0' || i % (c - '0') > 0){
+                return false;
+            }
+        }
+        return true;
+    }
+}
+```
 
 
 * **solution**
