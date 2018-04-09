@@ -45,6 +45,7 @@
 
 ### [Math](https://github.com/103style/LeetCode/tree/master/Math)
   * #### Easy
+    * [Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/Self%20Dividing%20Numbers.md)
   
   * #### Medium
     * [Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/Complex%20Number%20Multiplication.md)
