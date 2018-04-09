@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-#### exercise
+#### exercise  ( 28 / 780)
 
 >sort by `Difficulty`  and  `Acceptance`
 
