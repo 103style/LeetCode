@@ -44,16 +44,13 @@ class Solution {
         int[] tTB = new int[w];
         for(int i = 0; i < w; i++){
             for(int j = 0; j < h; j++){
-                tTB[i] = Math.max(tTB[i],grid[j][i]); 
+                tTB[i] = Math.max(tTB[i],grid[j][i]);
+                lTR[j] = Math.max(lTR[j],grid[j][i]); 
             }
         }
-        for(int i = 0; i < h; i++){
-            for(int j = 0; j < w; j++){
-                lTR[i] = Math.max(lTR[i],grid[i][j]); 
-            }
-        }
+    
         int res = 0;
-         for(int i = 0; i < h; i++){
+        for(int i = 0; i < h; i++){
             for(int j = 0; j < w; j++){
                 int temp = grid[i][j];
                 res += Math.min(lTR[i],tTB[j]) - temp; 
