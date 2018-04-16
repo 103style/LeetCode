@@ -31,7 +31,7 @@ You may assume the tree (i.e., the given root node) is not **NULL**.
 
 * **java**
 ```
-//D = depth  O(D^2) time  O(D^2) space
+//D = depth  O(2^D) time  O(2^D) space
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -62,7 +62,7 @@ class Solution {
 
 * **the most votes**
 ```
-//D = depth  O(D^2) time  O(D^2) space
+//D = depth  O(2^D) time  O(2^D) space
 public int findLeftMostNode(TreeNode root) {
     Queue<TreeNode> queue = new LinkedList<>();
     queue.add(root);
@@ -74,5 +74,21 @@ public int findLeftMostNode(TreeNode root) {
             queue.add(root.left);
     }
     return root.val;
+}
+```
+
+*  **other**
+```
+// D = depth  O(2^D) time  O(1) space
+public class Solution {
+    public int findBottomLeftValue(TreeNode root) {
+        return findBottomLeftValue(root, 1, new int[]{0,0});
+    }
+    public int findBottomLeftValue(TreeNode root, int depth, int[] res) {
+        if (res[1]<depth) {res[0]=root.val;res[1]=depth;}
+        if (root.left!=null) findBottomLeftValue(root.left, depth+1, res);
+        if (root.right!=null) findBottomLeftValue(root.right, depth+1, res);
+        return res[0];
+    }
 }
 ```
