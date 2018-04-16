@@ -31,8 +31,46 @@ You may assume the tree (i.e., the given root node) is not **NULL**.
 
 * **java**
 ```
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public int findBottomLeftValue(TreeNode root) {
+        List<TreeNode> list = new ArrayList<>();
+        list.add(root);
+        for(int i = 0; i < list.size(); i++){
+            TreeNode temp = list.get(i);
+            if(temp.right != null){
+                list.add(temp.right);
+            }
+            if(temp.left != null){
+                list.add(temp.left);
+            }
+        }
+        
+        return list.get(list.size() - 1).val;
+    }
+}
 ```
 
 * **the most votes**
 ```
+public int findLeftMostNode(TreeNode root) {
+    Queue<TreeNode> queue = new LinkedList<>();
+    queue.add(root);
+    while (!queue.isEmpty()) {
+        root = queue.poll();
+        if (root.right != null)
+            queue.add(root.right);
+        if (root.left != null)
+            queue.add(root.left);
+    }
+    return root.val;
+}
 ```
