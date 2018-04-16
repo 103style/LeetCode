@@ -68,6 +68,7 @@ class Solution {
 
 * **the most votes**
 ```
+// D = depth  O(2^D)time O(D)space
 public class Solution {
     public List<Integer> largestValues(TreeNode root) {
         List<Integer> res = new ArrayList<Integer>();
@@ -81,8 +82,7 @@ public class Solution {
        //expand list size
         if(d == res.size()){
             res.add(root.val);
-        }
-        else{
+        } else{
         //or set value
             res.set(d, Math.max(res.get(d), root.val));
         }
