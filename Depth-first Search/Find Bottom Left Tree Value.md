@@ -31,6 +31,7 @@ You may assume the tree (i.e., the given root node) is not **NULL**.
 
 * **java**
 ```
+//D = depth  O(D^2) time  O(D^2) space
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -61,6 +62,7 @@ class Solution {
 
 * **the most votes**
 ```
+//D = depth  O(D^2) time  O(D^2) space
 public int findLeftMostNode(TreeNode root) {
     Queue<TreeNode> queue = new LinkedList<>();
     queue.add(root);
