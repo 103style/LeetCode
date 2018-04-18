@@ -48,7 +48,7 @@ class Solution {
 
 * **the most votes**
 ```
-// O(nlogn)time O(n)space
+// O(nlogn)time O(n)space    Arrays.sort() (O(nlogn) -- O(n^2))time 
 public class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set = new HashSet<>();
@@ -77,7 +77,7 @@ public class Solution {
 }
 ```
 ```
-//O(nlogn)time O(n)space
+//O(nlogn)time O(n)space  Arrays.sort() (O(nlogn) -- O(n^2))time 
 public class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set = new HashSet<>();
