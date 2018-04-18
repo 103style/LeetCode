@@ -13,6 +13,7 @@ You may assume that each input would have exactly one solution and you may not u
 ### Solution
 **java**
 ```
+// N = numbers.length  O(N)time  O(1)space
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] res = new int[2];
@@ -34,6 +35,7 @@ class Solution {
 
 **the most votes**
 ```
+// N = numbers.length  O(N)time  O(1)space
 public int[] twoSum(int[] num, int target) {
     int[] indice = new int[2];
     if (num == null || num.length < 2) return indice;
