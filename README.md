@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-#### exercise  `(30/780)`
+#### exercise  `(32/780)`
 
 >sort by `Difficulty`  and  `Acceptance`
 
@@ -65,6 +65,7 @@
 ### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search)
   * #### Easy
     * [Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)`in array group too`
+    * [Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/Intersection%20of%20Two%20Arrays.md)
     
   * #### Medium
 
