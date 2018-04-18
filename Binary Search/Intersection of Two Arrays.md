@@ -115,6 +115,7 @@ public class Solution {
 ```
 
 * **amazing two line Solution**
+
 `Two-line java 8 solution using Stream`
 ```
 class Solution {
