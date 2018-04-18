@@ -55,9 +55,16 @@
 ### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search)
   * #### Easy
     * 
-  
+    
   * #### Medium
     * [Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/Find%20Bottom%20Left%20Tree%20Value.md)
     * [Find Largest Value in Each Tree Row](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)
+
+  * #### Hard
+
+### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search)
+  * #### Easy
+    
+  * #### Medium
 
   * #### Hard
