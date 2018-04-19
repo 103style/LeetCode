@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-#### exercise  `(32/780)`
+#### exercise  `(33/780)`
 
 >sort by `Difficulty`  and  `Acceptance`
 
@@ -68,5 +68,5 @@
     * [Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/Intersection%20of%20Two%20Arrays.md)
     
   * #### Medium
-
+    * [Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
   * #### Hard
