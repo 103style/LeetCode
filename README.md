@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-#### exercise  `(33/780)`
+#### exercise  `(34/780)`
 
 >sort by `Difficulty`  and  `Acceptance`
 
@@ -69,4 +69,6 @@
     
   * #### Medium
     * [Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
+    * [Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/Kth%20Smallest%20Element%20in%20a%20BST.md)
+    
   * #### Hard
