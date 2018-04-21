@@ -76,7 +76,7 @@
 
 ### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List)
   * #### Easy
-    * [Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/Delete%20Node%20in%20a%20Linked%20List.md)
+    * [Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
     
   * #### Medium
     
