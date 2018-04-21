@@ -2,6 +2,12 @@
 
 Given a binary search tree, write a function `kth Smallest` to find the kth smallest element in it.
 
+> BST = Binary Search Tree =  二叉搜索树
+
+>二叉树是一种特殊的树，即：树中的每个节点最多只能有两个子节点
+
+>二叉搜索树是一种特殊的二叉树，即：节点的左子节点的值都小于这个节点的值，节点的右子节点的值都大于等于这个节点的值
+
 ### Note: 
 You may assume k is always valid, 1 ≤ k ≤ BST's total elements.
 
