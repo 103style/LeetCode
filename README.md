@@ -45,10 +45,10 @@
 
 ### [Math](https://github.com/103style/LeetCode/tree/master/Math)
   * #### Easy
-    * [Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/Self%20Dividing%20Numbers.md)
+    * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
   
   * #### Medium
-    * [Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/Complex%20Number%20Multiplication.md)
+    * [527. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md)
 
   * #### Hard
   
