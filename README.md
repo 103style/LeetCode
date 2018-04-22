@@ -31,15 +31,15 @@
 
 ### [String](https://github.com/103style/LeetCode/tree/master/String)
   * #### Easy
-    * [Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/Judge%20Route%20Circle.md) 
-    * [Reverse String](https://github.com/103style/LeetCode/blob/master/String/Reverse%20String.md)
-    * [Reverse Words in a String III](https://github.com/103style/LeetCode/blob/master/String/Reverse%20Words%20in%20a%20String%20III.md)
-    * [Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/Longest%20Uncommon%20Subsequence%20I.md)
-    * [Detect Capital](https://github.com/103style/LeetCode/blob/master/String/Detect%20Capital.md)
+    * [657. Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/657.%20Judge%20Route%20Circle.md) 
+    * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
+    * [557. Reverse Words in a String III](https://github.com/103style/LeetCode/blob/master/String/557.%20Reverse%20Words%20in%20a%20String%20III.md)
+    * [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md)
+    * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
   
   * #### Medium
-    * [Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/Complex%20Number%20Multiplication.md)
-    * [Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/Custom%20Sort%20String.md)
+    * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
+    * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
 
   * #### Hard
 
