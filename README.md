@@ -6,9 +6,9 @@
 
 ### [Array](https://github.com/103style/LeetCode/tree/master/Array)
   * #### Easy
-    * [Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/Toeplitz%20Matrix.md)
-    * [Reshape the Matrix](https://github.com/103style/LeetCode/blob/master/Array/Reshape%20the%20Matrix.md)
-    * [Array Partition I](https://github.com/103style/LeetCode/blob/master/Array/Array%20Partition%20I.md)
+    * [561.Array Partition I](https://github.com/103style/LeetCode/blob/master/Array/561.%20Array%20Partition%20I.md)
+    * [766.Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md)
+    * [566.Reshape the Matrix](https://github.com/103style/LeetCode/blob/master/Array/566.%20Reshape%20the%20Matrix.md)
     * [Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/Shortest%20Unsorted%20Continuous%20Subarray.md)
     * [Two Sum](https://github.com/103style/LeetCode/blob/master/Array/Two%20Sum.md)
     * [Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/Max%20Consecutive%20Ones.md)
@@ -22,7 +22,7 @@
     * [Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
   
   * #### Medium
-    * [Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/Find%20All%20Duplicates%20in%20an%20Array.md)
+    * [442.Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)
     * [Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/Beautiful%20Arrangement%20II.md)
     * [Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/Product%20of%20Array%20Except%20Self.md)
     * [Array Nesting](https://github.com/103style/LeetCode/blob/master/Array/Array%20Nesting.md)
