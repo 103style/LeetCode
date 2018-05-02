@@ -69,7 +69,7 @@
 
 ### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search)
   * #### Easy
-    * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)`in array group too`
+    * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)`in array group too`
     * [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md)
     
   * #### Medium
