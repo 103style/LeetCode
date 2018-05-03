@@ -81,8 +81,9 @@
 
 ### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List)
   * #### Easy
-    * [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
     * [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md)
+    * [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
+   
     
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md)
