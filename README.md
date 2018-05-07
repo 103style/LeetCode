@@ -93,4 +93,16 @@
      
     
   * #### Hard
+  
+
+### [other](https://github.com/103style/LeetCode/tree/master/other)
+  
+  * #### Easy
+   
+    
+  * #### Medium
+    * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
+   
+    
+  * #### Hard
 
