@@ -4,7 +4,7 @@
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array)
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(18/129)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
@@ -33,9 +33,8 @@
     
   * #### Hard
 
-### [String](https://github.com/103style/LeetCode/tree/master/String)
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(7/102)`
   * #### Easy
-    
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
     * [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md)
@@ -48,7 +47,7 @@
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math)
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(2/91)`
   * #### Easy
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
   
@@ -57,7 +56,7 @@
 
   * #### Hard
   
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search)
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(2/74)`
   * #### Easy
     * 
     
@@ -67,7 +66,7 @@
 
   * #### Hard
 
-### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search)
+### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(5/48)`
   * #### Easy
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)`in array group too`
     * [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md)
@@ -79,7 +78,7 @@
     
   * #### Hard
 
-### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List)
+### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(7/29)`
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
     * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
