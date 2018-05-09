@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-#### exercise  `(40/796)`
+#### exercise  `(41/796)`
 
 >sort by `Difficulty`  and  `Acceptance`
 
@@ -82,8 +82,10 @@
 ### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List)
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
+    * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
     * [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md)
     * [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
+    
    
     
   * #### Medium
