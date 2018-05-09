@@ -1,7 +1,5 @@
-# [LeetCode](https://leetcode.com/problemset/all/)
-
-#### exercise  `(41/796)`
-
+# [LeetCode](https://leetcode.com/problemset/all/)  `(41/796)`
+exercise 
 >sort by `Difficulty`  and  `Acceptance`
 
 ### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(18/129)`
