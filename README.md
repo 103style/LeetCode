@@ -1,8 +1,8 @@
-# [LeetCode](https://leetcode.com/problemset/all/)  `(44/796)`
+# [LeetCode](https://leetcode.com/problemset/all/)  `(45/796)`
 exercise 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(21/129)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(22/129)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
@@ -21,6 +21,7 @@ exercise
     * [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/%20717.%201-bit%20and%202-bit%20Characters.md)
     * [766. Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md)
     * [830. Positions of Large Groups](https://github.com/103style/LeetCode/blob/master/Array/830.%20Positions%20of%20Large%20Groups.md)
+    * [832. Flipping an Image](https://github.com/103style/LeetCode/blob/master/Array/832.%20Flipping%20an%20Image.md)
     
     
     
