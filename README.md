@@ -1,8 +1,8 @@
-# [LeetCode](https://leetcode.com/problemset/all/)  `(42/796)`
+# [LeetCode](https://leetcode.com/problemset/all/)  `(43/796)`
 exercise 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(19/129)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(20/129)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
@@ -15,6 +15,7 @@ exercise
     * [561. Array Partition I](https://github.com/103style/LeetCode/blob/master/Array/561.%20Array%20Partition%20I.md)
     * [566. Reshape the Matrix](https://github.com/103style/LeetCode/blob/master/Array/566.%20Reshape%20the%20Matrix.md)
     * [581. Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)
+    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md)
     * [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md)
     * [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/%20717.%201-bit%20and%202-bit%20Characters.md)
     * [766. Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md)
