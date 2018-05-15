@@ -1,8 +1,8 @@
-# [LeetCode](https://leetcode.com/problemset/all/)  `(45/796)`
+# [LeetCode](https://leetcode.com/problemset/all/)  `(46/796)`
 exercise 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(22/129)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(23/129)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
@@ -23,10 +23,9 @@ exercise
     * [830. Positions of Large Groups](https://github.com/103style/LeetCode/blob/master/Array/830.%20Positions%20of%20Large%20Groups.md)
     * [832. Flipping an Image](https://github.com/103style/LeetCode/blob/master/Array/832.%20Flipping%20an%20Image.md)
     
-    
-    
   
   * #### Medium
+    * [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md)
     * [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md)
     * [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)
     * [565. Array Nesting](https://github.com/103style/LeetCode/blob/master/Array/565.%20Array%20Nesting.md)
