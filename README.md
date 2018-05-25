@@ -1,8 +1,8 @@
-# [LeetCode](https://leetcode.com/problemset/all/)  `(46/796)`
+# [LeetCode](https://leetcode.com/problemset/all/)  `(47/796)`
 exercise 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(23/129)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(24/129)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
@@ -10,6 +10,7 @@ exercise
     * [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md)
     * [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md)
     * [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md)
+    * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md)
     * [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md)
     * [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
     * [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md)
