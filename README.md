@@ -25,7 +25,6 @@ exercise
     * [830. Positions of Large Groups](https://github.com/103style/LeetCode/blob/master/Array/830.%20Positions%20of%20Large%20Groups.md)
     * [832. Flipping an Image](https://github.com/103style/LeetCode/blob/master/Array/832.%20Flipping%20an%20Image.md)
     
-  
   * #### Medium
     * [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md)
     * [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md)
@@ -62,9 +61,9 @@ exercise
 
   * #### Hard
   
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(2/74)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(3/74)`
   * #### Easy
-    * 
+    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md)`in Array group too` 
     
   * #### Medium
     * [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md)
@@ -91,13 +90,10 @@ exercise
     * [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md)
     * [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
     
-   
-    
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md)
     * [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)
     * [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md)
-     
     
   * #### Hard
   
@@ -106,10 +102,8 @@ exercise
   
   * #### Easy
    
-    
   * #### Medium
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
    
-    
   * #### Hard
 
