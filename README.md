@@ -51,12 +51,14 @@ exercise
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(2/91)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(4/91)`
   * #### Easy
+    * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md)`in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
   
   * #### Medium
-    * [527. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md)
+    * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md)`in Linked List group too`
+    * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md)`in String group too`
 
   * #### Hard
   
