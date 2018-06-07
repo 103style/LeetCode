@@ -1,5 +1,7 @@
-# [LeetCode](https://leetcode.com/problemset/all/)  `(52/812)` → `Easy 33`--`Medium 19`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(52/812)` → `Easy 33`--`Medium 19`--`Hard 0`
+
 exercise 
+
 >sort by `Difficulty`  and  `Acceptance`
 
 ### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(30/129)`
