@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/all/)  `(52/796)`
+# [LeetCode](https://leetcode.com/problemset/all/)  `(52/812)` → `Easy 33`--`Medium 19`--`Hard 0`
 exercise 
 >sort by `Difficulty`  and  `Acceptance`
 
