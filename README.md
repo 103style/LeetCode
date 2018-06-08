@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(54/812)` → `Easy 34`--`Medium 20`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(55/812)` → `Easy 35`--`Medium 20`--`Hard 0`
 
 exercise 
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(32/129)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(33/129)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -22,6 +22,7 @@ exercise
     * [581. Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)
     * [628. Maximum Product of Three Numbers](https://github.com/103style/LeetCode/blob/master/Array/628.%20Maximum%20Product%20of%20Three%20Numbers.md)
     * [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md)
+    * [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)
     * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md)
     * [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md)
     * [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/%20717.%201-bit%20and%202-bit%20Characters.md)
