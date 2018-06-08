@@ -1,12 +1,13 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(53/812)` → `Easy 33`--`Medium 20`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(54/812)` → `Easy 34`--`Medium 20`--`Hard 0`
 
 exercise 
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(31/129)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(32/129)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
+    * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
     * [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md)
