@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(55/812)` → `Easy 35`--`Medium 20`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(56/812)` → `Easy 36`--`Medium 20`--`Hard 0`
 
 exercise 
 
@@ -44,17 +44,19 @@ exercise
     
   * #### Hard
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(7/102)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(8/102)`
   * #### Easy
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
     * [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md)
     * [557. Reverse Words in a String III](https://github.com/103style/LeetCode/blob/master/String/557.%20Reverse%20Words%20in%20a%20String%20III.md)
-    * [657. Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/657.%20Judge%20Route%20Circle.md) 
+    * [657. Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/657.%20Judge%20Route%20Circle.md)
+    * [804. Unique Morse Code Words](https://github.com/103style/LeetCode/blob/master/String/804.%20Unique%20Morse%20Code%20Words.md)
   
   * #### Medium
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
+    
 
   * #### Hard
 
