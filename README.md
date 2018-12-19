@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(57/812)` → `Easy 37`--`Medium 20`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(58/812)` → `Easy 38`--`Medium 20`--`Hard 0`
 
 exercise 
 
@@ -113,6 +113,7 @@ exercise
 ### [other](https://github.com/103style/LeetCode/tree/master/other)
   
   * #### Easy
+    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/other/771.%20Jewels%20and%20Stones.md)
    
   * #### Medium
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
