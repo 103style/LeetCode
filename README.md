@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(62/812)` → `Easy 40`--`Medium 22`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(63/812)` → `Easy 41`--`Medium 22`--`Hard 0`
 
 exercise 
 
@@ -46,7 +46,7 @@ exercise
     
   * #### Hard
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(10/102)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(11/102)`
   * #### Easy
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
@@ -56,6 +56,7 @@ exercise
     * [709.To Lower Case](https://github.com/103style/LeetCode/blob/master/String/709.%20To%20Lower%20Case.md)
     * [804. Unique Morse Code Words](https://github.com/103style/LeetCode/blob/master/String/804.%20Unique%20Morse%20Code%20Words.md)
     * [824. Goat Latin](https://github.com/103style/LeetCode/blob/master/String/824.%20Goat%20Latin.md)
+    * [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md)
   
   * #### Medium
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
