@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(61/812)` → `Easy 40`--`Medium 21`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(62/812)` → `Easy 40`--`Medium 22`--`Hard 0`
 
 exercise 
 
@@ -64,13 +64,14 @@ exercise
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(4/91)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(5/91)`
   * #### Easy
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md)`in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
   
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md)`in Linked List group too`
+    * [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md)`in String group too`
 
   * #### Hard
