@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(60/812)` → `Easy 40`--`Medium 20`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(61/812)` → `Easy 40`--`Medium 21`--`Hard 0`
 
 exercise 
 
@@ -111,7 +111,9 @@ exercise
     
   * #### Hard
     * 
-
+### [Binary Search Tree](https://github.com/103style/LeetCode/tree/master/Binary%20Search%20Tree)`(1/15)`
+ * #### Easy
+   * [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md)
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)
   
