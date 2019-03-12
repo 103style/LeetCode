@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(65/1003)` → `Easy 41`--`Medium 24`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(66/1003)` → `Easy 42`--`Medium 24`--`Hard 0`
 
 exercise 
 
@@ -135,6 +135,10 @@ exercise
 
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  
+  * #### Easy
+    * [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
+    
+    
   * #### Medium
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
    
