@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(64/812)` → `Easy 41`--`Medium 23`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(64/1003)` → `Easy 41`--`Medium 23`--`Hard 0`
 
 exercise 
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(34/129)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(34/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -46,7 +46,7 @@ exercise
     
   * #### Hard
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(11/102)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(11/121)`
   * #### Easy
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
@@ -65,7 +65,7 @@ exercise
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(5/91)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(5/122)`
   * #### Easy
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md)`in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
@@ -77,7 +77,7 @@ exercise
 
   * #### Hard
   
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(3/74)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(3/95)`
   * #### Easy
     * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md)`in Array group too` 
     
@@ -87,7 +87,7 @@ exercise
 
   * #### Hard
 
-### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(5/48)`
+### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(5/61)`
   * #### Easy
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)`in array group too`
     * [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md)
@@ -99,7 +99,7 @@ exercise
     
   * #### Hard
 
-### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(7/29)`
+### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(7/34)`
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
     * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
