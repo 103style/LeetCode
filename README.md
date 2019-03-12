@@ -127,12 +127,13 @@ exercise
 ### [Binary Search Tree](https://github.com/103style/LeetCode/tree/master/Binary%20Search%20Tree)`(1/15)`
  * #### Easy
    * [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md)
-
-### [other](https://github.com/103style/LeetCode/tree/master/other)
-  
-  * #### Easy
-    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/other/771.%20Jewels%20and%20Stones.md)
    
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(1/102)`
+ * #### Easy
+   * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
+
+
+### [other](https://github.com/103style/LeetCode/tree/master/other)  
   * #### Medium
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
    
