@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(67/1003)` → `Easy 43`--`Medium 24`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(68/1003)` → `Easy 43`--`Medium 25`--`Hard 0`
 
 exercise 
 
@@ -114,13 +114,14 @@ exercise
   * #### Hard
     * 
 
-### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(2/107)`
+### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(3/107)`
  * #### Easy
    
    
  * #### Medium
    * [654.Maximum Binary Tree.md](https://github.com/103style/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md)
    * [701. Insert into a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
+   * [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)
  
  * #### Hard
 
