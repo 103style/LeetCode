@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(66/1003)` → `Easy 42`--`Medium 24`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(67/1003)` → `Easy 43`--`Medium 24`--`Hard 0`
 
 exercise 
 
@@ -136,6 +136,7 @@ exercise
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  
   * #### Easy
+    * [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md)
     * [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
     
     
