@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(69/1003)` → `Easy 44`--`Medium 25`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(70/1003)` → `Easy 44`--`Medium 26`--`Hard 0`
 
 exercise 
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(35/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(36/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -43,6 +43,7 @@ exercise
     * [565. Array Nesting](https://github.com/103style/LeetCode/blob/master/Array/565.%20Array%20Nesting.md)
     * [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md)
     * [769. Max Chunks To Make Sorted](https://github.com/103style/LeetCode/blob/master/Array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
+    * [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
     
     
   * #### Hard
