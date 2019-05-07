@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(70/1003)` → `Easy 44`--`Medium 26`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(71/1003)` → `Easy 45`--`Medium 26`--`Hard 0`
 
 exercise 
 
@@ -135,6 +135,10 @@ exercise
 ### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(1/102)`
  * #### Easy
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
+
+### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(1/48)`
+ * #### Easy
+   * [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md)
 
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  
