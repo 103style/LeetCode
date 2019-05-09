@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(71/1003)` → `Easy 45`--`Medium 26`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(72/1003)` → `Easy 45`--`Medium 27`--`Hard 0`
 
 exercise 
 
@@ -128,10 +128,13 @@ exercise
  * #### Hard
 
 
-### [Binary Search Tree](https://github.com/103style/LeetCode/tree/master/Binary%20Search%20Tree)`(1/15)`
+### [Binary Search Tree](https://github.com/103style/LeetCode/tree/master/Binary%20Search%20Tree)`(2/15)`
  * #### Easy
    * [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md)
-   
+
+ * #### Medium
+   * [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
+
 ### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(1/102)`
  * #### Easy
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
