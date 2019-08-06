@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(75/1147)` → `Easy 46`--`Medium 29`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(76/1147)` → `Easy 46`--`Medium 30`--`Hard 0`
 
 exercise 
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(38/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(39/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -41,6 +41,7 @@ exercise
     * [287. Find the Duplicate Number](https://github.com/103style/LeetCode/blob/master/Array/287.%20Find%20the%20Duplicate%20Number.md)
     * [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)
     * [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md)
+    * [539. Minimum Time Difference](https://github.com/103style/LeetCode/blob/master/String/539.%20Minimum%20Time%20Difference.md)
     * [565. Array Nesting](https://github.com/103style/LeetCode/blob/master/Array/565.%20Array%20Nesting.md)
     * [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md)
     * [769. Max Chunks To Make Sorted](https://github.com/103style/LeetCode/blob/master/Array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
