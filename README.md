@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(75/1003)` → `Easy 46`--`Medium 29`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(75/1147)` → `Easy 46`--`Medium 29`--`Hard 0`
 
 exercise 
 
