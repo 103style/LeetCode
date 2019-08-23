@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(76/1147)` → `Easy 46`--`Medium 30`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(77/1147)` → `Easy 47`--`Medium 30`--`Hard 0`
 
 exercise 
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(39/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(40/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -17,6 +17,7 @@ exercise
     * [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md)
     * [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
     * [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md)
+    * [509. Fibonacci Number](https://github.com/103style/LeetCode/blob/master/Array/509.%20Fibonacci%20Number.md)
     * [561. Array Partition I](https://github.com/103style/LeetCode/blob/master/Array/561.%20Array%20Partition%20I.md)
     * [566. Reshape the Matrix](https://github.com/103style/LeetCode/blob/master/Array/566.%20Reshape%20the%20Matrix.md)
     * [581. Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md)
