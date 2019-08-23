@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(77/1147)` → `Easy 47`--`Medium 30`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(78/1147)` → `Easy 48`--`Medium 30`--`Hard 0`
 
 exercise 
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(40/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(41/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -34,6 +34,7 @@ exercise
     * [905. Sort Array By Parity](https://github.com/103style/LeetCode/blob/master/Array/905.%20Sort%20Array%20By%20Parity.md)
     * [977.Squares of a Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/977.%20Squares%20of%20a%20Sorted%20Array.md)
     * [1108.Defanging an IP Address](https://github.com/103style/LeetCode/blob/master/String/1108.%20Defanging%20an%20IP%20Address.md)
+    * [1122. Relative Sort Array](https://github.com/103style/LeetCode/blob/master/Array/1122.%20Relative%20Sort%20Array.md)
     
   * #### Medium
     * [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md)
