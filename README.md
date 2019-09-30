@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(79/1147)` → `Easy 49`--`Medium 30`--`Hard 0`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(80/1210)` → `Easy 49`--`Medium 30`--`Hard 1`
 
 exercise 
 
@@ -106,7 +106,7 @@ exercise
     
   * #### Hard
 
-### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(7/34)`
+### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(8/34)`
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
     * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
@@ -119,7 +119,8 @@ exercise
     * [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md)
     
   * #### Hard
-    * 
+    * [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md)
+    
 
 ### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(5/107)`
  * #### Easy
