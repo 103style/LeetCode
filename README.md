@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(83/1210)` → `Easy 49`--`Medium 33`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(84/1210)` → `Easy 50`--`Medium 33`--`Hard 1`
 
 exercise 
 
@@ -75,8 +75,9 @@ exercise
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(5/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(6/122)`
   * #### Easy
+    * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) `in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
   
