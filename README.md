@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(82/1210)` → `Easy 49`--`Medium 32`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(83/1210)` → `Easy 49`--`Medium 33`--`Hard 1`
 
 exercise 
 
@@ -53,7 +53,7 @@ exercise
     
   * #### Hard
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(13/121)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(14/121)`
   * #### Easy
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
@@ -68,6 +68,7 @@ exercise
   * #### Medium
     * [3.Longest Substring Without Repeating Characters](https://github.com/103style/LeetCode/blob/master/String/3.Longest%20Substring%20Without%20Repeating%20Characters.md)
     * [6. ZigZag Conversion](https://github.com/103style/LeetCode/blob/master/String/6.%20ZigZag%20Conversion.md)
+    * [8. String to Integer (atoi)](https://github.com/103style/LeetCode/blob/master/String/8.%20String%20to%20Integer%20(atoi).md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
     
