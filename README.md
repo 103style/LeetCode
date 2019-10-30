@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(86/1210)` → `Easy 52`--`Medium 33`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(87/1210)` → `Easy 52`--`Medium 33`--`Hard 1`
 
 exercise 
 
@@ -149,9 +149,10 @@ exercise
  * #### Medium
    * [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(1/102)`
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(2/119)`
  * #### Easy
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
+   * [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md)
 
 ### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(1/48)`
  * #### Easy
