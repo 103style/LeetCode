@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(88/1210)` → `Easy 54`--`Medium 33`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(89/1210)` → `Easy 54`--`Medium 34`--`Hard 1`
 
 exercise 
 
@@ -160,7 +160,7 @@ exercise
    * [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md)
 
 
-### [Backtracking](https://github.com/103style/LeetCode/blob/master/Backtracking/)
+### [Backtracking](https://github.com/103style/LeetCode/blob/master/Backtracking/)`(1/49)`
  * #### Medium
    * [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md)
 
