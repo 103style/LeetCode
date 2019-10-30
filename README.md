@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(89/1210)` → `Easy 54`--`Medium 34`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(90/1210)` → `Easy 54`--`Medium 35`--`Hard 1`
 
 exercise 
 
@@ -164,6 +164,14 @@ exercise
 ### [Backtracking](https://github.com/103style/LeetCode/blob/master/Backtracking/)`(1/49)`
  * #### Medium
    * [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md):x:
+
+
+
+
+### [Greedy](https://github.com/103style/LeetCode/blob/master/Greedy/)`(1/64)`
+ * #### Medium
+   * [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) `in Two Pointers group too`
+
 
 
 
