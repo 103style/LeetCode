@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(85/1210)` → `Easy 51`--`Medium 33`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(86/1210)` → `Easy 52`--`Medium 33`--`Hard 1`
 
 exercise 
 
@@ -53,7 +53,7 @@ exercise
     
   * #### Hard
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(14/121)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(15/146)`
   * #### Easy
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
@@ -64,6 +64,7 @@ exercise
     * [804. Unique Morse Code Words](https://github.com/103style/LeetCode/blob/master/String/804.%20Unique%20Morse%20Code%20Words.md)
     * [824. Goat Latin](https://github.com/103style/LeetCode/blob/master/String/824.%20Goat%20Latin.md)
     * [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md)
+    * [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)
   
   * #### Medium
     * [3.Longest Substring Without Repeating Characters](https://github.com/103style/LeetCode/blob/master/String/3.Longest%20Substring%20Without%20Repeating%20Characters.md)
