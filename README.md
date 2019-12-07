@@ -1,6 +1,6 @@
 ## [LeetCode](https://leetcode.com/problemset/all/)  `(90/1210)` → `Easy 54`--`Medium 35`--`Hard 1`
 
-exercise 
+Algotithm exercises
 
 >sort by `Difficulty`  and  `Acceptance`
 
