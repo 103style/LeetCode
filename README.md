@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(94/1210)` → `Easy 57`--`Medium 36`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(95/1210)` → `Easy 58`--`Medium 36`--`Hard 1`
 
 Algotithm exercises
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(41/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(42/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -35,6 +35,7 @@ Algotithm exercises
     * [977.Squares of a Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/977.%20Squares%20of%20a%20Sorted%20Array.md)
     * [1108.Defanging an IP Address](https://github.com/103style/LeetCode/blob/master/String/1108.%20Defanging%20an%20IP%20Address.md)
     * [1122. Relative Sort Array](https://github.com/103style/LeetCode/blob/master/Array/1122.%20Relative%20Sort%20Array.md)
+    * [1252. Cells with Odd Values in a Matrix](https://github.com/103style/LeetCode/blob/master/Array/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)
     
   * #### Medium
     * [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md)
