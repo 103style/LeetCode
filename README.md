@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(92/1210)` → `Easy 55`--`Medium 36`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(93/1210)` → `Easy 56`--`Medium 36`--`Hard 1`
 
 Algotithm exercises
 
@@ -76,12 +76,13 @@ Algotithm exercises
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(7/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(8/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) `in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
+    * [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/103style/LeetCode/blob/master/Math/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)
   
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md) `in Linked List group too`
@@ -169,7 +170,7 @@ Algotithm exercises
 
 
 
-### [Greedy](https://github.com/103style/LeetCode/blob/master/Greedy/)`(1/64)`
+### [Greedy](https://github.com/103style/LeetCode/blob/master/Greedy/)`(2/64)`
  * #### Medium
    * [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) `in Two Pointers group too`
    * [1282. Group the People Given the Group Size They Belong To(***)](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)
