@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(91/1210)` → `Easy 55`--`Medium 35`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(92/1210)` → `Easy 55`--`Medium 36`--`Hard 1`
 
 Algotithm exercises
 
@@ -172,6 +172,7 @@ Algotithm exercises
 ### [Greedy](https://github.com/103style/LeetCode/blob/master/Greedy/)`(1/64)`
  * #### Medium
    * [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) `in Two Pointers group too`
+   * [1282. Group the People Given the Group Size They Belong To(***)](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)
 
 
 
