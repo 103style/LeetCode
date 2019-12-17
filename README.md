@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(90/1210)` → `Easy 54`--`Medium 35`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(91/1210)` → `Easy 55`--`Medium 35`--`Hard 1`
 
 Algotithm exercises
 
@@ -112,12 +112,13 @@ Algotithm exercises
     
   * #### Hard
 
-### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(8/34)`
+### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(9/34)`
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
     * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
     * [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md)
     * [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
+    * [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
     
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md)
