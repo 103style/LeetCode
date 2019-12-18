@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(100/1210)` → `Easy 61`--`Medium 38`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(101/1210)` → `Easy 62`--`Medium 38`--`Hard 1`
 
 Algotithm exercises
 
@@ -180,6 +180,12 @@ Algotithm exercises
    * [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) `in Two Pointers group too`
    * [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light:
 
+
+
+
+### [Bit Manipulation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/)`(1/39)`
+ * #### Easy
+   * [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md)
 
 
 
