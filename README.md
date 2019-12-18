@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(95/1210)` → `Easy 58`--`Medium 36`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(96/1210)` → `Easy 58`--`Medium 37`--`Hard 1`
 
 Algotithm exercises
 
@@ -180,14 +180,14 @@ Algotithm exercises
 
 
 
-### [other](https://github.com/103style/LeetCode/tree/master/other)  
+### [other](https://github.com/103style/LeetCode/tree/master/other)  `4`
   * #### Easy
     * [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md)
     * [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
     
     
   * #### Medium
-    * [797. All Paths From Source to Target(***)](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md)
+    * [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md):x:
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
    
   * #### Hard
