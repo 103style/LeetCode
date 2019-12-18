@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(97/1210)` → `Easy 58`--`Medium 38`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(98/1210)` → `Easy 59`--`Medium 38`--`Hard 1`
 
 Algotithm exercises
 
@@ -181,10 +181,11 @@ Algotithm exercises
 
 
 
-### [other](https://github.com/103style/LeetCode/tree/master/other)  `4`
+### [other](https://github.com/103style/LeetCode/tree/master/other)  `5`
   * #### Easy
     * [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md)
     * [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
+    * [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light:
     
     
   * #### Medium
