@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(102/1210)` → `Easy 63`--`Medium 38`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(103/1210)` → `Easy 64`--`Medium 38`--`Hard 1`
 
 Algotithm exercises
 
@@ -104,10 +104,11 @@ Algotithm exercises
 
   * #### Hard
 
-### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(5/61)`
+### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(6/61)`
   * #### Easy
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) `in array group too`
     * [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md)
+    * [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
     
   * #### Medium
     * [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
