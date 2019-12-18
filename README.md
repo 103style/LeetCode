@@ -187,6 +187,7 @@ Algotithm exercises
     
     
   * #### Medium
+    * [797. All Paths From Source to Target(***)](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md)
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
    
   * #### Hard
