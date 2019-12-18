@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(103/1210)` → `Easy 64`--`Medium 38`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(104/1210)` → `Easy 65`--`Medium 38`--`Hard 1`
 
 Algotithm exercises
 
@@ -78,12 +78,13 @@ Algotithm exercises
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(9/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(10/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) `in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
+    * [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md)
     * [1266. Minimum Time Visiting All Points](https://github.com/103style/LeetCode/blob/master/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points.md)
     * [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/103style/LeetCode/blob/master/Math/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)
   
