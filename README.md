@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(104/1210)` → `Easy 65`--`Medium 38`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(105/1210)` → `Easy 65`--`Medium 39`--`Hard 1`
 
 Algotithm exercises
 
@@ -135,7 +135,7 @@ Algotithm exercises
     * [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md)
     
 
-### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(9/107)`
+### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(10/107)`
  * #### Easy
    * [589. N-ary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
    * [617. Merge Two Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees.md)
@@ -149,6 +149,7 @@ Algotithm exercises
    * [814. Binary Tree Pruning](https://github.com/103style/LeetCode/blob/master/Tree/814.%20Binary%20Tree%20Pruning.md)
    * [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light:
    * [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)
+   * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md)
  
  * #### Hard
 
@@ -160,10 +161,13 @@ Algotithm exercises
  * #### Medium
    * [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(2/119)`
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(3/119)`
  * #### Easy
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
    * [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md)
+   
+ * #### Medium
+   * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
 
 ### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(1/48)`
  * #### Easy
