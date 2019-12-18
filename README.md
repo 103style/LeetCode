@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(96/1210)` → `Easy 58`--`Medium 37`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(97/1210)` → `Easy 58`--`Medium 38`--`Hard 1`
 
 Algotithm exercises
 
@@ -132,7 +132,7 @@ Algotithm exercises
     * [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md)
     
 
-### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(6/107)`
+### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(7/107)`
  * #### Easy
    * [617. Merge Two Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees.md)
    * [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md)
@@ -142,6 +142,7 @@ Algotithm exercises
    * [654.Maximum Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md)
    * [701. Insert into a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
    * [814. Binary Tree Pruning](https://github.com/103style/LeetCode/blob/master/Tree/814.%20Binary%20Tree%20Pruning.md)
+   * [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light:
    * [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)
  
  * #### Hard
