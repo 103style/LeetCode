@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(105/1210)` → `Easy 65`--`Medium 39`--`Hard 1`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(106/1210)` → `Easy 65`--`Medium 39`--`Hard 2`
 
 Algotithm exercises
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(43/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(44/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -54,6 +54,7 @@ Algotithm exercises
     
     
   * #### Hard
+    * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
 ### [String](https://github.com/103style/LeetCode/tree/master/String) `(15/146)`
   * #### Easy
