@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(106/1210)` → `Easy 65`--`Medium 39`--`Hard 2`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(107/1210)` → `Easy 65`--`Medium 40`--`Hard 2`
 
 Algotithm exercises
 
@@ -56,7 +56,7 @@ Algotithm exercises
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(15/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(16/146)`
   * #### Easy
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
@@ -71,6 +71,7 @@ Algotithm exercises
   
   * #### Medium
     * [3.Longest Substring Without Repeating Characters](https://github.com/103style/LeetCode/blob/master/String/3.Longest%20Substring%20Without%20Repeating%20Characters.md)
+    * [5. Longest Palindromic Substring](https://github.com/103style/LeetCode/blob/master/String/5.%20Longest%20Palindromic%20Substring.md):rotating_light:
     * [6. ZigZag Conversion](https://github.com/103style/LeetCode/blob/master/String/6.%20ZigZag%20Conversion.md)
     * [8. String to Integer (atoi)](https://github.com/103style/LeetCode/blob/master/String/8.%20String%20to%20Integer%20(atoi).md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
