@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(109/1210)` → `Easy 65`--`Medium 42`--`Hard 2`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(110/1210)` → `Easy 66`--`Medium 42`--`Hard 2`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -57,8 +57,9 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(16/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(17/146)`
   * #### Easy
+    * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too` 
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
     * [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md)
@@ -81,10 +82,11 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(10/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(11/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
+    * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in String group too` 
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) `in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
     * [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md)
