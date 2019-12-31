@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(110/1210)` → `Easy 66`--`Medium 42`--`Hard 2`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(111/1210)` → `Easy 66`--`Medium 43`--`Hard 2`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -57,7 +57,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(17/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(18/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too` 
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
@@ -76,13 +76,14 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [5. Longest Palindromic Substring](https://github.com/103style/LeetCode/blob/master/String/5.%20Longest%20Palindromic%20Substring.md):rotating_light:
     * [6. ZigZag Conversion](https://github.com/103style/LeetCode/blob/master/String/6.%20ZigZag%20Conversion.md)
     * [8. String to Integer (atoi)](https://github.com/103style/LeetCode/blob/master/String/8.%20String%20to%20Integer%20(atoi).md)
+    * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in Math group too` 
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
     
 
   * #### Hard
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(11/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(12/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
@@ -95,6 +96,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md) `in Linked List group too`
+    * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in String group too` 
     * [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) `in String group too`
 
