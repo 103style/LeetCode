@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(112/1210)` → `Easy 67`--`Medium 43`--`Hard 2`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(113/1210)` → `Easy 67`--`Medium 43`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -57,7 +57,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(19/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(20/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -83,6 +83,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     
 
   * #### Hard
+    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md):rotating_light:
 
 ### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(12/122)`
   * #### Easy
