@@ -83,7 +83,8 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     
 
   * #### Hard
-    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md):rotating_light:
+    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md):rotating_light:
+
 
 ### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(12/122)`
   * #### Easy
