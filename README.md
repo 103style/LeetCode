@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(113/1210)` → `Easy 67`--`Medium 43`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(114/1210)` → `Easy 68`--`Medium 43`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -57,10 +57,11 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(20/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(21/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
+    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md)
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
     * [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md)
