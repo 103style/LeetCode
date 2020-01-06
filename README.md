@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(115/1210)` → `Easy 68`--`Medium 44`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(116/1210)` → `Easy 68`--`Medium 45`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -57,7 +57,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(21/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(22/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -79,6 +79,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [6. ZigZag Conversion](https://github.com/103style/LeetCode/blob/master/String/6.%20ZigZag%20Conversion.md)
     * [8. String to Integer (atoi)](https://github.com/103style/LeetCode/blob/master/String/8.%20String%20to%20Integer%20(atoi).md)
     * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in Math group too` 
+    * [17. Letter Combinations of a Phone Number](https://github.com/103style/LeetCode/blob/master/String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
     
