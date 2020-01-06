@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(114/1210)` → `Easy 68`--`Medium 43`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(115/1210)` → `Easy 68`--`Medium 44`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -129,7 +129,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     
   * #### Hard
 
-### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(9/34)`
+### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(10/34)`
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
     * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
@@ -139,6 +139,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md)
+    * [19. Remove Nth Node From End of List](https://github.com/103style/LeetCode/blob/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) `in Two Pointers group too`
     * [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)
     * [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md)
     
@@ -207,9 +208,10 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 
 
-### [Two Pointers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/)`(1/30)`
+### [Two Pointers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/)`(2/30)`
  * #### Medium
    * [11. Container With Most Water](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/11.%20Container%20With%20Most%20Water.md)
+   * [19. Remove Nth Node From End of List](https://github.com/103style/LeetCode/blob/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) `in Linked List group too`
 
 
 
