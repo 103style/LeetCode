@@ -1,10 +1,10 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(116/1210)` → `Easy 68`--`Medium 45`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(117/1210)` → `Easy 68`--`Medium 46`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(45/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(46/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
@@ -39,6 +39,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [1252. Cells with Odd Values in a Matrix](https://github.com/103style/LeetCode/blob/master/Array/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)
     
   * #### Medium
+    * [15. 3Sum](https://github.com/103style/LeetCode/blob/master/Array/*15.%203Sum.md) :rotating_light:
     * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light:
     * [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md)
     * [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md)
