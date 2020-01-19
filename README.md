@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(118/1210)` → `Easy 68`--`Medium 47`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(119/1210)` → `Easy 68`--`Medium 48`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -216,6 +216,10 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
    * [11. Container With Most Water](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/11.%20Container%20With%20Most%20Water.md)
    * [19. Remove Nth Node From End of List](https://github.com/103style/LeetCode/blob/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) `in Linked List group too`
 
+
+### [Heap](https://github.com/103style/LeetCode/tree/master/Heap)`(1/34)`
+ * #### Medium
+   * [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) `in Stack and HashTable group too`
 
 
 
