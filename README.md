@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(120/1210)` → `Easy 68`--`Medium 49`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(121/1210)` → `Easy 69`--`Medium 49`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -90,11 +90,12 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md):rotating_light:
 
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(12/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(13/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
-    * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in String group too` 
+    * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in String group too`
+    * [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) `in Hash Table group too`
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) `in Array group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
     * [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md)
