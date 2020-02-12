@@ -1,13 +1,14 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(122/1210)` → `Easy 70`--`Medium 49`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(123/1210)` → `Easy 71`--`Medium 49`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 >sort by `Difficulty`  and  `Acceptance`
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(48/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(49/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [26. Remove Duplicates from Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+    * [27. Remove Element](https://github.com/103style/LeetCode/blob/master/Array/27.%20Remove%20Element.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
