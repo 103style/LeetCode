@@ -28,7 +28,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)
     * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md)
     * [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md)
-    * [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/%20717.%201-bit%20and%202-bit%20Characters.md)
+    * [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md)
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)
     * [766. Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md)
     * [830. Positions of Large Groups](https://github.com/103style/LeetCode/blob/master/Array/830.%20Positions%20of%20Large%20Groups.md)
