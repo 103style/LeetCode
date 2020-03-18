@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(126/1210)` → `Easy 72`--`Medium 51`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(127/1210)` → `Easy 72`--`Medium 52`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -228,6 +228,20 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
    * [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) `in Stack and HashTable group too`
    * [692. Top K Frequent Words](https://github.com/103style/LeetCode/blob/master/Heap/692.%20Top%20K%20Frequent%20Words.md) `in Stack and HashTable group too`
 
+
+### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(7/188)`
+  * #### Easy
+    * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)`in Array group too`
+    * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)`in Array group too`
+    
+  * #### Medium
+    * [5.Longest Palindromic Substring](https://github.com/103style/LeetCode/blob/master/String/5.%20Longest%20Palindromic%20Substring.md)`in String group too`
+    * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md)`in Array group too`
+    * [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md)`in Binary Search group too`
+    * [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md)
+
+  * #### Hard
+    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md)`in String group too`
 
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  `5`
