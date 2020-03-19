@@ -4,6 +4,8 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 >sort by `Difficulty`  and  `Acceptance`
 
+---
+
 ### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(50/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
@@ -62,6 +64,8 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
+---
+
 ### [String](https://github.com/103style/LeetCode/tree/master/String) `(23/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
@@ -93,6 +97,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md):rotating_light:
 
+---
 
 ### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(13/122)`
   * #### Easy
@@ -114,6 +119,8 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
   * #### Hard
   
+---
+
 ### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(3/95)`
   * #### Easy
     * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too` 
@@ -123,6 +130,8 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [515. Find Largest Value in Each Tree Row](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)
 
   * #### Hard
+
+---
 
 ### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(6/61)`
   * #### Easy
@@ -136,6 +145,8 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md)
     
   * #### Hard
+
+---
 
 ### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(11/34)`
   * #### Easy
@@ -155,6 +166,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md)
     
+---
 
 ### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(10/107)`
  * #### Easy
@@ -174,6 +186,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
  
  * #### Hard
 
+---
 
 ### [Binary Search Tree](https://github.com/103style/LeetCode/tree/master/Binary%20Search%20Tree)`(2/15)`
  * #### Easy
@@ -190,17 +203,19 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
  * #### Medium
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
 
+---
+
 ### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(1/48)`
  * #### Easy
    * [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md)
 
-
+---
 
 ### [Backtracking](https://github.com/103style/LeetCode/blob/master/Backtracking/)`(1/49)`
  * #### Medium
    * [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md):rotating_light:
 
-
+---
 
 
 ### [Greedy](https://github.com/103style/LeetCode/blob/master/Greedy/)`(2/64)`
@@ -209,25 +224,27 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
    * [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light:
 
 
-
+---
 
 ### [Bit Manipulation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/)`(1/39)`
  * #### Easy
    * [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md)
 
-
+---
 
 ### [Two Pointers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/)`(2/30)`
  * #### Medium
    * [11. Container With Most Water](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/11.%20Container%20With%20Most%20Water.md)
    * [19. Remove Nth Node From End of List](https://github.com/103style/LeetCode/blob/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) `in Linked List group too`
 
+---
 
 ### [Heap](https://github.com/103style/LeetCode/tree/master/Heap)`(2/34)`
  * #### Medium
    * [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) `in Stack and HashTable group too`
    * [692. Top K Frequent Words](https://github.com/103style/LeetCode/blob/master/Heap/692.%20Top%20K%20Frequent%20Words.md) `in Stack and HashTable group too`
 
+---
 
 ### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(7/188)`
   * #### Easy
@@ -243,6 +260,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Hard
     * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md)`in String group too`
 
+---
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  `5`
   * #### Easy
@@ -257,3 +275,4 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
    
   * #### Hard
 
+---
