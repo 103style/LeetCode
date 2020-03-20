@@ -2,8 +2,6 @@
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
->sort by `Difficulty`  and  `Acceptance`
-
 
 | Tag | Progress | 
 |:-:|:-:|
@@ -26,6 +24,8 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | other | `5/?` |
 
 
+
+>sort by `Difficulty`  and  `Acceptance`
 
 ---
 
