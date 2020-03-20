@@ -4,6 +4,29 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 >sort by `Difficulty`  and  `Acceptance`
 
+
+| Tag | Progress | 
+|:-:|:-:|
+| Array | `50/163` |
+| String | `23/146` |
+| Math | `13/122` |
+| Depth-first Search | `3/95` |
+| Binary Search | `6/61` |
+| Linked List | `11/34` |
+| Tree | `10/17` |
+| Binary Search Tree | `2/15` |
+| Hash Table | `3/119` |
+| Stack | `1/48` |
+| Backtracking | `1/49` |
+| Greedy | `2/64` |
+| Bit Manipulation | `1/39` |
+| Two Pointers | `2/30` |
+| Heap | `2/34` |
+| Dynamic Programming | `7/188` |
+| other | `5/?` |
+
+
+
 ---
 
 ### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(50/163)`
