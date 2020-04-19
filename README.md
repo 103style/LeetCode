@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(128/1210)` → `Easy 73`--`Medium 52`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(129/1210)` → `Easy 73`--`Medium 53`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Stack | `1/48` |
 | Backtracking | `1/49` |
 | Greedy | `2/64` |
-| Bit Manipulation | `1/39` |
+| Bit Manipulation | `2/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
 | Dynamic Programming | `8/188` |
@@ -249,9 +249,12 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Bit Manipulation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/)`(1/39)`
+### [Bit Manipulation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/)`(2/39)`
  * #### Easy
    * [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md)
+
+ * #### Medium
+   * [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md)
 
 ---
 
