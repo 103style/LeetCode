@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(131/1210)` → `Easy 74`--`Medium 54`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(132/1210)` → `Easy 74`--`Medium 55`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -9,7 +9,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | String | `23/146` |
 | Math | `13/122` |
 | Depth-first Search | `3/95` |
-| Binary Search | `6/61` |
+| Binary Search | `7/61` |
 | Linked List | `11/34` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
@@ -20,7 +20,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Bit Manipulation | `4/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
-| Dynamic Programming | `8/188` |
+| Dynamic Programming | `9/188` |
 | other | `5/?` |
 
 
@@ -156,7 +156,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(6/61)`
+### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(7/61)`
   * #### Easy
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) `in array group too`
     * [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md)
@@ -164,6 +164,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     
   * #### Medium
     * [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md)
+    * [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md)`in Dynamic Programming group too`
     * [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
     * [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md)
     
@@ -274,7 +275,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(8/188)`
+### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(9/188)`
   * #### Easy
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)`in Array group too`
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)`in Array group too`
@@ -283,6 +284,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Medium
     * [5.Longest Palindromic Substring](https://github.com/103style/LeetCode/blob/master/String/5.%20Longest%20Palindromic%20Substring.md)`in String group too`
     * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md)`in Array group too`
+    * [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md)`in Binary Search group too`
     * [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md)`in Binary Search group too`
     * [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md)
 
