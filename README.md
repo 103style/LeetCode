@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(132/1210)` → `Easy 74`--`Medium 55`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(133/1210)` → `Easy 74`--`Medium 56`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -20,7 +20,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Bit Manipulation | `4/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
-| Dynamic Programming | `9/188` |
+| Dynamic Programming | `10/188` |
 | other | `5/?` |
 
 
@@ -275,7 +275,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(9/188)`
+### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(10/188)`
   * #### Easy
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)`in Array group too`
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)`in Array group too`
@@ -286,6 +286,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md)`in Array group too`
     * [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md)`in Binary Search group too`
     * [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md)`in Binary Search group too`
+    * [1143. Longest Common Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md)
     * [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md)
 
   * #### Hard
