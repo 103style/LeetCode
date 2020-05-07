@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(137/1210)` → `Easy 74`--`Medium 59`--`Hard 4`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(138/1210)` → `Easy 75`--`Medium 59`--`Hard 4`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -8,7 +8,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Array | `50/163` |
 | String | `23/146` |
 | Math | `13/122` |
-| Depth-first Search | `7/95` |
+| Depth-first Search | `8/95` |
 | Binary Search | `7/61` |
 | Linked List | `11/34` |
 | Tree | `10/17` |
@@ -144,9 +144,10 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   
 ---
 
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(7/95)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(8/95)`
   * #### Easy
-    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too` 
+    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too`
+    * [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md)
     
   * #### Medium
     * [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md)
