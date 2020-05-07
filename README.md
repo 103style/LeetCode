@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(134/1210)` → `Easy 74`--`Medium 57`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(135/1210)` → `Easy 74`--`Medium 58`--`Hard 3`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -8,7 +8,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Array | `50/163` |
 | String | `23/146` |
 | Math | `13/122` |
-| Depth-first Search | `4/95` |
+| Depth-first Search | `5/95` |
 | Binary Search | `7/61` |
 | Linked List | `11/34` |
 | Tree | `10/17` |
@@ -144,7 +144,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   
 ---
 
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(4/95)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(5/95)`
   * #### Easy
     * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too` 
     
@@ -152,6 +152,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md)
     * [515. Find Largest Value in Each Tree Row](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)
     * [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md)
+    * [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md)
 
   * #### Hard
 
