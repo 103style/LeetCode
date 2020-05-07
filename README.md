@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(136/1210)` → `Easy 74`--`Medium 59`--`Hard 3`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(137/1210)` → `Easy 74`--`Medium 59`--`Hard 4`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -8,7 +8,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Array | `50/163` |
 | String | `23/146` |
 | Math | `13/122` |
-| Depth-first Search | `6/95` |
+| Depth-first Search | `7/95` |
 | Binary Search | `7/61` |
 | Linked List | `11/34` |
 | Tree | `10/17` |
@@ -144,7 +144,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   
 ---
 
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(6/95)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(7/95)`
   * #### Easy
     * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too` 
     
@@ -156,7 +156,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)
 
   * #### Hard
-
+    * [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)
 ---
 
 ### [Binary Search](https://github.com/103style/LeetCode/tree/master/Binary%20Search) `(7/61)`
