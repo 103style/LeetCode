@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(140/1210)` → `Easy 76`--`Medium 60`--`Hard 4`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(141/1210)` → `Easy 77`--`Medium 60`--`Hard 4`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -8,7 +8,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Array | `50/163` |
 | String | `23/146` |
 | Math | `13/122` |
-| Depth-first Search | `10/95` |
+| Depth-first Search | `11/95` |
 | Binary Search | `7/61` |
 | Linked List | `11/34` |
 | Tree | `10/17` |
@@ -144,8 +144,9 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   
 ---
 
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(10/95)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(11/95)`
   * #### Easy
+    * [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
     * [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)
     * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too`
     * [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md)
