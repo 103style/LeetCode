@@ -51,7 +51,6 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [628. Maximum Product of Three Numbers](https://github.com/103style/LeetCode/blob/master/Array/628.%20Maximum%20Product%20of%20Three%20Numbers.md)
     * [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md)
     * [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md)
-    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md)
     * [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md)
     * [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md)
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)
@@ -79,6 +78,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [539. Minimum Time Difference](https://github.com/103style/LeetCode/blob/master/String/539.%20Minimum%20Time%20Difference.md)
     * [565. Array Nesting](https://github.com/103style/LeetCode/blob/master/Array/565.%20Array%20Nesting.md)
     * [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md)
+    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md)
     * [769. Max Chunks To Make Sorted](https://github.com/103style/LeetCode/blob/master/Array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
     * [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md)
     * [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
@@ -148,13 +148,13 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Easy
     * [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
     * [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)
-    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too`
     * [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md)
     * [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md)
     
   * #### Medium
     * [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md)
     * [515. Find Largest Value in Each Tree Row](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)
+    * [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) `in Array group too`
     * [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md)
     * [959. Regions Cut By Slashes](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/959.%20Regions%20Cut%20By%20Slashes.md)
     * [979. Distribute Coins in Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/979.%20Distribute%20Coins%20in%20Binary%20Tree.md)
