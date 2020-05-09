@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(145/1210)` → `Easy 78`--`Medium 63`--`Hard 4`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(146/1210)` → `Easy 78`--`Medium 63`--`Hard 5`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -8,14 +8,14 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Array | `50/163` |
 | String | `23/146` |
 | Math | `13/122` |
-| Depth-first Search | `15/95` |
+| Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
 | Linked List | `11/34` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `3/119` |
 | Stack | `1/48` |
-| Backtracking | `1/49` |
+| Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `4/39` |
 | Two Pointers | `2/30` |
@@ -144,7 +144,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   
 ---
 
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(15/95)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(16/95)`
   * #### Easy
     * [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
     * [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)
@@ -164,6 +164,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)
 
   * #### Hard
+    * [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) `in Backtracking group too`🚨
     * [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)
 ---
 
@@ -249,6 +250,9 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 ### [Backtracking](https://github.com/103style/LeetCode/blob/master/Backtracking/)`(1/49)`
  * #### Medium
    * [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md):rotating_light:
+   
+ * #### Hard
+   * [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) `in Depth-first Search group too` 🚨
 
 ---
 
