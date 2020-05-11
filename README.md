@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(148/1210)` → `Easy 78`--`Medium 65`--`Hard 5`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(149/1210)` → `Easy 79`--`Medium 65`--`Hard 5`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -10,7 +10,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Math | `13/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
-| Linked List | `13/34` |
+| Linked List | `14/34` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `3/119` |
@@ -184,10 +184,11 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(13/34)`
+### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(14/34)`
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
     * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
+    * [141. Linked List Cycle](https://github.com/103style/LeetCode/blob/master/Linked%20List/141.%20Linked%20List%20Cycle.md)
     * [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md)
     * [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
     * [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
