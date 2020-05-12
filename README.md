@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(156/1210)` → `Easy 80`--`Medium 71`--`Hard 5`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(157/1210)` → `Easy 80`--`Medium 72`--`Hard 5`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -14,7 +14,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `3/119` |
-| Stack | `1/48` |
+| Stack | `4/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `4/39` |
@@ -93,7 +93,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
-    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md)
+    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in Stack group too`
     * [28. Implement strStr()](https://github.com/103style/LeetCode/blob/master/String/28.%20Implement%20strStr().md)
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
@@ -207,7 +207,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md)
     * [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md)
     * [817. Linked List Components](https://github.com/103style/LeetCode/blob/master/Linked%20List/817.%20Linked%20List%20Components.md)
-    * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md)🚨
+    * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) `in Stack group too`🚨
     
   * #### Hard
     * [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md)
@@ -251,9 +251,16 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(1/48)`
+### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(4/57)`
  * #### Easy
+   * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in String group too`
    * [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md)
+
+ * #### Medium
+   * [503. Next Greater Element II](https://github.com/103style/LeetCode/blob/master/Stack/503.%20Next%20Greater%20Element%20II.md)
+   * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) `in LinkedList group too`🚨
+   
+   
 
 ---
 
