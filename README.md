@@ -65,7 +65,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [1252. Cells with Odd Values in a Matrix](https://github.com/103style/LeetCode/blob/master/Array/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)
     
   * #### Medium
-    * [15. 3Sum](https://github.com/103style/LeetCode/blob/master/Array/*15.%203Sum.md) :rotating_light:
+    * [15. 3Sum](https://github.com/103style/LeetCode/blob/master/Array/15.%203Sum.md) :rotating_light:
     * [16. 3Sum Closest](https://github.com/103style/LeetCode/blob/master/Array/16.%203Sum%20Closest.md)
     * [18. 4Sum](https://github.com/103style/LeetCode/blob/master/Array/(*)18.%204Sum.md) :rotating_light:
     * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light:
