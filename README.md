@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(158/1210)` → `Easy 80`--`Medium 73`--`Hard 5`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(159/1210)` → `Easy 80`--`Medium 74`--`Hard 5`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -14,7 +14,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `3/119` |
-| Stack | `4/57` |
+| Stack | `5/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `4/39` |
@@ -252,13 +252,14 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(4/57)`
+### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(5/57)`
  * #### Easy
    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in String group too`
    * [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md)
 
  * #### Medium
    * [503. Next Greater Element II](https://github.com/103style/LeetCode/blob/master/Stack/503.%20Next%20Greater%20Element%20II.md)
+   * [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md)
    * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) `in LinkedList group too`🚨
    
    
