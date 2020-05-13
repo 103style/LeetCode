@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(162/1210)` → `Easy 80`--`Medium 77`--`Hard 5`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(163/1210)` → `Easy 80`--`Medium 77`--`Hard 6`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -10,7 +10,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Math | `13/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
-| Linked List | `25/38` |
+| Linked List | `26/38` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `3/119` |
@@ -184,7 +184,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(25/38)`
+### [Linked List](https://github.com/103style/LeetCode/tree/master/Linked%20List) `(26/38)`
   * #### Easy
     * [21. Merge Two Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
     * [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
@@ -215,6 +215,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     
   * #### Hard
     * [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md)
+    * [25. Reverse Nodes in k-Group](https://github.com/103style/LeetCode/blob/master/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group.md)
     
 ---
 
