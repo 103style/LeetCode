@@ -67,7 +67,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
   * #### Medium
     * [15. 3Sum](https://github.com/103style/LeetCode/blob/master/Array/15.%203Sum.md) :rotating_light:
     * [16. 3Sum Closest](https://github.com/103style/LeetCode/blob/master/Array/16.%203Sum%20Closest.md)
-    * [18. 4Sum](https://github.com/103style/LeetCode/blob/master/Array/(*)18.%204Sum.md) :rotating_light:
+    * [18. 4Sum](https://github.com/103style/LeetCode/blob/master/Array/18.%204Sum.md) :rotating_light:
     * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light:
     * [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md)
     * [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md)
