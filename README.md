@@ -1,11 +1,11 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(164/1210)` → `Easy 80`--`Medium 78`--`Hard 6`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(165/1210)` → `Easy 80`--`Medium 79`--`Hard 6`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `51/163` |
+| Array | `52/163` |
 | String | `23/146` |
 | Math | `13/122` |
 | Depth-first Search | `16/95` |
@@ -29,7 +29,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(51/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(52/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [26. Remove Duplicates from Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
@@ -69,6 +69,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     * [15. 3Sum](https://github.com/103style/LeetCode/blob/master/Array/15.%203Sum.md) :rotating_light:
     * [16. 3Sum Closest](https://github.com/103style/LeetCode/blob/master/Array/16.%203Sum%20Closest.md)
     * [18. 4Sum](https://github.com/103style/LeetCode/blob/master/Array/18.%204Sum.md) :rotating_light:
+    * [31. Next Permutation](https://github.com/103style/LeetCode/blob/master/Array/31.%20Next%20Permutation.md)
     * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light:
     * [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md)
     * [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md)
