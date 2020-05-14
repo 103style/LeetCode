@@ -86,7 +86,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
     
     
   * #### Hard
-    * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/*4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
+    * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
 
 ---
 
