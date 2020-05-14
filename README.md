@@ -1,11 +1,11 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(167/1210)` → `Easy 80`--`Medium 81`--`Hard 6`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(168/1210)` → `Easy 80`--`Medium 82`--`Hard 6`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `54/163` |
+| Array | `55/163` |
 | String | `23/146` |
 | Math | `13/122` |
 | Depth-first Search | `16/95` |
@@ -29,11 +29,12 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 ---
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(54/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(55/163)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [26. Remove Duplicates from Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
     * [27. Remove Element](https://github.com/103style/LeetCode/blob/master/Array/27.%20Remove%20Element.md)
+    * [35. Search Insert Position](https://github.com/103style/LeetCode/blob/master/Array/35.%20Search%20Insert%20Position.md)
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
     * [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
