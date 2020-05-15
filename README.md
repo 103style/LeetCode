@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(170/1210)` → `Easy 80`--`Medium 84`--`Hard 6`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(171/1444)` → `Easy 80`--`Medium 84`--`Hard 7`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -14,7 +14,7 @@ the following probleam is choose by:
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `57/163` |
+| Array | `58/248` |
 | String | `23/146` |
 | Math | `13/122` |
 | Depth-first Search | `16/95` |
@@ -35,7 +35,7 @@ the following probleam is choose by:
 
 ---
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(57/163)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(58/248)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [26. Remove Duplicates from Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
@@ -99,6 +99,7 @@ the following probleam is choose by:
     
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
+    * [41. First Missing Positive](https://github.com/103style/LeetCode/blob/master/Array/41.%20First%20Missing%20Positive.md):rotating_light:
 
 ---
 
