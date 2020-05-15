@@ -3,6 +3,15 @@
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 
+the following probleam is choose by:  
+
+**choose a tag, get top 20 sort by `index`, and top 20 with the `Acceptance` high to low.**
+
+
+---
+
+
+
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `57/163` |
@@ -23,9 +32,6 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 | Dynamic Programming | `10/188` |
 | other | `5/?` |
 
-
-
->sort by `Difficulty`  and  `Acceptance`
 
 ---
 
