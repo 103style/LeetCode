@@ -50,6 +50,19 @@ Output: 5
 * `1 <= queryTime <= 1000`
 
 
+**mine Solution**
+```
+public int busyStudent(int[] startTime, int[] endTime, int queryTime) {
+    int res = 0;
+    for(int i = 0; i < startTime.length; i++){
+        if(startTime[i]<=queryTime && endTime[i]>=queryTime){
+            res++;
+        }
+    }
+    return res;
+}
+```
+
 ---
 
 
@@ -93,6 +106,61 @@ Output: "To be or to be not"
 **Constraints:**
 * `text` begins with a capital letter and then contains lowercase letters and single space between words.
 * `1 <= text.length <= 10^5`
+
+
+**mine Solution**
+```
+public String arrangeWords(String text) {
+    String[] item = text.split(" ");
+    List<String> list = new ArrayList<>();
+    List<Integer> len = new ArrayList<>();
+    for (String i : item) {
+        list.add(i);
+        len.add(i.length());
+    }
+    String s = list.get(0);
+    if (s.charAt(0) < 'a') {
+        String temp = s.substring(0, 1);
+        s = temp.toLowerCase() + s.substring(1);
+    }
+    list.set(0, s);
+    if (list.size() <= 1) {
+        return text;
+    }
+
+    for (int i = 1; i < list.size(); i++) {
+        if (len.get(i) >= len.get(i - 1)) {
+            continue;
+        }
+        for (int j = 0; j < i; j++) {
+            if (len.get(j) > len.get(i)) {
+                String v = list.get(i);
+                list.remove(i);
+                list.add(j, v);
+                int t = len.get(i);
+                len.remove(i);
+                len.add(j, t);
+                break;
+            }
+        }
+    }
+
+    s = list.get(0);
+    if (s.charAt(0) >= 'a') {
+        String temp = s.substring(0, 1);
+        s = temp.toUpperCase() + s.substring(1);
+    }
+    list.set(0, s);
+
+    StringBuilder sb = new StringBuilder();
+    for (String v : list) {
+        sb.append(v).append(" ");
+    }
+    String res = sb.toString();
+    return res.substring(0, res.length() - 1);
+}
+```
+
 
 ---
 
