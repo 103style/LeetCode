@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(174/1444)` → `Easy 81`--`Medium 86`--`Hard 7`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(175/1444)` → `Easy 82`--`Medium 86`--`Hard 7`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,7 +15,7 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `59/248` |
-| String | `25/146` |
+| String | `26/146` |
 | Math | `13/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
@@ -104,12 +104,13 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(25/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(26/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
     * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in Stack group too`
     * [28. Implement strStr()](https://github.com/103style/LeetCode/blob/master/String/28.%20Implement%20strStr().md)
+    * [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md)
     * [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md)
     * [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md)
     * [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md)
