@@ -136,7 +136,7 @@ the following probleam is choose by:
     
 
   * #### Hard
-    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md):rotating_light:
+    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md):rotating_light:
     * [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md)
 
 ---
@@ -347,7 +347,7 @@ the following probleam is choose by:
     * [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md)
 
   * #### Hard
-    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md)`in String group too`
+    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md)`in String group too`
 
 ---
 
