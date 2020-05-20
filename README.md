@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(175/1444)` → `Easy 82`--`Medium 86`--`Hard 7`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(176/1444)` → `Easy 82`--`Medium 86`--`Hard 8`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,7 +15,7 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `59/248` |
-| String | `26/146` |
+| String | `27/146` |
 | Math | `13/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
@@ -104,7 +104,7 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(26/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(27/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -137,6 +137,7 @@ the following probleam is choose by:
 
   * #### Hard
     * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/*10.%20Regular%20Expression%20Matching.md):rotating_light:
+    * [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md)
 
 ---
 
