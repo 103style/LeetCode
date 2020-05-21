@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(178/1444)` → `Easy 83`--`Medium 87`--`Hard 8`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(179/1444)` → `Easy 83`--`Medium 88`--`Hard 8`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,8 +15,8 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `59/248` |
-| String | `29/146` |
-| Math | `13/122` |
+| String | `30/146` |
+| Math | `14/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
@@ -104,7 +104,7 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(29/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(30/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -131,6 +131,7 @@ the following probleam is choose by:
     * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in Math group too` 
     * [17. Letter Combinations of a Phone Number](https://github.com/103style/LeetCode/blob/master/String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
     * [22. Generate Parentheses](https://github.com/103style/LeetCode/blob/master/String/22.%20Generate%20Parentheses.md)
+    * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in Math group too`
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
     * [1451. Rearrange Words in a Sentence](https://github.com/103style/LeetCode/blob/master/String/1451.Rearrange%20Words%20in%20a%20Sentence.md)
@@ -143,7 +144,7 @@ the following probleam is choose by:
 
 ---
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(13/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(14/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
@@ -158,6 +159,7 @@ the following probleam is choose by:
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md) `in Linked List group too`
     * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in String group too` 
+    * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in String group too` 
     * [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) `in String group too`
 
