@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(179/1444)` → `Easy 83`--`Medium 88`--`Hard 8`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(180/1444)` → `Easy 83`--`Medium 89`--`Hard 8`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,14 +15,14 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `59/248` |
-| String | `30/146` |
+| String | `31/146` |
 | Math | `14/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
-| Hash Table | `3/119` |
+| Hash Table | `4/119` |
 | Stack | `5/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
@@ -104,7 +104,7 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(30/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(31/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -132,6 +132,7 @@ the following probleam is choose by:
     * [17. Letter Combinations of a Phone Number](https://github.com/103style/LeetCode/blob/master/String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
     * [22. Generate Parentheses](https://github.com/103style/LeetCode/blob/master/String/22.%20Generate%20Parentheses.md)
     * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in Math group too`
+    * [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) `in HashTable group too`
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
     * [1451. Rearrange Words in a Sentence](https://github.com/103style/LeetCode/blob/master/String/1451.Rearrange%20Words%20in%20a%20Sentence.md)
@@ -269,12 +270,15 @@ the following probleam is choose by:
  * #### Medium
    * [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(3/119)`
+---
+
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(4/119)`
  * #### Easy
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
    * [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md)
    
  * #### Medium
+   * [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) `in String group too`
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
 
 ---
