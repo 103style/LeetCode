@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(180/1444)` → `Easy 83`--`Medium 89`--`Hard 8`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(181/1444)` → `Easy 83`--`Medium 89`--`Hard 9`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,7 +15,7 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `59/248` |
-| String | `31/146` |
+| String | `32/146` |
 | Math | `14/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
@@ -29,7 +29,7 @@ the following probleam is choose by:
 | Bit Manipulation | `4/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
-| Dynamic Programming | `10/188` |
+| Dynamic Programming | `11/188` |
 | other | `5/?` |
 
 
@@ -104,7 +104,7 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(31/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(32/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -140,7 +140,8 @@ the following probleam is choose by:
     
 
   * #### Hard
-    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md):rotating_light:
+    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md):rotating_light: `in Dynamic Programming group too`
+    * [32. Longest Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/32.%20Longest%20Valid%20Parentheses.md):rotating_light: `in Dynamic Programming group too`
     * [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md)
 
 ---
@@ -340,7 +341,7 @@ the following probleam is choose by:
 
 ---
 
-### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(10/188)`
+### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(11/188)`
   * #### Easy
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)`in Array group too`
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)`in Array group too`
@@ -355,8 +356,8 @@ the following probleam is choose by:
     * [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md)
 
   * #### Hard
-    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md)`in String group too`
-
+    * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md) `in String group too`
+    * [32. Longest Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/32.%20Longest%20Valid%20Parentheses.md):rotating_light: `in String group too`
 ---
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  `5`
