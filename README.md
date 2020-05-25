@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(184/1444)` → `Easy 84`--`Medium 91`--`Hard 9`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(185/1444)` → `Easy 84`--`Medium 91`--`Hard 10`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,7 +29,7 @@ the following probleam is choose by:
 | Bit Manipulation | `5/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
-| Dynamic Programming | `11/188` |
+| Dynamic Programming | `12/188` |
 | other | `5/?` |
 
 
@@ -344,7 +344,7 @@ the following probleam is choose by:
 
 ---
 
-### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(11/188)`
+### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(12/188)`
   * #### Easy
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)`in Array group too`
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)`in Array group too`
@@ -360,7 +360,10 @@ the following probleam is choose by:
 
   * #### Hard
     * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md) `in String group too`
-    * [32. Longest Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/32.%20Longest%20Valid%20Parentheses.md):rotating_light: `in String group too`
+    * [32. Longest Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/32.%20Longest%20Valid%20Parentheses.md) :rotating_light: `in String group too`
+    * [1458. Max Dot Product of Two Subsequences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences.md) :rotating_light:
+    
+    
 ---
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  `5`
