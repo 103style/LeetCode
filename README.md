@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(183/1444)` → `Easy 84`--`Medium 90`--`Hard 9`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(184/1444)` → `Easy 84`--`Medium 91`--`Hard 9`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 | Array | `59/248` |
 | String | `34/146` |
 | Math | `14/122` |
-| Depth-first Search | `16/95` |
+| Depth-first Search | `17/95` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
 | Tree | `10/17` |
@@ -26,7 +26,7 @@ the following probleam is choose by:
 | Stack | `5/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
-| Bit Manipulation | `4/39` |
+| Bit Manipulation | `5/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
 | Dynamic Programming | `11/188` |
@@ -170,7 +170,7 @@ the following probleam is choose by:
   
 ---
 
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(16/95)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(17/95)`
   * #### Easy
     * [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
     * [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)
@@ -188,6 +188,7 @@ the following probleam is choose by:
     * [1110. Delete Nodes And Return Forest](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1110.%20Delete%20Nodes%20And%20Return%20Forest.md)
     * [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md)
     * [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)
+    * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.md) `in Bit Manipulation group too`
 
   * #### Hard
     * [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) `in Backtracking group too`🚨
@@ -317,7 +318,7 @@ the following probleam is choose by:
 
 ---
 
-### [Bit Manipulation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/)`(4/39)`
+### [Bit Manipulation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/)`(5/39)`
  * #### Easy
    * [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md)
    * [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md)
@@ -325,6 +326,7 @@ the following probleam is choose by:
  * #### Medium
    * [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md)
    * [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md)
+   * [1457. Pseudo-Palindromic Paths in a Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.md) `in DFS group too`
 
 ---
 
