@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(181/1444)` → `Easy 83`--`Medium 89`--`Hard 9`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(182/1444)` → `Easy 84`--`Medium 89`--`Hard 9`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,7 +15,7 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `59/248` |
-| String | `32/146` |
+| String | `33/146` |
 | Math | `14/122` |
 | Depth-first Search | `16/95` |
 | Binary Search | `7/61` |
@@ -104,7 +104,7 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(32/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(33/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -122,6 +122,7 @@ the following probleam is choose by:
     * [824. Goat Latin](https://github.com/103style/LeetCode/blob/master/String/824.%20Goat%20Latin.md)
     * [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md)
     * [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)
+    * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/103style/LeetCode/blob/master/String/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md)
   
   * #### Medium
     * [3.Longest Substring Without Repeating Characters](https://github.com/103style/LeetCode/blob/master/String/3.Longest%20Substring%20Without%20Repeating%20Characters.md)
