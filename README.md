@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(185/1444)` → `Easy 84`--`Medium 91`--`Hard 10`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(186/1444)` → `Easy 85`--`Medium 91`--`Hard 10`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -16,13 +16,13 @@ the following probleam is choose by:
 |:-:|:-:|
 | Array | `59/248` |
 | String | `34/146` |
-| Math | `14/122` |
+| Math | `15/122` |
 | Depth-first Search | `17/95` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
-| Hash Table | `4/119` |
+| Hash Table | `5/119` |
 | Stack | `5/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
@@ -147,13 +147,14 @@ the following probleam is choose by:
 
 ---
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(14/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(15/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in String group too`
     * [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) `in Hash Table group too`
     * [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) `in Array group too`
+    * [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) `in HashTable group too`
     * [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md)
     * [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md)
     * [1266. Minimum Time Visiting All Points](https://github.com/103style/LeetCode/blob/master/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points.md)
@@ -275,8 +276,9 @@ the following probleam is choose by:
 
 ---
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(4/119)`
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(5/119)`
  * #### Easy
+   * [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) `in Math group too`
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
    * [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md)
    
