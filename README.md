@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(187/1444)` → `Easy 85`--`Medium 92`--`Hard 10`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(188/1444)` → `Easy 85`--`Medium 93`--`Hard 10`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -14,7 +14,7 @@ the following probleam is choose by:
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `59/248` |
+| Array | `60/248` |
 | String | `34/146` |
 | Math | `16/122` |
 | Depth-first Search | `17/95` |
@@ -22,7 +22,7 @@ the following probleam is choose by:
 | Linked List | `26/38` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
-| Hash Table | `6/119` |
+| Hash Table | `7/119` |
 | Stack | `5/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
@@ -35,7 +35,7 @@ the following probleam is choose by:
 
 ---
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(59/248)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(60/248)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [26. Remove Duplicates from Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
@@ -96,6 +96,7 @@ the following probleam is choose by:
     * [769. Max Chunks To Make Sorted](https://github.com/103style/LeetCode/blob/master/Array/769.%20Max%20Chunks%20To%20Make%20Sorted.md)
     * [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md)
     * [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
+    * [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) `in HashTable group too`
     
     
   * #### Hard
@@ -277,7 +278,7 @@ the following probleam is choose by:
 
 ---
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(6/119)`
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(7/119)`
  * #### Easy
    * [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) `in Math group too`
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
@@ -286,6 +287,7 @@ the following probleam is choose by:
  * #### Medium
    * [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) `in String group too`
    * [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) `in Math group too` 🚨
+   * [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) `in Array group too`
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
 
 ---
