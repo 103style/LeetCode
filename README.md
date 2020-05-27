@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(188/1444)` → `Easy 85`--`Medium 93`--`Hard 10`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(189/1444)` → `Easy 85`--`Medium 94`--`Hard 10`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following probleam is choose by:
 | Linked List | `26/38` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
-| Hash Table | `7/119` |
+| Hash Table | `8/119` |
 | Stack | `5/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
@@ -278,7 +278,7 @@ the following probleam is choose by:
 
 ---
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(7/119)`
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(8/119)`
  * #### Easy
    * [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) `in Math group too`
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
@@ -287,6 +287,7 @@ the following probleam is choose by:
  * #### Medium
    * [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) `in String group too`
    * [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) `in Math group too` 🚨
+   * [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨
    * [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) `in Array group too`
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
 
