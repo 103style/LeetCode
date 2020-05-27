@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(186/1444)` → `Easy 85`--`Medium 91`--`Hard 10`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(187/1444)` → `Easy 85`--`Medium 92`--`Hard 10`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -16,13 +16,13 @@ the following probleam is choose by:
 |:-:|:-:|
 | Array | `59/248` |
 | String | `34/146` |
-| Math | `15/122` |
+| Math | `16/122` |
 | Depth-first Search | `17/95` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
-| Hash Table | `5/119` |
+| Hash Table | `6/119` |
 | Stack | `5/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
@@ -147,7 +147,7 @@ the following probleam is choose by:
 
 ---
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(15/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(16/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
@@ -164,6 +164,7 @@ the following probleam is choose by:
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md) `in Linked List group too`
     * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in String group too` 
     * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in String group too` 
+    * [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) `in HashTable group too` 🚨
     * [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) `in String group too`
 
@@ -276,7 +277,7 @@ the following probleam is choose by:
 
 ---
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(5/119)`
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(6/119)`
  * #### Easy
    * [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) `in Math group too`
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
@@ -284,6 +285,7 @@ the following probleam is choose by:
    
  * #### Medium
    * [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) `in String group too`
+   * [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) `in Math group too` 🚨
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
 
 ---
