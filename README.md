@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(192/1444)` → `Easy 86`--`Medium 95`--`Hard 11`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(193/1444)` → `Easy 86`--`Medium 96`--`Hard 11`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -16,7 +16,7 @@ the following probleam is choose by:
 |:-:|:-:|
 | Array | `60/248` |
 | String | `34/146` |
-| Math | `16/122` |
+| Math | `17/122` |
 | Depth-first Search | `18/95` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
@@ -30,7 +30,7 @@ the following probleam is choose by:
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
 | Dynamic Programming | `12/188` |
-| Brainteaser | `1/5` |
+| Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | other | `5/?` |
 
@@ -150,7 +150,7 @@ the following probleam is choose by:
 
 ---
 
-### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(16/122)`
+### [Math](https://github.com/103style/LeetCode/tree/master/Math) `(17/122)`
   * #### Easy
     * [7. Reverse Integer](https://github.com/103style/LeetCode/blob/master/Math/7.%20Reverse%20Integer.md)
     * [9. Palindrome Number](https://github.com/103style/LeetCode/blob/master/Math/9.%20Palindrome%20Number.md)
@@ -167,6 +167,7 @@ the following probleam is choose by:
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md) `in Linked List group too`
     * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in String group too` 
     * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in String group too` 
+    * [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) `in Brainteaser group too` 
     * [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) `in HashTable group too` 🚨
     * [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) `in String group too`
@@ -380,10 +381,14 @@ the following probleam is choose by:
 
 ---
 
-### [Brainteaser](https://github.com/103style/LeetCode/tree/master/Brainteaser)  `1/5`
+### [Brainteaser](https://github.com/103style/LeetCode/tree/master/Brainteaser)  `2/5`
   * #### Easy
     * [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) `in Minimax group too`
-
+    
+  * #### Medium
+    * [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) `in Math group too` 
+    
+    
 ---
 
 ### [Minimax](https://github.com/103style/LeetCode/tree/master/Minimax)  `1/8`
