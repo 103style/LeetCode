@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(191/1444)` → `Easy 85`--`Medium 95`--`Hard 11`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(192/1444)` → `Easy 86`--`Medium 95`--`Hard 11`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -30,6 +30,8 @@ the following probleam is choose by:
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
 | Dynamic Programming | `12/188` |
+| Brainteaser | `1/5` |
+| Minimax | `1/8` |
 | other | `5/?` |
 
 
@@ -375,7 +377,19 @@ the following probleam is choose by:
     * [10. Regular Expression Matching](https://github.com/103style/LeetCode/blob/master/String/10.%20Regular%20Expression%20Matching.md) `in String group too`
     * [32. Longest Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/32.%20Longest%20Valid%20Parentheses.md) :rotating_light: `in String group too`
     * [1458. Max Dot Product of Two Subsequences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences.md) :rotating_light:
-    
+
+---
+
+### [Brainteaser](https://github.com/103style/LeetCode/tree/master/Brainteaser)  `1/5`
+  * #### Easy
+    * [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) `in Minimax group too`
+
+---
+
+### [Minimax](https://github.com/103style/LeetCode/tree/master/Minimax)  `1/8`
+  * #### Easy
+    * [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) `in Brainteaser group too`
+
     
 ---
 
