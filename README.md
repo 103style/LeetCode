@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(190/1444)` → `Easy 85`--`Medium 95`--`Hard 10`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(191/1444)` → `Easy 85`--`Medium 95`--`Hard 11`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,8 +22,8 @@ the following probleam is choose by:
 | Linked List | `26/38` |
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
-| Hash Table | `8/119` |
-| Stack | `6/57` |
+| Hash Table | `9/119` |
+| Stack | `7/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `5/39` |
@@ -279,7 +279,7 @@ the following probleam is choose by:
 
 ---
 
-### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(8/119)`
+### [Hash Table](https://github.com/103style/LeetCode/tree/master/Hash%20Table)`(9/119)`
  * #### Easy
    * [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) `in Math group too`
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
@@ -291,10 +291,13 @@ the following probleam is choose by:
    * [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨
    * [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) `in Array group too`
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
+   
+ * #### Hard
+   * [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) `in Stack group too`
 
 ---
 
-### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(6/57)`
+### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(7/57)`
  * #### Easy
    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in String group too`
    * [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md)
@@ -305,7 +308,8 @@ the following probleam is choose by:
    * [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md)
    * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) `in LinkedList group too`🚨
    
-   
+ * #### Hard
+   * [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) `in Hash Table group too`
 
 ---
 
