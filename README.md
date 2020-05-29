@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(194/1444)` → `Easy 87`--`Medium 96`--`Hard 11`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(195/1444)` → `Easy 88`--`Medium 96`--`Hard 11`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following probleam is choose by:
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `9/119` |
-| Stack | `7/57` |
+| Stack | `8/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `5/39` |
@@ -300,9 +300,10 @@ the following probleam is choose by:
 
 ---
 
-### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(7/57)`
+### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(8/57)`
  * #### Easy
    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in String group too`
+   * [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md)
    * [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md)
 
  * #### Medium
