@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(195/1444)` → `Easy 88`--`Medium 96`--`Hard 11`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(196/1444)` → `Easy 88`--`Medium 97`--`Hard 11`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,7 +15,7 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `60/248` |
-| String | `34/146` |
+| String | `35/146` |
 | Math | `17/122` |
 | Depth-first Search | `18/95` |
 | Binary Search | `7/61` |
@@ -107,7 +107,7 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(34/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(35/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -138,6 +138,7 @@ the following probleam is choose by:
     * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in Math group too`
     * [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) `in HashTable group too`
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
+    * [556. Next Greater Element III](https://github.com/103style/LeetCode/blob/master/String/556.%20Next%20Greater%20Element%20III.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
     * [1451. Rearrange Words in a Sentence](https://github.com/103style/LeetCode/blob/master/String/1451.Rearrange%20Words%20in%20a%20Sentence.md)
     * [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://github.com/103style/LeetCode/blob/master/String/1452.%20People%20Whose%20List%20of%20Favorite%20Companies%20Is%20Not%20a%20Subset%20of%20Another%20List.md)
