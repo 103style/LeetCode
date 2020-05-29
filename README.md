@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(193/1444)` → `Easy 86`--`Medium 96`--`Hard 11`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(194/1444)` → `Easy 87`--`Medium 96`--`Hard 11`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,7 +29,7 @@ the following probleam is choose by:
 | Bit Manipulation | `5/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
-| Dynamic Programming | `12/188` |
+| Dynamic Programming | `13/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | other | `5/?` |
@@ -360,9 +360,10 @@ the following probleam is choose by:
 
 ---
 
-### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(12/188)`
+### [Dynamic Programming](https://github.com/103style/LeetCode/tree/master/Dynamic%20Programming)  `(13/188)`
   * #### Easy
     * [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)`in Array group too`
+    * [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md)
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)`in Array group too`
     * [1025. Divisor Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1025.%20Divisor%20Game.md)
     
