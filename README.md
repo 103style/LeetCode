@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(196/1444)` → `Easy 88`--`Medium 97`--`Hard 11`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(197/1444)` → `Easy 88`--`Medium 98`--`Hard 11`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -15,7 +15,7 @@ the following probleam is choose by:
 | Tag | Progress | 
 |:-:|:-:|
 | Array | `60/248` |
-| String | `35/146` |
+| String | `36/146` |
 | Math | `17/122` |
 | Depth-first Search | `18/95` |
 | Binary Search | `7/61` |
@@ -23,7 +23,7 @@ the following probleam is choose by:
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `9/119` |
-| Stack | `8/57` |
+| Stack | `9/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `5/39` |
@@ -107,7 +107,7 @@ the following probleam is choose by:
 
 ---
 
-### [String](https://github.com/103style/LeetCode/tree/master/String) `(35/146)`
+### [String](https://github.com/103style/LeetCode/tree/master/String) `(36/146)`
   * #### Easy
     * [13. Roman to Integer](https://github.com/103style/LeetCode/blob/master/Math/13.%20Roman%20to%20Integer.md) `in Math group too`
     * [14. Longest Common Prefix](https://github.com/103style/LeetCode/blob/master/String/14.%20Longest%20Common%20Prefix.md)
@@ -140,6 +140,7 @@ the following probleam is choose by:
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/String/537.%20Complex%20Number%20Multiplication.md)
     * [556. Next Greater Element III](https://github.com/103style/LeetCode/blob/master/String/556.%20Next%20Greater%20Element%20III.md)
     * [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md)
+    * [1249. Minimum Remove to Make Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) `in Stack group too`
     * [1451. Rearrange Words in a Sentence](https://github.com/103style/LeetCode/blob/master/String/1451.Rearrange%20Words%20in%20a%20Sentence.md)
     * [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://github.com/103style/LeetCode/blob/master/String/1452.%20People%20Whose%20List%20of%20Favorite%20Companies%20Is%20Not%20a%20Subset%20of%20Another%20List.md)
     * [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/103style/LeetCode/blob/master/String/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md)
@@ -301,7 +302,7 @@ the following probleam is choose by:
 
 ---
 
-### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(8/57)`
+### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(9/57)`
  * #### Easy
    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in String group too`
    * [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md)
@@ -312,6 +313,7 @@ the following probleam is choose by:
    * [503. Next Greater Element II](https://github.com/103style/LeetCode/blob/master/Stack/503.%20Next%20Greater%20Element%20II.md)
    * [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md)
    * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) `in LinkedList group too`🚨
+   * [1249. Minimum Remove to Make Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) `in String group too`
    
  * #### Hard
    * [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) `in Hash Table group too`
