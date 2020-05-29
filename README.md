@@ -7,6 +7,9 @@ the following probleam is choose by:
 
 **choose a tag, get top 20 sort by `index`, and top 20 with the `Acceptance` high to low.**
 
+---
+
+[**----SameQuestionGroup----**](https://github.com/103style/LeetCode/blob/master/SameQuestionGroup.md)
 
 ---
 
