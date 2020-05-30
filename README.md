@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(197/1444)` → `Easy 88`--`Medium 98`--`Hard 11`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(198/1444)` → `Easy 88`--`Medium 98`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `60/248` |
+| Array | `61/248` |
 | String | `36/146` |
 | Math | `17/122` |
 | Depth-first Search | `18/95` |
@@ -26,7 +26,7 @@ the following probleam is choose by:
 | Tree | `10/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `9/119` |
-| Stack | `9/57` |
+| Stack | `10/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `5/39` |
@@ -40,7 +40,7 @@ the following probleam is choose by:
 
 ---
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(60/248)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(61/248)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [26. Remove Duplicates from Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
@@ -107,6 +107,7 @@ the following probleam is choose by:
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
     * [41. First Missing Positive](https://github.com/103style/LeetCode/blob/master/Array/41.%20First%20Missing%20Positive.md):rotating_light:
+    * [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) `in Stack group too`
 
 ---
 
@@ -305,7 +306,7 @@ the following probleam is choose by:
 
 ---
 
-### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(9/57)`
+### [Stack](https://github.com/103style/LeetCode/blob/master/Stack)`(10/57)`
  * #### Easy
    * [20. Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/20.%20Valid%20Parentheses.md) `in String group too`
    * [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md)
@@ -319,6 +320,7 @@ the following probleam is choose by:
    * [1249. Minimum Remove to Make Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) `in String group too`
    
  * #### Hard
+   * [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) `in Array group too`
    * [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) `in Hash Table group too`
 
 ---
