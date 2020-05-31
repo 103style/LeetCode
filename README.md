@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(199/1444)` → `Easy 89`--`Medium 98`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(200/1444)` → `Easy 89`--`Medium 99`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress | 
 |:-:|:-:|
-| Array | `62/248` |
+| Array | `63/248` |
 | String | `36/146` |
 | Math | `17/122` |
 | Depth-first Search | `18/95` |
@@ -40,7 +40,7 @@ the following probleam is choose by:
 
 ---
 
-### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(62/248)`
+### [Array](https://github.com/103style/LeetCode/tree/master/Array) `(63/248)`
   * #### Easy
     * [1. Two Sum](https://github.com/103style/LeetCode/blob/master/Array/1.%20Two%20Sum.md)
     * [26. Remove Duplicates from Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
@@ -103,6 +103,7 @@ the following probleam is choose by:
     * [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md)
     * [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
     * [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) `in HashTable group too`
+    * [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/103style/LeetCode/blob/master/Array/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.md)
     
     
   * #### Hard
