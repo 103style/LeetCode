@@ -3,7 +3,7 @@
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 
-the following probleam is choose by:  
+the following probleam is choose by:
 
 **choose a tag, get top 20 sort by `index`, and top 20 with the `Acceptance` high to low.**
 
@@ -15,7 +15,7 @@ the following probleam is choose by:
 
 
 
-| Tag | Progress | 
+| Tag | Progress |
 |:-:|:-:|
 | Array | `63/248` |
 | String | `37/146` |
@@ -36,6 +36,7 @@ the following probleam is choose by:
 | Dynamic Programming | `13/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
+| Geometry | `1/7` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | other | `5/?` |
@@ -80,7 +81,7 @@ the following probleam is choose by:
     * [1252. Cells with Odd Values in a Matrix](https://github.com/103style/LeetCode/blob/master/Array/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)
     * [1450. Number of Students Doing Homework at a Given Time](https://github.com/103style/LeetCode/blob/master/Array/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.md)
     * [1464. Maximum Product of Two Elements in an Array](https://github.com/103style/LeetCode/blob/master/Array/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.md)
-    
+
   * #### Medium
     * [11. Container With Most Water](https://github.com/103style/LeetCode/blob/master/Array/11.%20Container%20With%20Most%20Water.md)
     * [15. 3Sum](https://github.com/103style/LeetCode/blob/master/Array/15.%203Sum.md) :rotating_light:
@@ -107,8 +108,8 @@ the following probleam is choose by:
     * [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md)
     * [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) `in HashTable group too`
     * [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/103style/LeetCode/blob/master/Array/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.md)
-    
-    
+
+
   * #### Hard
     * [4. Median of Two Sorted Arrays.md](https://github.com/103style/LeetCode/blob/master/Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md):rotating_light:
     * [41. First Missing Positive](https://github.com/103style/LeetCode/blob/master/Array/41.%20First%20Missing%20Positive.md):rotating_light:
@@ -136,14 +137,14 @@ the following probleam is choose by:
     * [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md)
     * [1446. Consecutive Characters](https://github.com/103style/LeetCode/blob/master/String/1446.%20Consecutive%20Characters.md)
     * [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/103style/LeetCode/blob/master/String/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.md)
-    
+
   
   * #### Medium
     * [3.Longest Substring Without Repeating Characters](https://github.com/103style/LeetCode/blob/master/String/3.Longest%20Substring%20Without%20Repeating%20Characters.md)
     * [5. Longest Palindromic Substring](https://github.com/103style/LeetCode/blob/master/String/5.%20Longest%20Palindromic%20Substring.md):rotating_light:
     * [6. ZigZag Conversion](https://github.com/103style/LeetCode/blob/master/String/6.%20ZigZag%20Conversion.md)
     * [8. String to Integer (atoi)](https://github.com/103style/LeetCode/blob/master/String/8.%20String%20to%20Integer%20(atoi).md)
-    * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in Math group too` 
+    * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in Math group too`
     * [17. Letter Combinations of a Phone Number](https://github.com/103style/LeetCode/blob/master/String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
     * [22. Generate Parentheses](https://github.com/103style/LeetCode/blob/master/String/22.%20Generate%20Parentheses.md)
     * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in Math group too`
@@ -178,15 +179,15 @@ the following probleam is choose by:
   
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md) `in Linked List group too`
-    * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in String group too` 
-    * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in String group too` 
-    * [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) `in Brainteaser group too` 
+    * [12. Integer to Roman](https://github.com/103style/LeetCode/blob/master/Math/12.%20Integer%20to%20Roman.md) `in String group too`
+    * [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) `in String group too`
+    * [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) `in Brainteaser group too`
     * [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) `in HashTable group too` 🚨
     * [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md)
     * [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) `in String group too`
 
   * #### Hard
-  
+
 ---
 
 ### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(20/95)`
@@ -196,7 +197,7 @@ the following probleam is choose by:
     * [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)
     * [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) `in Tree group too`
     * [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md)
-    
+
   * #### Medium
     * [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) `in Stack group too`
     * [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md) `in BFS & Tree group too`
@@ -215,7 +216,7 @@ the following probleam is choose by:
   * #### Hard
     * [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) `in Backtracking group too`🚨
     * [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)
-    
+
 ---
 
 ### [Breadth-first Search](https://github.com/103style/LeetCode/tree/master/Breadth-first%20Search) `(4/68)`
@@ -223,13 +224,13 @@ the following probleam is choose by:
     * [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) `in Tree and DFS group too`
     * [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md) `in Tree and DFS group too`
 
-    
+
   * #### Medium
     * [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md) `in Tree and DFS group too`
     * [515. Find Largest Value in Each Tree Row](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md) `in Tree and DFS group too`
 
   * #### Hard
-    
+
 
 ---
 
@@ -238,13 +239,13 @@ the following probleam is choose by:
     * [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) `in array group too`
     * [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md)
     * [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
-    
+
   * #### Medium
     * [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) `in Tree group too`
     * [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md)`in Dynamic Programming group too`
     * [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
     * [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md)
-    
+
   * #### Hard
 
 ---
@@ -258,7 +259,7 @@ the following probleam is choose by:
     * [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
     * [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md)
     * [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
-    
+
   * #### Medium
     * [2. Add Two Numbers](https://github.com/103style/LeetCode/blob/master/Linked%20List/2.%20Add%20Two%20Numbers.md)
     * [19. Remove Nth Node From End of List](https://github.com/103style/LeetCode/blob/master/Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) `in Two Pointers group too`
@@ -277,11 +278,11 @@ the following probleam is choose by:
     * [725. Split Linked List in Parts](https://github.com/103style/LeetCode/blob/master/Linked%20List/725.%20Split%20Linked%20List%20in%20Parts.md)
     * [817. Linked List Components](https://github.com/103style/LeetCode/blob/master/Linked%20List/817.%20Linked%20List%20Components.md)
     * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) `in Stack group too`🚨
-    
+
   * #### Hard
     * [23.Merge k Sorted Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/23.Merge%20k%20Sorted%20Lists.md)
     * [25. Reverse Nodes in k-Group](https://github.com/103style/LeetCode/blob/master/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group.md)
-    
+
 ---
 
 ### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(27/136)`
@@ -294,8 +295,8 @@ the following probleam is choose by:
    * [700. Search in a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
    * [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) `in DFS group too`
    * [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md)
-   
-   
+
+
  * #### Medium
    * [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) `in Binary Search group too`
    * [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md) `in BFS & DFS group too`
@@ -307,7 +308,7 @@ the following probleam is choose by:
    * [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md)
    * [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.md) `in DFS group too`
- 
+
  * #### Hard
 
 ---
@@ -326,14 +327,14 @@ the following probleam is choose by:
    * [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) `in Math group too`
    * [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md)
    * [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md)
-   
+
  * #### Medium
    * [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) `in String group too`
    * [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) `in Math group too` 🚨
    * [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨
    * [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) `in Array group too`
    * [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) `in tree group too`
-   
+
  * #### Hard
    * [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) `in Stack group too`
 
@@ -351,7 +352,7 @@ the following probleam is choose by:
    * [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md)
    * [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) `in LinkedList group too`🚨
    * [1249. Minimum Remove to Make Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) `in String group too`
-   
+
  * #### Hard
    * [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) `in Array group too`
    * [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) `in Hash Table group too`
@@ -361,7 +362,7 @@ the following probleam is choose by:
 ### [Backtracking](https://github.com/103style/LeetCode/blob/master/Backtracking/)`(1/49)`
  * #### Medium
    * [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md):rotating_light:
-   
+
  * #### Hard
    * [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) `in Depth-first Search group too` 🚨
 
@@ -371,7 +372,7 @@ the following probleam is choose by:
 ### [Greedy](https://github.com/103style/LeetCode/blob/master/Greedy/)`(2/64)`
  * #### Medium
    * [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) `in Two Pointers group too`
-   * [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light:
+   * [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light:
 
 
 ---
@@ -408,10 +409,10 @@ the following probleam is choose by:
     * [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md)
     * [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md)`in Array group too`
     * [1025. Divisor Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1025.%20Divisor%20Game.md)
-    
+
   * #### Medium
     * [5.Longest Palindromic Substring](https://github.com/103style/LeetCode/blob/master/String/5.%20Longest%20Palindromic%20Substring.md)`in String group too`
-    * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md)`in Array group too`
+    * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md)`in Array group too`
     * [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md)`in Binary Search group too`
     * [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md)`in Binary Search group too`
     * [1143. Longest Common Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md)
@@ -427,18 +428,25 @@ the following probleam is choose by:
 ### [Brainteaser](https://github.com/103style/LeetCode/tree/master/Brainteaser)  `2/5`
   * #### Easy
     * [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) `in Minimax group too`
-    
+
   * #### Medium
-    * [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) `in Math group too` 
-    
-    
+    * [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) `in Math group too`
+
+
 ---
 
 ### [Minimax](https://github.com/103style/LeetCode/tree/master/Minimax)  `1/8`
   * #### Easy
     * [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) `in Brainteaser group too`
 
-    
+
+---
+
+### [Geometry](https://github.com/103style/LeetCode/tree/master/Geometry) `1/7`
+  * #### Medium
+    * [1453. Maximum Number of Darts Inside of a Circular Dartboard](https://github.com/103style/LeetCode/blob/master/Geometry/1453.%20Maximum%20Number%20of%20Darts%20Inside%20of%20a%20Circular%20Dartboard.md)
+
+
 ---
 
 ### [Concurrency](https://github.com/103style/LeetCode/tree/master/Concurrency) `1/9`
@@ -459,12 +467,12 @@ the following probleam is choose by:
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  `3`
   * #### Easy
     * [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
-    
-    
+
+
   * #### Medium
     * [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md):rotating_light:
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
-   
+
   * #### Hard
 
 ---
