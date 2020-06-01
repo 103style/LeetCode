@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(204/1444)` → `Easy 91`--`Medium 101`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(204/1467)` → `Easy 94`--`Medium 98`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -37,6 +37,7 @@ the following probleam is choose by:
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Concurrency | `1/9` |
+| Database | `3/112` |
 | other | `5/?` |
 
 
@@ -443,14 +444,21 @@ the following probleam is choose by:
 ### [Concurrency](https://github.com/103style/LeetCode/tree/master/Concurrency) `1/9`
   * #### Medium
     * [1115. Print FooBar Alternately](https://github.com/103style/LeetCode/blob/master/Concurrency/1115.%20Print%20FooBar%20Alternately.md)
- 
+
+---
 
 
-### [other](https://github.com/103style/LeetCode/tree/master/other)  `5`
+### [Database](https://github.com/103style/LeetCode/tree/master/Database) `3/112`
   * #### Easy
     * [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md)
-    * [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
+    * [627. Swap Salary](https://github.com/103style/LeetCode/blob/master/Database/627.%20Swap%20Salary.md)
     * [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light:
+
+---
+
+### [other](https://github.com/103style/LeetCode/tree/master/other)  `3`
+  * #### Easy
+    * [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md)
     
     
   * #### Medium
