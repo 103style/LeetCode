@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(204/1467)` → `Easy 94`--`Medium 98`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(205/1467)` → `Easy 94`--`Medium 99`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `63/248` |
+| Array | `64/248` |
 | String | `37/146` |
 | Math | `17/122` |
 | Depth-first Search | `20/95` |
@@ -33,12 +33,13 @@ the following probleam is choose by:
 | Bit Manipulation | `5/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
-| Dynamic Programming | `13/188` |
+| Dynamic Programming | `14/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
+| Sliding Window | `3/23` |
 | other | `5/?` |
 
 
@@ -212,6 +213,7 @@ the following probleam is choose by:
 | [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | `Array` <br> `HashTable` | **Medium** |
 | [977.Squares of a Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/977.%20Squares%20of%20a%20Sorted%20Array.md) | `Array` <br> `TwoPointers` | **Easy** |
+| [978. Longest Turbulent Subarray](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/978.%20Longest%20Turbulent%20Subarray.md) | `Array` <br> `Dynamic Programming` <br> `Silding Window` | **Medium** |
 | [979. Distribute Coins in Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/979.%20Distribute%20Coins%20in%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Medium** |
 | [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) | `DFS` <br> `BackTracking` | **Hard** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |
