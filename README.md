@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(203/1444)` → `Easy 91`--`Medium 100`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(204/1444)` → `Easy 91`--`Medium 101`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -36,6 +36,7 @@ the following probleam is choose by:
 | Dynamic Programming | `13/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
+| Concurrency | `1/9` |
 | other | `5/?` |
 
 
@@ -438,6 +439,12 @@ the following probleam is choose by:
 
     
 ---
+
+### [Concurrency](https://github.com/103style/LeetCode/tree/master/Concurrency) `1/9`
+  * #### Medium
+    * [1115. Print FooBar Alternately](https://github.com/103style/LeetCode/blob/master/Concurrency/1115.%20Print%20FooBar%20Alternately.md)
+ 
+
 
 ### [other](https://github.com/103style/LeetCode/tree/master/other)  `5`
   * #### Easy
