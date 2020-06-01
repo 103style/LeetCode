@@ -92,7 +92,7 @@ the following probleam is choose by:
     * [34. Find First and Last Position of Element in Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) :rotating_light:
     * [39. Combination Sum](https://github.com/103style/LeetCode/blob/master/Array/39.%20Combination%20Sum.md)
     * [40. Combination Sum II](https://github.com/103style/LeetCode/blob/master/Array/40.%20Combination%20Sum%20II.md)
-    * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light:
+    * [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md) :rotating_light:
     * [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md)
     * [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md)
     * [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md)
@@ -460,7 +460,7 @@ the following probleam is choose by:
   * #### Easy
     * [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md)
     * [627. Swap Salary](https://github.com/103style/LeetCode/blob/master/Database/627.%20Swap%20Salary.md)
-    * [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light:
+    * [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/1179.%20Reformat%20Department%20Table.md):rotating_light:
 
 ---
 
@@ -470,7 +470,7 @@ the following probleam is choose by:
 
 
   * #### Medium
-    * [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md):rotating_light:
+    * [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/797.%20All%20Paths%20From%20Source%20to%20Target.md):rotating_light:
     * [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md)
 
   * #### Hard
