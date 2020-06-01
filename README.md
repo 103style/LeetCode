@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(201/1444)` → `Easy 89`--`Medium 100`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(202/1444)` → `Easy 90`--`Medium 100`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -20,10 +20,10 @@ the following probleam is choose by:
 | Array | `63/248` |
 | String | `36/146` |
 | Math | `17/122` |
-| Depth-first Search | `19/95` |
+| Depth-first Search | `20/95` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
-| Tree | `11/17` |
+| Tree | `12/17` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `9/119` |
 | Stack | `10/57` |
@@ -184,8 +184,9 @@ the following probleam is choose by:
   
 ---
 
-### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(19/95)`
+### [Depth-first Search](https://github.com/103style/LeetCode/tree/master/Depth-first%20Search) `(20/95)`
   * #### Easy
+    * [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) `in Tree group too`
     * [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
     * [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md)
     * [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md)
@@ -262,8 +263,9 @@ the following probleam is choose by:
     
 ---
 
-### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(11/107)`
+### [Tree](https://github.com/103style/LeetCode/tree/master/Tree)`(12/107)`
  * #### Easy
+   * [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) `in DFS and BFS group too`
    * [589. N-ary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
    * [617. Merge Two Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees.md)
    * [700. Search in a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
