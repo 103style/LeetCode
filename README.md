@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(209/1467)` → `Easy 96`--`Medium 101`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(210/1467)` → `Easy 97`--`Medium 101`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -40,6 +40,7 @@ the following probleam is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Sliding Window | `3/23` |
+| Recursion | `4/15` | 
 | other | `5/?` |
 
 
@@ -232,6 +233,7 @@ the following probleam is choose by:
 | [1110. Delete Nodes And Return Forest](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1110.%20Delete%20Nodes%20And%20Return%20Forest.md) | `DFS` <br> `Tree` | **Medium** |
 | [1115. Print FooBar Alternately](https://github.com/103style/LeetCode/blob/master/Concurrency/1115.%20Print%20FooBar%20Alternately.md) | `Concurrency` | **Medium** |
 | [1122. Relative Sort Array](https://github.com/103style/LeetCode/blob/master/Array/1122.%20Relative%20Sort%20Array.md) | `Array` <br> `Sort` | **Easy** |
+| [1137. N-th Tribonacci Number](https://github.com/103style/LeetCode/blob/master/Recursion/1137.%20N-th%20Tribonacci%20Number.md) | `Recursive` | **Easy** |
 | [1143. Longest Common Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | `Dynamic Programming` | **Medium** |
 | [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light: | `Datebase` | **Easy** |
 | [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md) | `HashTable` | **Easy** |
