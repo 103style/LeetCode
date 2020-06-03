@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(208/1467)` → `Easy 95`--`Medium 101`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(209/1467)` → `Easy 96`--`Medium 101`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following probleam is choose by:
 | Bit Manipulation | `5/39` |
 | Two Pointers | `2/30` |
 | Heap | `2/34` |
-| Dynamic Programming | `15/188` |
+| Dynamic Programming | `16/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -92,6 +92,7 @@ the following probleam is choose by:
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
 | [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md) | `String` <br> `Math` | **Hard** |
+| [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
 | [82. Remove Duplicates from Sorted List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) | `LinkedList` | **Medium** |
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
