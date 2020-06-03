@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(210/1467)` → `Easy 97`--`Medium 101`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(211/1467)` → `Easy 97`--`Medium 102`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,10 +24,10 @@ the following probleam is choose by:
 | Breadth-first Search | `4/68` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
-| Tree | `27/136` |
+| Tree | `28/136` |
 | Binary Search Tree | `2/15` |
-| Hash Table | `9/119` |
-| Stack | `10/57` |
+| Hash Table | `10/119` |
+| Stack | `11/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `5/39` |
@@ -100,6 +100,7 @@ the following probleam is choose by:
 | [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) `in Stack group too` | `Array` <br> `Stack` | **Hard** |
 | [86. Partition List](https://github.com/103style/LeetCode/blob/master/Linked%20List/86.%20Partition%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [92. Reverse Linked List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/92.%20Reverse%20Linked%20List%20II.md) | `LinkedList` | **Medium** |
+| [94. Binary Tree Inorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md) | `Stack` <br> `HashTable` <br> `Tree` | **Medium** |
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
 | [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
