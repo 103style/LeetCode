@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(216/1467)` → `Easy 100`--`Medium 103`--`Hard 13`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(217/1467)` → `Easy 100`--`Medium 104`--`Hard 13`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -20,11 +20,11 @@ the following probleam is choose by:
 | Array | `66/248` |
 | String | `41/179` |
 | Math | `18/122` |
-| Depth-first Search | `20/95` |
-| Breadth-first Search | `4/68` |
+| Depth-first Search | `21/95` |
+| Breadth-first Search | `5/68` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
-| Tree | `32/137` |
+| Tree | `33/137` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `10/119` |
 | Stack | `13/57` |
@@ -206,6 +206,7 @@ the following probleam is choose by:
 | [837. New 21 Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/837.%20New%2021%20Game.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
+| [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md) | `String` | **Easy** |
