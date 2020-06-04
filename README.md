@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(212/1467)` → `Easy 97`--`Medium 103`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(213/1467)` → `Easy 98`--`Medium 103`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -18,7 +18,7 @@ the following probleam is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `66/248` |
-| String | `37/146` |
+| String | `41/179` |
 | Math | `18/122` |
 | Depth-first Search | `20/95` |
 | Breadth-first Search | `4/68` |
@@ -31,7 +31,7 @@ the following probleam is choose by:
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `5/39` |
-| Two Pointers | `2/30` |
+| Two Pointers | `21/60` |
 | Heap | `2/34` |
 | Dynamic Programming | `16/188` |
 | Brainteaser | `2/5` |
@@ -209,6 +209,7 @@ the following probleam is choose by:
 | [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light: | `Tree` <br> `Recursion` | **Medium** |
 | [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [905. Sort Array By Parity](https://github.com/103style/LeetCode/blob/master/Array/905.%20Sort%20Array%20By%20Parity.md) | `Array` | **Easy** |
+| [925. Long Pressed Name](https://github.com/103style/LeetCode/blob/master/String/925.%20Long%20Pressed%20Name.md) | `String` <br> `Two Pointer` | **Easy** |
 | [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md) | `String` | **Easy** |
 | [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md) | `Tree` <br> `Recursion` | **Easy** |
 | [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md) | `Math` | **Easy** |
