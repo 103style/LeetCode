@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(214/1467)` → `Easy 99`--`Medium 103`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(215/1467)` → `Easy 100`--`Medium 103`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,7 +24,7 @@ the following probleam is choose by:
 | Breadth-first Search | `4/68` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
-| Tree | `30/137` |
+| Tree | `31/137` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `10/119` |
 | Stack | `12/57` |
@@ -154,6 +154,7 @@ the following probleam is choose by:
 | [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md) | `String` | **Easy** |
 | [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md)🚨 | `Math` <br> `Dynamic Programming` | **Medium** |
 | [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨 | `HashTable` | **Medium** |
+| [530. Minimum Absolute Difference in BST](https://github.com/103style/LeetCode/blob/master/Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.md) | `Tree` | **Easy** |
 | [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md) | `Math` <br> `HashTable` | **Medium** |
 | [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) | `Math` <br> `String` | **Medium** |
 | [539. Minimum Time Difference](https://github.com/103style/LeetCode/blob/master/String/539.%20Minimum%20Time%20Difference.md) | `String` | **Easy** |
