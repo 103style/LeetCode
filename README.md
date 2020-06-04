@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(215/1467)` → `Easy 100`--`Medium 103`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(216/1467)` → `Easy 100`--`Medium 103`--`Hard 13`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,10 +24,10 @@ the following probleam is choose by:
 | Breadth-first Search | `4/68` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
-| Tree | `31/137` |
+| Tree | `32/137` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `10/119` |
-| Stack | `12/57` |
+| Stack | `13/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
 | Bit Manipulation | `5/39` |
@@ -113,6 +113,7 @@ the following probleam is choose by:
 | [142. Linked List Cycle II](https://github.com/103style/LeetCode/blob/master/Linked%20List/142.%20Linked%20List%20Cycle%20II.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [143. Reorder List](https://github.com/103style/LeetCode/blob/master/Linked%20List/143.%20Reorder%20List.md) | `LinkedList` | **Medium** |
 | [144. Binary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md) | `Stack` <br> `Tree` | **Medium** |
+| [145. Binary Tree Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) | `Tree` <br> `Stack` | **Hard** |
 | [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Easy** |
 | [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md) | `Array` <br> `Divide and Conquer` <br> `Bit Manipulation` | **Easy** |
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
