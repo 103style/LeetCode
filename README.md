@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(213/1467)` → `Easy 98`--`Medium 103`--`Hard 12`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(214/1467)` → `Easy 99`--`Medium 103`--`Hard 12`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,7 +24,7 @@ the following probleam is choose by:
 | Breadth-first Search | `4/68` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
-| Tree | `29/136` |
+| Tree | `30/137` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `10/119` |
 | Stack | `12/57` |
@@ -40,7 +40,7 @@ the following probleam is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Sliding Window | `3/23` |
-| Recursion | `4/15` | 
+| Recursion | `5/15` | 
 | other | `5/?` |
 
 
@@ -191,6 +191,7 @@ the following probleam is choose by:
 | [766. Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md) | `Array` | **Easy** |
 | [769. Max Chunks To Make Sorted](https://github.com/103style/LeetCode/blob/master/Array/769.%20Max%20Chunks%20To%20Make%20Sorted.md) | `Array` | **Medium** |
 | [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md) | `HashTable` | **Easy** |
+| [783. Minimum Distance Between BST Nodes](https://github.com/103style/LeetCode/blob/master/Tree/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md) | `Tree` <br> `Recursive` | **Easy** |
 | [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md) | `String` | **Medium** |
 | [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md):rotating_light: | `other` | **Medium** |
 | [804. Unique Morse Code Words](https://github.com/103style/LeetCode/blob/master/String/804.%20Unique%20Morse%20Code%20Words.md) | `String` | **Easy** |
