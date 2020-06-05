@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(217/1467)` → `Easy 100`--`Medium 104`--`Hard 13`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(218/1467)` → `Easy 100`--`Medium 105`--`Hard 13`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `66/248` |
+| Array | `67/248` |
 | String | `41/179` |
 | Math | `18/122` |
 | Depth-first Search | `21/95` |
@@ -89,6 +89,7 @@ the following probleam is choose by:
 | [41. First Missing Positive](https://github.com/103style/LeetCode/blob/master/Array/41.%20First%20Missing%20Positive.md):rotating_light: | `Array` | **Hard** |
 | [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) | `Math` <br> `String` | **Medium** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
+| [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
