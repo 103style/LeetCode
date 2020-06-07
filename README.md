@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(222/1473)` → `Easy 101`--`Medium 108`--`Hard 13`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(223/1473)` → `Easy 101`--`Medium 109`--`Hard 13`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -41,7 +41,7 @@ the following probleam is choose by:
 | Database | `3/112` |
 | Sliding Window | `3/23` |
 | Recursion | `5/15` | 
-| Desigin | `1/49` | 
+| Desigin | `2/49` | 
 | Sort | `5/52` | 
 | other | `5/?` |
 
@@ -274,3 +274,4 @@ the following probleam is choose by:
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.md) | `DFS` <br> `Tree` | **Medium** |
 | [1470. Shuffle the Array](https://github.com/103style/LeetCode/blob/master/Array/1470.%20Shuffle%20the%20Array.md) | `Array` | **Easy** |
 | [1471. The k Strongest Values in an Array](https://github.com/103style/LeetCode/blob/master/Array/1471.%20The%20k%20Strongest%20Values%20in%20an%20Array.md) | `Array` <br> `Sort` | **Medium** |
+| [1472. Design Browser History](https://github.com/103style/LeetCode/blob/master/Design/1472.%20Design%20Browser%20History.md) | `Design` | **Medium** | 
