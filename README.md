@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(228/1473)` → `Easy 102`--`Medium 112`--`Hard 14`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(229/1473)` → `Easy 103`--`Medium 112`--`Hard 14`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,7 +24,7 @@ the following probleam is choose by:
 | Breadth-first Search | `6/68` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
-| Tree | `35/137` |
+| Tree | `36/137` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `10/119` |
 | Stack | `14/57` |
@@ -131,6 +131,7 @@ the following probleam is choose by:
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
+| [226. Invert Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/226.%20Invert%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
