@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(225/1473)` → `Easy 101`--`Medium 111`--`Hard 13`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(226/1473)` → `Easy 101`--`Medium 112`--`Hard 13`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -21,7 +21,7 @@ the following probleam is choose by:
 | String | `41/179` |
 | Math | `18/122` |
 | Depth-first Search | `22/95` |
-| Breadth-first Search | `5/68` |
+| Breadth-first Search | `6/68` |
 | Binary Search | `7/61` |
 | Linked List | `26/38` |
 | Tree | `35/137` |
@@ -112,6 +112,7 @@ the following probleam is choose by:
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
+| [127. Word Ladder](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/127.%20Word%20Ladder.md) 🚨 | `BFS` | **Medium**  |
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md) | `Bit Manipulation` | **Medium** |
 | [138. Copy List with Random Pointer](https://github.com/103style/LeetCode/blob/master/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.md) | `LinkedList` <br> `HashTable` | **Medium** |
