@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(227/1473)` → `Easy 102`--`Medium 112`--`Hard 13`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(228/1473)` → `Easy 102`--`Medium 112`--`Hard 14`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `69/248` |
+| Array | `70/248` |
 | String | `41/179` |
 | Math | `19/122` |
 | Depth-first Search | `22/95` |
@@ -43,7 +43,7 @@ the following probleam is choose by:
 | Recursion | `5/15` | 
 | Desigin | `2/49` | 
 | Sort | `5/52` | 
-| Union Find | `3/29` | 
+| Union Find | `4/29` | 
 | Graph | `3/42` | 
 | other | `5/?` |
 
@@ -113,6 +113,7 @@ the following probleam is choose by:
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
 | [127. Word Ladder](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/127.%20Word%20Ladder.md) 🚨 | `BFS` | **Medium**  |
+| [128. Longest Consecutive Sequence](https://github.com/103style/LeetCode/blob/master/Array/128.%20Longest%20Consecutive%20Sequence.md) 🚨 | `Array` <br> `Union Find` | **Hard** |
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md) | `Bit Manipulation` | **Medium** |
 | [138. Copy List with Random Pointer](https://github.com/103style/LeetCode/blob/master/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.md) | `LinkedList` <br> `HashTable` | **Medium** |
