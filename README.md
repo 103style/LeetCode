@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(224/1473)` → `Easy 101`--`Medium 110`--`Hard 13`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(225/1473)` → `Easy 101`--`Medium 111`--`Hard 13`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -43,6 +43,8 @@ the following probleam is choose by:
 | Recursion | `5/15` | 
 | Desigin | `2/49` | 
 | Sort | `5/52` | 
+| Union Find | `3/29` | 
+| Graph | `3/42` | 
 | other | `5/?` |
 
 
@@ -232,6 +234,7 @@ the following probleam is choose by:
 | [979. Distribute Coins in Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/979.%20Distribute%20Coins%20in%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Medium** |
 | [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) | `DFS` <br> `BackTracking` | **Hard** |
 | [983. Minimum Cost For Tickets](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.md) 🚨 | `Dynamic Programming` | **Medium** |
+| [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |
 | [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) 🚨 | `LinkedList` <br> `Stack` | **Medium** |
 | [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md) | `Stack` | **Easy** |
