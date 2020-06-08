@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(226/1473)` → `Easy 101`--`Medium 112`--`Hard 13`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(227/1473)` → `Easy 102`--`Medium 112`--`Hard 13`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -19,7 +19,7 @@ the following probleam is choose by:
 |:-:|:-:|
 | Array | `69/248` |
 | String | `41/179` |
-| Math | `18/122` |
+| Math | `19/122` |
 | Depth-first Search | `22/95` |
 | Breadth-first Search | `6/68` |
 | Binary Search | `7/61` |
@@ -30,7 +30,7 @@ the following probleam is choose by:
 | Stack | `14/57` |
 | Backtracking | `2/49` |
 | Greedy | `2/64` |
-| Bit Manipulation | `5/39` |
+| Bit Manipulation | `6/39` |
 | Two Pointers | `21/60` |
 | Heap | `2/34` |
 | Dynamic Programming | `17/188` |
@@ -131,6 +131,7 @@ the following probleam is choose by:
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
+| [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
 | [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md) | `Bit Manipulation` | **Medium** |
