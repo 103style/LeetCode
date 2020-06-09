@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(229/1473)` → `Easy 103`--`Medium 112`--`Hard 14`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(230/1473)` → `Easy 104`--`Medium 112`--`Hard 14`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
