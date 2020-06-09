@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(230/1473)` → `Easy 104`--`Medium 112`--`Hard 14`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(231/1473)` → `Easy 104`--`Medium 113`--`Hard 14`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following probleam is choose by:
 | Bit Manipulation | `6/39` |
 | Two Pointers | `21/60` |
 | Heap | `2/34` |
-| Dynamic Programming | `17/188` |
+| Dynamic Programming | `18/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -143,6 +143,7 @@ the following probleam is choose by:
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
 | [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` | **Medium** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
+| [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
