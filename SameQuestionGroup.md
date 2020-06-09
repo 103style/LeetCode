@@ -1,4 +1,4 @@
-| Type | Question |
+| **Tag** | **Title** |
 |:-:|-|
 | **Array** <br> **Two Pointer** | [15. 3Sum](https://github.com/103style/LeetCode/blob/master/Array/15.%203Sum.md) <br> [16. 3Sum Closest](https://github.com/103style/LeetCode/blob/master/Array/16.%203Sum%20Closest.md) <br> [18. 4Sum](https://github.com/103style/LeetCode/blob/master/Array/18.%204Sum.md) |
 | **Stack** | [32. Longest Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/32.%20Longest%20Valid%20Parentheses.md) <br> [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) <br> [1249. Minimum Remove to Make Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) |
