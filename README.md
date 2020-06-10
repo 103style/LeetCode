@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(232/1473)` → `Easy 104`--`Medium 114`--`Hard 14`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(233/1473)` → `Easy 104`--`Medium 115`--`Hard 14`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following probleam is choose by:
 | Bit Manipulation | `6/39` |
 | Two Pointers | `21/60` |
 | Heap | `2/34` |
-| Dynamic Programming | `18/188` |
+| Dynamic Programming | `19/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -164,6 +164,7 @@ the following probleam is choose by:
 | [509. Fibonacci Number](https://github.com/103style/LeetCode/blob/master/Array/509.%20Fibonacci%20Number.md) | `Array` | **Easy** |
 | [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md) | `DFS` <br> `BFS` <br> `Tree` | **Medium** |
 | [515. Find Largest Value in Each Tree Row](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md) | `DFS` <br> `BFS` <br> `Tree` | **Medium** |
+| [518. Coin Change 2](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/518.%20Coin%20Change%202.md) | `Dynamic Programming` | **Medium** |
 | [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md) | `String` | **Easy** |
 | [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md) | `String` | **Easy** |
 | [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md)🚨 | `Math` <br> `Dynamic Programming` | **Medium** |
