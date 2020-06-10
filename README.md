@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(231/1473)` → `Easy 104`--`Medium 113`--`Hard 14`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(232/1473)` → `Easy 104`--`Medium 114`--`Hard 14`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following probleam is choose by:
 | Math | `19/122` |
 | Depth-first Search | `22/95` |
 | Breadth-first Search | `6/68` |
-| Binary Search | `7/61` |
+| Binary Search | `13/84` |
 | Linked List | `26/38` |
 | Tree | `36/137` |
 | Binary Search Tree | `2/15` |
@@ -45,6 +45,7 @@ the following probleam is choose by:
 | Sort | `5/52` | 
 | Union Find | `4/29` | 
 | Graph | `3/42` | 
+| Random | `1/6` |
 | other | `5/?` |
 
 
@@ -167,6 +168,7 @@ the following probleam is choose by:
 | [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md) | `String` | **Easy** |
 | [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md)🚨 | `Math` <br> `Dynamic Programming` | **Medium** |
 | [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨 | `HashTable` | **Medium** |
+| [528. Random Pick with Weight](https://github.com/103style/LeetCode/blob/master/Random/528.%20Random%20Pick%20with%20Weight.md) | `Random` <br> `BinarySerach` | **Medium** |
 | [530. Minimum Absolute Difference in BST](https://github.com/103style/LeetCode/blob/master/Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.md) | `Tree` | **Easy** |
 | [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md) | `Math` <br> `HashTable` | **Medium** |
 | [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) | `Math` <br> `String` | **Medium** |
