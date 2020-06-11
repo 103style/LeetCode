@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(233/1473)` → `Easy 104`--`Medium 115`--`Hard 14`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(234/1473)` → `Easy 104`--`Medium 115`--`Hard 15`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following probleam is choose by:
 | Bit Manipulation | `6/39` |
 | Two Pointers | `21/60` |
 | Heap | `2/34` |
-| Dynamic Programming | `19/188` |
+| Dynamic Programming | `20/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -273,6 +273,7 @@ the following probleam is choose by:
 | [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md) | `DFS` <br> `Tree` | **Medium** |
 | [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md) | `Dynamic Programming` | **Medium** |
 | [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |
+| [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |
 | [1431. Kids With the Greatest Number of Candies](https://github.com/103style/LeetCode/blob/master/Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) | `Array` | **Easy** |
 | [1446. Consecutive Characters](https://github.com/103style/LeetCode/blob/master/String/1446.%20Consecutive%20Characters.md) | `String` | **Easy** |
 | [1450. Number of Students Doing Homework at a Given Time](https://github.com/103style/LeetCode/blob/master/Array/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.md) | `Array` | **Easy** |
