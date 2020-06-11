@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(234/1473)` → `Easy 104`--`Medium 115`--`Hard 15`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(235/1473)` → `Easy 104`--`Medium 116`--`Hard 15`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `70/248` |
+| Array | `71/248` |
 | String | `41/179` |
 | Math | `19/122` |
 | Depth-first Search | `22/95` |
@@ -29,7 +29,7 @@ the following probleam is choose by:
 | Hash Table | `10/119` |
 | Stack | `14/57` |
 | Backtracking | `2/49` |
-| Greedy | `6/80` |
+| Greedy | `7/80` |
 | Bit Manipulation | `6/39` |
 | Two Pointers | `21/60` |
 | Heap | `2/34` |
@@ -252,6 +252,7 @@ the following probleam is choose by:
 | [1029. Two City Scheduling](https://github.com/103style/LeetCode/blob/master/Greedy/1029.%20Two%20City%20Scheduling.md) | `Greedy` | **Easy** |
 | [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md) | `Binary Search Tree` | **Medium** |
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |
+| [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |
 | [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md):rotating_light: | `BackTracking` | **Medium** |
 | [1108.Defanging an IP Address](https://github.com/103style/LeetCode/blob/master/String/1108.%20Defanging%20an%20IP%20Address.md) | `String` | **Easy** |
 | [1109. Corporate Flight Bookings](https://github.com/103style/LeetCode/blob/master/Math/1109.%20Corporate%20Flight%20Bookings.md) 🚨 | `Math` <br> `Array` | **Medium** |
