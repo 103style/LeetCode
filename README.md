@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(235/1473)` → `Easy 104`--`Medium 116`--`Hard 15`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(236/1473)` → `Easy 104`--`Medium 117`--`Hard 15`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `71/248` |
+| Array | `72/248` |
 | String | `41/179` |
 | Math | `19/122` |
 | Depth-first Search | `22/95` |
@@ -31,7 +31,7 @@ the following probleam is choose by:
 | Backtracking | `2/49` |
 | Greedy | `7/80` |
 | Bit Manipulation | `6/39` |
-| Two Pointers | `21/60` |
+| Two Pointers | `22/60` |
 | Heap | `2/34` |
 | Dynamic Programming | `20/188` |
 | Brainteaser | `2/5` |
@@ -42,7 +42,7 @@ the following probleam is choose by:
 | Sliding Window | `3/23` |
 | Recursion | `5/15` | 
 | Desigin | `2/49` | 
-| Sort | `5/52` | 
+| Sort | `6/52` | 
 | Union Find | `4/29` | 
 | Graph | `3/42` | 
 | Random | `1/6` |
@@ -100,6 +100,7 @@ the following probleam is choose by:
 | [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
 | [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md) | `String` <br> `Math` | **Hard** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
+| [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
 | [82. Remove Duplicates from Sorted List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) | `LinkedList` | **Medium** |
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
