@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(238/1483)` → `Easy 105`--`Medium 117`--`Hard 16`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(239/1483)` → `Easy 105`--`Medium 118`--`Hard 16`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `73/248` |
+| Array | `74/248` |
 | String | `41/179` |
 | Math | `19/122` |
 | Depth-first Search | `22/95` |
@@ -42,7 +42,7 @@ the following probleam is choose by:
 | Sliding Window | `3/23` |
 | Recursion | `5/15` | 
 | Desigin | `2/49` | 
-| Sort | `6/52` | 
+| Sort | `7/52` | 
 | Union Find | `4/29` | 
 | Graph | `3/42` | 
 | Random | `1/6` |
@@ -293,4 +293,4 @@ the following probleam is choose by:
 | [1472. Design Browser History](https://github.com/103style/LeetCode/blob/master/Design/1472.%20Design%20Browser%20History.md) | `Design` | **Medium** | 
 | [1473. Paint House III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1473.%20Paint%20House%20III.md) :rotating_light: | `Dynamic Programming` | **Hard** |
 | [5453. Running Sum of 1d Array](https://github.com/103style/LeetCode/blob/master/Array/5453.%20Running%20Sum%20of%201d%20Array.md) | `Array` | **Easy** |
-
+| [5454. Least Number of Unique Integers after K Removals](https://github.com/103style/LeetCode/blob/master/Array/5454.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md) | `Array` <br> `Sort` | **Medium** |
