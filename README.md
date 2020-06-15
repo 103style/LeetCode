@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(240/1483)` → `Easy 105`--`Medium 119`--`Hard 16`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(241/1483)` → `Easy 105`--`Medium 120`--`Hard 16`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following probleam is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `74/248` |
+| Array | `75/248` |
 | String | `41/179` |
 | Math | `19/122` |
 | Depth-first Search | `23/95` |
@@ -33,7 +33,7 @@ the following probleam is choose by:
 | Bit Manipulation | `6/39` |
 | Two Pointers | `22/60` |
 | Heap | `3/34` |
-| Dynamic Programming | `22/188` |
+| Dynamic Programming | `23/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -98,6 +98,7 @@ the following probleam is choose by:
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
+| [63. Unique Paths II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md) | `String` <br> `Math` | **Hard** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
