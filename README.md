@@ -293,5 +293,5 @@ the following probleam is choose by:
 | [1471. The k Strongest Values in an Array](https://github.com/103style/LeetCode/blob/master/Array/1471.%20The%20k%20Strongest%20Values%20in%20an%20Array.md) | `Array` <br> `Sort` | **Medium** |
 | [1472. Design Browser History](https://github.com/103style/LeetCode/blob/master/Design/1472.%20Design%20Browser%20History.md) | `Design` | **Medium** | 
 | [1473. Paint House III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1473.%20Paint%20House%20III.md) :rotating_light: | `Dynamic Programming` | **Hard** |
-| [5453. Running Sum of 1d Array](https://github.com/103style/LeetCode/blob/master/Array/5453.%20Running%20Sum%20of%201d%20Array.md) | `Array` | **Easy** |
-| [5454. Least Number of Unique Integers after K Removals](https://github.com/103style/LeetCode/blob/master/Array/5454.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md) | `Array` <br> `Sort` | **Medium** |
+| [1480. Running Sum of 1d Array](https://github.com/103style/LeetCode/blob/master/Array/1480.%20Running%20Sum%20of%201d%20Array.md) | `Array` | **Easy** |
+| [1481. Least Number of Unique Integers after K Removals](https://github.com/103style/LeetCode/blob/master/Array/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md) | `Array` <br> `Sort` | **Medium** |
