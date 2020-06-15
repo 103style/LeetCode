@@ -97,7 +97,7 @@ the following probleam is choose by:
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
-| [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/*62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
+| [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
 | [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md) | `String` <br> `Math` | **Hard** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
