@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(244/1483)` → `Easy 105`--`Medium 121`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(245/1483)` → `Easy 105`--`Medium 122`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -18,7 +18,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `76/248` |
-| String | `41/179` |
+| String | `42/179` |
 | Math | `19/122` |
 | Depth-first Search | `23/95` |
 | Breadth-first Search | `6/68` |
@@ -281,6 +281,7 @@ the following problem is choose by:
 | [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md) | `Dynamic Programming` | **Medium** |
 | [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |
+| [1419. Minimum Number of Frogs Croaking](https://github.com/103style/LeetCode/blob/master/String/1419.%20Minimum%20Number%20of%20Frogs%20Croaking.md) | `String` | **Medium** |
 | [1431. Kids With the Greatest Number of Candies](https://github.com/103style/LeetCode/blob/master/Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) | `Array` | **Easy** |
 | [1446. Consecutive Characters](https://github.com/103style/LeetCode/blob/master/String/1446.%20Consecutive%20Characters.md) | `String` | **Easy** |
 | [1450. Number of Students Doing Homework at a Given Time](https://github.com/103style/LeetCode/blob/master/Array/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.md) | `Array` | **Easy** |
