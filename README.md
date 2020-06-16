@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(246/1483)` → `Easy 105`--`Medium 123`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(247/1483)` → `Easy 105`--`Medium 124`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Bit Manipulation | `6/39` |
 | Two Pointers | `22/60` |
 | Heap | `3/34` |
-| Dynamic Programming | `25/188` |
+| Dynamic Programming | `26/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -267,6 +267,7 @@ the following problem is choose by:
 | [1122. Relative Sort Array](https://github.com/103style/LeetCode/blob/master/Array/1122.%20Relative%20Sort%20Array.md) | `Array` <br> `Sort` | **Easy** |
 | [1137. N-th Tribonacci Number](https://github.com/103style/LeetCode/blob/master/Recursion/1137.%20N-th%20Tribonacci%20Number.md) | `Recursive` | **Easy** |
 | [1143. Longest Common Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | `Dynamic Programming` | **Medium** |
+| [1155. Number of Dice Rolls With Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md) | `Dynamic Programming` | **Medium** |
 | [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light: | `Datebase` | **Easy** |
 | [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md) | `HashTable` | **Easy** |
 | [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md) | `String` | **Easy** |
