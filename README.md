@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(247/1483)` → `Easy 105`--`Medium 124`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(248/1483)` → `Easy 105`--`Medium 125`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -20,7 +20,7 @@ the following problem is choose by:
 | Array | `77/248` |
 | String | `42/179` |
 | Math | `19/122` |
-| Depth-first Search | `23/95` |
+| Depth-first Search | `24/95` |
 | Breadth-first Search | `6/68` |
 | Binary Search | `15/84` |
 | Linked List | `26/38` |
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Bit Manipulation | `6/39` |
 | Two Pointers | `22/60` |
 | Heap | `3/34` |
-| Dynamic Programming | `26/188` |
+| Dynamic Programming | `27/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -163,6 +163,7 @@ the following problem is choose by:
 | [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | `Array` | **Easy** |
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
 | [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md) | `Array` | **Easy** |
+| [494. Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/494.%20Target%20Sum.md) | `Dynamic Programming` <br> `DFS` | **Medium** |
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
 | [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md) | `Stack` | **Easy** |
 | [503. Next Greater Element II](https://github.com/103style/LeetCode/blob/master/Stack/503.%20Next%20Greater%20Element%20II.md) | `Stack` | **Medium** |
