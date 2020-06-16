@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(243/1483)` → `Easy 105`--`Medium 121`--`Hard 17`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(244/1483)` → `Easy 105`--`Medium 121`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 | Math | `19/122` |
 | Depth-first Search | `23/95` |
 | Breadth-first Search | `6/68` |
-| Binary Search | `13/84` |
+| Binary Search | `14/84` |
 | Linked List | `26/38` |
 | Tree | `37/137` |
 | Binary Search Tree | `2/15` |
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Bit Manipulation | `6/39` |
 | Two Pointers | `22/60` |
 | Heap | `3/34` |
-| Dynamic Programming | `24/188` |
+| Dynamic Programming | `25/188` |
 | Brainteaser | `2/5` |
 | Minimax | `1/8` |
 | Geometry | `1/7` |
@@ -129,6 +129,7 @@ the following problem is choose by:
 | [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Easy** |
 | [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md) | `Array` <br> `Divide and Conquer` <br> `Bit Manipulation` | **Easy** |
 | [173. Binary Search Tree Iterator](https://github.com/103style/LeetCode/blob/master/Tree/173.%20Binary%20Search%20Tree%20Iterator.md) | `Tree` <br> `Stack` <br> `Design` | **Medium** |
+| [174. Dungeon Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/174.%20Dungeon%20Game.md) | `Dynamic Programming` <br> `Binary Search` | **Hard** |
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
