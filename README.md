@@ -3,9 +3,9 @@
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 
-the following probleam is choose by:
+the following problem is choose by:
 
-**choose a tag, get top 20 sort by `index`, and top 20 with the `Acceptance` high to low.**
+**Daily challenges and weekly contest and the same questions as those on [leetcode.com](https://www.leetcode.com) and [leetcode-cn.com](https://leetcode-cn.com).**
 
 ---
 
