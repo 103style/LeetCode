@@ -5,7 +5,7 @@ Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
 the following problem is choose by:
 
-**Daily challenges and weekly contest and the same questions as those on [leetcode.com](https://www.leetcode.com) and [leetcode-cn.com](https://leetcode-cn.com).**
+**the problem of Daily Challenges and Weekly Contest, and the similar problem on [leetcode.com](https://www.leetcode.com) and [leetcode-cn.com](https://leetcode-cn.com).**
 
 ---
 
