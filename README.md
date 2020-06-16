@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(242/1483)` → `Easy 105`--`Medium 121`--`Hard 16`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(243/1483)` → `Easy 105`--`Medium 121`--`Hard 17`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,7 +24,7 @@ the following probleam is choose by:
 | Breadth-first Search | `6/68` |
 | Binary Search | `13/84` |
 | Linked List | `26/38` |
-| Tree | `36/137` |
+| Tree | `37/137` |
 | Binary Search Tree | `2/15` |
 | Hash Table | `10/119` |
 | Stack | `14/57` |
@@ -41,7 +41,7 @@ the following probleam is choose by:
 | Database | `3/112` |
 | Sliding Window | `3/23` |
 | Recursion | `5/15` | 
-| Desigin | `2/49` | 
+| Desigin | `3/49` | 
 | Sort | `7/52` | 
 | Union Find | `4/29` | 
 | Graph | `3/42` | 
@@ -145,6 +145,7 @@ the following probleam is choose by:
 | [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md) | `Array` <br> `Two pointers` | **Easy** |
 | [287. Find the Duplicate Number](https://github.com/103style/LeetCode/blob/master/Array/287.%20Find%20the%20Duplicate%20Number.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Medium** |
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
+| [297. Serialize and Deserialize Binary Tree](https://github.com/103style/LeetCode/blob/master/Design/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) | `Tree` <br> `Design` | **Hard** |
 | [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` | **Medium** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
