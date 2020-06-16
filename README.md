@@ -300,4 +300,4 @@ the following problem is choose by:
 | [1473. Paint House III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1473.%20Paint%20House%20III.md) :rotating_light: | `Dynamic Programming` | **Hard** |
 | [1480. Running Sum of 1d Array](https://github.com/103style/LeetCode/blob/master/Array/1480.%20Running%20Sum%20of%201d%20Array.md) | `Array` | **Easy** |
 | [1481. Least Number of Unique Integers after K Removals](https://github.com/103style/LeetCode/blob/master/Array/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md) | `Array` <br> `Sort` | **Medium** |
-| [1482. Minimum Number of Days to Make m Bouquets](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.md) | `Binary Search` <br> `Array` | **Medium** |
+| [1482. Minimum Number of Days to Make m Bouquets](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.md) 🚨🚨🚨 | `Binary Search` <br> `Array` | **Medium** |
