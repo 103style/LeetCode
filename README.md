@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(251/1483)` → `Easy 106`--`Medium 127`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(252/1483)` → `Easy 106`--`Medium 128`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -28,7 +28,7 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `24/95` |
 | Desigin | `3/49` | 
-| Dynamic Programming | `27/188` |
+| Dynamic Programming | `28/188` |
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
@@ -41,9 +41,9 @@ the following problem is choose by:
 | Random | `1/6` |
 | Sliding Window | `3/23` |
 | Sort | `7/52` | 
-| Stack | `14/57` |
+| Stack | `15/57` |
 | String | `43/179` |
-| Tree | `37/137` |
+| Tree | `38/137` |
 | Two Pointers | `22/60` |
 | Union Find | `4/29` | 
 | other | `5/?` |
@@ -269,6 +269,7 @@ the following problem is choose by:
 | [1110. Delete Nodes And Return Forest](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1110.%20Delete%20Nodes%20And%20Return%20Forest.md) | `DFS` <br> `Tree` | **Medium** |
 | [1115. Print FooBar Alternately](https://github.com/103style/LeetCode/blob/master/Concurrency/1115.%20Print%20FooBar%20Alternately.md) | `Concurrency` | **Medium** |
 | [1122. Relative Sort Array](https://github.com/103style/LeetCode/blob/master/Array/1122.%20Relative%20Sort%20Array.md) | `Array` <br> `Sort` | **Easy** |
+| [1130. Minimum Cost Tree From Leaf Values](https://github.com/103style/LeetCode/blob/master/Tree/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.md) | `Tree` <br> `Stack` <br> `Dynamic Programming` | **Medium** |
 | [1137. N-th Tribonacci Number](https://github.com/103style/LeetCode/blob/master/Recursion/1137.%20N-th%20Tribonacci%20Number.md) | `Recursive` | **Easy** |
 | [1143. Longest Common Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | `Dynamic Programming` | **Medium** |
 | [1155. Number of Dice Rolls With Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md) | `Dynamic Programming` | **Medium** |
