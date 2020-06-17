@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(250/1483)` → `Easy 105`--`Medium 127`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(251/1483)` → `Easy 106`--`Medium 127`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -18,34 +18,34 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `78/248` |
-| String | `43/179` |
-| Math | `19/122` |
-| Depth-first Search | `24/95` |
-| Breadth-first Search | `6/68` |
-| Binary Search | `15/84` |
-| Linked List | `26/38` |
-| Tree | `37/137` |
-| Binary Search Tree | `2/15` |
-| Hash Table | `10/119` |
-| Stack | `14/57` |
 | Backtracking | `2/49` |
-| Greedy | `7/80` |
-| Bit Manipulation | `6/39` |
-| Two Pointers | `22/60` |
-| Heap | `3/34` |
-| Dynamic Programming | `27/188` |
+| Binary Search | `15/84` |
+| Binary Search Tree | `2/15` |
+| Bit Manipulation | `7/39` |
 | Brainteaser | `2/5` |
-| Minimax | `1/8` |
-| Geometry | `1/7` |
+| Breadth-first Search | `6/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Sliding Window | `3/23` |
-| Recursion | `5/15` | 
+| Depth-first Search | `24/95` |
 | Desigin | `3/49` | 
-| Sort | `7/52` | 
-| Union Find | `4/29` | 
+| Dynamic Programming | `27/188` |
+| Geometry | `1/7` |
 | Graph | `3/42` | 
+| Greedy | `7/80` |
+| Hash Table | `10/119` |
+| Heap | `3/34` |
+| Linked List | `26/38` |
+| Math | `19/122` |
+| Minimax | `1/8` |
+| Recursion | `5/15` | 
 | Random | `1/6` |
+| Sliding Window | `3/23` |
+| Sort | `7/52` | 
+| Stack | `14/57` |
+| String | `43/179` |
+| Tree | `37/137` |
+| Two Pointers | `22/60` |
+| Union Find | `4/29` | 
 | other | `5/?` |
 
 
@@ -131,6 +131,7 @@ the following problem is choose by:
 | [173. Binary Search Tree Iterator](https://github.com/103style/LeetCode/blob/master/Tree/173.%20Binary%20Search%20Tree%20Iterator.md) | `Tree` <br> `Stack` <br> `Design` | **Medium** |
 | [174. Dungeon Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/174.%20Dungeon%20Game.md) | `Dynamic Programming` <br> `Binary Search` | **Hard** |
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
+| [190. Reverse Bits](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/190.%20Reverse%20Bits.md) | `Bit Manipulation` | `Easy` |
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
