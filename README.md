@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(249/1483)` → `Easy 105`--`Medium 126`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(250/1483)` → `Easy 105`--`Medium 127`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -18,7 +18,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `78/248` |
-| String | `42/179` |
+| String | `43/179` |
 | Math | `19/122` |
 | Depth-first Search | `24/95` |
 | Breadth-first Search | `6/68` |
@@ -162,6 +162,7 @@ the following problem is choose by:
 | [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md) | `LinkedList` | **Medium** |
 | [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | `Array` | **Easy** |
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
+| [468. Validate IP Address](https://github.com/103style/LeetCode/blob/master/String/468.%20Validate%20IP%20Address.md) | `String` | **Medium** |
 | [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md) | `Array` | **Easy** |
 | [494. Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/494.%20Target%20Sum.md) 🚨 | `Dynamic Programming` <br> `DFS` | **Medium** |
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
