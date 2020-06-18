@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(254/1483)` → `Easy 106`--`Medium 130`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(255/1483)` → `Easy 106`--`Medium 131`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -28,7 +28,7 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `25/95` |
 | Desigin | `3/49` | 
-| Dynamic Programming | `29/188` |
+| Dynamic Programming | `30/188` |
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
@@ -123,6 +123,7 @@ the following problem is choose by:
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md) | `Bit Manipulation` | **Medium** |
 | [138. Copy List with Random Pointer](https://github.com/103style/LeetCode/blob/master/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.md) | `LinkedList` <br> `HashTable` | **Medium** |
+| [139. Word Break](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/139.%20Word%20Break.md) | `Dynamic Programming` | **Medium** |
 | [141. Linked List Cycle](https://github.com/103style/LeetCode/blob/master/Linked%20List/141.%20Linked%20List%20Cycle.md) | `LinkedList` <br> `Two Pointers` | **Easy** |
 | [142. Linked List Cycle II](https://github.com/103style/LeetCode/blob/master/Linked%20List/142.%20Linked%20List%20Cycle%20II.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [143. Reorder List](https://github.com/103style/LeetCode/blob/master/Linked%20List/143.%20Reorder%20List.md) | `LinkedList` | **Medium** |
