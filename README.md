@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(253/1483)` → `Easy 106`--`Medium 129`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(254/1483)` → `Easy 106`--`Medium 130`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -28,7 +28,7 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `25/95` |
 | Desigin | `3/49` | 
-| Dynamic Programming | `28/188` |
+| Dynamic Programming | `29/188` |
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Sliding Window | `3/23` |
 | Sort | `7/52` | 
 | Stack | `15/57` |
-| String | `43/179` |
+| String | `44/179` |
 | Tree | `38/137` |
 | Two Pointers | `22/60` |
 | Union Find | `5/29` | 
@@ -108,6 +108,7 @@ the following problem is choose by:
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
 | [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) `in Stack group too` | `Array` <br> `Stack` | **Hard** |
 | [86. Partition List](https://github.com/103style/LeetCode/blob/master/Linked%20List/86.%20Partition%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
+| [91. Decode Ways](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/91.%20Decode%20Ways.md) | `Dynamic Programming` <br> `String` | **Medium** |
 | [92. Reverse Linked List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/92.%20Reverse%20Linked%20List%20II.md) | `LinkedList` | **Medium** |
 | [94. Binary Tree Inorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md) | `Stack` <br> `HashTable` <br> `Tree` | **Medium** |
 | [98. Validate Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/98.%20Validate%20Binary%20Search%20Tree.md) | `Tree` <br> `DFS` | **Medium** |
