@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(258/1483)` → `Easy 106`--`Medium 134`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(259/1483)` → `Easy 107`--`Medium 134`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -42,9 +42,9 @@ the following problem is choose by:
 | Sliding Window | `3/23` |
 | Sort | `8/52` | 
 | Stack | `15/57` |
-| String | `44/179` |
+| String | `45/179` |
 | Tree | `38/137` |
-| Two Pointers | `22/60` |
+| Two Pointers | `23/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
 
@@ -117,6 +117,7 @@ the following problem is choose by:
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
+| [125. Valid Palindrome](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/125.%20Valid%20Palindrome.md) | `String` <br> `Two Pointer` | **Easy** |
 | [127. Word Ladder](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/127.%20Word%20Ladder.md) 🚨 | `BFS` | **Medium**  |
 | [128. Longest Consecutive Sequence](https://github.com/103style/LeetCode/blob/master/Array/128.%20Longest%20Consecutive%20Sequence.md) 🚨 | `Array` <br> `Union Find` | **Hard** |
 | [130. Surrounded Regions](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/130.%20Surrounded%20Regions.md) | `DFS` <br> `BFS` <br> `Union Find` | **Medium** |
