@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(256/1483)` → `Easy 106`--`Medium 132`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(257/1483)` → `Easy 106`--`Medium 133`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
-| Hash Table | `10/119` |
+| Hash Table | `11/119` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
 | Math | `19/122` |
@@ -40,7 +40,7 @@ the following problem is choose by:
 | Recursion | `5/15` | 
 | Random | `1/6` |
 | Sliding Window | `3/23` |
-| Sort | `7/52` | 
+| Sort | `8/52` | 
 | Stack | `15/57` |
 | String | `44/179` |
 | Tree | `38/137` |
@@ -147,6 +147,7 @@ the following problem is choose by:
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
 | [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md) | `Bit Manipulation` | **Medium** |
 | [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) | `Array` <br> `Math` <br> `Bit Manipulation` | **Easy** |
+| [274. H-Index](https://github.com/103style/LeetCode/blob/master/Sort/274.%20H-Index.md) | `Sort` <br> `HashTable` | **Medium** |
 | [275. H-Index II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/275.%20H-Index%20II.md) | `Binary Search` | **Medium** |
 | [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md) | `Array` <br> `Two pointers` | **Easy** |
 | [287. Find the Duplicate Number](https://github.com/103style/LeetCode/blob/master/Array/287.%20Find%20the%20Duplicate%20Number.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Medium** |
