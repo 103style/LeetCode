@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(255/1483)` → `Easy 106`--`Medium 131`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(256/1483)` → `Easy 106`--`Medium 132`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -19,7 +19,7 @@ the following problem is choose by:
 |:-:|:-:|
 | Array | `78/248` |
 | Backtracking | `2/49` |
-| Binary Search | `15/84` |
+| Binary Search | `16/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `7/39` |
 | Brainteaser | `2/5` |
@@ -147,6 +147,7 @@ the following problem is choose by:
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
 | [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md) | `Bit Manipulation` | **Medium** |
 | [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) | `Array` <br> `Math` <br> `Bit Manipulation` | **Easy** |
+| [275. H-Index II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/275.%20H-Index%20II.md) | `Binary Search` | **Medium** |
 | [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md) | `Array` <br> `Two pointers` | **Easy** |
 | [287. Find the Duplicate Number](https://github.com/103style/LeetCode/blob/master/Array/287.%20Find%20the%20Duplicate%20Number.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Medium** |
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
