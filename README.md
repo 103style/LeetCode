@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(261/1489)` → `Easy 108`--`Medium 135`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(262/1489)` → `Easy 108`--`Medium 136`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `79/248` |
+| Array | `80/261` |
 | Backtracking | `2/49` |
 | Binary Search | `16/84` |
 | Binary Search Tree | `2/15` |
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
-| Hash Table | `12/119` |
+| Hash Table | `13/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
 | Math | `19/122` |
@@ -316,3 +316,4 @@ the following problem is choose by:
 | [1482. Minimum Number of Days to Make m Bouquets](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.md) 🚨🚨🚨 | `Binary Search` <br> `Array` | **Medium** |
 | [1486. XOR Operation in an Array](https://github.com/103style/LeetCode/blob/master/Array/1486.%20XOR%20Operation%20in%20an%20Array.md) | `Array` <br> `Bit Manipulation` | **Easy** |
 | [1487. Making File Names Unique](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1487.%20Making%20File%20Names%20Unique.md) | `String` <br> `HashTable` | **Medium** |
+| [1488. Avoid Flood in The City](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1488.%20Avoid%20Flood%20in%20The%20City.md) | `Array` <br> `HashTable` | **Medium** |
