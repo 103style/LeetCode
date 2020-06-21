@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(259/1483)` → `Easy 107`--`Medium 134`--`Hard 18`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(260/1489)` → `Easy 108`--`Medium 134`--`Hard 18`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,11 +17,11 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `78/248` |
+| Array | `79/248` |
 | Backtracking | `2/49` |
 | Binary Search | `16/84` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `7/39` |
+| Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
 | Breadth-first Search | `7/68` |
 | Concurrency | `1/9` |
@@ -314,3 +314,4 @@ the following problem is choose by:
 | [1480. Running Sum of 1d Array](https://github.com/103style/LeetCode/blob/master/Array/1480.%20Running%20Sum%20of%201d%20Array.md) | `Array` | **Easy** |
 | [1481. Least Number of Unique Integers after K Removals](https://github.com/103style/LeetCode/blob/master/Array/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md) | `Array` <br> `Sort` | **Medium** |
 | [1482. Minimum Number of Days to Make m Bouquets](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.md) 🚨🚨🚨 | `Binary Search` <br> `Array` | **Medium** |
+| [1486. XOR Operation in an Array](https://github.com/103style/LeetCode/blob/master/Array/1486.%20XOR%20Operation%20in%20an%20Array.md) | `Array` <br> `Bit Manipulation` | **Easy** |
