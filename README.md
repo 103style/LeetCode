@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(264/1489)` → `Easy 108`--`Medium 136`--`Hard 20`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(265/1489)` → `Easy 108`--`Medium 137`--`Hard 20`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -18,7 +18,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `80/261` |
-| Backtracking | `2/49` |
+| Backtracking | `10/55` |
 | Binary Search | `16/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Hash Table | `13/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
-| Math | `19/122` |
+| Math | `20/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
@@ -96,6 +96,7 @@ the following problem is choose by:
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
+| [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Medium** |
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
 | [63. Unique Paths II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | `Array` <br> `Dynamic Programming` | **Medium** |
