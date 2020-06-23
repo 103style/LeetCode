@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(267/1489)` → `Easy 109`--`Medium 138`--`Hard 20`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(268/1489)` → `Easy 109`--`Medium 138`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -19,7 +19,7 @@ the following problem is choose by:
 |:-:|:-:|
 | Array | `80/261` |
 | Backtracking | `10/55` |
-| Binary Search | `16/84` |
+| Binary Search | `17/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
-| Hash Table | `13/127` |
+| Hash Table | `14/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
 | Math | `22/122` |
@@ -272,6 +272,7 @@ the following problem is choose by:
 | [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md) | `DFS` <br> `Tree` | **Hard** |
 | [1029. Two City Scheduling](https://github.com/103style/LeetCode/blob/master/Greedy/1029.%20Two%20City%20Scheduling.md) | `Greedy` | **Easy** |
 | [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md) | `Binary Search Tree` | **Medium** |
+| [1044. Longest Duplicate Substring](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1044.%20Longest%20Duplicate%20Substring.md):rotating_light::rotating_light::rotating_light: | `Binary Search` <br> `HashTable` | **Medium** |
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |
 | [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |
 | [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md):rotating_light: | `BackTracking` | **Medium** |
