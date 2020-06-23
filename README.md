@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(266/1489)` → `Easy 109`--`Medium 137`--`Hard 20`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(267/1489)` → `Easy 109`--`Medium 138`--`Hard 20`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -28,14 +28,14 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `26/95` |
 | Desigin | `3/49` | 
-| Dynamic Programming | `31/188` |
+| Dynamic Programming | `32/188` |
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
 | Hash Table | `13/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
-| Math | `21/122` |
+| Math | `22/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
@@ -165,6 +165,7 @@ the following problem is choose by:
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
 | [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md) | `Binary Search` <br> `Two Pointers` <br> `HashTable` <br> `Sort` | **Easy** |
+| [368. Largest Divisible Subset](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/368.%20Largest%20Divisible%20Subset.md) | `Dynamic Programming` <br> `Math` | **Medium** |
 | [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md) | `Binary Search` <br> `*Heap* | **Medium** |
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
