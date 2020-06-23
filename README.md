@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(265/1489)` → `Easy 108`--`Medium 137`--`Hard 20`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(266/1489)` → `Easy 109`--`Medium 137`--`Hard 20`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,14 +35,14 @@ the following problem is choose by:
 | Hash Table | `13/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
-| Math | `20/122` |
+| Math | `21/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
 | Sliding Window | `3/23` |
 | Sort | `8/52` | 
 | Stack | `15/57` |
-| String | `46/179` |
+| String | `47/179` |
 | Tree | `39/137` |
 | Two Pointers | `23/60` |
 | Union Find | `5/29` | 
@@ -102,6 +102,7 @@ the following problem is choose by:
 | [63. Unique Paths II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [64. Minimum Path Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/64.%20Minimum%20Path%20Sum.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md) | `String` <br> `Math` | **Hard** |
+| [67. Add Binary](https://github.com/103style/LeetCode/blob/master/Math/67.%20Add%20Binary.md) | `Math` <br> `String` | **Easy** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
