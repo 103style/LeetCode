@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(268/1489)` → `Easy 109`--`Medium 138`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(269/1489)` → `Easy 109`--`Medium 139`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -19,7 +19,7 @@ the following problem is choose by:
 |:-:|:-:|
 | Array | `80/261` |
 | Backtracking | `10/55` |
-| Binary Search | `17/84` |
+| Binary Search | `18/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
@@ -43,7 +43,7 @@ the following problem is choose by:
 | Sort | `8/52` | 
 | Stack | `15/57` |
 | String | `47/179` |
-| Tree | `39/137` |
+| Tree | `40/137` |
 | Two Pointers | `23/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
@@ -145,6 +145,7 @@ the following problem is choose by:
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
+| [222. Count Complete Tree Nodes](https://github.com/103style/LeetCode/blob/master/Binary%20Search/222.%20Count%20Complete%20Tree%20Nodes.md) | `Tree` <br> `Binary Search` | **Medium** |
 | [226. Invert Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/226.%20Invert%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
