@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(272/1489)` → `Easy 109`--`Medium 142`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(273/1489)` → `Easy 110`--`Medium 142`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -26,7 +26,7 @@ the following problem is choose by:
 | Breadth-first Search | `7/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `27/95` |
+| Depth-first Search | `28/95` |
 | Desigin | `3/49` | 
 | Dynamic Programming | `34/188` |
 | Geometry | `1/7` |
@@ -43,7 +43,7 @@ the following problem is choose by:
 | Sort | `8/52` | 
 | Stack | `15/57` |
 | String | `47/179` |
-| Tree | `43/137` |
+| Tree | `44/137` |
 | Two Pointers | `23/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
@@ -119,6 +119,7 @@ the following problem is choose by:
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
 | [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
+| [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
 | [124. Binary Tree Maximum Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | `DFS` <br> `Tree` | **Hard** |
