@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(271/1489)` → `Easy 109`--`Medium 141`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(272/1489)` → `Easy 109`--`Medium 142`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -26,7 +26,7 @@ the following problem is choose by:
 | Breadth-first Search | `7/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `26/95` |
+| Depth-first Search | `27/95` |
 | Desigin | `3/49` | 
 | Dynamic Programming | `34/188` |
 | Geometry | `1/7` |
@@ -43,7 +43,7 @@ the following problem is choose by:
 | Sort | `8/52` | 
 | Stack | `15/57` |
 | String | `47/179` |
-| Tree | `42/137` |
+| Tree | `43/137` |
 | Two Pointers | `23/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
@@ -125,6 +125,7 @@ the following problem is choose by:
 | [125. Valid Palindrome](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/125.%20Valid%20Palindrome.md) | `String` <br> `Two Pointer` | **Easy** |
 | [127. Word Ladder](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/127.%20Word%20Ladder.md) 🚨 | `BFS` | **Medium**  |
 | [128. Longest Consecutive Sequence](https://github.com/103style/LeetCode/blob/master/Array/128.%20Longest%20Consecutive%20Sequence.md) 🚨 | `Array` <br> `Union Find` | **Hard** |
+| [129. Sum Root to Leaf Numbers](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | `DFS` <br> `Tree` | **Medium** |
 | [130. Surrounded Regions](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/130.%20Surrounded%20Regions.md) | `DFS` <br> `BFS` <br> `Union Find` | **Medium** |
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md) | `Bit Manipulation` | **Medium** |
