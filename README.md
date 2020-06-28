@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(273/1489)` → `Easy 110`--`Medium 142`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(274/1499)` → `Easy 110`--`Medium 143`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,19 +23,19 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
-| Breadth-first Search | `7/68` |
+| Breadth-first Search | `8/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `28/95` |
 | Desigin | `3/49` | 
-| Dynamic Programming | `34/188` |
+| Dynamic Programming | `35/188` |
 | Geometry | `1/7` |
 | Graph | `3/42` | 
 | Greedy | `7/80` |
 | Hash Table | `14/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
-| Math | `22/122` |
+| Math | `23/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
@@ -159,6 +159,7 @@ the following problem is choose by:
 | [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) | `Array` <br> `Math` <br> `Bit Manipulation` | **Easy** |
 | [274. H-Index](https://github.com/103style/LeetCode/blob/master/Sort/274.%20H-Index.md) | `Sort` <br> `HashTable` | **Medium** |
 | [275. H-Index II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/275.%20H-Index%20II.md) | `Binary Search` | **Medium** |
+| [279. Perfect Squares](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/279.%20Perfect%20Squares.md)  🚨 | `Dynamic Programming` <br> `BFS` <br> `Math` | **Medium** |
 | [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md) | `Array` <br> `Two pointers` | **Easy** |
 | [287. Find the Duplicate Number](https://github.com/103style/LeetCode/blob/master/Array/287.%20Find%20the%20Duplicate%20Number.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Medium** |
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
