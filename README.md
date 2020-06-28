@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(278/1499)` → `Easy 112`--`Medium 145`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(279/1499)` → `Easy 112`--`Medium 146`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `82/261` |
+| Array | `83/261` |
 | Backtracking | `10/55` |
 | Binary Search | `18/84` |
 | Binary Search Tree | `2/15` |
@@ -31,11 +31,11 @@ the following problem is choose by:
 | Dynamic Programming | `35/188` |
 | Geometry | `1/7` |
 | Graph | `3/42` | 
-| Greedy | `7/80` |
+| Greedy | `8/80` |
 | Hash Table | `14/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
-| Math | `24/122` |
+| Math | `25/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
@@ -332,3 +332,4 @@ the following problem is choose by:
 | [1492. The kth Factor of n](https://github.com/103style/LeetCode/blob/master/Math/1492.%20The%20kth%20Factor%20of%20n.md) | `Math` | **Medium** |
 | [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/103style/LeetCode/blob/master/Array/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.md) | `Array` | **Medium** |
 | [1496. Path Crossing](https://github.com/103style/LeetCode/blob/master/String/1496.%20Path%20Crossing.md) | `String` | **Easy** |
+| [1497. Check If Array Pairs Are Divisible by k](https://github.com/103style/LeetCode/blob/master/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md) | `Array` <br> `Math` <br> `Greedy` | **Medium** |
