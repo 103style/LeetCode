@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(279/1499)` → `Easy 112`--`Medium 146`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(280/1499)` → `Easy 112`--`Medium 147`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -39,8 +39,8 @@ the following problem is choose by:
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
-| Sliding Window | `3/23` |
-| Sort | `9/52` | 
+| Sliding Window | `4/23` |
+| Sort | `10/52` | 
 | Stack | `15/57` |
 | String | `48/179` |
 | Tree | `44/137` |
@@ -333,3 +333,4 @@ the following problem is choose by:
 | [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/103style/LeetCode/blob/master/Array/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.md) | `Array` | **Medium** |
 | [1496. Path Crossing](https://github.com/103style/LeetCode/blob/master/String/1496.%20Path%20Crossing.md) | `String` | **Easy** |
 | [1497. Check If Array Pairs Are Divisible by k](https://github.com/103style/LeetCode/blob/master/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md) | `Array` <br> `Math` <br> `Greedy` | **Medium** |
+| [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/103style/LeetCode/blob/master/Sort/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.md) | `Sort` <br> `Sliding Window` | **Medium** |
