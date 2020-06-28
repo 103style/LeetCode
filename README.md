@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(274/1499)` → `Easy 110`--`Medium 143`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(275/1499)` → `Easy 111`--`Medium 143`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Sliding Window | `3/23` |
 | Sort | `8/52` | 
 | Stack | `15/57` |
-| String | `47/179` |
+| String | `48/179` |
 | Tree | `44/137` |
 | Two Pointers | `23/60` |
 | Union Find | `5/29` | 
@@ -328,3 +328,4 @@ the following problem is choose by:
 | [1486. XOR Operation in an Array](https://github.com/103style/LeetCode/blob/master/Array/1486.%20XOR%20Operation%20in%20an%20Array.md) | `Array` <br> `Bit Manipulation` | **Easy** |
 | [1487. Making File Names Unique](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1487.%20Making%20File%20Names%20Unique.md) | `String` <br> `HashTable` | **Medium** |
 | [1488. Avoid Flood in The City](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1488.%20Avoid%20Flood%20in%20The%20City.md) | `Array` <br> `HashTable` | **Medium** |
+| [1496. Path Crossing](https://github.com/103style/LeetCode/blob/master/String/1496.%20Path%20Crossing.md) | `String` | **Easy** |
