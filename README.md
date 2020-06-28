@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(280/1499)` → `Easy 112`--`Medium 147`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(281/1499)` → `Easy 112`--`Medium 148`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,9 +17,9 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `83/261` |
+| Array | `84/261` |
 | Backtracking | `10/55` |
-| Binary Search | `18/84` |
+| Binary Search | `19/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
@@ -44,7 +44,7 @@ the following problem is choose by:
 | Stack | `15/57` |
 | String | `48/179` |
 | Tree | `44/137` |
-| Two Pointers | `23/60` |
+| Two Pointers | `24/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
 
@@ -146,6 +146,7 @@ the following problem is choose by:
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
+| [209. Minimum Size Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/209.%20Minimum%20Size%20Subarray%20Sum.md) | `Array` <br> `Two Pointer` <br> `Binary Search` | **Medium** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
