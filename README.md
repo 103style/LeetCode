@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(276/1499)` → `Easy 112`--`Medium 143`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(277/1499)` → `Easy 112`--`Medium 144`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Hash Table | `14/127` |
 | Heap | `3/34` |
 | Linked List | `26/38` |
-| Math | `23/122` |
+| Math | `24/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
@@ -329,4 +329,5 @@ the following problem is choose by:
 | [1487. Making File Names Unique](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1487.%20Making%20File%20Names%20Unique.md) | `String` <br> `HashTable` | **Medium** |
 | [1488. Avoid Flood in The City](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1488.%20Avoid%20Flood%20in%20The%20City.md) | `Array` <br> `HashTable` | **Medium** |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/103style/LeetCode/blob/master/Array/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md) | `Array` <br> `Sort` | **Easy** |
+| [1492. The kth Factor of n](https://github.com/103style/LeetCode/blob/master/Math/1492.%20The%20kth%20Factor%20of%20n.md) | `Math` | **Medium** |
 | [1496. Path Crossing](https://github.com/103style/LeetCode/blob/master/String/1496.%20Path%20Crossing.md) | `String` | **Easy** |
