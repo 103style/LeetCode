@@ -98,7 +98,7 @@ the following problem is choose by:
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Medium** |
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
-| [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md) :rotating_light: | `Array` <br> `Dynamic Programming` | **Medium** |
+| [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [63. Unique Paths II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [64. Minimum Path Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/64.%20Minimum%20Path%20Sum.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md) | `String` <br> `Math` | **Hard** |
@@ -336,4 +336,4 @@ the following problem is choose by:
 | [1496. Path Crossing](https://github.com/103style/LeetCode/blob/master/String/1496.%20Path%20Crossing.md) | `String` | **Easy** |
 | [1497. Check If Array Pairs Are Divisible by k](https://github.com/103style/LeetCode/blob/master/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md) | `Array` <br> `Math` <br> `Greedy` | **Medium** |
 | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/103style/LeetCode/blob/master/Sort/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.md) 🚨 | `Sort` <br> `Sliding Window` | **Medium** |
-| [1499. Max Value of Equation](https://github.com/103style/LeetCode/blob/master/Array/1499.%20Max%20Value%20of%20Equation.md) | `Array` <br> `Sliding Window` | **Hard** |
+| [1499. Max Value of Equation](https://github.com/103style/LeetCode/blob/master/Array/1499.%20Max%20Value%20of%20Equation.md) :rotating_light: | `Array` <br> `Sliding Window` | **Hard** |
