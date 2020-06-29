@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(281/1499)` → `Easy 112`--`Medium 148`--`Hard 21`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(282/1499)` → `Easy 112`--`Medium 149`--`Hard 21`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -26,11 +26,11 @@ the following problem is choose by:
 | Breadth-first Search | `8/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `28/95` |
+| Depth-first Search | `29/95` |
 | Desigin | `3/49` | 
 | Dynamic Programming | `35/188` |
 | Geometry | `1/7` |
-| Graph | `3/42` | 
+| Graph | `4/42` | 
 | Greedy | `8/80` |
 | Hash Table | `14/127` |
 | Heap | `3/34` |
@@ -169,6 +169,7 @@ the following problem is choose by:
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
+| [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md)  🚨 | `DFS` <br> `Graph` | **Medium** |
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
 | [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md) | `Binary Search` <br> `Two Pointers` <br> `HashTable` <br> `Sort` | **Easy** |
