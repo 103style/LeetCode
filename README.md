@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(283/1499)` → `Easy 112`--`Medium 149`--`Hard 22`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(284/1499)` → `Easy 112`--`Medium 150`--`Hard 22`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -27,13 +27,14 @@ the following problem is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `29/95` |
-| Desigin | `3/49` | 
+| Desigin | `3/49` |
+| Divide and Conquer | `4/19` |
 | Dynamic Programming | `35/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `8/80` |
 | Hash Table | `14/127` |
-| Heap | `3/34` |
+| Heap | `4/34` |
 | Linked List | `26/38` |
 | Math | `25/122` |
 | Minimax | `1/8` |
@@ -147,6 +148,7 @@ the following problem is choose by:
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [209. Minimum Size Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/209.%20Minimum%20Size%20Subarray%20Sum.md) | `Array` <br> `Two Pointer` <br> `Binary Search` | **Medium** |
+| [215. Kth Largest Element in an Array](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) 🚨 | `Divide and Conquer` <br> `Heap` | **Medium** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
@@ -160,7 +162,7 @@ the following problem is choose by:
 | [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) | `Array` <br> `Math` <br> `Bit Manipulation` | **Easy** |
 | [274. H-Index](https://github.com/103style/LeetCode/blob/master/Sort/274.%20H-Index.md) | `Sort` <br> `HashTable` | **Medium** |
 | [275. H-Index II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/275.%20H-Index%20II.md) | `Binary Search` | **Medium** |
-| [279. Perfect Squares](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/279.%20Perfect%20Squares.md)  🚨 | `Dynamic Programming` <br> `BFS` <br> `Math` | **Medium** |
+| [279. Perfect Squares](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/279.%20Perfect%20Squares.md) 🚨 | `Dynamic Programming` <br> `BFS` <br> `Math` | **Medium** |
 | [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md) | `Array` <br> `Two pointers` | **Easy** |
 | [287. Find the Duplicate Number](https://github.com/103style/LeetCode/blob/master/Array/287.%20Find%20the%20Duplicate%20Number.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Medium** |
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
@@ -169,7 +171,7 @@ the following problem is choose by:
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
-| [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md)  🚨 | `DFS` <br> `Graph` | **Medium** |
+| [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
 | [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md) | `Binary Search` <br> `Two Pointers` <br> `HashTable` <br> `Sort` | **Easy** |
@@ -194,7 +196,7 @@ the following problem is choose by:
 | [518. Coin Change 2](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/518.%20Coin%20Change%202.md) | `Dynamic Programming` | **Medium** |
 | [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md) | `String` | **Easy** |
 | [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md) | `String` | **Easy** |
-| [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md)🚨 | `Math` <br> `Dynamic Programming` | **Medium** |
+| [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) 🚨 | `Math` <br> `Dynamic Programming` | **Medium** |
 | [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨 | `HashTable` | **Medium** |
 | [528. Random Pick with Weight](https://github.com/103style/LeetCode/blob/master/Random/528.%20Random%20Pick%20with%20Weight.md) 🚨 | `Random` <br> `BinarySerach` | **Medium** |
 | [530. Minimum Absolute Difference in BST](https://github.com/103style/LeetCode/blob/master/Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.md) | `Tree` | **Easy** |
