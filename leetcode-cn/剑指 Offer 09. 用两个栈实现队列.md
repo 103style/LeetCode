@@ -2,7 +2,7 @@
 
 ---
 
-**leetcode Daily Challenge on June 30, 2020.**
+**leetcode-cn Daily Challenge on June 30, 2020.**
 
 ---
 
