@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(284/1499)` → `Easy 112`--`Medium 150`--`Hard 22`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(286/1499)` → `Easy 112`--`Medium 151`--`Hard 23`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -18,7 +18,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `85/261` |
-| Backtracking | `10/55` |
+| Backtracking | `11/55` |
 | Binary Search | `19/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
@@ -27,7 +27,7 @@ the following problem is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `29/95` |
-| Desigin | `3/49` |
+| Desigin | `4/49` |
 | Divide and Conquer | `4/19` |
 | Dynamic Programming | `35/188` |
 | Geometry | `1/7` |
@@ -45,6 +45,7 @@ the following problem is choose by:
 | Stack | `15/57` |
 | String | `48/179` |
 | Tree | `44/137` |
+| Trie | `3/17` |
 | Two Pointers | `24/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
@@ -147,7 +148,9 @@ the following problem is choose by:
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
+| [208. Implement Trie (Prefix Tree)](https://github.com/103style/LeetCode/blob/master/Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md) | `Trie` <br> `Design` | **Medium** | 
 | [209. Minimum Size Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/209.%20Minimum%20Size%20Subarray%20Sum.md) | `Array` <br> `Two Pointer` <br> `Binary Search` | **Medium** |
+| [212. Word Search II](https://github.com/103style/LeetCode/blob/master/Trie/212.%20Word%20Search%20II.md) | `Trie` <br> `Backtracking`  | **Hard** |
 | [215. Kth Largest Element in an Array](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) 🚨 | `Divide and Conquer` <br> `Heap` | **Medium** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
