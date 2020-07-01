@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(286/1499)` → `Easy 112`--`Medium 151`--`Hard 23`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(287/1499)` → `Easy 112`--`Medium 152`--`Hard 23`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,8 +17,8 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `85/261` |
-| Backtracking | `11/55` |
+| Array | `86/261` |
+| Backtracking | `12/55` |
 | Binary Search | `19/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
@@ -108,6 +108,7 @@ the following problem is choose by:
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
+| [79. Word Search](https://github.com/103style/LeetCode/blob/master/Backtracking/79.%20Word%20Search.md) | `Array` <br> `BackTracking` | **Medium** |
 | [82. Remove Duplicates from Sorted List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) | `LinkedList` | **Medium** |
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
 | [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) `in Stack group too` | `Array` <br> `Stack` | **Hard** |
