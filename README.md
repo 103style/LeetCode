@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(287/1499)` → `Easy 112`--`Medium 152`--`Hard 23`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(289/1499)` → `Easy 113`--`Medium 153`--`Hard 23`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,9 +17,9 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `86/261` |
+| Array | `87/261` |
 | Backtracking | `12/55` |
-| Binary Search | `19/84` |
+| Binary Search | `21/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
@@ -29,14 +29,14 @@ the following problem is choose by:
 | Depth-first Search | `29/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `4/19` |
-| Dynamic Programming | `35/188` |
+| Dynamic Programming | `36/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `8/80` |
-| Hash Table | `14/127` |
+| Hash Table | `15/127` |
 | Heap | `4/34` |
 | Linked List | `26/38` |
-| Math | `25/122` |
+| Math | `26/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
@@ -184,6 +184,7 @@ the following problem is choose by:
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
+| [441. Arranging Coins](https://github.com/103style/LeetCode/blob/master/Math/441.%20Arranging%20Coins.md) | `Math` <br> `BinarySearch` | **Easy** |
 | [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) | `Array` | **Medium** |
 | [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md) | `LinkedList` | **Medium** |
 | [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | `Array` | **Easy** |
@@ -232,6 +233,7 @@ the following problem is choose by:
 | [701. Insert into a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md) | `Tree` | **Medium** |
 | [709.To Lower Case](https://github.com/103style/LeetCode/blob/master/String/709.%20To%20Lower%20Case.md) | `String` | **Easy** |
 | [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md) | `Array` | **Easy** |
+| [718. Maximum Length of Repeated Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray.md) | `Array` <br> `BinarySearch` <br> `HashTable` <br> `Dynamic Programming` | **Medium** |
 | [725. Split Linked List in Parts](https://github.com/103style/LeetCode/blob/master/Linked%20List/725.%20Split%20Linked%20List%20in%20Parts.md) | `LinkedList` | **Medium** |
 | [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) | `HashTable` <br> `Stack` <br> `Recursion` | **Hard** |
 | [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md) | `Math` | **Easy** |
