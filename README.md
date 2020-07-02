@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(291/1499)` → `Easy 114`--`Medium 154`--`Hard 23`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(292/1499)` → `Easy 114`--`Medium 155`--`Hard 23`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
-| Breadth-first Search | `9/68` |
+| Breadth-first Search | `10/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `29/95` |
@@ -44,7 +44,7 @@ the following problem is choose by:
 | Sort | `10/52` | 
 | Stack | `15/57` |
 | String | `48/179` |
-| Tree | `45/137` |
+| Tree | `46/137` |
 | Trie | `3/17` |
 | Two Pointers | `24/60` |
 | Union Find | `5/29` | 
@@ -120,6 +120,7 @@ the following problem is choose by:
 | [96. Unique Binary Search Trees](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/96.%20Unique%20Binary%20Search%20Trees.md) | `Tree` <br> `Dynamic Programming` | **Medium** |
 | [98. Validate Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/98.%20Validate%20Binary%20Search%20Tree.md) | `Tree` <br> `DFS` | **Medium** |
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
+| [102. Binary Tree Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` | **Medium** |
 | [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [107. Binary Tree Level Order Traversal II](https://github.com/103style/LeetCode/blob/master/Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) | `Tree` <br> `BFS` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
