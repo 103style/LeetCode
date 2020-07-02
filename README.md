@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(289/1499)` → `Easy 113`--`Medium 153`--`Hard 23`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(290/1499)` → `Easy 113`--`Medium 154`--`Hard 23`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,9 +17,9 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `87/261` |
+| Array | `88/261` |
 | Backtracking | `12/55` |
-| Binary Search | `21/84` |
+| Binary Search | `22/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
@@ -311,6 +311,7 @@ the following problem is choose by:
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/103style/LeetCode/blob/master/Math/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md) | `Math` | **Easy** |
 | [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light: | `Greedy` | **Medium** |
 | [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) | `LinkedList` <br> `Bit Manipulation` | **Easy** |
+| [1300. Sum of Mutated Array Closest to Target](https://github.com/103style/LeetCode/blob/master/Array/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.md) | `Array` <br> `BinarySearch` | **Medium** |
 | [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md) | `DFS` <br> `Tree` | **Medium** |
 | [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md) | `Dynamic Programming` | **Medium** |
 | [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |
