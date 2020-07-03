@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(293/1499)` → `Easy 115`--`Medium 155`--`Hard 23`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(294/1499)` → `Easy 115`--`Medium 155`--`Hard 24`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,13 +17,13 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `88/261` |
-| Backtracking | `12/55` |
+| Array | `89/261` |
+| Backtracking | `13/55` |
 | Binary Search | `22/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `2/5` |
-| Breadth-first Search | `10/68` |
+| Breadth-first Search | `11/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `30/95` |
@@ -43,7 +43,7 @@ the following problem is choose by:
 | Sliding Window | `5/23` |
 | Sort | `10/52` | 
 | Stack | `15/57` |
-| String | `48/179` |
+| String | `49/179` |
 | Tree | `47/137` |
 | Trie | `3/17` |
 | Two Pointers | `24/60` |
@@ -130,6 +130,7 @@ the following problem is choose by:
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
 | [124. Binary Tree Maximum Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | `DFS` <br> `Tree` | **Hard** |
 | [125. Valid Palindrome](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/125.%20Valid%20Palindrome.md) | `String` <br> `Two Pointer` | **Easy** |
+| [126. Word Ladder II](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/126.%20Word%20Ladder%20II.md) 🚨 | `Array` <br> `Backtracking` <br> `String` <br> `BFS`  | **Hard** |
 | [127. Word Ladder](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/127.%20Word%20Ladder.md) 🚨 | `BFS` | **Medium**  |
 | [128. Longest Consecutive Sequence](https://github.com/103style/LeetCode/blob/master/Array/128.%20Longest%20Consecutive%20Sequence.md) 🚨 | `Array` <br> `Union Find` | **Hard** |
 | [129. Sum Root to Leaf Numbers](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | `DFS` <br> `Tree` | **Medium** |
