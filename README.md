@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(294/1499)` → `Easy 115`--`Medium 155`--`Hard 24`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(295/1499)` → `Easy 115`--`Medium 155`--`Hard 25`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,7 +29,7 @@ the following problem is choose by:
 | Depth-first Search | `30/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `4/19` |
-| Dynamic Programming | `36/188` |
+| Dynamic Programming | `37/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `8/80` |
@@ -242,6 +242,7 @@ the following problem is choose by:
 | [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) | `HashTable` <br> `Stack` <br> `Recursion` | **Hard** |
 | [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md) | `Math` | **Easy** |
 | [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md) | `Stack` <br> `HashTable` | **Medium** |
+| [741. Cherry Pickup](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/741.%20Cherry%20Pickup.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
 | [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) | `Greedy` <br> `Two Pointers` | **Medium** |
 | [766. Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md) | `Array` | **Easy** |
