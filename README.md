@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(297/1499)` → `Easy 115`--`Medium 156`--`Hard 26`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(299/1499)` → `Easy 116`--`Medium 157`--`Hard 26`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,14 +29,14 @@ the following problem is choose by:
 | Depth-first Search | `30/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `4/19` |
-| Dynamic Programming | `38/188` |
+| Dynamic Programming | `39/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `9/80` |
 | Hash Table | `16/127` |
-| Heap | `4/34` |
+| Heap | `5/34` |
 | Linked List | `26/38` |
-| Math | `26/122` |
+| Math | `28/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
@@ -168,6 +168,8 @@ the following problem is choose by:
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
 | [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md) | `Bit Manipulation` | **Medium** |
+| [263. Ugly Number](https://github.com/103style/LeetCode/blob/master/Math/263.%20Ugly%20Number.md) | `Math` | **Easy** |
+| [264. Ugly Number II](https://github.com/103style/LeetCode/blob/master/Math/264.%20Ugly%20Number%20II.md) | `Math` <br> `Dynamic Programming` <br> `Heap` | **Medium** |
 | [268. Missing Number](https://github.com/103style/LeetCode/blob/master/Array/268.%20Missing%20Number.md) | `Array` <br> `Math` <br> `Bit Manipulation` | **Easy** |
 | [274. H-Index](https://github.com/103style/LeetCode/blob/master/Sort/274.%20H-Index.md) | `Sort` <br> `HashTable` | **Medium** |
 | [275. H-Index II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/275.%20H-Index%20II.md) | `Binary Search` | **Medium** |
