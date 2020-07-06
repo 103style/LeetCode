@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(300/1499)` → `Easy 117`--`Medium 157`--`Hard 26`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(303/1499)` → `Easy 118`--`Medium 159`--`Hard 26`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,19 +17,19 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `90/261` |
+| Array | `92/261` |
 | Backtracking | `14/55` |
 | Binary Search | `22/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
-| Brainteaser | `2/5` |
+| Brainteaser | `3/5` |
 | Breadth-first Search | `11/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `30/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `4/19` |
-| Dynamic Programming | `39/188` |
+| Dynamic Programming | `40/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `9/80` |
@@ -41,7 +41,7 @@ the following problem is choose by:
 | Recursion | `5/15` | 
 | Random | `1/6` |
 | Sliding Window | `5/23` |
-| Sort | `10/52` | 
+| Sort | `11/52` | 
 | Stack | `15/57` |
 | String | `50/179` |
 | Tree | `47/137` |
@@ -49,7 +49,6 @@ the following problem is choose by:
 | Two Pointers | `24/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
-
 
 ---
 
@@ -356,3 +355,7 @@ the following problem is choose by:
 | [1497. Check If Array Pairs Are Divisible by k](https://github.com/103style/LeetCode/blob/master/Array/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k.md) | `Array` <br> `Math` <br> `Greedy` | **Medium** |
 | [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/103style/LeetCode/blob/master/Sort/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.md) 🚨 | `Sort` <br> `Sliding Window` | **Medium** |
 | [1499. Max Value of Equation](https://github.com/103style/LeetCode/blob/master/Array/1499.%20Max%20Value%20of%20Equation.md) :rotating_light: | `Array` <br> `Sliding Window` | **Hard** |
+| [1502. Can Make Arithmetic Progression From Sequence](https://github.com/103style/LeetCode/blob/master/Sort/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md) | `Array` <br> `Sort` | **Easy** |
+| [1503. Last Moment Before All Ants Fall Out of a Plank](https://github.com/103style/LeetCode/blob/master/Brainteaser/1503.%20Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank.md) | `Array` <br> `Brainteaser` | **Medium** |
+| [1504. Count Submatrices With All Ones](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1504.%20Count%20Submatrices%20With%20All%20Ones.md) | `Dynamic Programming` | **Medium** |
+
