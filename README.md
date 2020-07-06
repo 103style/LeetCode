@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(295/1499)` → `Easy 115`--`Medium 155`--`Hard 25`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(296/1499)` → `Easy 115`--`Medium 155`--`Hard 26`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -18,7 +18,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `89/261` |
-| Backtracking | `13/55` |
+| Backtracking | `14/55` |
 | Binary Search | `22/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
@@ -29,10 +29,10 @@ the following problem is choose by:
 | Depth-first Search | `30/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `4/19` |
-| Dynamic Programming | `37/188` |
+| Dynamic Programming | `38/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
-| Greedy | `8/80` |
+| Greedy | `9/80` |
 | Hash Table | `15/127` |
 | Heap | `4/34` |
 | Linked List | `26/38` |
@@ -43,7 +43,7 @@ the following problem is choose by:
 | Sliding Window | `5/23` |
 | Sort | `10/52` | 
 | Stack | `15/57` |
-| String | `49/179` |
+| String | `50/179` |
 | Tree | `47/137` |
 | Trie | `3/17` |
 | Two Pointers | `24/60` |
@@ -95,6 +95,7 @@ the following problem is choose by:
 | [40. Combination Sum II](https://github.com/103style/LeetCode/blob/master/Array/40.%20Combination%20Sum%20II.md) | `Array` <br> `Backtracking` | **Medium** |
 | [41. First Missing Positive](https://github.com/103style/LeetCode/blob/master/Array/41.%20First%20Missing%20Positive.md):rotating_light: | `Array` | **Hard** |
 | [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) | `Math` <br> `String` | **Medium** |
+| [44. Wildcard Matching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/44.%20Wildcard%20Matching.md) | `String` <br> `Dynamic Programming` <br> `Greedy` <br> `Backtracking` | **Hard** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
