@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(299/1499)` → `Easy 116`--`Medium 157`--`Hard 26`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(300/1499)` → `Easy 117`--`Medium 157`--`Hard 26`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `89/261` |
+| Array | `90/261` |
 | Backtracking | `14/55` |
 | Binary Search | `22/84` |
 | Binary Search Tree | `2/15` |
@@ -105,6 +105,7 @@ the following problem is choose by:
 | [63. Unique Paths II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/63.%20Unique%20Paths%20II.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [64. Minimum Path Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/64.%20Minimum%20Path%20Sum.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [65. Valid Number](https://github.com/103style/LeetCode/blob/master/String/65.%20Valid%20Number.md) | `String` <br> `Math` | **Hard** |
+| [66. Plus One](https://github.com/103style/LeetCode/blob/master/Array/66.%20Plus%20One.md) | `Array` | **Easy** |
 | [67. Add Binary](https://github.com/103style/LeetCode/blob/master/Math/67.%20Add%20Binary.md) | `Math` <br> `String` | **Easy** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
