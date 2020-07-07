@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(303/1499)` → `Easy 118`--`Medium 159`--`Hard 26`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(304/1505)` → `Easy 118`--`Medium 159`--`Hard 27`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Dynamic Programming | `40/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
-| Greedy | `9/80` |
+| Greedy | `10/80` |
 | Hash Table | `16/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
@@ -358,4 +358,4 @@ the following problem is choose by:
 | [1502. Can Make Arithmetic Progression From Sequence](https://github.com/103style/LeetCode/blob/master/Sort/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md) | `Array` <br> `Sort` | **Easy** |
 | [1503. Last Moment Before All Ants Fall Out of a Plank](https://github.com/103style/LeetCode/blob/master/Brainteaser/1503.%20Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank.md) | `Array` <br> `Brainteaser` | **Medium** |
 | [1504. Count Submatrices With All Ones](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1504.%20Count%20Submatrices%20With%20All%20Ones.md) | `Dynamic Programming` | **Medium** |
-
+| [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://github.com/103style/LeetCode/blob/master/Greedy/1505.%20Minimum%20Possible%20Integer%20After%20at%20Most%20K%20Adjacent%20Swaps%20On%20Digits.md) 🚨 | `Greedy` | **Hard** |
