@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(304/1505)` → `Easy 118`--`Medium 159`--`Hard 27`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(305/1505)` → `Easy 118`--`Medium 160`--`Hard 27`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,9 +17,9 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `92/261` |
+| Array | `93/261` |
 | Backtracking | `14/55` |
-| Binary Search | `22/84` |
+| Binary Search | `23/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
@@ -289,6 +289,7 @@ the following problem is choose by:
 | [983. Minimum Cost For Tickets](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |
+| [1011. Capacity To Ship Packages Within D Days](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | `Array` <br> `Binary Search` | **Medium** |
 | [1014. Best Sightseeing Pair](https://github.com/103style/LeetCode/blob/master/Array/1014.%20Best%20Sightseeing%20Pair.md) 🚨 | `Array` | **Medium** |
 | [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) 🚨 | `LinkedList` <br> `Stack` | **Medium** |
 | [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md) | `Stack` | **Easy** |
