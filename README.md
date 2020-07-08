@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(308/1505)` → `Easy 119`--`Medium 161`--`Hard 28`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(309/1505)` → `Easy 119`--`Medium 162`--`Hard 28`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -46,7 +46,7 @@ the following problem is choose by:
 | String | `51/179` |
 | Tree | `47/137` |
 | Trie | `3/17` |
-| Two Pointers | `24/60` |
+| Two Pointers | `25/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
 
@@ -315,6 +315,7 @@ the following problem is choose by:
 | [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light: | `Datebase` | **Easy** |
 | [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md) | `HashTable` | **Easy** |
 | [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md) | `String` | **Easy** |
+| [1248. Count Number of Nice Subarrays](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1248.%20Count%20Number%20of%20Nice%20Subarrays.md) | `Two Pointers` | **Easy** |
 | [1249. Minimum Remove to Make Valid Parentheses](https://github.com/103style/LeetCode/blob/master/String/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md) | `String` <br> `Stack` | **Medium** |
 | [1252. Cells with Odd Values in a Matrix](https://github.com/103style/LeetCode/blob/master/Array/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md) | `Array` | **Easy** |
 | [1261. Find Elements in a Contaminated Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/1261.%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md) | `HashTable` <br> `Tree` | **Medium** |
