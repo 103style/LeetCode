@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(311/1505)` → `Easy 119`--`Medium 164`--`Hard 28`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(313/1505)` → `Easy 119`--`Medium 165`--`Hard 29`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,20 +33,20 @@ the following problem is choose by:
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `10/80` |
-| Hash Table | `17/127` |
+| Hash Table | `19/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
 | Math | `28/122` |
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
-| Sliding Window | `6/23` |
+| Sliding Window | `7/23` |
 | Sort | `11/52` | 
 | Stack | `15/57` |
 | String | `52/179` |
 | Tree | `47/137` |
 | Trie | `3/17` |
-| Two Pointers | `27/60` |
+| Two Pointers | `29/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
 
@@ -275,6 +275,7 @@ the following problem is choose by:
 | [905. Sort Array By Parity](https://github.com/103style/LeetCode/blob/master/Array/905.%20Sort%20Array%20By%20Parity.md) | `Array` | **Easy** |
 | [925. Long Pressed Name](https://github.com/103style/LeetCode/blob/master/String/925.%20Long%20Pressed%20Name.md) | `String` <br> `Two Pointer` | **Easy** |
 | [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md) | `String` | **Easy** |
+| [930. Binary Subarrays With Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/930.%20Binary%20Subarrays%20With%20Sum.md) | `Two Pointers` <br> `HashTable` | **Medium** |
 | [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md) | `Tree` <br> `Recursion` | **Easy** |
 | [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md) | `Math` | **Easy** |
 | [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md) | `Array` | **Medium** |
@@ -289,6 +290,7 @@ the following problem is choose by:
 | [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) | `DFS` <br> `BackTracking` | **Hard** |
 | [983. Minimum Cost For Tickets](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |
+| [992. Subarrays with K Different Integers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers.md) | `Two Pointers` <br> `HashTable` <br> `Sliding Window` | **Hard** |
 | [1004. Max Consecutive Ones III](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III.md) | `Two Pointers` <br> `Sliding Window` | **Medium** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |
 | [1011. Capacity To Ship Packages Within D Days](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | `Array` <br> `Binary Search` | **Medium** |
