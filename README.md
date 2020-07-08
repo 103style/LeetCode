@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(313/1505)` → `Easy 119`--`Medium 165`--`Hard 29`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(314/1505)` → `Easy 119`--`Medium 166`--`Hard 29`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -46,7 +46,7 @@ the following problem is choose by:
 | String | `52/179` |
 | Tree | `47/137` |
 | Trie | `3/17` |
-| Two Pointers | `29/60` |
+| Two Pointers | `30/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
 
@@ -272,6 +272,7 @@ the following problem is choose by:
 | [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md) | `String` | **Easy** |
 | [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light: | `Tree` <br> `Recursion` | **Medium** |
 | [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
+| [904. Fruit Into Baskets](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/904.%20Fruit%20Into%20Baskets.md) | `Two Pointers` | **Medium** |
 | [905. Sort Array By Parity](https://github.com/103style/LeetCode/blob/master/Array/905.%20Sort%20Array%20By%20Parity.md) | `Array` | **Easy** |
 | [925. Long Pressed Name](https://github.com/103style/LeetCode/blob/master/String/925.%20Long%20Pressed%20Name.md) | `String` <br> `Two Pointer` | **Easy** |
 | [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md) | `String` | **Easy** |
