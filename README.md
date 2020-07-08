@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(310/1505)` → `Easy 119`--`Medium 163`--`Hard 28`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(311/1505)` → `Easy 119`--`Medium 164`--`Hard 28`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -40,13 +40,13 @@ the following problem is choose by:
 | Minimax | `1/8` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
-| Sliding Window | `5/23` |
+| Sliding Window | `6/23` |
 | Sort | `11/52` | 
 | Stack | `15/57` |
 | String | `52/179` |
 | Tree | `47/137` |
 | Trie | `3/17` |
-| Two Pointers | `26/60` |
+| Two Pointers | `27/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
 
@@ -289,6 +289,7 @@ the following problem is choose by:
 | [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) | `DFS` <br> `BackTracking` | **Hard** |
 | [983. Minimum Cost For Tickets](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |
+| [1004. Max Consecutive Ones III](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III.md) | `Two Pointers` <br> `Sliding Window` | **Medium** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |
 | [1011. Capacity To Ship Packages Within D Days](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | `Array` <br> `Binary Search` | **Medium** |
 | [1014. Best Sightseeing Pair](https://github.com/103style/LeetCode/blob/master/Array/1014.%20Best%20Sightseeing%20Pair.md) 🚨 | `Array` | **Medium** |
