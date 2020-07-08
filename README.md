@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(314/1505)` → `Easy 119`--`Medium 166`--`Hard 29`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(315/1505)` → `Easy 119`--`Medium 166`--`Hard 30`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -19,7 +19,7 @@ the following problem is choose by:
 |:-:|:-:|
 | Array | `93/261` |
 | Backtracking | `14/55` |
-| Binary Search | `23/84` |
+| Binary Search | `24/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
@@ -38,6 +38,7 @@ the following problem is choose by:
 | Linked List | `26/38` |
 | Math | `28/122` |
 | Minimax | `1/8` |
+| Queue | `1/9` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
 | Sliding Window | `7/23` |
@@ -266,6 +267,7 @@ the following problem is choose by:
 | [837. New 21 Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/837.%20New%2021%20Game.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
+| [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |
