@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(315/1505)` → `Easy 119`--`Medium 166`--`Hard 30`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(316/1505)` → `Easy 119`--`Medium 167`--`Hard 30`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -45,7 +45,7 @@ the following problem is choose by:
 | Sort | `11/52` | 
 | Stack | `15/57` |
 | String | `52/179` |
-| Tree | `47/137` |
+| Tree | `48/137` |
 | Trie | `3/17` |
 | Two Pointers | `30/60` |
 | Union Find | `5/29` | 
@@ -233,6 +233,7 @@ the following problem is choose by:
 | [654.Maximum Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [657. Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/657.%20Judge%20Route%20Circle.md) | `String` | **Easy** |
 | [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md) | `Array` | **Easy** |
+| [662. Maximum Width of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md) | `Array` | **Medium** |
 | [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md) | `Array` | **Easy** |
 | [692. Top K Frequent Words](https://github.com/103style/LeetCode/blob/master/Heap/692.%20Top%20K%20Frequent%20Words.md) | `HashTable` <br> `Heap` <br> `Trie` | **Medium** |
