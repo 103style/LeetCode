@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(316/1505)` → `Easy 119`--`Medium 167`--`Hard 30`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(317/1505)` → `Easy 119`--`Medium 168`--`Hard 30`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,7 +29,7 @@ the following problem is choose by:
 | Depth-first Search | `30/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `4/19` |
-| Dynamic Programming | `41/188` |
+| Dynamic Programming | `42/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `10/80` |
@@ -180,6 +180,7 @@ the following problem is choose by:
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
 | [297. Serialize and Deserialize Binary Tree](https://github.com/103style/LeetCode/blob/master/Design/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) | `Tree` <br> `Design` | **Hard** |
 | [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` | **Medium** |
+| [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
