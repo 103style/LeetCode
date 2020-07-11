@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(317/1505)` → `Easy 119`--`Medium 168`--`Hard 30`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(318/1505)` → `Easy 119`--`Medium 168`--`Hard 31`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -19,7 +19,8 @@ the following problem is choose by:
 |:-:|:-:|
 | Array | `93/261` |
 | Backtracking | `14/55` |
-| Binary Search | `24/84` |
+| Binary Indexed Tree | `1/6` |
+| Binary Search | `25/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
@@ -28,7 +29,7 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `30/95` |
 | Desigin | `4/49` |
-| Divide and Conquer | `4/19` |
+| Divide and Conquer | `5/19` |
 | Dynamic Programming | `42/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
@@ -41,8 +42,9 @@ the following problem is choose by:
 | Queue | `1/9` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
+| Segment Tree | `1/12` |
 | Sliding Window | `7/23` |
-| Sort | `11/52` | 
+| Sort | `12/52` | 
 | Stack | `15/57` |
 | String | `52/179` |
 | Tree | `48/137` |
@@ -181,6 +183,7 @@ the following problem is choose by:
 | [297. Serialize and Deserialize Binary Tree](https://github.com/103style/LeetCode/blob/master/Design/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) | `Tree` <br> `Design` | **Hard** |
 | [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` | **Medium** |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) 🚨 | `Dynamic Programming` | **Medium** |
+| [315. Count of Smaller Numbers After Self](https://github.com/103style/LeetCode/blob/master/Binary%20Search/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md) | `Binary Search` <br> `Binary Indexed Tree` <br> `Divide and Conquer` <br> `Sort` <br> `Segment Tree` | **Hard** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
