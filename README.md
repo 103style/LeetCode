@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(319/1505)` → `Easy 120`--`Medium 168`--`Hard 31`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(320/1505)` → `Easy 121`--`Medium 168`--`Hard 31`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `93/261` |
+| Array | `94/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `1/6` |
 | Binary Search | `26/84` |
@@ -34,7 +34,7 @@ the following problem is choose by:
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `10/80` |
-| Hash Table | `20/127` |
+| Hash Table | `21/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
 | Math | `28/122` |
@@ -300,6 +300,7 @@ the following problem is choose by:
 | [983. Minimum Cost For Tickets](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |
 | [992. Subarrays with K Different Integers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers.md) | `Two Pointers` <br> `HashTable` <br> `Sliding Window` | **Hard** |
+| [1002. Find Common Characters](https://github.com/103style/LeetCode/blob/master/Array/1002.%20Find%20Common%20Characters.md) | `Array` <br> `HashTable` | **Easy** |
 | [1004. Max Consecutive Ones III](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III.md) | `Two Pointers` <br> `Sliding Window` | **Medium** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |
 | [1011. Capacity To Ship Packages Within D Days](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | `Array` <br> `Binary Search` | **Medium** |
