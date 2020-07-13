@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(318/1505)` → `Easy 119`--`Medium 168`--`Hard 31`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(319/1505)` → `Easy 120`--`Medium 168`--`Hard 31`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -20,7 +20,7 @@ the following problem is choose by:
 | Array | `93/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `1/6` |
-| Binary Search | `25/84` |
+| Binary Search | `26/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
@@ -34,7 +34,7 @@ the following problem is choose by:
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `10/80` |
-| Hash Table | `19/127` |
+| Hash Table | `20/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
 | Math | `28/122` |
@@ -44,12 +44,12 @@ the following problem is choose by:
 | Random | `1/6` |
 | Segment Tree | `1/12` |
 | Sliding Window | `7/23` |
-| Sort | `12/52` | 
+| Sort | `13/52` | 
 | Stack | `15/57` |
 | String | `52/179` |
 | Tree | `48/137` |
 | Trie | `3/17` |
-| Two Pointers | `30/60` |
+| Two Pointers | `31/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
 
@@ -191,6 +191,7 @@ the following problem is choose by:
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
 | [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md) | `Binary Search` <br> `Two Pointers` <br> `HashTable` <br> `Sort` | **Easy** |
+| [350. Intersection of Two Arrays II](https://github.com/103style/LeetCode/blob/master/Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II.md) | `HashTable` <br> `Two Pointers` <br> `BinarySearch` <br> `Sort` | **Easy** |
 | [368. Largest Divisible Subset](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/368.%20Largest%20Divisible%20Subset.md) | `Dynamic Programming` <br> `Math` | **Medium** |
 | [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md) | `Binary Search` <br> `Heap` | **Medium** |
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
