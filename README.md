@@ -27,7 +27,7 @@ the following problem is choose by:
 | Breadth-first Search | `11/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `30/95` |
+| Depth-first Search | `31/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
 | Dynamic Programming | `42/188` |
@@ -47,7 +47,7 @@ the following problem is choose by:
 | Sort | `13/52` | 
 | Stack | `15/57` |
 | String | `52/179` |
-| Tree | `48/137` |
+| Tree | `49/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -123,6 +123,7 @@ the following problem is choose by:
 | [95. Unique Binary Search Trees II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/95.%20Unique%20Binary%20Search%20Trees%20II.md) | `Tree` <br> `Dynamic Programming` | **Medium** |
 | [96. Unique Binary Search Trees](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/96.%20Unique%20Binary%20Search%20Trees.md) | `Tree` <br> `Dynamic Programming` | **Medium** |
 | [98. Validate Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/98.%20Validate%20Binary%20Search%20Tree.md) | `Tree` <br> `DFS` | **Medium** |
+| [100. Same Tree](https://github.com/103style/LeetCode/blob/master/Tree/100.%20Same%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
 | [102. Binary Tree Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` | **Medium** |
 | [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
