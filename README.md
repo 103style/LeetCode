@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(323/1505)` → `Easy 122`--`Medium 169`--`Hard 32`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(324/1505)` → `Easy 122`--`Medium 169`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -30,7 +30,7 @@ the following problem is choose by:
 | Depth-first Search | `31/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
-| Dynamic Programming | `44/188` |
+| Dynamic Programming | `45/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `10/80` |
@@ -155,6 +155,7 @@ the following problem is choose by:
 | [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md) | `Array` <br> `Divide and Conquer` <br> `Bit Manipulation` | **Easy** |
 | [173. Binary Search Tree Iterator](https://github.com/103style/LeetCode/blob/master/Tree/173.%20Binary%20Search%20Tree%20Iterator.md) | `Tree` <br> `Stack` <br> `Design` | **Medium** |
 | [174. Dungeon Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/174.%20Dungeon%20Game.md) | `Dynamic Programming` <br> `Binary Search` | **Hard** |
+| [188. Best Time to Buy and Sell Stock IV](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md) | `Dynamic Programming` | **Hard** |
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
 | [190. Reverse Bits](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/190.%20Reverse%20Bits.md) | `Bit Manipulation` | `Easy` |
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
