@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(322/1505)` → `Easy 122`--`Medium 169`--`Hard 31`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(323/1505)` → `Easy 122`--`Medium 169`--`Hard 32`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `95/261` |
+| Array | `96/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `1/6` |
 | Binary Search | `26/84` |
@@ -30,7 +30,7 @@ the following problem is choose by:
 | Depth-first Search | `31/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
-| Dynamic Programming | `43/188` |
+| Dynamic Programming | `44/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `10/80` |
@@ -134,6 +134,7 @@ the following problem is choose by:
 | [120. Triangle](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/120.%20Triangle.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
+| [123. Best Time to Buy and Sell Stock III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md) | `Array` <br> `Dynamic Programming` | **Hrad** |
 | [124. Binary Tree Maximum Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | `DFS` <br> `Tree` | **Hard** |
 | [125. Valid Palindrome](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/125.%20Valid%20Palindrome.md) | `String` <br> `Two Pointer` | **Easy** |
 | [126. Word Ladder II](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/126.%20Word%20Ladder%20II.md) 🚨 | `Array` <br> `Backtracking` <br> `String` <br> `BFS`  | **Hard** |
