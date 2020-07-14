@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(321/1505)` → `Easy 122`--`Medium 168`--`Hard 31`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(322/1505)` → `Easy 122`--`Medium 169`--`Hard 31`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `94/261` |
+| Array | `95/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `1/6` |
 | Binary Search | `26/84` |
@@ -30,7 +30,7 @@ the following problem is choose by:
 | Depth-first Search | `31/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
-| Dynamic Programming | `42/188` |
+| Dynamic Programming | `43/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `10/80` |
@@ -115,7 +115,7 @@ the following problem is choose by:
 | [79. Word Search](https://github.com/103style/LeetCode/blob/master/Backtracking/79.%20Word%20Search.md) | `Array` <br> `BackTracking` | **Medium** |
 | [82. Remove Duplicates from Sorted List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) | `LinkedList` | **Medium** |
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
-| [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) `in Stack group too` | `Array` <br> `Stack` | **Hard** |
+| [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) | `Array` <br> `Stack` | **Hard** |
 | [86. Partition List](https://github.com/103style/LeetCode/blob/master/Linked%20List/86.%20Partition%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [91. Decode Ways](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/91.%20Decode%20Ways.md) | `Dynamic Programming` <br> `String` | **Medium** |
 | [92. Reverse Linked List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/92.%20Reverse%20Linked%20List%20II.md) | `LinkedList` | **Medium** |
@@ -131,6 +131,7 @@ the following problem is choose by:
 | [108. Convert Sorted Array to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
+| [120. Triangle](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/120.%20Triangle.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
 | [124. Binary Tree Maximum Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | `DFS` <br> `Tree` | **Hard** |
