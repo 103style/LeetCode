@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(324/1505)` → `Easy 122`--`Medium 169`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(325/1505)` → `Easy 122`--`Medium 170`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `96/261` |
+| Array | `97/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `1/6` |
 | Binary Search | `26/84` |
@@ -30,10 +30,10 @@ the following problem is choose by:
 | Depth-first Search | `31/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
-| Dynamic Programming | `45/188` |
+| Dynamic Programming | `46/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
-| Greedy | `10/80` |
+| Greedy | `11/80` |
 | Hash Table | `21/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
@@ -251,6 +251,7 @@ the following problem is choose by:
 | [700. Search in a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
 | [701. Insert into a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md) | `Tree` | **Medium** |
 | [709.To Lower Case](https://github.com/103style/LeetCode/blob/master/String/709.%20To%20Lower%20Case.md) | `String` | **Easy** |
+| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | `Array` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md) | `Array` | **Easy** |
 | [718. Maximum Length of Repeated Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray.md) | `Array` <br> `BinarySearch` <br> `HashTable` <br> `Dynamic Programming` | **Medium** |
 | [725. Split Linked List in Parts](https://github.com/103style/LeetCode/blob/master/Linked%20List/725.%20Split%20Linked%20List%20in%20Parts.md) | `LinkedList` | **Medium** |
