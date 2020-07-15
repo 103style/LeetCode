@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(325/1505)` → `Easy 122`--`Medium 170`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(326/1505)` → `Easy 122`--`Medium 171`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -37,7 +37,7 @@ the following problem is choose by:
 | Hash Table | `21/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
-| Math | `28/122` |
+| Math | `29/122` |
 | Minimax | `1/8` |
 | Queue | `1/9` |
 | Recursion | `5/15` | 
@@ -347,6 +347,7 @@ the following problem is choose by:
 | [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md) | `Dynamic Programming` | **Medium** |
 | [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |
+| [1344. Angle Between Hands of a Clock](https://github.com/103style/LeetCode/blob/master/Math/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md) | `Math` | **Medium** |
 | [1358. Number of Substrings Containing All Three Characters](https://github.com/103style/LeetCode/blob/master/String/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.md) | `String` | **Medium** |
 | [1419. Minimum Number of Frogs Croaking](https://github.com/103style/LeetCode/blob/master/String/1419.%20Minimum%20Number%20of%20Frogs%20Croaking.md) | `String` | **Medium** |
 | [1425. Constrained Subsequence Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1425.%20Constrained%20Subsequence%20Sum.md) | `Dynamic Programming` | **Hard** |
