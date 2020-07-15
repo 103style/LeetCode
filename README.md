@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(326/1505)` → `Easy 122`--`Medium 171`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(327/1505)` → `Easy 122`--`Medium 172`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Dynamic Programming | `46/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
-| Greedy | `11/80` |
+| Greedy | `12/80` |
 | Hash Table | `21/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
@@ -200,6 +200,7 @@ the following problem is choose by:
 | [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md) | `Binary Search` <br> `Heap` | **Medium** |
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
+| [406. Queue Reconstruction by Height](https://github.com/103style/LeetCode/blob/master/Greedy/406.%20Queue%20Reconstruction%20by%20Height.md) | `Greedy` | **Medium** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [441. Arranging Coins](https://github.com/103style/LeetCode/blob/master/Math/441.%20Arranging%20Coins.md) | `Math` <br> `BinarySearch` | **Easy** |
 | [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) | `Array` | **Medium** |
