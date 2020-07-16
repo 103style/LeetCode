@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(327/1505)` → `Easy 122`--`Medium 172`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(328/1505)` → `Easy 122`--`Medium 173`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -46,7 +46,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `13/52` | 
 | Stack | `15/57` |
-| String | `52/179` |
+| String | `53/179` |
 | Tree | `49/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
@@ -151,6 +151,7 @@ the following problem is choose by:
 | [143. Reorder List](https://github.com/103style/LeetCode/blob/master/Linked%20List/143.%20Reorder%20List.md) | `LinkedList` | **Medium** |
 | [144. Binary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md) | `Stack` <br> `Tree` | **Medium** |
 | [145. Binary Tree Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) | `Tree` <br> `Stack` | **Hard** |
+| [151. Reverse Words in a String](https://github.com/103style/LeetCode/blob/master/String/151.%20Reverse%20Words%20in%20a%20String.md) | `String` | **Medium** |
 | [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Easy** |
 | [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md) | `Array` <br> `Divide and Conquer` <br> `Bit Manipulation` | **Easy** |
 | [173. Binary Search Tree Iterator](https://github.com/103style/LeetCode/blob/master/Tree/173.%20Binary%20Search%20Tree%20Iterator.md) | `Tree` <br> `Stack` <br> `Design` | **Medium** |
