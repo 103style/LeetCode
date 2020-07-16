@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(328/1505)` → `Easy 122`--`Medium 173`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(330/1505)` → `Easy 123`--`Medium 174`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -19,7 +19,7 @@ the following problem is choose by:
 |:-:|:-:|
 | Array | `97/261` |
 | Backtracking | `14/55` |
-| Binary Indexed Tree | `1/6` |
+| Binary Indexed Tree | `2/6` |
 | Binary Search | `26/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
@@ -30,7 +30,7 @@ the following problem is choose by:
 | Depth-first Search | `31/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
-| Dynamic Programming | `46/188` |
+| Dynamic Programming | `47/188` |
 | Geometry | `1/7` |
 | Graph | `4/42` | 
 | Greedy | `12/80` |
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Queue | `1/9` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
-| Segment Tree | `1/12` |
+| Segment Tree | `2/12` |
 | Sliding Window | `7/23` |
 | Sort | `13/52` | 
 | Stack | `15/57` |
@@ -187,6 +187,8 @@ the following problem is choose by:
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
 | [297. Serialize and Deserialize Binary Tree](https://github.com/103style/LeetCode/blob/master/Design/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) | `Tree` <br> `Design` | **Hard** |
 | [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` | **Medium** |
+| [303. Range Sum Query - Immutable](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/303.%20Range%20Sum%20Query%20-%20Immutable.md) | `Dynamic Programming` | **Easy** |
+| [307. Range Sum Query - Mutable](https://github.com/103style/LeetCode/blob/master/Binary%20Indexed%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable.md) | `Binary Indexed Tree` <br> `Segment Tree` | **Medium** |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [315. Count of Smaller Numbers After Self](https://github.com/103style/LeetCode/blob/master/Binary%20Search/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md) | `Binary Search` <br> `Binary Indexed Tree` <br> `Divide and Conquer` <br> `Sort` <br> `Segment Tree` | **Hard** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
