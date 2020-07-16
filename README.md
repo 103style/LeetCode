@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(330/1505)` → `Easy 123`--`Medium 174`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(331/1505)` → `Easy 123`--`Medium 175`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,15 +24,15 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `11/68` |
+| Breadth-first Search | `12/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `31/95` |
+| Depth-first Search | `32/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
 | Dynamic Programming | `47/188` |
 | Geometry | `1/7` |
-| Graph | `4/42` | 
+| Graph | `5/42` | 
 | Greedy | `12/80` |
 | Hash Table | `21/127` |
 | Heap | `5/34` |
@@ -269,6 +269,7 @@ the following problem is choose by:
 | [769. Max Chunks To Make Sorted](https://github.com/103style/LeetCode/blob/master/Array/769.%20Max%20Chunks%20To%20Make%20Sorted.md) | `Array` | **Medium** |
 | [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md) | `HashTable` | **Easy** |
 | [783. Minimum Distance Between BST Nodes](https://github.com/103style/LeetCode/blob/master/Tree/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md) | `Tree` <br> `Recursive` | **Easy** |
+| [785. Is Graph Bipartite?](https://github.com/103style/LeetCode/blob/master/Graph/785.%20Is%20Graph%20Bipartite%3F.md) | `DFS` <br> `BFS` <br> `Graph` | **Medium** |
 | [787. Cheapest Flights Within K Stops](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) 🚨 | `Dynamic Programming` <br> `DFS` <br> `Heap` | **Medium** |
 | [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md) | `String` | **Medium** |
 | [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md) :rotating_light: | `other` | **Medium** |
