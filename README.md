@@ -392,5 +392,4 @@ the following problem is choose by:
 | [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://github.com/103style/LeetCode/blob/master/Greedy/1505.%20Minimum%20Possible%20Integer%20After%20at%20Most%20K%20Adjacent%20Swaps%20On%20Digits.md) 🚨 | `Greedy` | **Hard** |
 | [1507. Reformat Date](https://github.com/103style/LeetCode/blob/master/String/1507.%20Reformat%20Date.md) | `String` | **Easy** |
 | [1508. Range Sum of Sorted Subarray Sums](https://github.com/103style/LeetCode/blob/master/Array/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.md) | `Array` <br> `Sort` | **Medium** |
-| [1509. Minimum Difference Between Largest and Smallest Value in Three Moves
-](https://github.com/103style/LeetCode/blob/master/Sort/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.md) | `Array` <br> `Sort` | **Medium** |
+| [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/103style/LeetCode/blob/master/Sort/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.md) | `Array` <br> `Sort` | **Medium** |
