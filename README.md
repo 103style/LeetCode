@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(331/1505)` → `Easy 123`--`Medium 175`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(333/1516)` → `Easy 124`--`Medium 176`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `97/261` |
+| Array | `98/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `26/84` |
@@ -44,9 +44,9 @@ the following problem is choose by:
 | Random | `1/6` |
 | Segment Tree | `2/12` |
 | Sliding Window | `7/23` |
-| Sort | `13/52` | 
+| Sort | `14/52` | 
 | Stack | `15/57` |
-| String | `53/179` |
+| String | `54/179` |
 | Tree | `49/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
@@ -389,3 +389,5 @@ the following problem is choose by:
 | [1503. Last Moment Before All Ants Fall Out of a Plank](https://github.com/103style/LeetCode/blob/master/Brainteaser/1503.%20Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank.md) | `Array` <br> `Brainteaser` | **Medium** |
 | [1504. Count Submatrices With All Ones](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1504.%20Count%20Submatrices%20With%20All%20Ones.md) | `Dynamic Programming` | **Medium** |
 | [1505. Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://github.com/103style/LeetCode/blob/master/Greedy/1505.%20Minimum%20Possible%20Integer%20After%20at%20Most%20K%20Adjacent%20Swaps%20On%20Digits.md) 🚨 | `Greedy` | **Hard** |
+| [1507. Reformat Date](https://github.com/103style/LeetCode/blob/master/String/1507.%20Reformat%20Date.md) | `String` | **Easy** |
+| [1508. Range Sum of Sorted Subarray Sums](https://github.com/103style/LeetCode/blob/master/Array/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.md) | `Array` <br> `Sort` | **Medium** |
