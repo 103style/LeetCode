@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(338/1516)` → `Easy 125`--`Medium 179`--`Hard 34`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(339/1516)` → `Easy 125`--`Medium 180`--`Hard 34`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Divide and Conquer | `5/19` |
 | Dynamic Programming | `48/188` |
 | Geometry | `1/7` |
-| Graph | `5/42` | 
+| Graph | `6/42` | 
 | Greedy | `12/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
@@ -396,3 +396,4 @@ the following problem is choose by:
 | [1510. Stone Game IV](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1510.%20Stone%20Game%20IV.md) | `Dynamic Programming` | **Hard** |
 | [1512. Number of Good Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1512.%20Number%20of%20Good%20Pairs.md) | `Array` <br> `Math` <br> `HashTable`  | **Easy** | 
 | [1513. Number of Substrings With Only 1s](https://github.com/103style/LeetCode/blob/master/Math/1513.%20Number%20of%20Substrings%20With%20Only%201s.md) | `String` <br> `Math`  | **Medium** | 
+| [1514. Path with Maximum Probability](https://github.com/103style/LeetCode/blob/master/Graph/1514.%20Path%20with%20Maximum%20Probability.md) :rotating_light::rotating_light::rotating_light: | `Graph` | **Medium** |
