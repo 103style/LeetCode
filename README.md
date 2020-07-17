@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(333/1516)` → `Easy 124`--`Medium 176`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(334/1516)` → `Easy 124`--`Medium 177`--`Hard 33`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -20,7 +20,7 @@ the following problem is choose by:
 | Array | `98/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `26/84` |
+| Binary Search | `27/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
@@ -37,7 +37,7 @@ the following problem is choose by:
 | Hash Table | `21/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
-| Math | `29/122` |
+| Math | `30/122` |
 | Minimax | `1/8` |
 | Queue | `1/9` |
 | Recursion | `5/15` | 
@@ -99,6 +99,7 @@ the following problem is choose by:
 | [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) | `Math` <br> `String` | **Medium** |
 | [44. Wildcard Matching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/44.%20Wildcard%20Matching.md) | `String` <br> `Dynamic Programming` <br> `Greedy` <br> `Backtracking` | **Hard** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
+| [50. Pow(x, n)](https://github.com/103style/LeetCode/blob/master/Math/50.%20Pow(x%2C%20n).md | `Math` <br> `BinarySearch` | **Medium** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Medium** |
