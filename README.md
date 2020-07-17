@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(336/1516)` → `Easy 124`--`Medium 178`--`Hard 34`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(338/1516)` → `Easy 125`--`Medium 179`--`Hard 34`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -17,7 +17,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `99/261` |
+| Array | `100/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `27/84` |
@@ -34,10 +34,10 @@ the following problem is choose by:
 | Geometry | `1/7` |
 | Graph | `5/42` | 
 | Greedy | `12/80` |
-| Hash Table | `21/127` |
+| Hash Table | `22/127` |
 | Heap | `5/34` |
 | Linked List | `26/38` |
-| Math | `30/122` |
+| Math | `32/122` |
 | Minimax | `1/8` |
 | Queue | `1/9` |
 | Recursion | `5/15` | 
@@ -46,7 +46,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `15/52` | 
 | Stack | `15/57` |
-| String | `54/179` |
+| String | `55/179` |
 | Tree | `49/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
@@ -394,3 +394,5 @@ the following problem is choose by:
 | [1508. Range Sum of Sorted Subarray Sums](https://github.com/103style/LeetCode/blob/master/Array/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.md) | `Array` <br> `Sort` | **Medium** |
 | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/103style/LeetCode/blob/master/Sort/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.md) | `Array` <br> `Sort` | **Medium** |
 | [1510. Stone Game IV](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1510.%20Stone%20Game%20IV.md) | `Dynamic Programming` | **Hard** |
+| [1512. Number of Good Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1512.%20Number%20of%20Good%20Pairs.md) | `Array` <br> `Math` <br> `HashTable`  | **Easy** | 
+| [1513. Number of Substrings With Only 1s](https://github.com/103style/LeetCode/blob/master/Math/1513.%20Number%20of%20Substrings%20With%20Only%201s.md) | `String` <br> `Math`  | **Medium** | 
