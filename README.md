@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(335/1516)` → `Easy 124`--`Medium 178`--`Hard 33`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(336/1516)` → `Easy 124`--`Medium 178`--`Hard 34`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -30,7 +30,7 @@ the following problem is choose by:
 | Depth-first Search | `32/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
-| Dynamic Programming | `47/188` |
+| Dynamic Programming | `48/188` |
 | Geometry | `1/7` |
 | Graph | `5/42` | 
 | Greedy | `12/80` |
@@ -393,3 +393,4 @@ the following problem is choose by:
 | [1507. Reformat Date](https://github.com/103style/LeetCode/blob/master/String/1507.%20Reformat%20Date.md) | `String` | **Easy** |
 | [1508. Range Sum of Sorted Subarray Sums](https://github.com/103style/LeetCode/blob/master/Array/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.md) | `Array` <br> `Sort` | **Medium** |
 | [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/103style/LeetCode/blob/master/Sort/1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.md) | `Array` <br> `Sort` | **Medium** |
+| [1510. Stone Game IV](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1510.%20Stone%20Game%20IV.md) | `Dynamic Programming` | **Hard** |
