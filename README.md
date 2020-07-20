@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(339/1516)` → `Easy 125`--`Medium 180`--`Hard 34`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(340/1516)` → `Easy 125`--`Medium 180`--`Hard 35`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -30,7 +30,7 @@ the following problem is choose by:
 | Depth-first Search | `32/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `5/19` |
-| Dynamic Programming | `48/188` |
+| Dynamic Programming | `49/188` |
 | Geometry | `1/7` |
 | Graph | `6/42` | 
 | Greedy | `12/80` |
@@ -46,7 +46,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `15/52` | 
 | Stack | `15/57` |
-| String | `55/179` |
+| String | `56/179` |
 | Tree | `49/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
@@ -123,6 +123,7 @@ the following problem is choose by:
 | [94. Binary Tree Inorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md) | `Stack` <br> `HashTable` <br> `Tree` | **Medium** |
 | [95. Unique Binary Search Trees II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/95.%20Unique%20Binary%20Search%20Trees%20II.md) | `Tree` <br> `Dynamic Programming` | **Medium** |
 | [96. Unique Binary Search Trees](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/96.%20Unique%20Binary%20Search%20Trees.md) | `Tree` <br> `Dynamic Programming` | **Medium** |
+| [97. Interleaving String](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/97.%20Interleaving%20String.md) | `String` <br> `Dynamic Programming` | **Hard** |
 | [98. Validate Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/98.%20Validate%20Binary%20Search%20Tree.md) | `Tree` <br> `DFS` | **Medium** |
 | [100. Same Tree](https://github.com/103style/LeetCode/blob/master/Tree/100.%20Same%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
