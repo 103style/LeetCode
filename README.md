@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(340/1516)` → `Easy 125`--`Medium 180`--`Hard 35`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(341/1516)` → `Easy 125`--`Medium 180`--`Hard 36`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,8 +29,8 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `32/95` |
 | Desigin | `4/49` |
-| Divide and Conquer | `5/19` |
-| Dynamic Programming | `49/188` |
+| Divide and Conquer | `6/19` |
+| Dynamic Programming | `50/188` |
 | Geometry | `1/7` |
 | Graph | `6/42` | 
 | Greedy | `12/80` |
@@ -192,6 +192,7 @@ the following problem is choose by:
 | [303. Range Sum Query - Immutable](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/303.%20Range%20Sum%20Query%20-%20Immutable.md) | `Dynamic Programming` | **Easy** |
 | [307. Range Sum Query - Mutable](https://github.com/103style/LeetCode/blob/master/Binary%20Indexed%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable.md) | `Binary Indexed Tree` <br> `Segment Tree` | **Medium** |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) 🚨 | `Dynamic Programming` | **Medium** |
+| [312. Burst Balloons](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/312.%20Burst%20Balloons.md) 🚨 | `Divide and Conquer` <br> `Dynamic Programming` | **Hard** |
 | [315. Count of Smaller Numbers After Self](https://github.com/103style/LeetCode/blob/master/Binary%20Search/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md) | `Binary Search` <br> `Binary Indexed Tree` <br> `Divide and Conquer` <br> `Sort` <br> `Segment Tree` | **Hard** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
