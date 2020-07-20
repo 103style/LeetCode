@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(341/1516)` → `Easy 125`--`Medium 180`--`Hard 36`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(342/1516)` → `Easy 125`--`Medium 181`--`Hard 36`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,15 +24,15 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `12/68` |
+| Breadth-first Search | `13/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `32/95` |
+| Depth-first Search | `33/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `50/188` |
 | Geometry | `1/7` |
-| Graph | `6/42` | 
+| Graph | `7/42` | 
 | Greedy | `12/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
@@ -47,6 +47,7 @@ the following problem is choose by:
 | Sort | `15/52` | 
 | Stack | `15/57` |
 | String | `56/179` |
+| Topological Sort | `1/6` |
 | Tree | `49/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
@@ -164,6 +165,7 @@ the following problem is choose by:
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
+| [207. Course Schedule](https://github.com/103style/LeetCode/blob/master/Topological%20Sort/207.%20Course%20Schedule.md) | `DFS` <br> `BFS` <br> `Graph` <br> `Topological Sort` | **Medium** |
 | [208. Implement Trie (Prefix Tree)](https://github.com/103style/LeetCode/blob/master/Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md) | `Trie` <br> `Design` | **Medium** | 
 | [209. Minimum Size Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/209.%20Minimum%20Size%20Subarray%20Sum.md) | `Array` <br> `Two Pointer` <br> `Binary Search` | **Medium** |
 | [212. Word Search II](https://github.com/103style/LeetCode/blob/master/Trie/212.%20Word%20Search%20II.md) | `Trie` <br> `Backtracking`  | **Hard** |
