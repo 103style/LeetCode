@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(343/1516)` → `Easy 125`--`Medium 182`--`Hard 36`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(344/1516)` → `Easy 126`--`Medium 182`--`Hard 36`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -36,7 +36,7 @@ the following problem is choose by:
 | Greedy | `12/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
-| Linked List | `26/38` |
+| Linked List | `27/38` |
 | Math | `32/122` |
 | Minimax | `1/8` |
 | Queue | `1/9` |
@@ -163,6 +163,7 @@ the following problem is choose by:
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
 | [190. Reverse Bits](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/190.%20Reverse%20Bits.md) | `Bit Manipulation` | `Easy` |
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
+| [203. Remove Linked List Elements](https://github.com/103style/LeetCode/blob/master/Linked%20List/203.%20Remove%20Linked%20List%20Elements.md) | `LinkedList` | **Easy** |
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [207. Course Schedule](https://github.com/103style/LeetCode/blob/master/Topological%20Sort/207.%20Course%20Schedule.md) | `DFS` <br> `BFS` <br> `Graph` <br> `Topological Sort` | **Medium** |
