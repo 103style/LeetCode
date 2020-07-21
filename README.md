@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(344/1516)` → `Easy 126`--`Medium 182`--`Hard 36`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(345/1516)` → `Easy 126`--`Medium 183`--`Hard 36`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `50/188` |
 | Geometry | `1/7` |
-| Graph | `8/42` | 
+| Graph | `9/42` | 
 | Greedy | `12/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
@@ -47,7 +47,7 @@ the following problem is choose by:
 | Sort | `15/52` | 
 | Stack | `15/57` |
 | String | `56/179` |
-| Topological Sort | `2/6` |
+| Topological Sort | `3/7` |
 | Tree | `49/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
@@ -372,6 +372,7 @@ the following problem is choose by:
 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/103style/LeetCode/blob/master/String/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.md) | `String` <br> `Sliding Window` | **Medium** |
 | [1457. Pseudo-Palindromic Paths in a Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.md) | `DFS` <br> `Tree` <br> `Bit Manipulation` | **Medium** |
 | [1458. Max Dot Product of Two Subsequences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences.md) :rotating_light: | `Dynamic Programming` | **Hard** |
+| [1462. Course Schedule IV](https://github.com/103style/LeetCode/blob/master/Topological%20Sort/1462.%20Course%20Schedule%20IV.md) | `Graph` <br> `TopologicalSort` | **Medium** |
 | [1464. Maximum Product of Two Elements in an Array](https://github.com/103style/LeetCode/blob/master/Array/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.md) | `Array` | **Easy** |
 | [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/103style/LeetCode/blob/master/Array/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.md) | `DFS` <br> `Tree` | **Medium** |
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.md) | `DFS` <br> `Tree` | **Medium** |
