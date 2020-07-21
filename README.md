@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(345/1516)` → `Easy 126`--`Medium 183`--`Hard 36`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(346/1516)` → `Easy 126`--`Medium 183`--`Hard 37`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Dynamic Programming | `50/188` |
 | Geometry | `1/7` |
 | Graph | `9/42` | 
-| Greedy | `12/80` |
+| Greedy | `13/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
@@ -249,6 +249,7 @@ the following problem is choose by:
 | [617. Merge Two Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees.md) | `Tree` | **Easy** |
 | [627. Swap Salary](https://github.com/103style/LeetCode/blob/master/Database/627.%20Swap%20Salary.md) | `Datebase` | **Easy** |
 | [628. Maximum Product of Three Numbers](https://github.com/103style/LeetCode/blob/master/Array/628.%20Maximum%20Product%20of%20Three%20Numbers.md) | `Array` <br> `Math` | **Easy** |
+| [630. Course Schedule III](https://github.com/103style/LeetCode/blob/master/Greedy/630.%20Course%20Schedule%20III.md) | `Greedy` | **Hard** | 
 | [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) | `Math` <br> `HashTable` | **Easy** |
 | [654.Maximum Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [657. Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/657.%20Judge%20Route%20Circle.md) | `String` | **Easy** |
