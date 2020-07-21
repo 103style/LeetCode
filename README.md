@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(346/1516)` → `Easy 126`--`Medium 183`--`Hard 37`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(348/1521)` → `Easy 127`--`Medium 184`--`Hard 37`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,16 +24,16 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `8/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `14/68` |
+| Breadth-first Search | `15/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `34/95` |
+| Depth-first Search | `35/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `50/188` |
 | Geometry | `1/7` |
 | Graph | `9/42` | 
-| Greedy | `13/80` |
+| Greedy | `14/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
@@ -405,3 +405,5 @@ the following problem is choose by:
 | [1512. Number of Good Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1512.%20Number%20of%20Good%20Pairs.md) | `Array` <br> `Math` <br> `HashTable`  | **Easy** | 
 | [1513. Number of Substrings With Only 1s](https://github.com/103style/LeetCode/blob/master/Math/1513.%20Number%20of%20Substrings%20With%20Only%201s.md) | `String` <br> `Math`  | **Medium** | 
 | [1514. Path with Maximum Probability](https://github.com/103style/LeetCode/blob/master/Graph/1514.%20Path%20with%20Maximum%20Probability.md) :rotating_light::rotating_light::rotating_light: | `Graph` | **Medium** |
+| [1518. Water Bottles](https://github.com/103style/LeetCode/blob/master/Greedy/1518.%20Water%20Bottles.md) | `Greedy` | **Easy** |
+| [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.md) | `BFS` <br> `DFS` | **Medium** |
