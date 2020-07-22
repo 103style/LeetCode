@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(351/1521)` → `Easy 127`--`Medium 186`--`Hard 38`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(352/1521)` → `Easy 127`--`Medium 186`--`Hard 39`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -20,9 +20,9 @@ the following problem is choose by:
 | Array | `102/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `29/84` |
+| Binary Search | `30/84` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `8/39` |
+| Bit Manipulation | `9/39` |
 | Brainteaser | `3/5` |
 | Breadth-first Search | `15/68` |
 | Concurrency | `1/9` |
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Queue | `1/9` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
-| Segment Tree | `2/12` |
+| Segment Tree | `3/12` |
 | Sliding Window | `7/23` |
 | Sort | `15/52` | 
 | Stack | `15/57` |
@@ -410,3 +410,4 @@ the following problem is choose by:
 | [1518. Water Bottles](https://github.com/103style/LeetCode/blob/master/Greedy/1518.%20Water%20Bottles.md) | `Greedy` | **Easy** |
 | [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.md) | `BFS` <br> `DFS` | **Medium** |
 | [1520. Maximum Number of Non-Overlapping Substrings](https://github.com/103style/LeetCode/blob/master/Greedy/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.md) 🚨🚨 | `Greedy` | **Medium** |
+| [1521. Find a Value of a Mysterious Function Closest to Target](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.md) 🚨🚨🚨 | `BinarySearch` <br> `Segment Tree` <br> `Bit Manipulation` | **Medium** |
