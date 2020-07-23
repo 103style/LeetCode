@@ -1,6 +1,6 @@
 ## [LeetCode](https://leetcode.com/problemset/all/)  `(355/1521)` → `Easy 127`--`Medium 187`--`Hard 41`
 
-Algotithm exercises :rotating_light::rotating_light::rotating_light:
+Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
 
 the following problem is choose by:
