@@ -129,7 +129,7 @@ the following problem is choose by:
 | [100. Same Tree](https://github.com/103style/LeetCode/blob/master/Tree/100.%20Same%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
 | [102. Binary Tree Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` | **Medium** |
-| [103. Binary Tree Zigzag Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` <br> `Stack` | **Meidum** |
+| [103. Binary Tree Zigzag Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` <br> `Stack` | **Medium** |
 | [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [107. Binary Tree Level Order Traversal II](https://github.com/103style/LeetCode/blob/master/Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) | `Tree` <br> `BFS` | **Easy** |
 | [108. Convert Sorted Array to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
