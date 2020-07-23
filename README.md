@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(354/1521)` → `Easy 127`--`Medium 187`--`Hard 40`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(355/1521)` → `Easy 127`--`Medium 187`--`Hard 41`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -30,7 +30,7 @@ the following problem is choose by:
 | Depth-first Search | `35/95` |
 | Desigin | `4/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `50/188` |
+| Dynamic Programming | `51/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `15/80` |
@@ -387,6 +387,7 @@ the following problem is choose by:
 | [1480. Running Sum of 1d Array](https://github.com/103style/LeetCode/blob/master/Array/1480.%20Running%20Sum%20of%201d%20Array.md) | `Array` | **Easy** |
 | [1481. Least Number of Unique Integers after K Removals](https://github.com/103style/LeetCode/blob/master/Array/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.md) | `Array` <br> `Sort` | **Medium** |
 | [1482. Minimum Number of Days to Make m Bouquets](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.md) 🚨🚨🚨 | `Binary Search` <br> `Array` | **Medium** |
+| [1483. Kth Ancestor of a Tree Node](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1483.%20Kth%20Ancestor%20of%20a%20Tree%20Node.md) 🚨🚨 | `Dynamic Programming` | **Hard** |
 | [1486. XOR Operation in an Array](https://github.com/103style/LeetCode/blob/master/Array/1486.%20XOR%20Operation%20in%20an%20Array.md) | `Array` <br> `Bit Manipulation` | **Easy** |
 | [1487. Making File Names Unique](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1487.%20Making%20File%20Names%20Unique.md) | `String` <br> `HashTable` | **Medium** |
 | [1488. Avoid Flood in The City](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1488.%20Avoid%20Flood%20in%20The%20City.md) | `Array` <br> `HashTable` | **Medium** |
