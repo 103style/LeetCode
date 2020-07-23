@@ -100,7 +100,7 @@ the following problem is choose by:
 | [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) | `Math` <br> `String` | **Medium** |
 | [44. Wildcard Matching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/44.%20Wildcard%20Matching.md) | `String` <br> `Dynamic Programming` <br> `Greedy` <br> `Backtracking` | **Hard** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
-| [50. Pow(x, n)](https://github.com/103style/LeetCode/blob/master/Math/50.%20Pow(x%2C%20n).md | `Math` <br> `BinarySearch` | **Medium** |
+| [50. Pow(x, n)](https://github.com/103style/LeetCode/blob/master/Math/50.%20Pow(x%2C%20n).md) | `Math` <br> `BinarySearch` | **Medium** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Medium** |
