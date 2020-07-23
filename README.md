@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(352/1521)` → `Easy 127`--`Medium 186`--`Hard 39`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(353/1521)` → `Easy 127`--`Medium 186`--`Hard 40`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -31,7 +31,7 @@ the following problem is choose by:
 | Desigin | `4/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `50/188` |
-| Geometry | `1/7` |
+| Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `15/80` |
 | Hash Table | `22/127` |
@@ -407,6 +407,7 @@ the following problem is choose by:
 | [1512. Number of Good Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1512.%20Number%20of%20Good%20Pairs.md) | `Array` <br> `Math` <br> `HashTable`  | **Easy** | 
 | [1513. Number of Substrings With Only 1s](https://github.com/103style/LeetCode/blob/master/Math/1513.%20Number%20of%20Substrings%20With%20Only%201s.md) | `String` <br> `Math`  | **Medium** | 
 | [1514. Path with Maximum Probability](https://github.com/103style/LeetCode/blob/master/Graph/1514.%20Path%20with%20Maximum%20Probability.md) :rotating_light::rotating_light::rotating_light: | `Graph` | **Medium** |
+| [1515. Best Position for a Service Centre](https://github.com/103style/LeetCode/blob/master/Geometry/1515.%20Best%20Position%20for%20a%20Service%20Centre.md) 🚨🚨 | `Geometry` | **Hard** |
 | [1518. Water Bottles](https://github.com/103style/LeetCode/blob/master/Greedy/1518.%20Water%20Bottles.md) | `Greedy` | **Easy** |
 | [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.md) | `BFS` <br> `DFS` | **Medium** |
 | [1520. Maximum Number of Non-Overlapping Substrings](https://github.com/103style/LeetCode/blob/master/Greedy/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.md) 🚨🚨 | `Greedy` | **Medium** |
