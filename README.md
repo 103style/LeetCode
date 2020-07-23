@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(353/1521)` → `Easy 127`--`Medium 186`--`Hard 40`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(354/1521)` → `Easy 127`--`Medium 187`--`Hard 40`
 
 Algotithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -24,7 +24,7 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `9/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `15/68` |
+| Breadth-first Search | `16/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `35/95` |
@@ -45,10 +45,10 @@ the following problem is choose by:
 | Segment Tree | `3/12` |
 | Sliding Window | `7/23` |
 | Sort | `15/52` | 
-| Stack | `15/57` |
+| Stack | `16/57` |
 | String | `56/179` |
 | Topological Sort | `3/7` |
-| Tree | `49/137` |
+| Tree | `50/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -129,6 +129,7 @@ the following problem is choose by:
 | [100. Same Tree](https://github.com/103style/LeetCode/blob/master/Tree/100.%20Same%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
 | [102. Binary Tree Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` | **Medium** |
+| [103. Binary Tree Zigzag Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` <br> `Stack` | **Meidum** |
 | [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [107. Binary Tree Level Order Traversal II](https://github.com/103style/LeetCode/blob/master/Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) | `Tree` <br> `BFS` | **Easy** |
 | [108. Convert Sorted Array to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
