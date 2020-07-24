@@ -1,0 +1,2 @@
+> ### Breadth-first search
+> Depth-first search finds some path from a source vertex s to a target vertex v. We are often interested in finding the shortest such path (one with a minimal number of edges). Breadth-first search is a classic method based on this goal. To find a shortest path from s to v, we start at s and check for v among all the vertices that we can reach by following one edge, then we check for v among all the vertices that we can reach from s by following two edges, and so forth.
