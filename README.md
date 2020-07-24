@@ -288,7 +288,7 @@ the following problem is choose by:
 | [785. Is Graph Bipartite?](https://github.com/103style/LeetCode/blob/master/Graph/785.%20Is%20Graph%20Bipartite.md) | `DFS` <br> `BFS` <br> `Graph` | **Medium** |
 | [787. Cheapest Flights Within K Stops](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) 🚨 | `Dynamic Programming` <br> `DFS` <br> `Heap` | **Medium** |
 | [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md) | `String` | **Medium** |
-| [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/*797.%20All%20Paths%20From%20Source%20to%20Target.md) :rotating_light: | `other` | **Medium** |
+| [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/797.%20All%20Paths%20From%20Source%20to%20Target.md) | `DFS` | **Medium** |
 | [804. Unique Morse Code Words](https://github.com/103style/LeetCode/blob/master/String/804.%20Unique%20Morse%20Code%20Words.md) | `String` | **Easy** |
 | [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md) | `other` | **Medium** |
 | [814. Binary Tree Pruning](https://github.com/103style/LeetCode/blob/master/Tree/814.%20Binary%20Tree%20Pruning.md) | `Tree` | **Medium** |
