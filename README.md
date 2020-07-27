@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(361/1521)` → `Easy 130`--`Medium 189`--`Hard 41`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(362/1521)` → `Easy 130`--`Medium 189`--`Hard 42`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `16/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `36/95` |
+| Depth-first Search | `37/95` |
 | Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `51/188` |
@@ -43,6 +43,7 @@ the following problem is choose by:
 | Heap | `5/34` |
 | Linked List | `27/38` |
 | Math | `34/122` |
+| Memoization | `1/1` |
 | Minimax | `1/8` |
 | Queue | `1/9` |
 | Recursion | `5/15` | 
@@ -52,7 +53,7 @@ the following problem is choose by:
 | Sort | `16/52` | 
 | Stack | `17/57` |
 | String | `57/179` |
-| Topological Sort | `3/7` |
+| Topological Sort | `4/7` |
 | Tree | `51/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
@@ -211,6 +212,7 @@ the following problem is choose by:
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
+| [329. Longest Increasing Path in a Matrix](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md) | `DFS` <br> `TopologicalSort` <br> `Memoization` | **Hard** |
 | [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
@@ -418,10 +420,4 @@ the following problem is choose by:
 | [1514. Path with Maximum Probability](https://github.com/103style/LeetCode/blob/master/Graph/1514.%20Path%20with%20Maximum%20Probability.md) :rotating_light::rotating_light::rotating_light: | `Graph` | **Medium** |	
 | [1515. Best Position for a Service Centre](https://github.com/103style/LeetCode/blob/master/Geometry/1515.%20Best%20Position%20for%20a%20Service%20Centre.md) 🚨🚨 | `Geometry` | **Hard** |	
 | [1518. Water Bottles](https://github.com/103style/LeetCode/blob/master/Greedy/1518.%20Water%20Bottles.md) | `Greedy` | **Easy** |	
-| [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.md) | `BFS` <br> `DFS` | **Medium** |	
-| [1520. Maximum Number of Non-Overlapping Substrings](https://github.com/103style/LeetCode/blob/master/Greedy/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.md) 🚨🚨 | `Greedy` | **Medium** |	
-| [1521. Find a Value of a Mysterious Function Closest to Target](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.md) 🚨🚨🚨 | `BinarySearch` <br> `Segment Tree` <br> `Bit Manipulation` | **Hard** |
-| [1523. Count Odd Numbers in an Interval Range](https://github.com/103style/LeetCode/blob/master/Math/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | `Math` | **Easy** |
-| [1528. Shuffle String](https://github.com/103style/LeetCode/blob/master/Sort/1528.%20Shuffle%20String.md) | `Sort` | **Easy** |
-| [1529. Bulb Switcher IV](https://github.com/103style/LeetCode/blob/master/String/1529.%20Bulb%20Switcher%20IV.md) | `String` | **Medium** |
-| [1530. Number of Good Leaf Nodes Pairs](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.md) | `Tree` <br> `DFS` | **Medium** |
+| [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.
