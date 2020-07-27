@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(357/1521)` → `Easy 129`--`Medium 187`--`Hard 41`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(360/1521)` → `Easy 130`--`Medium 189`--`Hard 41`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `16/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `35/95` |
+| Depth-first Search | `36/95` |
 | Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `51/188` |
@@ -49,11 +49,11 @@ the following problem is choose by:
 | Random | `1/6` |
 | Segment Tree | `3/12` |
 | Sliding Window | `7/23` |
-| Sort | `15/52` | 
+| Sort | `16/52` | 
 | Stack | `17/57` |
-| String | `56/179` |
+| String | `57/179` |
 | Topological Sort | `3/7` |
-| Tree | `50/137` |
+| Tree | `51/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -421,3 +421,6 @@ the following problem is choose by:
 | [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.md) | `BFS` <br> `DFS` | **Medium** |	
 | [1520. Maximum Number of Non-Overlapping Substrings](https://github.com/103style/LeetCode/blob/master/Greedy/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.md) 🚨🚨 | `Greedy` | **Medium** |	
 | [1521. Find a Value of a Mysterious Function Closest to Target](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.md) 🚨🚨🚨 | `BinarySearch` <br> `Segment Tree` <br> `Bit Manipulation` | **Hard** |
+| [1528. Shuffle String](https://github.com/103style/LeetCode/blob/master/Sort/1528.%20Shuffle%20String.md) | `Sort` | **Easy** |
+| [1529. Bulb Switcher IV](https://github.com/103style/LeetCode/blob/master/String/1529.%20Bulb%20Switcher%20IV.md) | `String` | **Medium** |
+| [1530. Number of Good Leaf Nodes Pairs](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.md) | `Tree` <br> `DFS` | **Medium** |
