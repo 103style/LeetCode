@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(356/1521)` → `Easy 128`--`Medium 187`--`Hard 41`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(357/1521)` → `Easy 129`--`Medium 187`--`Hard 41`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `35/95` |
-| Desigin | `4/49` |
+| Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `51/188` |
 | Geometry | `2/7` |
@@ -50,7 +50,7 @@ the following problem is choose by:
 | Segment Tree | `3/12` |
 | Sliding Window | `7/23` |
 | Sort | `15/52` | 
-| Stack | `16/57` |
+| Stack | `17/57` |
 | String | `56/179` |
 | Topological Sort | `3/7` |
 | Tree | `50/137` |
@@ -163,6 +163,7 @@ the following problem is choose by:
 | [151. Reverse Words in a String](https://github.com/103style/LeetCode/blob/master/String/151.%20Reverse%20Words%20in%20a%20String.md) | `String` | **Medium** |
 | [153. Find Minimum in Rotated Sorted Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) | `Array` <br> `BinarySearch` | **Medium** |
 | [154. Find Minimum in Rotated Sorted Array II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md) | `Array` <br> `BinarySearch` | **Hard** |
+| [155. Min Stack](https://github.com/103style/LeetCode/blob/master/Design/155.%20Min%20Stack.md) | `Stack` <br> `Design` | **Easy** | 
 | [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Easy** |
 | [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md) | `Array` <br> `Divide and Conquer` <br> `Bit Manipulation` | **Easy** |
 | [173. Binary Search Tree Iterator](https://github.com/103style/LeetCode/blob/master/Tree/173.%20Binary%20Search%20Tree%20Iterator.md) | `Tree` <br> `Stack` <br> `Design` | **Medium** |
