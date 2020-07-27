@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(362/1521)` → `Easy 130`--`Medium 189`--`Hard 42`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(363/1521)` → `Easy 130`--`Medium 189`--`Hard 43`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -25,7 +25,7 @@ the following problem is choose by:
 | Array | `102/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `30/84` |
+| Binary Search | `31/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `9/39` |
 | Brainteaser | `3/5` |
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `37/95` |
 | Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `51/188` |
+| Dynamic Programming | `52/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `15/80` |
@@ -223,6 +223,7 @@ the following problem is choose by:
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
 | [406. Queue Reconstruction by Height](https://github.com/103style/LeetCode/blob/master/Greedy/406.%20Queue%20Reconstruction%20by%20Height.md) | `Greedy` | **Medium** |
+| [410. Split Array Largest Sum](https://github.com/103style/LeetCode/blob/master/Binary%20Search/410.%20Split%20Array%20Largest%20Sum.md) | `Binary Search` <br> `Dynamic Programming` | **Hard** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [441. Arranging Coins](https://github.com/103style/LeetCode/blob/master/Math/441.%20Arranging%20Coins.md) | `Math` <br> `BinarySearch` | **Easy** |
 | [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) | `Array` | **Medium** |
