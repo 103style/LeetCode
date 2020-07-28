@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(363/1521)` → `Easy 130`--`Medium 189`--`Hard 43`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(364/1521)` → `Easy 130`--`Medium 190`--`Hard 43`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -25,7 +25,7 @@ the following problem is choose by:
 | Array | `102/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `31/84` |
+| Binary Search | `32/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `9/39` |
 | Brainteaser | `3/5` |
@@ -307,6 +307,7 @@ the following problem is choose by:
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |
+| [875. Koko Eating Bananas](https://github.com/103style/LeetCode/blob/master/Binary%20Search/875.%20Koko%20Eating%20Bananas.md) | `BinarySearch` | **Medium** |
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md) | `String` | **Easy** |
 | [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light: | `Tree` <br> `Recursion` | **Medium** |
