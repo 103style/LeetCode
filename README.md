@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(367/1521)` → `Easy 130`--`Medium 193`--`Hard 43`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(368/1521)` → `Easy 130`--`Medium 194`--`Hard 43`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `104/261` |
+| Array | `105/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `32/84` |
@@ -38,14 +38,14 @@ the following problem is choose by:
 | Dynamic Programming | `52/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
-| Greedy | `15/80` |
+| Greedy | `16/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
 | Math | `34/122` |
 | Memoization | `1/1` |
 | Minimax | `1/8` |
-| Queue | `1/9` |
+| Queue | `2/9` |
 | Recursion | `5/15` | 
 | Random | `1/6` |
 | Segment Tree | `3/12` |
@@ -262,6 +262,7 @@ the following problem is choose by:
 | [589. N-ary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/589.%20N-ary%20Tree%20Preorder%20Traversal.md) | `Tree` | **Easy** |
 | [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md) | `Database` | **Easy** |
 | [617. Merge Two Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees.md) | `Tree` | **Easy** |
+| [621. Task Scheduler](https://github.com/103style/LeetCode/blob/master/Greedy/621.%20Task%20Scheduler.md) | `Array` <br> `Greedy` <br> `Queue` | **Medium** |
 | [627. Swap Salary](https://github.com/103style/LeetCode/blob/master/Database/627.%20Swap%20Salary.md) | `Datebase` | **Easy** |
 | [628. Maximum Product of Three Numbers](https://github.com/103style/LeetCode/blob/master/Array/628.%20Maximum%20Product%20of%20Three%20Numbers.md) | `Array` <br> `Math` | **Easy** |
 | [630. Course Schedule III](https://github.com/103style/LeetCode/blob/master/Greedy/630.%20Course%20Schedule%20III.md) | `Greedy` | **Hard** | 
