@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(364/1521)` → `Easy 130`--`Medium 190`--`Hard 43`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(367/1521)` → `Easy 130`--`Medium 193`--`Hard 43`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `102/261` |
+| Array | `104/261` |
 | Backtracking | `14/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `32/84` |
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `16/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `37/95` |
+| Depth-first Search | `39/95` |
 | Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `52/188` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Stack | `17/57` |
 | String | `57/179` |
 | Topological Sort | `4/7` |
-| Tree | `51/137` |
+| Tree | `54/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -137,6 +137,8 @@ the following problem is choose by:
 | [102. Binary Tree Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` | **Medium** |
 | [103. Binary Tree Zigzag Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` <br> `Stack` | **Medium** |
 | [104. Maximum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) | `Tree` <br> `Array` <br> `DFS` | **Medium** |
+| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) | `Tree` <br> `Array` <br> `DFS` | **Medium** |
 | [107. Binary Tree Level Order Traversal II](https://github.com/103style/LeetCode/blob/master/Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) | `Tree` <br> `BFS` | **Easy** |
 | [108. Convert Sorted Array to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
@@ -309,6 +311,7 @@ the following problem is choose by:
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |
 | [875. Koko Eating Bananas](https://github.com/103style/LeetCode/blob/master/Binary%20Search/875.%20Koko%20Eating%20Bananas.md) | `BinarySearch` | **Medium** |
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |
+| [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) | `Tree` | **Medium** |
 | [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md) | `String` | **Easy** |
 | [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light: | `Tree` <br> `Recursion` | **Medium** |
 | [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
