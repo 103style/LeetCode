@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(368/1521)` → `Easy 131`--`Medium 192`--`Hard 45`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(369/1521)` → `Easy 131`--`Medium 193`--`Hard 45`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,14 +35,14 @@ the following problem is choose by:
 | Depth-first Search | `39/95` |
 | Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `52/188` |
+| Dynamic Programming | `53/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `16/80` |
 | Hash Table | `22/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
-| Math | `34/122` |
+| Math | `35/122` |
 | Memoization | `1/1` |
 | Minimax | `1/8` |
 | Queue | `2/9` |
@@ -216,6 +216,7 @@ the following problem is choose by:
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
 | [329. Longest Increasing Path in a Matrix](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md) | `DFS` <br> `TopologicalSort` <br> `Memoization` | **Hard** |
 | [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
+| [343. Integer Break](https://github.com/103style/LeetCode/blob/master/Math/343.%20Integer%20Break.md) | `Math` <br> `Dynamic Programming` | **Medium** | 
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
 | [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md) | `Binary Search` <br> `Two Pointers` <br> `HashTable` <br> `Sort` | **Easy** |
