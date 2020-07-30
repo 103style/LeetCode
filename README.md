@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(369/1521)` → `Easy 131`--`Medium 193`--`Hard 45`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(370/1521)` → `Easy 131`--`Medium 193`--`Hard 46`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `105/261` |
-| Backtracking | `14/55` |
+| Backtracking | `15/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `32/84` |
 | Binary Search Tree | `2/15` |
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `39/95` |
 | Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `53/188` |
+| Dynamic Programming | `54/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `16/80` |
@@ -158,6 +158,7 @@ the following problem is choose by:
 | [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md) | `Bit Manipulation` | **Medium** |
 | [138. Copy List with Random Pointer](https://github.com/103style/LeetCode/blob/master/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.md) | `LinkedList` <br> `HashTable` | **Medium** |
 | [139. Word Break](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/139.%20Word%20Break.md) | `Dynamic Programming` | **Medium** |
+| [140. Word Break II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/140.%20Word%20Break%20II.md) | `Dynamic Programming` <br> `Backtracking` | **Hard** |
 | [141. Linked List Cycle](https://github.com/103style/LeetCode/blob/master/Linked%20List/141.%20Linked%20List%20Cycle.md) | `LinkedList` <br> `Two Pointers` | **Easy** |
 | [142. Linked List Cycle II](https://github.com/103style/LeetCode/blob/master/Linked%20List/142.%20Linked%20List%20Cycle%20II.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [143. Reorder List](https://github.com/103style/LeetCode/blob/master/Linked%20List/143.%20Reorder%20List.md) | `LinkedList` | **Medium** |
