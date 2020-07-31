@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(370/1521)` → `Easy 131`--`Medium 193`--`Hard 46`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(371/1521)` → `Easy 131`--`Medium 193`--`Hard 47`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `39/95` |
 | Desigin | `5/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `54/188` |
+| Dynamic Programming | `55/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `16/80` |
@@ -325,6 +325,7 @@ the following problem is choose by:
 | [930. Binary Subarrays With Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/930.%20Binary%20Subarrays%20With%20Sum.md) | `Two Pointers` <br> `HashTable` | **Medium** |
 | [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md) | `Tree` <br> `Recursion` | **Easy** |
 | [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md) | `Math` | **Easy** |
+| [943. Find the Shortest Superstring](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/943.%20Find%20the%20Shortest%20Superstring.md) | `Dynamic Programming` | **Hard** |
 | [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md) | `Array` | **Medium** |
 | [957. Prison Cells After N Days](https://github.com/103style/LeetCode/blob/master/Hash%20Table/957.%20Prison%20Cells%20After%20N%20Days.md) | `HashTable` | **Medium** |
 | [959. Regions Cut By Slashes](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/959.%20Regions%20Cut%20By%20Slashes.md) | `DFS` <br> `Graph` <br> `Union Find` | **Medium** |
