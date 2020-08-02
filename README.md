@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(371/1521)` → `Easy 131`--`Medium 193`--`Hard 47`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(373/1521)` → `Easy 132`--`Medium 194`--`Hard 47`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,14 +32,14 @@ the following problem is choose by:
 | Breadth-first Search | `16/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `39/95` |
-| Desigin | `5/49` |
+| Depth-first Search | `40/95` |
+| Desigin | `6/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `55/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `16/80` |
-| Hash Table | `22/127` |
+| Hash Table | `23/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
 | Math | `35/122` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Stack | `17/57` |
 | String | `57/179` |
 | Topological Sort | `4/7` |
-| Tree | `54/137` |
+| Tree | `55/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -143,6 +143,7 @@ the following problem is choose by:
 | [108. Convert Sorted Array to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
+| [114. Flatten Binary Tree to Linked List](https://github.com/103style/LeetCode/blob/master/Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) | `Tree` <br> `DFS` | **Medium** |
 | [120. Triangle](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/120.%20Triangle.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
@@ -280,6 +281,7 @@ the following problem is choose by:
 | [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md) | `Array` | **Easy** |
 | [700. Search in a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
 | [701. Insert into a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md) | `Tree` | **Medium** |
+| [705. Design HashSet](https://github.com/103style/LeetCode/blob/master/Design/705.%20Design%20HashSet.md) | `HashTable` <br> `Design` | **Easy** |
 | [709.To Lower Case](https://github.com/103style/LeetCode/blob/master/String/709.%20To%20Lower%20Case.md) | `String` | **Easy** |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | `Array` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md) | `Array` | **Easy** |
