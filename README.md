@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(373/1521)` → `Easy 132`--`Medium 194`--`Hard 47`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(374/1537)` → `Easy 133`--`Medium 194`--`Hard 47`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `16/52` | 
 | Stack | `17/57` |
-| String | `57/179` |
+| String | `58/179` |
 | Topological Sort | `4/7` |
 | Tree | `55/137` |
 | Trie | `3/17` |
@@ -229,6 +229,7 @@ the following problem is choose by:
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
 | [406. Queue Reconstruction by Height](https://github.com/103style/LeetCode/blob/master/Greedy/406.%20Queue%20Reconstruction%20by%20Height.md) | `Greedy` | **Medium** |
 | [410. Split Array Largest Sum](https://github.com/103style/LeetCode/blob/master/Binary%20Search/410.%20Split%20Array%20Largest%20Sum.md) | `Binary Search` <br> `Dynamic Programming` | **Hard** |
+| [415. Add Strings](https://github.com/103style/LeetCode/blob/master/String/415.%20Add%20Strings.md) | `String` | **Easy** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [441. Arranging Coins](https://github.com/103style/LeetCode/blob/master/Math/441.%20Arranging%20Coins.md) | `Math` <br> `BinarySearch` | **Easy** |
 | [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) | `Array` | **Medium** |
