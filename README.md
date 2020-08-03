@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(377/1537)` → `Easy 133`--`Medium 196`--`Hard 48`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(378/1537)` → `Easy 134`--`Medium 196`--`Hard 48`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `16/52` | 
 | Stack | `17/57` |
-| String | `59/179` |
+| String | `60/179` |
 | Topological Sort | `4/7` |
 | Tree | `55/137` |
 | Trie | `3/17` |
@@ -277,6 +277,7 @@ the following problem is choose by:
 | [662. Maximum Width of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md) | `Array` | **Medium** |
 | [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md) | `Array` | **Easy** |
+| [680. Valid Palindrome II](https://github.com/103style/LeetCode/blob/master/String/680.%20Valid%20Palindrome%20II.md) | `String` | **Easy** |
 | [692. Top K Frequent Words](https://github.com/103style/LeetCode/blob/master/Heap/692.%20Top%20K%20Frequent%20Words.md) | `HashTable` <br> `Heap` <br> `Trie` | **Medium** |
 | [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) | `Array` <br> `DFS` | **Medium** |
 | [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md) | `Array` | **Easy** |
