@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(378/1537)` → `Easy 134`--`Medium 196`--`Hard 48`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(379/1537)` → `Easy 134`--`Medium 196`--`Hard 49`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `40/95` |
 | Desigin | `6/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `55/188` |
+| Dynamic Programming | `56/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
 | Greedy | `16/80` |
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `16/52` | 
 | Stack | `17/57` |
-| String | `60/179` |
+| String | `61/179` |
 | Topological Sort | `4/7` |
 | Tree | `55/137` |
 | Trie | `3/17` |
@@ -443,3 +443,4 @@ the following problem is choose by:
 | [1528. Shuffle String](https://github.com/103style/LeetCode/blob/master/Sort/1528.%20Shuffle%20String.md) | `Sort` | **Easy** |	
 | [1529. Bulb Switcher IV](https://github.com/103style/LeetCode/blob/master/String/1529.%20Bulb%20Switcher%20IV.md) | `String` | **Medium** |	
 | [1530. Number of Good Leaf Nodes Pairs](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.md) | `Tree` <br> `DFS` | **Medium** |
+| [1531. String Compression II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1531.%20String%20Compression%20II.md) 🚨🚨🚨 | `String` <br> `Dynamic Programming` | **Hard** |
