@@ -438,7 +438,7 @@ the following problem is choose by:
 | [1523. Count Odd Numbers in an Interval Range](https://github.com/103style/LeetCode/blob/master/Math/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | `Math` | **Easy** |	
 | [1524. Number of Sub-arrays With Odd Sum](https://github.com/103style/LeetCode/blob/master/Math/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum.md) 🚨 | `Array` <br> `Math` | **Medium** |
 | [1525. Number of Good Ways to Split a String](https://github.com/103style/LeetCode/blob/master/String/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.md) | `String` <br> `Bit Manipulation` | **Medium** |
-| [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/103style/LeetCode/blob/master/Segment%20Tree/1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array.md) | `Segment Tree` 🚨 | **Hard** |
+| [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/103style/LeetCode/blob/master/Segment%20Tree/1526.%20Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array.md) 🚨 | `Segment Tree` | **Hard** |
 | [1528. Shuffle String](https://github.com/103style/LeetCode/blob/master/Sort/1528.%20Shuffle%20String.md) | `Sort` | **Easy** |	
 | [1529. Bulb Switcher IV](https://github.com/103style/LeetCode/blob/master/String/1529.%20Bulb%20Switcher%20IV.md) | `String` | **Medium** |	
 | [1530. Number of Good Leaf Nodes Pairs](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.md) | `Tree` <br> `DFS` | **Medium** |
