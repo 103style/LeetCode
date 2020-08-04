@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(379/1537)` → `Easy 134`--`Medium 196`--`Hard 49`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(383/1537)` → `Easy 135`--`Medium 198`--`Hard 50`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `106/261` |
+| Array | `108/261` |
 | Backtracking | `15/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `32/84` |
@@ -35,10 +35,10 @@ the following problem is choose by:
 | Depth-first Search | `40/95` |
 | Desigin | `6/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `56/188` |
+| Dynamic Programming | `57/188` |
 | Geometry | `2/7` |
 | Graph | `9/42` | 
-| Greedy | `16/80` |
+| Greedy | `17/80` |
 | Hash Table | `23/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
@@ -444,3 +444,8 @@ the following problem is choose by:
 | [1529. Bulb Switcher IV](https://github.com/103style/LeetCode/blob/master/String/1529.%20Bulb%20Switcher%20IV.md) | `String` | **Medium** |	
 | [1530. Number of Good Leaf Nodes Pairs](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1530.%20Number%20of%20Good%20Leaf%20Nodes%20Pairs.md) | `Tree` <br> `DFS` | **Medium** |
 | [1531. String Compression II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1531.%20String%20Compression%20II.md) 🚨🚨🚨 | `String` <br> `Dynamic Programming` | **Hard** |
+| [1534. Count Good Triplets](https://github.com/103style/LeetCode/blob/master/Array/1534.%20Count%20Good%20Triplets.md) | `Array` | **Easy** |
+| [1535. Find the Winner of an Array Game](https://github.com/103style/LeetCode/blob/master/Array/1535.%20Find%20the%20Winner%20of%20an%20Array%20Game.md) | `Array` | **Medium** |
+| [1536. Minimum Swaps to Arrange a Binary Grid](https://github.com/103style/LeetCode/blob/master/Greedy/1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid.md) | `Greedy` | **Medium** |
+| [1537. Get the Maximum Score](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1537.%20Get%20the%20Maximum%20Score.md) | `Dynamic Programming` | **Hard** |
+
