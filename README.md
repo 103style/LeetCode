@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(387/1537)` → `Easy 137`--`Medium 199`--`Hard 51`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(388/1537)` → `Easy 138`--`Medium 199`--`Hard 51`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Stack | `17/57` |
 | String | `61/179` |
 | Topological Sort | `4/7` |
-| Tree | `55/137` |
+| Tree | `56/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -259,6 +259,7 @@ the following problem is choose by:
 | [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md) | `Math` <br> `HashTable` | **Medium** |
 | [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) | `Math` <br> `String` | **Medium** |
 | [539. Minimum Time Difference](https://github.com/103style/LeetCode/blob/master/String/539.%20Minimum%20Time%20Difference.md) | `String` | **Easy** |
+| [543. Diameter of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/543.%20Diameter%20of%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [556. Next Greater Element III](https://github.com/103style/LeetCode/blob/master/String/556.%20Next%20Greater%20Element%20III.md) | `String` | **Medium** |
 | [557. Reverse Words in a String III](https://github.com/103style/LeetCode/blob/master/String/557.%20Reverse%20Words%20in%20a%20String%20III.md) | `String` | **Easy** |
 | [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
