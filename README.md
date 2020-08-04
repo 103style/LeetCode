@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(385/1537)` → `Easy 136`--`Medium 199`--`Hard 50`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(386/1537)` → `Easy 136`--`Medium 199`--`Hard 51`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -25,7 +25,7 @@ the following problem is choose by:
 | Array | `108/261` |
 | Backtracking | `15/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `32/84` |
+| Binary Search | `33/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `11/39` |
 | Brainteaser | `3/5` |
@@ -361,6 +361,7 @@ the following problem is choose by:
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |
 | [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |
 | [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md) :rotating_light: | `BackTracking` | **Medium** |
+| [1095. Find in Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1095.%20Find%20in%20Mountain%20Array.md) | `Binary Search` | **Hard** | 
 | [1108.Defanging an IP Address](https://github.com/103style/LeetCode/blob/master/String/1108.%20Defanging%20an%20IP%20Address.md) | `String` | **Easy** |
 | [1109. Corporate Flight Bookings](https://github.com/103style/LeetCode/blob/master/Math/1109.%20Corporate%20Flight%20Bookings.md) 🚨 | `Math` <br> `Array` | **Medium** |
 | [1110. Delete Nodes And Return Forest](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1110.%20Delete%20Nodes%20And%20Return%20Forest.md) | `DFS` <br> `Tree` | **Medium** |
