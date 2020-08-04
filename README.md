@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(383/1537)` → `Easy 135`--`Medium 198`--`Hard 50`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(385/1537)` → `Easy 136`--`Medium 199`--`Hard 50`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -27,9 +27,9 @@ the following problem is choose by:
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `32/84` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `10/39` |
+| Bit Manipulation | `11/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `16/68` |
+| Breadth-first Search | `17/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `40/95` |
@@ -37,7 +37,7 @@ the following problem is choose by:
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `57/188` |
 | Geometry | `2/7` |
-| Graph | `9/42` | 
+| Graph | `10/42` | 
 | Greedy | `17/80` |
 | Hash Table | `23/127` |
 | Heap | `5/34` |
@@ -211,6 +211,7 @@ the following problem is choose by:
 | [303. Range Sum Query - Immutable](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/303.%20Range%20Sum%20Query%20-%20Immutable.md) | `Dynamic Programming` | **Easy** |
 | [307. Range Sum Query - Mutable](https://github.com/103style/LeetCode/blob/master/Binary%20Indexed%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable.md) | `Binary Indexed Tree` <br> `Segment Tree` | **Medium** |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) 🚨 | `Dynamic Programming` | **Medium** |
+| [310. Minimum Height Trees](https://github.com/103style/LeetCode/blob/master/Graph/310.%20Minimum%20Height%20Trees.md) | `BFS` <br> `Graph` | **Medium** |
 | [312. Burst Balloons](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/312.%20Burst%20Balloons.md) 🚨 | `Divide and Conquer` <br> `Dynamic Programming` | **Hard** |
 | [315. Count of Smaller Numbers After Self](https://github.com/103style/LeetCode/blob/master/Binary%20Search/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md) | `Binary Search` <br> `Binary Indexed Tree` <br> `Divide and Conquer` <br> `Sort` <br> `Segment Tree` | **Hard** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
@@ -218,6 +219,7 @@ the following problem is choose by:
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
 | [329. Longest Increasing Path in a Matrix](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md) | `DFS` <br> `TopologicalSort` <br> `Memoization` | **Hard** |
 | [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
+| [342. Power of Four](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/342.%20Power%20of%20Four.md) | `Bit Manipulation` | **Easy** |
 | [343. Integer Break](https://github.com/103style/LeetCode/blob/master/Math/343.%20Integer%20Break.md) | `Math` <br> `Dynamic Programming` | **Medium** | 
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
 | [347. Top K Frequent Elements](https://github.com/103style/LeetCode/blob/master/Heap/347.%20Top%20K%20Frequent%20Elements.md) | `HashTable` <br> `Heap`| **Medium** |
