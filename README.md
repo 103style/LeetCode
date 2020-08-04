@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(386/1537)` → `Easy 136`--`Medium 199`--`Hard 51`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(387/1537)` → `Easy 137`--`Medium 199`--`Hard 51`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Hash Table | `23/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
-| Math | `36/122` |
+| Math | `37/122` |
 | Memoization | `1/1` |
 | Minimax | `1/8` |
 | Queue | `2/9` |
@@ -245,6 +245,7 @@ the following problem is choose by:
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
 | [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md) | `Stack` | **Easy** |
 | [503. Next Greater Element II](https://github.com/103style/LeetCode/blob/master/Stack/503.%20Next%20Greater%20Element%20II.md) | `Stack` | **Medium** |
+| [507. Perfect Number](https://github.com/103style/LeetCode/blob/master/Math/507.%20Perfect%20Number.md) | `Math` | **Easy** |
 | [509. Fibonacci Number](https://github.com/103style/LeetCode/blob/master/Array/509.%20Fibonacci%20Number.md) | `Array` | **Easy** |
 | [513. Find Bottom Left Tree Value](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/513.%20Find%20Bottom%20Left%20Tree%20Value.md) | `DFS` <br> `BFS` <br> `Tree` | **Medium** |
 | [515. Find Largest Value in Each Tree Row](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md) | `DFS` <br> `BFS` <br> `Tree` | **Medium** |
