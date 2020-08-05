@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(388/1537)` → `Easy 138`--`Medium 199`--`Hard 51`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(390/1537)` → `Easy 138`--`Medium 201`--`Hard 51`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,10 +32,10 @@ the following problem is choose by:
 | Breadth-first Search | `17/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `40/95` |
+| Depth-first Search | `41/95` |
 | Desigin | `6/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `57/188` |
+| Dynamic Programming | `58/188` |
 | Geometry | `2/7` |
 | Graph | `10/42` | 
 | Greedy | `17/80` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Stack | `17/57` |
 | String | `61/179` |
 | Topological Sort | `4/7` |
-| Tree | `56/137` |
+| Tree | `57/137` |
 | Trie | `3/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -185,6 +185,7 @@ the following problem is choose by:
 | [209. Minimum Size Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/209.%20Minimum%20Size%20Subarray%20Sum.md) | `Array` <br> `Two Pointer` <br> `Binary Search` | **Medium** |
 | [210. Course Schedule II](https://github.com/103style/LeetCode/blob/master/Topological%20Sort/210.%20Course%20Schedule%20II.md) | `DFS` <br> `BFS` <br> `Graph` <br> `Topological Sort` | **Medium** |
 | [212. Word Search II](https://github.com/103style/LeetCode/blob/master/Trie/212.%20Word%20Search%20II.md) | `Trie` <br> `Backtracking`  | **Hard** |
+| [213. House Robber II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/213.%20House%20Robber%20II.md) | `Dynamic Programming` | **Medium** |
 | [215. Kth Largest Element in an Array](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) 🚨 | `Divide and Conquer` <br> `Heap` | **Medium** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
@@ -219,6 +220,7 @@ the following problem is choose by:
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
 | [329. Longest Increasing Path in a Matrix](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md) | `DFS` <br> `TopologicalSort` <br> `Memoization` | **Hard** |
 | [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
+| [337. House Robber III](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/337.%20House%20Robber%20III.md) | `Tree` <br> `DFS` | **Medium** |
 | [342. Power of Four](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/342.%20Power%20of%20Four.md) | `Bit Manipulation` | **Easy** |
 | [343. Integer Break](https://github.com/103style/LeetCode/blob/master/Math/343.%20Integer%20Break.md) | `Math` <br> `Dynamic Programming` | **Medium** | 
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
