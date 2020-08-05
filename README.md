@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(391/1537)` → `Easy 139`--`Medium 201`--`Hard 51`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(392/1537)` → `Easy 139`--`Medium 202`--`Hard 51`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `108/261` |
-| Backtracking | `15/55` |
+| Backtracking | `16/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `33/84` |
 | Binary Search Tree | `2/15` |
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `41/95` |
-| Desigin | `6/49` |
+| Desigin | `7/49` |
 | Divide and Conquer | `6/19` |
 | Dynamic Programming | `58/188` |
 | Geometry | `2/7` |
@@ -55,7 +55,7 @@ the following problem is choose by:
 | String | `61/179` |
 | Topological Sort | `4/7` |
 | Tree | `57/137` |
-| Trie | `3/17` |
+| Trie | `4/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
@@ -184,6 +184,7 @@ the following problem is choose by:
 | [208. Implement Trie (Prefix Tree)](https://github.com/103style/LeetCode/blob/master/Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md) | `Trie` <br> `Design` | **Medium** | 
 | [209. Minimum Size Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/209.%20Minimum%20Size%20Subarray%20Sum.md) | `Array` <br> `Two Pointer` <br> `Binary Search` | **Medium** |
 | [210. Course Schedule II](https://github.com/103style/LeetCode/blob/master/Topological%20Sort/210.%20Course%20Schedule%20II.md) | `DFS` <br> `BFS` <br> `Graph` <br> `Topological Sort` | **Medium** |
+| [211. Add and Search Word - Data structure design](https://github.com/103style/LeetCode/blob/master/Design/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.md) | `Backtacking` <br> `Design` <br> `Trie` | **Medium** |
 | [212. Word Search II](https://github.com/103style/LeetCode/blob/master/Trie/212.%20Word%20Search%20II.md) | `Trie` <br> `Backtracking`  | **Hard** |
 | [213. House Robber II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/213.%20House%20Robber%20II.md) | `Dynamic Programming` | **Medium** |
 | [215. Kth Largest Element in an Array](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) 🚨 | `Divide and Conquer` <br> `Heap` | **Medium** |
