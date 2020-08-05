@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(390/1537)` → `Easy 138`--`Medium 201`--`Hard 51`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(391/1537)` → `Easy 139`--`Medium 201`--`Hard 51`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Hash Table | `23/127` |
 | Heap | `5/34` |
 | Linked List | `27/38` |
-| Math | `37/122` |
+| Math | `38/122` |
 | Memoization | `1/1` |
 | Minimax | `1/8` |
 | Queue | `2/9` |
@@ -50,7 +50,7 @@ the following problem is choose by:
 | Random | `1/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
-| Sort | `16/52` | 
+| Sort | `17/52` | 
 | Stack | `17/57` |
 | String | `61/179` |
 | Topological Sort | `4/7` |
@@ -342,6 +342,7 @@ the following problem is choose by:
 | [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md) | | **Easy** |
 | [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | `Array` <br> `HashTable` | **Medium** |
+| [976. Largest Perimeter Triangle](https://github.com/103style/LeetCode/blob/master/Sort/976.%20Largest%20Perimeter%20Triangle.md) | `Sort` <br> `Math` | **Easy** |
 | [977.Squares of a Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/977.%20Squares%20of%20a%20Sorted%20Array.md) | `Array` <br> `TwoPointers` | **Easy** |
 | [978. Longest Turbulent Subarray](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/978.%20Longest%20Turbulent%20Subarray.md) | `Array` <br> `Dynamic Programming` <br> `Silding Window` | **Medium** |
 | [979. Distribute Coins in Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/979.%20Distribute%20Coins%20in%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Medium** |
