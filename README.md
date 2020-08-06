@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(392/1537)` → `Easy 139`--`Medium 202`--`Hard 51`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(394/1537)` → `Easy 139`--`Medium 202`--`Hard 53`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,12 +35,12 @@ the following problem is choose by:
 | Depth-first Search | `41/95` |
 | Desigin | `7/49` |
 | Divide and Conquer | `6/19` |
-| Dynamic Programming | `58/188` |
+| Dynamic Programming | `59/188` |
 | Geometry | `2/7` |
 | Graph | `10/42` | 
 | Greedy | `17/80` |
-| Hash Table | `23/127` |
-| Heap | `5/34` |
+| Hash Table | `24/127` |
+| Heap | `6/34` |
 | Linked List | `27/38` |
 | Math | `38/122` |
 | Memoization | `1/1` |
@@ -52,10 +52,10 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `17/52` | 
 | Stack | `17/57` |
-| String | `61/179` |
+| String | `62/179` |
 | Topological Sort | `4/7` |
 | Tree | `57/137` |
-| Trie | `4/17` |
+| Trie | `5/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
 | other | `5/?` |
@@ -221,6 +221,7 @@ the following problem is choose by:
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
 | [329. Longest Increasing Path in a Matrix](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md) | `DFS` <br> `TopologicalSort` <br> `Memoization` | **Hard** |
 | [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
+| [336. Palindrome Pairs](https://github.com/103style/LeetCode/blob/master/Trie/336.%20Palindrome%20Pairs.md) 🚨🚨🚨 | `HashTable` <br> `String` <br> `Trie` | **Hard** |
 | [337. House Robber III](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/337.%20House%20Robber%20III.md) | `Tree` <br> `DFS` | **Medium** |
 | [342. Power of Four](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/342.%20Power%20of%20Four.md) | `Bit Manipulation` | **Easy** |
 | [343. Integer Break](https://github.com/103style/LeetCode/blob/master/Math/343.%20Integer%20Break.md) | `Math` <br> `Dynamic Programming` | **Medium** | 
@@ -314,6 +315,7 @@ the following problem is choose by:
 | [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md) | `other` | **Medium** |
 | [814. Binary Tree Pruning](https://github.com/103style/LeetCode/blob/master/Tree/814.%20Binary%20Tree%20Pruning.md) | `Tree` | **Medium** |
 | [817. Linked List Components](https://github.com/103style/LeetCode/blob/master/Linked%20List/817.%20Linked%20List%20Components.md) | `LinkedList` | **Medium** |
+| [818. Race Car](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/818.%20Race%20Car.md) 🚨🚨🚨 | `Dynamic Programming` <br> `Heap` | **Hard** |
 | [824. Goat Latin](https://github.com/103style/LeetCode/blob/master/String/824.%20Goat%20Latin.md) | `String` | **Easy** |
 | [830. Positions of Large Groups](https://github.com/103style/LeetCode/blob/master/Array/830.%20Positions%20of%20Large%20Groups.md) | `Array` | **Easy** |
 | [832. Flipping an Image](https://github.com/103style/LeetCode/blob/master/Array/832.%20Flipping%20an%20Image.md) | `Array` | **Easy** |
