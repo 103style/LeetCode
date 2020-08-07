@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(395/1537)` → `Easy 139`--`Medium 203`--`Hard 53`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(396/1537)` → `Easy 140`--`Medium 203`--`Hard 53`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -38,7 +38,7 @@ the following problem is choose by:
 | Dynamic Programming | `59/188` |
 | Geometry | `2/7` |
 | Graph | `10/42` | 
-| Greedy | `17/80` |
+| Greedy | `18/80` |
 | Hash Table | `24/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -356,6 +356,7 @@ the following problem is choose by:
 | [992. Subarrays with K Different Integers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers.md) | `Two Pointers` <br> `HashTable` <br> `Sliding Window` | **Hard** |
 | [1002. Find Common Characters](https://github.com/103style/LeetCode/blob/master/Array/1002.%20Find%20Common%20Characters.md) | `Array` <br> `HashTable` | **Easy** |
 | [1004. Max Consecutive Ones III](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III.md) | `Two Pointers` <br> `Sliding Window` | **Medium** |
+| [1005. Maximize Sum Of Array After K Negations](https://github.com/103style/LeetCode/blob/master/Greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md) | `Greedy` | **Easy** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |
 | [1011. Capacity To Ship Packages Within D Days](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | `Array` <br> `Binary Search` | **Medium** |
 | [1014. Best Sightseeing Pair](https://github.com/103style/LeetCode/blob/master/Array/1014.%20Best%20Sightseeing%20Pair.md) 🚨 | `Array` | **Medium** |
