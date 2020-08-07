@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(394/1537)` → `Easy 139`--`Medium 202`--`Hard 53`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(395/1537)` → `Easy 139`--`Medium 203`--`Hard 53`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -58,7 +58,7 @@ the following problem is choose by:
 | Trie | `5/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
-| other | `5/?` |
+| other | `6/?` |
 
 ---
 
@@ -244,6 +244,7 @@ the following problem is choose by:
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
 | [463. Island Perimeter](https://github.com/103style/LeetCode/blob/master/Hash%20Table/463.%20Island%20Perimeter.md) | `HashTable` | **Easy** |
 | [468. Validate IP Address](https://github.com/103style/LeetCode/blob/master/String/468.%20Validate%20IP%20Address.md) | `String` | **Medium** |
+| [481. Magical String](https://github.com/103style/LeetCode/blob/master/other/481.%20Magical%20String.md) | `other` | **Medium** |
 | [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md) | `Array` | **Easy** |
 | [494. Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/494.%20Target%20Sum.md) 🚨 | `Dynamic Programming` <br> `DFS` | **Medium** |
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
