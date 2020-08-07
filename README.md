@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(397/1537)` → `Easy 140`--`Medium 204`--`Hard 53`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(399/1537)` → `Easy 141`--`Medium 205`--`Hard 53`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `108/261` |
+| Array | `109/261` |
 | Backtracking | `16/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `33/84` |
@@ -34,12 +34,12 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `41/95` |
 | Desigin | `7/49` |
-| Divide and Conquer | `6/19` |
-| Dynamic Programming | `59/188` |
+| Divide and Conquer | `7/19` |
+| Dynamic Programming | `60/188` |
 | Geometry | `2/7` |
 | Graph | `10/42` | 
 | Greedy | `18/80` |
-| Hash Table | `24/127` |
+| Hash Table | `25/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
 | Math | `39/122` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Stack | `17/57` |
 | String | `62/179` |
 | Topological Sort | `4/7` |
-| Tree | `57/137` |
+| Tree | `58/137` |
 | Trie | `5/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -107,6 +107,7 @@ the following problem is choose by:
 | [44. Wildcard Matching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/44.%20Wildcard%20Matching.md) | `String` <br> `Dynamic Programming` <br> `Greedy` <br> `Backtracking` | **Hard** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
 | [50. Pow(x, n)](https://github.com/103style/LeetCode/blob/master/Math/50.%20Pow(x%2C%20n).md) | `Math` <br> `BinarySearch` | **Medium** |
+| [53. Maximum Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/53.%20Maximum%20Subarray.md) | `Array` <br> `Divide and Conquer` <br> `Dynamic Programming`  | **Easy** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Medium** |
@@ -353,6 +354,7 @@ the following problem is choose by:
 | [979. Distribute Coins in Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/979.%20Distribute%20Coins%20in%20Binary%20Tree.md) | `DFS` <br> `Tree` | **Medium** |
 | [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) | `DFS` <br> `BackTracking` | **Hard** |
 | [983. Minimum Cost For Tickets](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.md) 🚨 | `Dynamic Programming` | **Medium** |
+| [987. Vertical Order Traversal of a Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) | `Tree` <br> `HashTable` | **Medium** |
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |
 | [992. Subarrays with K Different Integers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers.md) | `Two Pointers` <br> `HashTable` <br> `Sliding Window` | **Hard** |
 | [1002. Find Common Characters](https://github.com/103style/LeetCode/blob/master/Array/1002.%20Find%20Common%20Characters.md) | `Array` <br> `HashTable` | **Easy** |
