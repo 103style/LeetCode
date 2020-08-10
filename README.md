@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(399/1537)` → `Easy 141`--`Medium 205`--`Hard 53`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(402/1537)` → `Easy 143`--`Medium 206`--`Hard 53`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,7 +29,7 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `11/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `17/68` |
+| Breadth-first Search | `18/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `41/95` |
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Hash Table | `25/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `39/122` |
+| Math | `40/122` |
 | Memoization | `1/1` |
 | Minimax | `1/8` |
 | Queue | `2/9` |
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `17/52` | 
 | Stack | `17/57` |
-| String | `62/179` |
+| String | `63/179` |
 | Topological Sort | `4/7` |
 | Tree | `58/137` |
 | Trie | `5/17` |
@@ -172,6 +172,7 @@ the following problem is choose by:
 | [155. Min Stack](https://github.com/103style/LeetCode/blob/master/Design/155.%20Min%20Stack.md) | `Stack` <br> `Design` | **Easy** | 
 | [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Easy** |
 | [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md) | `Array` <br> `Divide and Conquer` <br> `Bit Manipulation` | **Easy** |
+| [171. Excel Sheet Column Number](https://github.com/103style/LeetCode/blob/master/Math/171.%20Excel%20Sheet%20Column%20Number.md) | `Math` | **Easy** |
 | [173. Binary Search Tree Iterator](https://github.com/103style/LeetCode/blob/master/Tree/173.%20Binary%20Search%20Tree%20Iterator.md) | `Tree` <br> `Stack` <br> `Design` | **Medium** |
 | [174. Dungeon Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/174.%20Dungeon%20Game.md) | `Dynamic Programming` <br> `Binary Search` | **Hard** |
 | [188. Best Time to Buy and Sell Stock IV](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md) | `Dynamic Programming` | **Hard** |
@@ -291,6 +292,7 @@ the following problem is choose by:
 | [680. Valid Palindrome II](https://github.com/103style/LeetCode/blob/master/String/680.%20Valid%20Palindrome%20II.md) | `String` | **Easy** |
 | [692. Top K Frequent Words](https://github.com/103style/LeetCode/blob/master/Heap/692.%20Top%20K%20Frequent%20Words.md) | `HashTable` <br> `Heap` <br> `Trie` | **Medium** |
 | [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) | `Array` <br> `DFS` | **Medium** |
+| [696. Count Binary Substrings](https://github.com/103style/LeetCode/blob/master/String/696.%20Count%20Binary%20Substrings.md) | `String` | **Easy** |
 | [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md) | `Array` | **Easy** |
 | [700. Search in a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
 | [701. Insert into a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md) | `Tree` | **Medium** |
@@ -357,6 +359,7 @@ the following problem is choose by:
 | [987. Vertical Order Traversal of a Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) | `Tree` <br> `HashTable` | **Medium** |
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |
 | [992. Subarrays with K Different Integers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers.md) | `Two Pointers` <br> `HashTable` <br> `Sliding Window` | **Hard** |
+| [994. Rotting Oranges](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/994.%20Rotting%20Oranges.md) | `BFS` | **Medium** |
 | [1002. Find Common Characters](https://github.com/103style/LeetCode/blob/master/Array/1002.%20Find%20Common%20Characters.md) | `Array` <br> `HashTable` | **Easy** |
 | [1004. Max Consecutive Ones III](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III.md) | `Two Pointers` <br> `Sliding Window` | **Medium** |
 | [1005. Maximize Sum Of Array After K Negations](https://github.com/103style/LeetCode/blob/master/Greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md) | `Greedy` | **Easy** |
