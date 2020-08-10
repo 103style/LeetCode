@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(402/1537)` → `Easy 143`--`Medium 206`--`Hard 53`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(406/1537)` → `Easy 144`--`Medium 208`--`Hard 54`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,12 +22,12 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `109/261` |
+| Array | `110/261` |
 | Backtracking | `16/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `33/84` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `11/39` |
+| Bit Manipulation | `12/39` |
 | Brainteaser | `3/5` |
 | Breadth-first Search | `18/68` |
 | Concurrency | `1/9` |
@@ -38,8 +38,8 @@ the following problem is choose by:
 | Dynamic Programming | `60/188` |
 | Geometry | `2/7` |
 | Graph | `10/42` | 
-| Greedy | `18/80` |
-| Hash Table | `25/127` |
+| Greedy | `19/80` |
+| Hash Table | `26/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
 | Math | `40/122` |
@@ -51,8 +51,8 @@ the following problem is choose by:
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
 | Sort | `17/52` | 
-| Stack | `17/57` |
-| String | `63/179` |
+| Stack | `18/57` |
+| String | `66/179` |
 | Topological Sort | `4/7` |
 | Tree | `58/137` |
 | Trie | `5/17` |
@@ -467,4 +467,8 @@ the following problem is choose by:
 | [1535. Find the Winner of an Array Game](https://github.com/103style/LeetCode/blob/master/Array/1535.%20Find%20the%20Winner%20of%20an%20Array%20Game.md) | `Array` | **Medium** |
 | [1536. Minimum Swaps to Arrange a Binary Grid](https://github.com/103style/LeetCode/blob/master/Greedy/1536.%20Minimum%20Swaps%20to%20Arrange%20a%20Binary%20Grid.md) | `Greedy` | **Medium** |
 | [1537. Get the Maximum Score](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1537.%20Get%20the%20Maximum%20Score.md) | `Dynamic Programming` | **Hard** |
+| [1539. Kth Missing Positive Number](https://github.com/103style/LeetCode/blob/master/Array/1539.%20Kth%20Missing%20Positive%20Number.md) | `Array` <br> `HashTable` | **Easy** |
+| [1540. Can Convert String in K Moves](https://github.com/103style/LeetCode/blob/master/String/1540.%20Can%20Convert%20String%20in%20K%20Moves.md) | `String` <br> `Greedy` | **Medium** |
+| [1541. Minimum Insertions to Balance a Parentheses String](https://github.com/103style/LeetCode/blob/master/Stack/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.md) | `String` <br> `Stack` | **Medium** |
+| [1542. Find Longest Awesome Substring](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1542.%20Find%20Longest%20Awesome%20Substring.md) 🚨🚨🚨 | `String` <br> `Bit Manipulation` | **Hard** |
 
