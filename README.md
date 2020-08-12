@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(406/1537)` → `Easy 144`--`Medium 208`--`Hard 54`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(409/1537)` → `Easy 146`--`Medium 209`--`Hard 54`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,22 +22,22 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `110/261` |
+| Array | `112/261` |
 | Backtracking | `16/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `33/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `12/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `18/68` |
+| Breadth-first Search | `19/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `41/95` |
+| Depth-first Search | `42/95` |
 | Desigin | `7/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `60/188` |
 | Geometry | `2/7` |
-| Graph | `10/42` | 
+| Graph | `11/42` | 
 | Greedy | `19/80` |
 | Hash Table | `26/127` |
 | Heap | `6/34` |
@@ -145,6 +145,8 @@ the following problem is choose by:
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
 | [114. Flatten Binary Tree to Linked List](https://github.com/103style/LeetCode/blob/master/Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) | `Tree` <br> `DFS` | **Medium** |
+| [118. Pascal's Triangle](https://github.com/103style/LeetCode/blob/master/Array/118.%20Pascal's%20Triangle.md) | `Array` | **Easy** |
+| [119. Pascal's Triangle II](https://github.com/103style/LeetCode/blob/master/Array/119.%20Pascal's%20Triangle%20II.md) | `Array` | **Easy** |
 | [120. Triangle](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/120.%20Triangle.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
@@ -156,6 +158,7 @@ the following problem is choose by:
 | [128. Longest Consecutive Sequence](https://github.com/103style/LeetCode/blob/master/Array/128.%20Longest%20Consecutive%20Sequence.md) 🚨 | `Array` <br> `Union Find` | **Hard** |
 | [129. Sum Root to Leaf Numbers](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | `DFS` <br> `Tree` | **Medium** |
 | [130. Surrounded Regions](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/130.%20Surrounded%20Regions.md) | `DFS` <br> `BFS` <br> `Union Find` | **Medium** |
+| [133. Clone Graph](https://github.com/103style/LeetCode/blob/master/Graph/133.%20Clone%20Graph.md) | `DFS` <br> `BFS` <br> `Graph` | **Medium** |
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md) | `Bit Manipulation` | **Medium** |
 | [138. Copy List with Random Pointer](https://github.com/103style/LeetCode/blob/master/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.md) | `LinkedList` <br> `HashTable` | **Medium** |
