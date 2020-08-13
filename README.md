@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(409/1537)` → `Easy 146`--`Medium 209`--`Hard 54`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(413/1537)` → `Easy 147`--`Medium 211`--`Hard 55`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `42/95` |
 | Desigin | `7/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `60/188` |
+| Dynamic Programming | `62/188` |
 | Geometry | `2/7` |
 | Graph | `11/42` | 
 | Greedy | `19/80` |
@@ -51,8 +51,8 @@ the following problem is choose by:
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
 | Sort | `17/52` | 
-| Stack | `18/57` |
-| String | `66/179` |
+| Stack | `19/57` |
+| String | `68/179` |
 | Topological Sort | `4/7` |
 | Tree | `58/137` |
 | Trie | `5/17` |
@@ -474,4 +474,8 @@ the following problem is choose by:
 | [1540. Can Convert String in K Moves](https://github.com/103style/LeetCode/blob/master/String/1540.%20Can%20Convert%20String%20in%20K%20Moves.md) | `String` <br> `Greedy` | **Medium** |
 | [1541. Minimum Insertions to Balance a Parentheses String](https://github.com/103style/LeetCode/blob/master/Stack/1541.%20Minimum%20Insertions%20to%20Balance%20a%20Parentheses%20String.md) | `String` <br> `Stack` | **Medium** |
 | [1542. Find Longest Awesome Substring](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1542.%20Find%20Longest%20Awesome%20Substring.md) 🚨🚨🚨 | `String` <br> `Bit Manipulation` | **Hard** |
+| [1544. Make The String Great](https://github.com/103style/LeetCode/blob/master/Stack/1544.%20Make%20The%20String%20Great.md) | `String` <br> `Stack` | **Easy** |
+| [1545. Find Kth Bit in Nth Binary String](https://github.com/103style/LeetCode/blob/master/String/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.md) | `String` | **Medium** |
+| [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1546.%20Maximum%20Number%20of%20Non-Overlapping%20Subarrays%20With%20Sum%20Equals%20Target.md) 🚨🚨 | `Dynamic Programming` | **Medium** |
+| [1547. Minimum Cost to Cut a Stick](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
 
