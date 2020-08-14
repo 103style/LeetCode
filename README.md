@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(413/1537)` → `Easy 147`--`Medium 211`--`Hard 55`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(414/1537)` → `Easy 147`--`Medium 212`--`Hard 55`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `112/261` |
-| Backtracking | `16/55` |
+| Backtracking | `17/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `33/84` |
 | Binary Search Tree | `2/15` |
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `42/95` |
-| Desigin | `7/49` |
+| Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `62/188` |
 | Geometry | `2/7` |
@@ -401,6 +401,7 @@ the following problem is choose by:
 | [1266. Minimum Time Visiting All Points](https://github.com/103style/LeetCode/blob/master/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points.md) | `Array` <br> `Geometry` | **Easy** |
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/103style/LeetCode/blob/master/Math/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md) | `Math` | **Easy** |
 | [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light: | `Greedy` | **Medium** |
+| [1286. Iterator for Combination](https://github.com/103style/LeetCode/blob/master/Design/1286.%20Iterator%20for%20Combination.md) | `Design` <br> `Backtracking` | **Medium** |
 | [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) | `LinkedList` <br> `Bit Manipulation` | **Easy** |
 | [1300. Sum of Mutated Array Closest to Target](https://github.com/103style/LeetCode/blob/master/Array/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.md) | `Array` <br> `BinarySearch` | **Medium** |
 | [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md) | `DFS` <br> `Tree` | **Medium** |
