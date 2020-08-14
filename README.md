@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(414/1537)` → `Easy 147`--`Medium 212`--`Hard 55`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(416/1537)` → `Easy 147`--`Medium 213`--`Hard 56`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `112/261` |
-| Backtracking | `17/55` |
+| Backtracking | `18/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `33/84` |
 | Binary Search Tree | `2/15` |
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `19/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `42/95` |
+| Depth-first Search | `43/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `62/188` |
@@ -52,9 +52,9 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `17/52` | 
 | Stack | `19/57` |
-| String | `68/179` |
+| String | `69/179` |
 | Topological Sort | `4/7` |
-| Tree | `58/137` |
+| Tree | `59/137` |
 | Trie | `5/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -128,11 +128,13 @@ the following problem is choose by:
 | [86. Partition List](https://github.com/103style/LeetCode/blob/master/Linked%20List/86.%20Partition%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [91. Decode Ways](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/91.%20Decode%20Ways.md) | `Dynamic Programming` <br> `String` | **Medium** |
 | [92. Reverse Linked List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/92.%20Reverse%20Linked%20List%20II.md) | `LinkedList` | **Medium** |
+| [93. Restore IP Addresses](https://github.com/103style/LeetCode/blob/master/Backtracking/93.%20Restore%20IP%20Addresses.md) | `String` <br> `Backtracking` | **Medium** |
 | [94. Binary Tree Inorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md) | `Stack` <br> `HashTable` <br> `Tree` | **Medium** |
 | [95. Unique Binary Search Trees II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/95.%20Unique%20Binary%20Search%20Trees%20II.md) | `Tree` <br> `Dynamic Programming` | **Medium** |
 | [96. Unique Binary Search Trees](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/96.%20Unique%20Binary%20Search%20Trees.md) | `Tree` <br> `Dynamic Programming` | **Medium** |
 | [97. Interleaving String](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/97.%20Interleaving%20String.md) | `String` <br> `Dynamic Programming` | **Hard** |
 | [98. Validate Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/98.%20Validate%20Binary%20Search%20Tree.md) | `Tree` <br> `DFS` | **Medium** |
+| [99. Recover Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/99.%20Recover%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Hard** |
 | [100. Same Tree](https://github.com/103style/LeetCode/blob/master/Tree/100.%20Same%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [101. Symmetric Tree](https://github.com/103style/LeetCode/blob/master/Tree/101.%20Symmetric%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
 | [102. Binary Tree Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) | `Tree` <br> `BFS` | **Medium** |
