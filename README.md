@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(418/1537)` → `Easy 148`--`Medium 214`--`Hard 56`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(420/1553)` → `Easy 150`--`Medium 214`--`Hard 56`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `19/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `43/95` |
+| Depth-first Search | `44/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `62/188` |
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Hash Table | `27/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `40/122` |
+| Math | `41/122` |
 | Memoization | `1/1` |
 | Minimax | `1/8` |
 | Queue | `2/9` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `69/179` |
 | Topological Sort | `4/7` |
-| Tree | `60/137` |
+| Tree | `61/137` |
 | Trie | `5/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -145,6 +145,7 @@ the following problem is choose by:
 | [107. Binary Tree Level Order Traversal II](https://github.com/103style/LeetCode/blob/master/Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) | `Tree` <br> `BFS` | **Easy** |
 | [108. Convert Sorted Array to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
+| [110. Balanced Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/110.%20Balanced%20Binary%20Tree.md) | `Tree` <br> `DFS` | **Easy** |
 | [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
 | [114. Flatten Binary Tree to Linked List](https://github.com/103style/LeetCode/blob/master/Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) | `Tree` <br> `DFS` | **Medium** |
 | [118. Pascal's Triangle](https://github.com/103style/LeetCode/blob/master/Array/118.%20Pascal's%20Triangle.md) | `Array` | **Easy** |
@@ -385,6 +386,7 @@ the following problem is choose by:
 | [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |
 | [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md) :rotating_light: | `BackTracking` | **Medium** |
 | [1095. Find in Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1095.%20Find%20in%20Mountain%20Array.md) | `Binary Search` | **Hard** | 
+| [1103. Distribute Candies to People](https://github.com/103style/LeetCode/blob/master/Math/1103.%20Distribute%20Candies%20to%20People.md) | `Math` | **Easy** |
 | [1108.Defanging an IP Address](https://github.com/103style/LeetCode/blob/master/String/1108.%20Defanging%20an%20IP%20Address.md) | `String` | **Easy** |
 | [1109. Corporate Flight Bookings](https://github.com/103style/LeetCode/blob/master/Math/1109.%20Corporate%20Flight%20Bookings.md) 🚨 | `Math` <br> `Array` | **Medium** |
 | [1110. Delete Nodes And Return Forest](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1110.%20Delete%20Nodes%20And%20Return%20Forest.md) | `DFS` <br> `Tree` | **Medium** |
