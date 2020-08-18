@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(420/1553)` → `Easy 150`--`Medium 214`--`Hard 56`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(424/1553)` → `Easy 151`--`Medium 216`--`Hard 57`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,10 +22,10 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `112/261` |
+| Array | `114/261` |
 | Backtracking | `18/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `33/84` |
+| Binary Search | `34/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `12/39` |
 | Brainteaser | `3/5` |
@@ -35,14 +35,14 @@ the following problem is choose by:
 | Depth-first Search | `44/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `62/188` |
+| Dynamic Programming | `63/188` |
 | Geometry | `2/7` |
 | Graph | `11/42` | 
 | Greedy | `19/80` |
 | Hash Table | `27/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `41/122` |
+| Math | `42/122` |
 | Memoization | `1/1` |
 | Minimax | `1/8` |
 | Queue | `2/9` |
@@ -485,4 +485,7 @@ the following problem is choose by:
 | [1545. Find Kth Bit in Nth Binary String](https://github.com/103style/LeetCode/blob/master/String/1545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.md) | `String` | **Medium** |
 | [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1546.%20Maximum%20Number%20of%20Non-Overlapping%20Subarrays%20With%20Sum%20Equals%20Target.md) 🚨🚨 | `Dynamic Programming` | **Medium** |
 | [1547. Minimum Cost to Cut a Stick](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
-
+| [1550. Three Consecutive Odds](https://github.com/103style/LeetCode/blob/master/Array/1550.%20Three%20Consecutive%20Odds.md) | `Array` | **Easy** |
+| [1551. Minimum Operations to Make Array Equal](https://github.com/103style/LeetCode/blob/master/Math/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.md) | `Math` | **Medium** |
+| [1552. Magnetic Force Between Two Balls](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1552.%20Magnetic%20Force%20Between%20Two%20Balls.md) | `Array` <br> `Binary Search` | **Medium** |
+| [1553. Minimum Number of Days to Eat N Oranges](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1553.%20Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges.md) | `Dynamic Programming` | **Hard** |
