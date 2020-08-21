@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(430/1553)` → `Easy 152`--`Medium 221`--`Hard 57`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(432/1553)` → `Easy 153`--`Medium 222`--`Hard 57`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `114/261` |
+| Array | `115/261` |
 | Backtracking | `18/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `34/84` |
@@ -50,7 +50,7 @@ the following problem is choose by:
 | Random | `1/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
-| Sort | `17/52` | 
+| Sort | `18/52` | 
 | Stack | `19/57` |
 | String | `70/179` |
 | Topological Sort | `4/7` |
@@ -351,6 +351,8 @@ the following problem is choose by:
 | [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [904. Fruit Into Baskets](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/904.%20Fruit%20Into%20Baskets.md) | `Two Pointers` | **Medium** |
 | [905. Sort Array By Parity](https://github.com/103style/LeetCode/blob/master/Array/905.%20Sort%20Array%20By%20Parity.md) | `Array` | **Easy** |
+| [912. Sort an Array](https://github.com/103style/LeetCode/blob/master/Sort/912.%20Sort%20an%20Array.md) | `Sort` | **Medium** |
+| [922. Sort Array By Parity II](https://github.com/103style/LeetCode/blob/master/Array/922.%20Sort%20Array%20By%20Parity%20II.md) | `Array` <br> `Sort` | **Easy** |
 | [925. Long Pressed Name](https://github.com/103style/LeetCode/blob/master/String/925.%20Long%20Pressed%20Name.md) | `String` <br> `Two Pointer` | **Easy** |
 | [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md) | `String` | **Easy** |
 | [930. Binary Subarrays With Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/930.%20Binary%20Subarrays%20With%20Sum.md) | `Two Pointers` <br> `HashTable` | **Medium** |
