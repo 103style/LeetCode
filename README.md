@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(427/1553)` → `Easy 152`--`Medium 218`--`Hard 57`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(428/1553)` → `Easy 152`--`Medium 219`--`Hard 57`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `45/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `64/188` |
+| Dynamic Programming | `65/188` |
 | Geometry | `2/7` |
 | Graph | `11/42` | 
 | Greedy | `20/80` |
@@ -293,6 +293,7 @@ the following problem is choose by:
 | [628. Maximum Product of Three Numbers](https://github.com/103style/LeetCode/blob/master/Array/628.%20Maximum%20Product%20of%20Three%20Numbers.md) | `Array` <br> `Math` | **Easy** |
 | [630. Course Schedule III](https://github.com/103style/LeetCode/blob/master/Greedy/630.%20Course%20Schedule%20III.md) | `Greedy` | **Hard** | 
 | [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) | `Math` <br> `HashTable` | **Easy** |
+| [646. Maximum Length of Pair Chain](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/646.%20Maximum%20Length%20of%20Pair%20Chain.md) | `Dynamic Programming` | **Medium** |
 | [654.Maximum Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [657. Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/657.%20Judge%20Route%20Circle.md) | `String` | **Easy** |
 | [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md) | `Array` | **Easy** |
