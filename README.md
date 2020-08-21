@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(426/1553)` → `Easy 151`--`Medium 218`--`Hard 57`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(427/1553)` → `Easy 152`--`Medium 218`--`Hard 57`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,10 +29,10 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `12/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `19/68` |
+| Breadth-first Search | `20/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `44/95` |
+| Depth-first Search | `45/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `64/188` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `69/179` |
 | Topological Sort | `4/7` |
-| Tree | `61/137` |
+| Tree | `62/137` |
 | Trie | `5/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -146,6 +146,7 @@ the following problem is choose by:
 | [108. Convert Sorted Array to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |
 | [109. Convert Sorted List to Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [110. Balanced Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/110.%20Balanced%20Binary%20Tree.md) | `Tree` <br> `DFS` | **Easy** |
+| [111. Minimum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Easy** |
 | [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
 | [114. Flatten Binary Tree to Linked List](https://github.com/103style/LeetCode/blob/master/Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) | `Tree` <br> `DFS` | **Medium** |
 | [118. Pascal's Triangle](https://github.com/103style/LeetCode/blob/master/Array/118.%20Pascal's%20Triangle.md) | `Array` | **Easy** |
