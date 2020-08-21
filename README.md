@@ -247,7 +247,7 @@ the following problem is choose by:
 | [410. Split Array Largest Sum](https://github.com/103style/LeetCode/blob/master/Binary%20Search/410.%20Split%20Array%20Largest%20Sum.md) | `Binary Search` <br> `Dynamic Programming` | **Hard** |
 | [415. Add Strings](https://github.com/103style/LeetCode/blob/master/String/415.%20Add%20Strings.md) | `String` | **Easy** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
-| [435. Non-overlapping Intervals](https://github.com/103style/LeetCode/blob/master/Greedy/435.%20Non-overlapping%20Intervals.md) | `Greedy` | **Medium** |
+| [435. Non-overlapping Intervals](https://github.com/103style/LeetCode/blob/master/Greedy/435.%20Non-overlapping%20Intervals.md) 🚨 | `Greedy` | **Medium** |
 | [437. Path Sum III](https://github.com/103style/LeetCode/blob/master/Tree/437.%20Path%20Sum%20III.md) | `Tree` | **Medium** |
 | [441. Arranging Coins](https://github.com/103style/LeetCode/blob/master/Math/441.%20Arranging%20Coins.md) | `Math` <br> `BinarySearch` | **Easy** |
 | [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) | `Array` | **Medium** |
@@ -356,7 +356,7 @@ the following problem is choose by:
 | [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md) | `Array` | **Medium** |
 | [957. Prison Cells After N Days](https://github.com/103style/LeetCode/blob/master/Hash%20Table/957.%20Prison%20Cells%20After%20N%20Days.md) | `HashTable` | **Medium** |
 | [959. Regions Cut By Slashes](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/959.%20Regions%20Cut%20By%20Slashes.md) | `DFS` <br> `Graph` <br> `Union Find` | **Medium** |
-| [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md) | | **Easy** |
+| [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md) | `HashTable` | **Easy** |
 | [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [967. Numbers With Same Consecutive Differences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/967.%20Numbers%20With%20Same%20Consecutive%20Differences.md) | `Dynamic Programming` | **Medium** |
 | [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | `Array` <br> `HashTable` | **Medium** |
