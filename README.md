@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(428/1553)` → `Easy 152`--`Medium 219`--`Hard 57`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(430/1553)` → `Easy 152`--`Medium 221`--`Hard 57`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -29,13 +29,13 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `12/39` |
 | Brainteaser | `3/5` |
-| Breadth-first Search | `20/68` |
+| Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `45/95` |
+| Depth-first Search | `46/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `65/188` |
+| Dynamic Programming | `66/188` |
 | Geometry | `2/7` |
 | Graph | `11/42` | 
 | Greedy | `20/80` |
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `17/52` | 
 | Stack | `19/57` |
-| String | `69/179` |
+| String | `70/179` |
 | Topological Sort | `4/7` |
 | Tree | `62/137` |
 | Trie | `5/17` |
@@ -273,6 +273,7 @@ the following problem is choose by:
 | [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) 🚨 | `Math` <br> `Dynamic Programming` | **Medium** |
 | [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨 | `HashTable` | **Medium** |
 | [528. Random Pick with Weight](https://github.com/103style/LeetCode/blob/master/Random/528.%20Random%20Pick%20with%20Weight.md) 🚨 | `Random` <br> `BinarySerach` | **Medium** |
+| [529. Minesweeper](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/529.%20Minesweeper.md) | `DFS` <br> `BFS` | **Medium** |
 | [530. Minimum Absolute Difference in BST](https://github.com/103style/LeetCode/blob/master/Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.md) | `Tree` | **Easy** |
 | [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md) | `Math` <br> `HashTable` | **Medium** |
 | [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) | `Math` <br> `String` | **Medium** |
@@ -294,6 +295,7 @@ the following problem is choose by:
 | [630. Course Schedule III](https://github.com/103style/LeetCode/blob/master/Greedy/630.%20Course%20Schedule%20III.md) | `Greedy` | **Hard** | 
 | [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) | `Math` <br> `HashTable` | **Easy** |
 | [646. Maximum Length of Pair Chain](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/646.%20Maximum%20Length%20of%20Pair%20Chain.md) | `Dynamic Programming` | **Medium** |
+| [647. Palindromic Substrings](https://github.com/103style/LeetCode/blob/master/String/647.%20Palindromic%20Substrings.md) | `String` <br> `Dynamic Programming` | **Medium** |
 | [654.Maximum Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [657. Judge Route Circle](https://github.com/103style/LeetCode/blob/master/String/657.%20Judge%20Route%20Circle.md) | `String` | **Easy** |
 | [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md) | `Array` | **Easy** |
