@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(433/1553)` → `Easy 154`--`Medium 222`--`Hard 57`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(434/1553)` → `Easy 155`--`Medium 222`--`Hard 57`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `18/52` | 
 | Stack | `19/57` |
-| String | `70/179` |
+| String | `71/179` |
 | Topological Sort | `4/7` |
 | Tree | `62/137` |
 | Trie | `5/17` |
@@ -254,6 +254,7 @@ the following problem is choose by:
 | [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) | `Array` | **Medium** |
 | [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md) | `LinkedList` | **Medium** |
 | [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | `Array` | **Easy** |
+| [459. Repeated Substring Pattern](https://github.com/103style/LeetCode/blob/master/String/459.%20Repeated%20Substring%20Pattern.md) | `String` | **Easy** |
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
 | [463. Island Perimeter](https://github.com/103style/LeetCode/blob/master/Hash%20Table/463.%20Island%20Perimeter.md) | `HashTable` | **Easy** |
 | [468. Validate IP Address](https://github.com/103style/LeetCode/blob/master/String/468.%20Validate%20IP%20Address.md) | `String` | **Medium** |
