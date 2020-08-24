@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(434/1553)` → `Easy 155`--`Medium 222`--`Hard 57`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(436/1553)` → `Easy 155`--`Medium 223`--`Hard 58`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -27,12 +27,12 @@ the following problem is choose by:
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `34/84` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `12/39` |
+| Bit Manipulation | `13/39` |
 | Brainteaser | `3/5` |
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `47/95` |
+| Depth-first Search | `48/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `66/188` |
@@ -186,6 +186,7 @@ the following problem is choose by:
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
 | [190. Reverse Bits](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/190.%20Reverse%20Bits.md) | `Bit Manipulation` | `Easy` |
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
+| [201. Bitwise AND of Numbers Range](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/201.%20Bitwise%20AND%20of%20Numbers%20Range.md) | `Bit Manipulation` | **Medium** |
 | [203. Remove Linked List Elements](https://github.com/103style/LeetCode/blob/master/Linked%20List/203.%20Remove%20Linked%20List%20Elements.md) | `LinkedList` | **Easy** |
 | [204. Count Primes](https://github.com/103style/LeetCode/blob/master/Math/204.%20Count%20Primes.md) | `Math` <br> `HashTable` | **Easy** |
 | [206. Reverse Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/206.%20Reverse%20Linked%20List.md) | `LinkedList` | **Easy** |
@@ -303,6 +304,7 @@ the following problem is choose by:
 | [662. Maximum Width of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md) | `Array` | **Medium** |
 | [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md) | `Array` | **Easy** |
+| [679. 24 Game](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/679.%2024%20Game.md) 🚨 | `DFS` | **Hard** | 
 | [680. Valid Palindrome II](https://github.com/103style/LeetCode/blob/master/String/680.%20Valid%20Palindrome%20II.md) | `String` | **Easy** |
 | [692. Top K Frequent Words](https://github.com/103style/LeetCode/blob/master/Heap/692.%20Top%20K%20Frequent%20Words.md) | `HashTable` <br> `Heap` <br> `Trie` | **Medium** |
 | [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) | `Array` <br> `DFS` | **Medium** |
