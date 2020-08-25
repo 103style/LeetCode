@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(436/1553)` → `Easy 155`--`Medium 223`--`Hard 58`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(441/1563)` → `Easy 157`--`Medium 225`--`Hard 59`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,13 +32,13 @@ the following problem is choose by:
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `48/95` |
+| Depth-first Search | `49/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `66/188` |
 | Geometry | `2/7` |
-| Graph | `11/42` | 
-| Greedy | `20/80` |
+| Graph | `12/42` | 
+| Greedy | `21/80` |
 | Hash Table | `27/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -52,9 +52,9 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `18/52` | 
 | Stack | `19/57` |
-| String | `71/179` |
+| String | `72/179` |
 | Topological Sort | `4/7` |
-| Tree | `62/137` |
+| Tree | `63/137` |
 | Trie | `5/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -244,6 +244,7 @@ the following problem is choose by:
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
 | [400. Nth Digit](https://github.com/103style/LeetCode/blob/master/Math/400.%20Nth%20Digit.md) | `Math` | **Medium** |
+| [404. Sum of Left Leaves](https://github.com/103style/LeetCode/blob/master/Tree/404.%20Sum%20of%20Left%20Leaves.md) | `Tree` | **Easy** |
 | [406. Queue Reconstruction by Height](https://github.com/103style/LeetCode/blob/master/Greedy/406.%20Queue%20Reconstruction%20by%20Height.md) | `Greedy` | **Medium** |
 | [409. Longest Palindrome](https://github.com/103style/LeetCode/blob/master/Hash%20Table/409.%20Longest%20Palindrome.md) | `HashTable` | **Easy** |
 | [410. Split Array Largest Sum](https://github.com/103style/LeetCode/blob/master/Binary%20Search/410.%20Split%20Array%20Largest%20Sum.md) | `Binary Search` <br> `Dynamic Programming` | **Hard** |
@@ -501,3 +502,7 @@ the following problem is choose by:
 | [1551. Minimum Operations to Make Array Equal](https://github.com/103style/LeetCode/blob/master/Math/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.md) | `Math` | **Medium** |
 | [1552. Magnetic Force Between Two Balls](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1552.%20Magnetic%20Force%20Between%20Two%20Balls.md) | `Array` <br> `Binary Search` | **Medium** |
 | [1553. Minimum Number of Days to Eat N Oranges](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1553.%20Minimum%20Number%20of%20Days%20to%20Eat%20N%20Oranges.md) | `Dynamic Programming` | **Hard** |
+| [1556. Thousand Separator](https://github.com/103style/LeetCode/blob/master/String/1556.%20Thousand%20Separator.md) | `String` | **Easy** |
+| [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/103style/LeetCode/blob/master/Graph/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.md) | `Grpah` | **Medium** |
+| [1558. Minimum Numbers of Function Calls to Make Target Array](https://github.com/103style/LeetCode/blob/master/Greedy/1558.%20Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array.md) | `Greedy` | **Medium** |
+| [1559. Detect Cycles in 2D Grid](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1559.%20Detect%20Cycles%20in%202D%20Grid.md) | `DFS` | **Hard** |
