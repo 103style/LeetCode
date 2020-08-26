@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(441/1563)` → `Easy 157`--`Medium 225`--`Hard 59`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(442/1563)` → `Easy 157`--`Medium 226`--`Hard 59`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `49/95` |
+| Depth-first Search | `50/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `66/188` |
@@ -262,6 +262,7 @@ the following problem is choose by:
 | [468. Validate IP Address](https://github.com/103style/LeetCode/blob/master/String/468.%20Validate%20IP%20Address.md) | `String` | **Medium** |
 | [481. Magical String](https://github.com/103style/LeetCode/blob/master/other/481.%20Magical%20String.md) | `other` | **Medium** |
 | [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md) | `Array` | **Easy** |
+| [491. Increasing Subsequences](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/491.%20Increasing%20Subsequences.md) 🚨 | `DFS` | **Medium** |
 | [494. Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/494.%20Target%20Sum.md) 🚨 | `Dynamic Programming` <br> `DFS` | **Medium** |
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
 | [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md) | `Stack` | **Easy** |
