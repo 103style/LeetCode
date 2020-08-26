@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(442/1563)` → `Easy 157`--`Medium 226`--`Hard 59`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(446/1563)` → `Easy 158`--`Medium 228`--`Hard 60`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,10 +22,10 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `115/261` |
+| Array | `116/261` |
 | Backtracking | `18/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `34/84` |
+| Binary Search | `35/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `13/39` |
 | Brainteaser | `3/5` |
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `50/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `66/188` |
+| Dynamic Programming | `67/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `21/80` |
@@ -50,7 +50,7 @@ the following problem is choose by:
 | Random | `1/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
-| Sort | `18/52` | 
+| Sort | `19/52` | 
 | Stack | `19/57` |
 | String | `72/179` |
 | Topological Sort | `4/7` |
@@ -507,3 +507,7 @@ the following problem is choose by:
 | [1557. Minimum Number of Vertices to Reach All Nodes](https://github.com/103style/LeetCode/blob/master/Graph/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.md) | `Grpah` | **Medium** |
 | [1558. Minimum Numbers of Function Calls to Make Target Array](https://github.com/103style/LeetCode/blob/master/Greedy/1558.%20Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array.md) | `Greedy` | **Medium** |
 | [1559. Detect Cycles in 2D Grid](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1559.%20Detect%20Cycles%20in%202D%20Grid.md) | `DFS` | **Hard** |
+| [1560. Most Visited Sector in a Circular Track](https://github.com/103style/LeetCode/blob/master/Array/1560.%20Most%20Visited%20Sector%20in%20a%20Circular%20Track.md) | `Array` | **Easy** |
+| [1561. Maximum Number of Coins You Can Get](https://github.com/103style/LeetCode/blob/master/Sort/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.md) | `Sort` | **Medium** |
+| [1562. Find Latest Group of Size M](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1562.%20Find%20Latest%20Group%20of%20Size%20M.md) 🚨 | `Binary Search` | **Medium** |
+| [1563. Stone Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1563.%20Stone%20Game%20V.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
