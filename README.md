@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(449/1563)` → `Easy 159`--`Medium 229`--`Hard 61`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(450/1563)` → `Easy 159`--`Medium 229`--`Hard 62`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -55,7 +55,7 @@ the following problem is choose by:
 | String | `72/179` |
 | Topological Sort | `4/7` |
 | Tree | `63/137` |
-| Trie | `5/17` |
+| Trie | `6/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
 | other | `7/?` |
@@ -396,7 +396,8 @@ the following problem is choose by:
 | [1025. Divisor Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1025.%20Divisor%20Game.md) | `Math` <br> `Dynamic Programming`| **Easy** |	
 | [1026. Maximum Difference Between Node and Ancestor](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md) | `DFS` <br> `Tree` | **Hard** |	
-| [1029. Two City Scheduling](https://github.com/103style/LeetCode/blob/master/Greedy/1029.%20Two%20City%20Scheduling.md) | `Greedy` | **Easy** |	
+| [1029. Two City Scheduling](https://github.com/103style/LeetCode/blob/master/Greedy/1029.%20Two%20City%20Scheduling.md) | `Greedy` | **Easy** |	 
+| [1032. Stream of Characters](https://github.com/103style/LeetCode/blob/master/Trie/1032.%20Stream%20of%20Characters.md) | `Trie` | **Hard** |
 | [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md) | `Binary Search Tree` | **Medium** |	
 | [1044. Longest Duplicate Substring](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1044.%20Longest%20Duplicate%20Substring.md) :rotating_light::rotating_light::rotating_light: | `Binary Search` <br> `HashTable` | **Hard** |	
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |	
