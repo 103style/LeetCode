@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(448/1563)` → `Easy 159`--`Medium 228`--`Hard 61`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(449/1563)` → `Easy 159`--`Medium 229`--`Hard 61`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -25,7 +25,7 @@ the following problem is choose by:
 | Array | `116/261` |
 | Backtracking | `18/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `35/84` |
+| Binary Search | `36/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `13/39` |
 | Brainteaser | `3/5` |
@@ -252,6 +252,7 @@ the following problem is choose by:
 | [415. Add Strings](https://github.com/103style/LeetCode/blob/master/String/415.%20Add%20Strings.md) | `String` | **Easy** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [435. Non-overlapping Intervals](https://github.com/103style/LeetCode/blob/master/Greedy/435.%20Non-overlapping%20Intervals.md) 🚨 | `Greedy` | **Medium** |
+| [436. Find Right Interval](https://github.com/103style/LeetCode/blob/master/Binary%20Search/436.%20Find%20Right%20Interval.md) | `Binary Search` | **Medium** | 
 | [437. Path Sum III](https://github.com/103style/LeetCode/blob/master/Tree/437.%20Path%20Sum%20III.md) | `Tree` | **Medium** |
 | [441. Arranging Coins](https://github.com/103style/LeetCode/blob/master/Math/441.%20Arranging%20Coins.md) | `Math` <br> `BinarySearch` | **Easy** |
 | [442. Find All Duplicates in an Array](https://github.com/103style/LeetCode/blob/master/Array/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) | `Array` | **Medium** |
