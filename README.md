@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(450/1563)` → `Easy 159`--`Medium 229`--`Hard 62`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(451/1563)` → `Easy 159`--`Medium 230`--`Hard 62`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -47,7 +47,8 @@ the following problem is choose by:
 | Minimax | `1/8` |
 | Queue | `2/9` |
 | Recursion | `5/15` | 
-| Random | `1/6` |
+| Rejection Sampling | `1/2` |
+| Random | `2/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
 | Sort | `19/52` | 
@@ -262,6 +263,7 @@ the following problem is choose by:
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
 | [463. Island Perimeter](https://github.com/103style/LeetCode/blob/master/Hash%20Table/463.%20Island%20Perimeter.md) | `HashTable` | **Easy** |
 | [468. Validate IP Address](https://github.com/103style/LeetCode/blob/master/String/468.%20Validate%20IP%20Address.md) | `String` | **Medium** |
+| [470. Implement Rand10() Using Rand7()](https://github.com/103style/LeetCode/blob/master/Random/470.%20Implement%20Rand10()%20Using%20Rand7().md) | `Random` <br> `Rejection Sampling` | **Medium** |
 | [481. Magical String](https://github.com/103style/LeetCode/blob/master/other/481.%20Magical%20String.md) | `other` | **Medium** |
 | [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md) | `Array` | **Easy** |
 | [491. Increasing Subsequences](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/491.%20Increasing%20Subsequences.md) 🚨 | `DFS` | **Medium** |
