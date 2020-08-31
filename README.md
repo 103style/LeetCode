@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(451/1563)` → `Easy 159`--`Medium 230`--`Hard 62`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(452/1563)` → `Easy 159`--`Medium 230`--`Hard 63`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -53,7 +53,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `19/52` | 
 | Stack | `19/57` |
-| String | `72/179` |
+| String | `73/179` |
 | Topological Sort | `4/7` |
 | Tree | `63/137` |
 | Trie | `6/17` |
@@ -198,6 +198,7 @@ the following problem is choose by:
 | [211. Add and Search Word - Data structure design](https://github.com/103style/LeetCode/blob/master/Design/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.md) | `Backtacking` <br> `Design` <br> `Trie` | **Medium** |
 | [212. Word Search II](https://github.com/103style/LeetCode/blob/master/Trie/212.%20Word%20Search%20II.md) | `Trie` <br> `Backtracking`  | **Hard** |
 | [213. House Robber II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/213.%20House%20Robber%20II.md) | `Dynamic Programming` | **Medium** |
+| [214. Shortest Palindrome](https://github.com/103style/LeetCode/blob/master/String/214.%20Shortest%20Palindrome.md) 🚨🚨🚨 | `String` | **Hard** |
 | [215. Kth Largest Element in an Array](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) 🚨 | `Divide and Conquer` <br> `Heap` | **Medium** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
