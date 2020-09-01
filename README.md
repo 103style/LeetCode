@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(453/1563)` → `Easy 159`--`Medium 231`--`Hard 63`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(455/1563)` → `Easy 159`--`Medium 233`--`Hard 63`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,16 +35,16 @@ the following problem is choose by:
 | Depth-first Search | `51/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `68/188` |
+| Dynamic Programming | `70/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `21/80` |
 | Hash Table | `27/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `42/122` |
+| Math | `43/122` |
 | Memoization | `1/1` |
-| Minimax | `1/8` |
+| Minimax | `3/8` |
 | Queue | `2/9` |
 | Recursion | `5/15` | 
 | Rejection Sampling | `1/2` |
@@ -268,6 +268,7 @@ the following problem is choose by:
 | [470. Implement Rand10() Using Rand7()](https://github.com/103style/LeetCode/blob/master/Random/470.%20Implement%20Rand10()%20Using%20Rand7().md) | `Random` <br> `Rejection Sampling` | **Medium** |
 | [481. Magical String](https://github.com/103style/LeetCode/blob/master/other/481.%20Magical%20String.md) | `other` | **Medium** |
 | [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md) | `Array` | **Easy** |
+| [486. Predict the Winner](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/486.%20Predict%20the%20Winner.md) 🚨 | `Dynamic Programming` <br> `MiniMax` | **Medium** |
 | [491. Increasing Subsequences](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/491.%20Increasing%20Subsequences.md) 🚨 | `DFS` | **Medium** |
 | [494. Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/494.%20Target%20Sum.md) 🚨 | `Dynamic Programming` <br> `DFS` | **Medium** |
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
@@ -358,6 +359,7 @@ the following problem is choose by:
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |	
 | [875. Koko Eating Bananas](https://github.com/103style/LeetCode/blob/master/Binary%20Search/875.%20Koko%20Eating%20Bananas.md) | `BinarySearch` | **Medium** |	
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |	
+| [877. Stone Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/877.%20Stone%20Game.md) | `Dynamic Programming` <br> `MiniMax` <br> `Math` | **Medium** |
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) | `Tree` | **Medium** |	
 | [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md) | `String` | **Easy** |	
 | [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light: | `Tree` <br> `Recursion` | **Medium** |	
