@@ -42,7 +42,7 @@ the following problem is choose by:
 | Hash Table | `27/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `43/122` |
+| Math | `44/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
 | Queue | `2/9` |
