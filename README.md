@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(462/1569)` → `Easy 161`--`Medium 236`--`Hard 65`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(463/1569)` → `Easy 161`--`Medium 236`--`Hard 66`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `51/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `72/188` |
+| Dynamic Programming | `73/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `23/80` |
@@ -444,6 +444,7 @@ the following problem is choose by:
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |	
 | [1344. Angle Between Hands of a Clock](https://github.com/103style/LeetCode/blob/master/Math/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md) | `Math` | **Medium** |	
 | [1358. Number of Substrings Containing All Three Characters](https://github.com/103style/LeetCode/blob/master/String/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.md) | `String` | **Medium** |	
+| [1406. Stone Game III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1406.%20Stone%20Game%20III.md) 🚨 | `Dynamic Programming` | **Hard** |
 | [1419. Minimum Number of Frogs Croaking](https://github.com/103style/LeetCode/blob/master/String/1419.%20Minimum%20Number%20of%20Frogs%20Croaking.md) | `String` | **Medium** |	
 | [1425. Constrained Subsequence Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1425.%20Constrained%20Subsequence%20Sum.md) | `Dynamic Programming` | **Hard** |	
 | [1431. Kids With the Greatest Number of Candies](https://github.com/103style/LeetCode/blob/master/Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) | `Array` | **Easy** |	
