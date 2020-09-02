@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(456/1563)` → `Easy 160`--`Medium 233`--`Hard 63`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(460/1569)` → `Easy 161`--`Medium 235`--`Hard 64`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `116/261` |
+| Array | `117/261` |
 | Backtracking | `18/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `36/84` |
@@ -35,10 +35,10 @@ the following problem is choose by:
 | Depth-first Search | `51/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `70/188` |
+| Dynamic Programming | `71/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
-| Greedy | `21/80` |
+| Greedy | `23/80` |
 | Hash Table | `27/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -522,3 +522,7 @@ the following problem is choose by:
 | [1561. Maximum Number of Coins You Can Get](https://github.com/103style/LeetCode/blob/master/Sort/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.md) | `Sort` | **Medium** |	
 | [1562. Find Latest Group of Size M](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1562.%20Find%20Latest%20Group%20of%20Size%20M.md) 🚨 | `Binary Search` | **Medium** |	
 | [1563. Stone Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1563.%20Stone%20Game%20V.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
+| [1566. Detect Pattern of Length M Repeated K or More Times](https://github.com/103style/LeetCode/blob/master/Array/1566.%20Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times.md) | `Array` | **Easy** |
+| [1567. Maximum Length of Subarray With Positive Product](https://github.com/103style/LeetCode/blob/master/Greedy/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product.md) | `Greedy` | **Meidum** |
+| [1568. Minimum Number of Days to Disconnect Island](https://github.com/103style/LeetCode/blob/master/Greedy/1568.%20Minimum%20Number%20of%20Days%20to%20Disconnect%20Island.md) | `Greedy` | **Meidum** |
+| [1569. Number of Ways to Reorder Array to Get Same BST](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.md#1569-number-of-ways-to-reorder-array-to-get-same-bst) 🚨🚨 | `Dynamic Programming` | **Hard** |
