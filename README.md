@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(461/1569)` → `Easy 161`--`Medium 235`--`Hard 65`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(462/1569)` → `Easy 161`--`Medium 236`--`Hard 65`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `51/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `71/188` |
+| Dynamic Programming | `72/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `23/80` |
@@ -421,6 +421,7 @@ the following problem is choose by:
 | [1122. Relative Sort Array](https://github.com/103style/LeetCode/blob/master/Array/1122.%20Relative%20Sort%20Array.md) | `Array` <br> `Sort` | **Easy** |	
 | [1130. Minimum Cost Tree From Leaf Values](https://github.com/103style/LeetCode/blob/master/Tree/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.md) | `Tree` <br> `Stack` <br> `Dynamic Programming` | **Medium** |	
 | [1137. N-th Tribonacci Number](https://github.com/103style/LeetCode/blob/master/Recursion/1137.%20N-th%20Tribonacci%20Number.md) | `Recursive` | **Easy** |	
+| [1140. Stone Game II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1140.%20Stone%20Game%20II.md) | `Dynamic Programming` | **Medium** |
 | [1143. Longest Common Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | `Dynamic Programming` | **Medium** |	
 | [1155. Number of Dice Rolls With Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md) | `Dynamic Programming` | **Medium** |	
 | [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light: | `Datebase` | **Easy** |	
