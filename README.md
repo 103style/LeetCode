@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(460/1569)` → `Easy 161`--`Medium 235`--`Hard 64`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(461/1569)` → `Easy 161`--`Medium 236`--`Hard 64`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -45,13 +45,14 @@ the following problem is choose by:
 | Math | `44/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
+| Ordered Map | `1/10` |
 | Queue | `2/9` |
 | Recursion | `5/15` | 
 | Rejection Sampling | `1/2` |
 | Random | `2/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
-| Sort | `19/52` | 
+| Sort | `20/52` | 
 | Stack | `19/57` |
 | String | `73/179` |
 | Topological Sort | `4/7` |
@@ -202,6 +203,7 @@ the following problem is choose by:
 | [215. Kth Largest Element in an Array](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) 🚨 | `Divide and Conquer` <br> `Heap` | **Medium** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
 | [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
+| [220. Contains Duplicate III](https://github.com/103style/LeetCode/blob/master/Sort/220.%20Contains%20Duplicate%20III.md) | `Sort` <br> `Ordered Map` | **Medium** |
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
 | [222. Count Complete Tree Nodes](https://github.com/103style/LeetCode/blob/master/Binary%20Search/222.%20Count%20Complete%20Tree%20Nodes.md) | `Tree` <br> `Binary Search` | **Medium** |
 | [226. Invert Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/226.%20Invert%20Binary%20Tree.md) | `Tree` | **Easy** |
