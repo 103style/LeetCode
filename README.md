@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(463/1569)` → `Easy 161`--`Medium 236`--`Hard 66`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(465/1569)` → `Easy 161`--`Medium 236`--`Hard 68`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `117/261` |
-| Backtracking | `18/55` |
+| Backtracking | `20/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `36/84` |
 | Binary Search Tree | `2/15` |
@@ -109,6 +109,8 @@ the following problem is choose by:
 | [44. Wildcard Matching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/44.%20Wildcard%20Matching.md) | `String` <br> `Dynamic Programming` <br> `Greedy` <br> `Backtracking` | **Hard** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
 | [50. Pow(x, n)](https://github.com/103style/LeetCode/blob/master/Math/50.%20Pow(x%2C%20n).md) | `Math` <br> `BinarySearch` | **Medium** |
+| [51. N-Queens](https://github.com/103style/LeetCode/blob/master/Backtracking/51.%20N-Queens.md) | `Backtracking` | **Hard** |
+| [52. N-Queens II](https://github.com/103style/LeetCode/blob/master/Backtracking/52.%20N-Queens%20II.md) | `Backtracking` | **Hard** |
 | [53. Maximum Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/53.%20Maximum%20Subarray.md) | `Array` <br> `Divide and Conquer` <br> `Dynamic Programming`  | **Easy** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
