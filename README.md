@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(465/1569)` → `Easy 161`--`Medium 236`--`Hard 68`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(466/1569)` → `Easy 161`--`Medium 237`--`Hard 68`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -25,7 +25,7 @@ the following problem is choose by:
 | Array | `117/261` |
 | Backtracking | `20/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `36/84` |
+| Binary Search | `37/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `13/39` |
 | Brainteaser | `3/5` |
@@ -49,7 +49,7 @@ the following problem is choose by:
 | Queue | `2/9` |
 | Recursion | `5/15` | 
 | Rejection Sampling | `1/2` |
-| Random | `2/6` |
+| Random | `3/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
 | Sort | `20/52` | 
@@ -277,6 +277,7 @@ the following problem is choose by:
 | [494. Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/494.%20Target%20Sum.md) 🚨 | `Dynamic Programming` <br> `DFS` | **Medium** |
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
 | [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md) | `Stack` | **Easy** |
+| [497. Random Point in Non-overlapping Rectangles](https://github.com/103style/LeetCode/blob/master/Random/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.md) | `Random` <br> `Binary Search` | **Medium** |
 | [503. Next Greater Element II](https://github.com/103style/LeetCode/blob/master/Stack/503.%20Next%20Greater%20Element%20II.md) | `Stack` | **Medium** |
 | [507. Perfect Number](https://github.com/103style/LeetCode/blob/master/Math/507.%20Perfect%20Number.md) | `Math` | **Easy** |
 | [509. Fibonacci Number](https://github.com/103style/LeetCode/blob/master/Array/509.%20Fibonacci%20Number.md) | `Array` | **Easy** |
