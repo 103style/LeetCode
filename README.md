@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(466/1569)` → `Easy 161`--`Medium 237`--`Hard 68`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(467/1569)` → `Easy 162`--`Medium 237`--`Hard 68`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `51/95` |
+| Depth-first Search | `52/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `73/188` |
@@ -56,7 +56,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `73/179` |
 | Topological Sort | `4/7` |
-| Tree | `64/137` |
+| Tree | `65/137` |
 | Trie | `6/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -213,6 +213,7 @@ the following problem is choose by:
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
+| [257. Binary Tree Paths](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/257.%20Binary%20Tree%20Paths.md) | `Tree` <br> `DFS` | **Easy** |
 | [258. Add Digits](https://github.com/103style/LeetCode/blob/master/Math/258.%20Add%20Digits.md) | `Math` | **Easy** |
 | [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md) | `Bit Manipulation` | **Medium** |
 | [263. Ugly Number](https://github.com/103style/LeetCode/blob/master/Math/263.%20Ugly%20Number.md) | `Math` | **Easy** |
