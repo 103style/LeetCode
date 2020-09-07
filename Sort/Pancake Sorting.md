@@ -1,0 +1,126 @@
+# [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
+
+---
+
+**leetcode Daily Challenge on August 29th, 2020.**
+
+---
+
+> **Difficulty** : **Medium**
+>
+> **Related Topics** : **Array**、**Sort**
+
+---
+
+> Given an array of integers `A`, We need to sort the array performing a series of **pancake flips**.
+>
+> In one pancake flip we do the following steps:
+> * Choose an integer `k` where `0 <= k < A.length`.
+> * Reverse the sub-array `A[0...k]`.
+>
+> For example, if `A = [3,2,1,4]` and we performed a pancake flip choosing `k = 2`, we reverse the sub-array `[3,2,1]`, so `A = [**1,2,3**,4]` after the pancake flip at `k = 2`.
+>
+> Return an array of the k-values of the pancake flips that should be performed in order to sort `A`. Any valid answer that sorts the array within `10 * A.length` flips will be judged as correct.
+>
+>
+>
+> ### Example 1:
+> ```
+> Input: A = [3,2,4,1]
+> Output: [4,2,4,3]
+> Explanation:
+> We perform 4 pancake flips, with k values 4, 2, 4, and 3.
+> Starting state: A = [3, 2, 4, 1]
+> After 1st flip (k = 4): A = [1, 4, 2, 3]
+> After 2nd flip (k = 2): A = [4, 1, 2, 3]
+> After 3rd flip (k = 4): A = [3, 2, 1, 4]
+> After 4th flip (k = 3): A = [1, 2, 3, 4], which is sorted.
+> Notice that we return an array of the chosen k values of the pancake flips.
+> ```
+>
+> ### Example 2:
+> ```
+> Input: A = [1,2,3]
+> Output: []
+> Explanation: The input is already sorted, so there is no need to flip anything.
+> Note that other answers, such as [3, 3], would also be accepted.
+> ```
+>
+> ### Constraints:
+> * `1 <= A.length <= 100`
+> * `1 <= A[i] <= A.length`
+> * All integers in A are unique (i.e. `A` is a permutation of the integers from `1` to `A.length`).
+
+
+---
+
+
+### Solution
+* **mine**
+  * **Java**
+    * `Runtime: 1 ms, faster than 100.00%, Memory Usage: 39.4 MB, less than 81.89% of Java online submissions`
+      ```
+      // O(N^2)time
+      // O(N)space
+      public List<Integer> pancakeSort(int[] arr) {
+          int n = arr.length;
+          List<Integer> res = new LinkedList<>();
+          for(int i = n - 1; i >= 0; i--){
+              if(arr[i] == i + 1) continue;
+              int index = find(arr, i + 1);
+              res.add(index);
+              update(arr, index - 1);
+              res.add(i + 1);
+              update(arr, i);
+          }
+          return res;
+      }
+
+      int find(int[] arr, int v){
+          for(int i = 0; i< arr.length; i++){
+              if(arr[i] == v){
+                  return i + 1;
+              }
+          }
+          return 1;
+      }
+
+      void update(int[] arr, int index){
+          int l = 0, r = index;
+          while(l < r){
+              int t = arr[l];
+              arr[l] = arr[r];
+              arr[r] = t;
+              l++;
+              r--;
+          }
+      }
+      ```
+
+---
+
+* **the most votes**
+>  * `Runtime: 1 ms, faster than 100.00%, Memory Usage: 39.5 MB, less than 74.81% of Java online submissions`
+>    ```
+>    public List<Integer> pancakeSort(int[] A) {
+>        List<Integer> res = new ArrayList<>();
+>        for (int x = A.length, i; x > 0; --x) {
+>            for (i = 0; A[i] != x; ++i);
+>            reverse(A, i + 1);
+>            res.add(i + 1);
+>            reverse(A, x);
+>            res.add(x);
+>        }
+>        return res;
+>    }
+>
+>    public void reverse(int[] A, int k) {
+>        for (int i = 0, j = k - 1; i < j; i++, j--) {
+>            int tmp = A[i];
+>            A[i] = A[j];
+>            A[j] = tmp;
+>        }
+>    }
+>    ```
+
+---
