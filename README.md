@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(467/1569)` → `Easy 162`--`Medium 237`--`Hard 68`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(468/1569)` → `Easy 162`--`Medium 238`--`Hard 68`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `117/261` |
+| Array | `118/261` |
 | Backtracking | `20/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `37/84` |
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Random | `3/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
-| Sort | `20/52` | 
+| Sort | `21/52` | 
 | Stack | `19/57` |
 | String | `73/179` |
 | Topological Sort | `4/7` |
@@ -387,6 +387,7 @@ the following problem is choose by:
 | [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md) | `HashTable` | **Easy** |	
 | [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md) | `Tree` | **Easy** |	
 | [967. Numbers With Same Consecutive Differences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/967.%20Numbers%20With%20Same%20Consecutive%20Differences.md) | `Dynamic Programming` | **Medium** |	
+| [969. Pancake Sorting](https://github.com/103style/LeetCode/blob/master/Sort/969.%20Pancake%20Sorting.md) | `Array` <br> `Sort` | **Medium** |
 | [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | `Array` <br> `HashTable` | **Medium** |	
 | [976. Largest Perimeter Triangle](https://github.com/103style/LeetCode/blob/master/Sort/976.%20Largest%20Perimeter%20Triangle.md) | `Sort` <br> `Math` | **Easy** |	
 | [977.Squares of a Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/977.%20Squares%20of%20a%20Sorted%20Array.md) | `Array` <br> `TwoPointers` | **Easy** |	
