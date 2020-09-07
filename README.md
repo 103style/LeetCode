@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(474/1579)` → `Easy 162`--`Medium 243`--`Hard 69`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(475/1579)` → `Easy 163`--`Medium 243`--`Hard 69`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -39,7 +39,7 @@ the following problem is choose by:
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `23/80` |
-| Hash Table | `27/127` |
+| Hash Table | `28/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
 | Math | `44/122` |
@@ -224,6 +224,7 @@ the following problem is choose by:
 | [279. Perfect Squares](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/279.%20Perfect%20Squares.md) 🚨 | `Dynamic Programming` <br> `BFS` <br> `Math` | **Medium** |
 | [283. Move Zeroes](https://github.com/103style/LeetCode/blob/master/Array/283.%20Move%20Zeroes.md) | `Array` <br> `Two pointers` | **Easy** |
 | [287. Find the Duplicate Number](https://github.com/103style/LeetCode/blob/master/Array/287.%20Find%20the%20Duplicate%20Number.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Medium** |
+| [290. Word Pattern](https://github.com/103style/LeetCode/blob/master/Hash%20Table/290.%20Word%20Pattern.md) | `HashTable` | **Easy** |
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
 | [297. Serialize and Deserialize Binary Tree](https://github.com/103style/LeetCode/blob/master/Design/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) | `Tree` <br> `Design` | **Hard** |
 | [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` | **Medium** |
