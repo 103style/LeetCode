@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(468/1569)` → `Easy 162`--`Medium 238`--`Hard 68`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(469/1569)` → `Easy 162`--`Medium 239`--`Hard 68`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -52,11 +52,11 @@ the following problem is choose by:
 | Random | `3/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
-| Sort | `21/52` | 
+| Sort | `22/52` | 
 | Stack | `19/57` |
 | String | `73/179` |
 | Topological Sort | `4/7` |
-| Tree | `65/137` |
+| Tree | `66/137` |
 | Trie | `6/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -444,6 +444,7 @@ the following problem is choose by:
 | [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) | `LinkedList` <br> `Bit Manipulation` | **Easy** |	
 | [1300. Sum of Mutated Array Closest to Target](https://github.com/103style/LeetCode/blob/master/Array/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.md) | `Array` <br> `BinarySearch` | **Medium** |	
 | [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md) | `DFS` <br> `Tree` | **Medium** |	
+| [1305. All Elements in Two Binary Search Trees](https://github.com/103style/LeetCode/blob/master/Sort/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md) | `Sort` <br> `Tree` | **Medium** |
 | [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md) | `Dynamic Programming` | **Medium** |	
 | [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |	
