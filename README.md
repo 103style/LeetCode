@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(469/1569)` → `Easy 162`--`Medium 239`--`Hard 68`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(473/1579)` → `Easy 162`--`Medium 242`--`Hard 69`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,10 +22,10 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `118/261` |
+| Array | `120/261` |
 | Backtracking | `20/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `37/84` |
+| Binary Search | `38/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `13/39` |
 | Brainteaser | `3/5` |
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `52/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `73/188` |
+| Dynamic Programming | `74/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `23/80` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `22/52` | 
 | Stack | `19/57` |
-| String | `73/179` |
+| String | `74/179` |
 | Topological Sort | `4/7` |
 | Tree | `66/137` |
 | Trie | `6/17` |
@@ -536,3 +536,7 @@ the following problem is choose by:
 | [1567. Maximum Length of Subarray With Positive Product](https://github.com/103style/LeetCode/blob/master/Greedy/1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product.md) | `Greedy` | **Meidum** |
 | [1568. Minimum Number of Days to Disconnect Island](https://github.com/103style/LeetCode/blob/master/Greedy/1568.%20Minimum%20Number%20of%20Days%20to%20Disconnect%20Island.md) | `Greedy` | **Hard** |
 | [1569. Number of Ways to Reorder Array to Get Same BST](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.md#1569-number-of-ways-to-reorder-array-to-get-same-bst) 🚨🚨 | `Dynamic Programming` | **Hard** |
+| [1572. Matrix Diagonal Sum](https://github.com/103style/LeetCode/blob/master/Array/1572.%20Matrix%20Diagonal%20Sum.md) | `Array` | **Easy** |
+| [1573. Number of Ways to Split a String](https://github.com/103style/LeetCode/blob/master/String/1573.%20Number%20of%20Ways%20to%20Split%20a%20String.md) | `String` | **Medium** |
+| [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/103style/LeetCode/blob/master/Array/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.md) | `Array` <br> `Binary Search` | **Medium** |
+| [1575. Count All Possible Routes](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1575.%20Count%20All%20Possible%20Routes.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
