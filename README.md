@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(475/1579)` → `Easy 163`--`Medium 243`--`Hard 69`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(476/1579)` → `Easy 163`--`Medium 244`--`Hard 69`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `121/261` |
-| Backtracking | `20/55` |
+| Backtracking | `21/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `38/84` |
 | Binary Search Tree | `2/15` |
@@ -124,6 +124,7 @@ the following problem is choose by:
 | [67. Add Binary](https://github.com/103style/LeetCode/blob/master/Math/67.%20Add%20Binary.md) | `Math` <br> `String` | **Easy** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
+| [77. Combinations](https://github.com/103style/LeetCode/blob/master/Backtracking/77.%20Combinations.md) | `Backtracking` | **Medium** |
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
 | [79. Word Search](https://github.com/103style/LeetCode/blob/master/Backtracking/79.%20Word%20Search.md) | `Array` <br> `BackTracking` | **Medium** |
 | [82. Remove Duplicates from Sorted List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) | `LinkedList` | **Medium** |
