@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(477/1579)` → `Easy 163`--`Medium 245`--`Hard 69`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(478/1579)` → `Easy 163`--`Medium 246`--`Hard 69`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `121/261` |
-| Backtracking | `22/55` |
+| Backtracking | `23/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `38/84` |
 | Binary Search Tree | `2/15` |
@@ -108,6 +108,7 @@ the following problem is choose by:
 | [43. Multiply Strings](https://github.com/103style/LeetCode/blob/master/String/43.%20Multiply%20Strings.md) | `Math` <br> `String` | **Medium** |
 | [44. Wildcard Matching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/44.%20Wildcard%20Matching.md) | `String` <br> `Dynamic Programming` <br> `Greedy` <br> `Backtracking` | **Hard** |
 | [46. Permutations](https://github.com/103style/LeetCode/blob/master/Backtracking/46.%20Permutations.md) | `Backtracking` | **Medium** |
+| [47. Permutations II](https://github.com/103style/LeetCode/blob/master/Backtracking/47.%20Permutations%20II.md) | `Backtracking` | **Medium** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
 | [50. Pow(x, n)](https://github.com/103style/LeetCode/blob/master/Math/50.%20Pow(x%2C%20n).md) | `Math` <br> `BinarySearch` | **Medium** |
 | [51. N-Queens](https://github.com/103style/LeetCode/blob/master/Backtracking/51.%20N-Queens.md) | `Backtracking` | **Hard** |
