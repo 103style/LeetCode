@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(478/1579)` → `Easy 163`--`Medium 246`--`Hard 69`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(479/1579)` → `Easy 164`--`Medium 246`--`Hard 69`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -56,7 +56,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `74/179` |
 | Topological Sort | `4/7` |
-| Tree | `66/137` |
+| Tree | `67/137` |
 | Trie | `6/17` |
 | Two Pointers | `31/60` |
 | Union Find | `5/29` | 
@@ -412,6 +412,7 @@ the following problem is choose by:
 | [1014. Best Sightseeing Pair](https://github.com/103style/LeetCode/blob/master/Array/1014.%20Best%20Sightseeing%20Pair.md) 🚨 | `Array` | **Medium** |	
 | [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) 🚨 | `LinkedList` <br> `Stack` | **Medium** |	
 | [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md) | `Stack` | **Easy** |	
+| [1022. Sum of Root To Leaf Binary Numbers](https://github.com/103style/LeetCode/blob/master/Tree/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md) | `Tree` | **Easy** |
 | [1025. Divisor Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1025.%20Divisor%20Game.md) | `Math` <br> `Dynamic Programming`| **Easy** |	
 | [1026. Maximum Difference Between Node and Ancestor](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md) | `DFS` <br> `Tree` | **Hard** |	
