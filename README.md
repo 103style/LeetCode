@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(479/1579)` → `Easy 164`--`Medium 246`--`Hard 69`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(480/1579)` → `Easy 164`--`Medium 247`--`Hard 69`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `22/52` | 
 | Stack | `19/57` |
-| String | `74/179` |
+| String | `75/179` |
 | Topological Sort | `4/7` |
 | Tree | `67/137` |
 | Trie | `6/17` |
@@ -184,6 +184,7 @@ the following problem is choose by:
 | [153. Find Minimum in Rotated Sorted Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) | `Array` <br> `BinarySearch` | **Medium** |
 | [154. Find Minimum in Rotated Sorted Array II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md) | `Array` <br> `BinarySearch` | **Hard** |
 | [155. Min Stack](https://github.com/103style/LeetCode/blob/master/Design/155.%20Min%20Stack.md) | `Stack` <br> `Design` | **Easy** | 
+| [165. Compare Version Numbers](https://github.com/103style/LeetCode/blob/master/String/165.%20Compare%20Version%20Numbers.md) | `String` | **Medium** |
 | [167. Two Sum II - Input array is sorted](https://github.com/103style/LeetCode/blob/master/Array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | `Array` <br> `Two pointers` <br> `Binary Search` | **Easy** |
 | [169. Majority Element](https://github.com/103style/LeetCode/blob/master/Array/169.%20Majority%20Element.md) | `Array` <br> `Divide and Conquer` <br> `Bit Manipulation` | **Easy** |
 | [171. Excel Sheet Column Number](https://github.com/103style/LeetCode/blob/master/Math/171.%20Excel%20Sheet%20Column%20Number.md) | `Math` | **Easy** |
