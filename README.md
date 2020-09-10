@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(480/1579)` → `Easy 164`--`Medium 247`--`Hard 69`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(484/1579)` → `Easy 165`--`Medium 249`--`Hard 70`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -38,11 +38,11 @@ the following problem is choose by:
 | Dynamic Programming | `74/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
-| Greedy | `23/80` |
-| Hash Table | `28/127` |
+| Greedy | `24/80` |
+| Hash Table | `29/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `44/122` |
+| Math | `45/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
 | Ordered Map | `1/10` |
@@ -54,12 +54,12 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `22/52` | 
 | Stack | `19/57` |
-| String | `75/179` |
+| String | `76/179` |
 | Topological Sort | `4/7` |
 | Tree | `67/137` |
 | Trie | `6/17` |
 | Two Pointers | `31/60` |
-| Union Find | `5/29` | 
+| Union Find | `6/29` | 
 | other | `7/?` |
 
 ---
@@ -547,3 +547,7 @@ the following problem is choose by:
 | [1573. Number of Ways to Split a String](https://github.com/103style/LeetCode/blob/master/String/1573.%20Number%20of%20Ways%20to%20Split%20a%20String.md) | `String` | **Medium** |
 | [1574. Shortest Subarray to be Removed to Make Array Sorted](https://github.com/103style/LeetCode/blob/master/Array/1574.%20Shortest%20Subarray%20to%20be%20Removed%20to%20Make%20Array%20Sorted.md) | `Array` <br> `Binary Search` | **Medium** |
 | [1575. Count All Possible Routes](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1575.%20Count%20All%20Possible%20Routes.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
+| [1576. Replace All ?'s to Avoid Consecutive Repeating Characters](https://github.com/103style/LeetCode/blob/master/String/1576.%20Replace%20All%20%3F's%20to%20Avoid%20Consecutive%20Repeating%20Characters.md) | `String` | **Easy** |
+| [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1577.%20Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers.md) | `HashTable` <br> `Math` | **Medium** |
+| [1578. Minimum Deletion Cost to Avoid Repeating Letters](https://github.com/103style/LeetCode/blob/master/Greedy/1578.%20Minimum%20Deletion%20Cost%20to%20Avoid%20Repeating%20Letters.md) | `Greedy` | **Medium** |
+| [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/103style/LeetCode/blob/master/Union%20Find/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.md) 🚨🚨🚨 | `Union Find` | **Hard** |
