@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(484/1579)` → `Easy 165`--`Medium 249`--`Hard 70`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(485/1579)` → `Easy 166`--`Medium 249`--`Hard 70`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -39,7 +39,7 @@ the following problem is choose by:
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `24/80` |
-| Hash Table | `29/127` |
+| Hash Table | `30/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
 | Math | `45/122` |
@@ -231,6 +231,7 @@ the following problem is choose by:
 | [290. Word Pattern](https://github.com/103style/LeetCode/blob/master/Hash%20Table/290.%20Word%20Pattern.md) | `HashTable` | **Easy** |
 | [292. Nim Game](https://github.com/103style/LeetCode/blob/master/Brainteaser/292.%20Nim%20Game.md) | `Brainteaser` <br> `Minimax` | **Easy** |
 | [297. Serialize and Deserialize Binary Tree](https://github.com/103style/LeetCode/blob/master/Design/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md) | `Tree` <br> `Design` | **Hard** |
+| [299. Bulls and Cows](https://github.com/103style/LeetCode/blob/master/Hash%20Table/299.%20Bulls%20and%20Cows.md) | `HashTable` | **Easy** |
 | [300. Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` | **Medium** |
 | [303. Range Sum Query - Immutable](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/303.%20Range%20Sum%20Query%20-%20Immutable.md) | `Dynamic Programming` | **Easy** |
 | [307. Range Sum Query - Mutable](https://github.com/103style/LeetCode/blob/master/Binary%20Indexed%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable.md) | `Binary Indexed Tree` <br> `Segment Tree` | **Medium** |
