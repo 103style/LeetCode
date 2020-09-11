@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(485/1579)` → `Easy 166`--`Medium 249`--`Hard 70`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(486/1579)` → `Easy 166`--`Medium 250`--`Hard 70`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `121/261` |
+| Array | `122/261` |
 | Backtracking | `23/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `38/84` |
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `52/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `74/188` |
+| Dynamic Programming | `75/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `24/80` |
@@ -181,6 +181,7 @@ the following problem is choose by:
 | [144. Binary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md) | `Stack` <br> `Tree` | **Medium** |
 | [145. Binary Tree Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) | `Tree` <br> `Stack` | **Hard** |
 | [151. Reverse Words in a String](https://github.com/103style/LeetCode/blob/master/String/151.%20Reverse%20Words%20in%20a%20String.md) | `String` | **Medium** |
+| [152. Maximum Product Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/152.%20Maximum%20Product%20Subarray.md) 🚨🚨 | `Array` <br> `Dynamic Programming` | **Medium** |
 | [153. Find Minimum in Rotated Sorted Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) | `Array` <br> `BinarySearch` | **Medium** |
 | [154. Find Minimum in Rotated Sorted Array II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md) | `Array` <br> `BinarySearch` | **Hard** |
 | [155. Min Stack](https://github.com/103style/LeetCode/blob/master/Design/155.%20Min%20Stack.md) | `Stack` <br> `Design` | **Easy** | 
