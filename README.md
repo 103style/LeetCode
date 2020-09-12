@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(486/1579)` → `Easy 166`--`Medium 250`--`Hard 70`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(487/1579)` → `Easy 167`--`Medium 250`--`Hard 70`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -56,7 +56,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `76/179` |
 | Topological Sort | `4/7` |
-| Tree | `67/137` |
+| Tree | `68/137` |
 | Trie | `6/17` |
 | Two Pointers | `31/60` |
 | Union Find | `6/29` | 
@@ -318,6 +318,7 @@ the following problem is choose by:
 | [627. Swap Salary](https://github.com/103style/LeetCode/blob/master/Database/627.%20Swap%20Salary.md) | `Datebase` | **Easy** |
 | [628. Maximum Product of Three Numbers](https://github.com/103style/LeetCode/blob/master/Array/628.%20Maximum%20Product%20of%20Three%20Numbers.md) | `Array` <br> `Math` | **Easy** |
 | [630. Course Schedule III](https://github.com/103style/LeetCode/blob/master/Greedy/630.%20Course%20Schedule%20III.md) | `Greedy` | **Hard** | 
+| [637. Average of Levels in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) | `Math` <br> `HashTable` | **Easy** |
 | [646. Maximum Length of Pair Chain](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/646.%20Maximum%20Length%20of%20Pair%20Chain.md) | `Dynamic Programming` | **Medium** |
 | [647. Palindromic Substrings](https://github.com/103style/LeetCode/blob/master/String/647.%20Palindromic%20Substrings.md) | `String` <br> `Dynamic Programming` | **Medium** |
