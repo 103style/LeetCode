@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(487/1579)` → `Easy 166`--`Medium 251`--`Hard 70`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(489/1579)` → `Easy 166`--`Medium 252`--`Hard 71`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `122/261` |
-| Backtracking | `23/55` |
+| Backtracking | `24/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `38/84` |
 | Binary Search Tree | `2/15` |
@@ -39,7 +39,7 @@ the following problem is choose by:
 | Geometry | `2/7` |
 | Graph | `12/42` | 
 | Greedy | `24/80` |
-| Hash Table | `30/127` |
+| Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
 | Math | `45/122` |
@@ -101,6 +101,8 @@ the following problem is choose by:
 | [33. Search in Rotated Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/33.%20Search%20in%20Rotated%20Sorted%20Array.md) :rotating_light: | `Array` <br> `Binary Serach` | **Medium** |
 | [34. Find First and Last Position of Element in Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) :rotating_light: | `Array` <br> `Binary Serach` | **Medium** |
 | [35. Search Insert Position](https://github.com/103style/LeetCode/blob/master/Array/35.%20Search%20Insert%20Position.md) | `Array` <br> `Binary Serach` | **Easy** |
+| [36. Valid Sudoku](https://github.com/103style/LeetCode/blob/master/Hash%20Table/36.%20Valid%20Sudoku.md) | `HashTable` | **Medium** |
+| [37. Sudoku Solver](https://github.com/103style/LeetCode/blob/master/Backtracking/37.%20Sudoku%20Solver.md) | `HashTable` <br> `Backtracking` | **Hard** |
 | [38. Count and Say](https://github.com/103style/LeetCode/blob/master/String/38.%20Count%20and%20Say.md) | `String` | **Easy** |
 | [39. Combination Sum](https://github.com/103style/LeetCode/blob/master/Array/39.%20Combination%20Sum.md) | `Array` <br> `Backtracking` | **Medium** |
 | [40. Combination Sum II](https://github.com/103style/LeetCode/blob/master/Array/40.%20Combination%20Sum%20II.md) | `Array` <br> `Backtracking` | **Medium** |
