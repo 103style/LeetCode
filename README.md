@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(489/1579)` → `Easy 166`--`Medium 252`--`Hard 71`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(493/1585)` → `Easy 167`--`Medium 254`--`Hard 72`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `122/261` |
+| Array | `124/261` |
 | Backtracking | `24/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `38/84` |
@@ -38,7 +38,7 @@ the following problem is choose by:
 | Dynamic Programming | `75/188` |
 | Geometry | `2/7` |
 | Graph | `12/42` | 
-| Greedy | `24/80` |
+| Greedy | `25/80` |
 | Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -54,12 +54,12 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `22/52` | 
 | Stack | `19/57` |
-| String | `76/179` |
+| String | `77/179` |
 | Topological Sort | `4/7` |
 | Tree | `68/137` |
 | Trie | `6/17` |
 | Two Pointers | `31/60` |
-| Union Find | `6/29` | 
+| Union Find | `7/29` | 
 | other | `7/?` |
 
 ---
@@ -556,3 +556,7 @@ the following problem is choose by:
 | [1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1577.%20Number%20of%20Ways%20Where%20Square%20of%20Number%20Is%20Equal%20to%20Product%20of%20Two%20Numbers.md) | `HashTable` <br> `Math` | **Medium** |
 | [1578. Minimum Deletion Cost to Avoid Repeating Letters](https://github.com/103style/LeetCode/blob/master/Greedy/1578.%20Minimum%20Deletion%20Cost%20to%20Avoid%20Repeating%20Letters.md) | `Greedy` | **Medium** |
 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/103style/LeetCode/blob/master/Union%20Find/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.md) 🚨🚨🚨 | `Union Find` | **Hard** |
+| [1582. Special Positions in a Binary Matrix](https://github.com/103style/LeetCode/blob/master/Array/1582.%20Special%20Positions%20in%20a%20Binary%20Matrix.md) | `Array` | **Easy** |
+| [1583. Count Unhappy Friends](https://github.com/103style/LeetCode/blob/master/Array/1583.%20Count%20Unhappy%20Friends.md) | `Array` | **Medium** |
+| [1584. Min Cost to Connect All Points](https://github.com/103style/LeetCode/blob/master/Union%20Find/1584.%20Min%20Cost%20to%20Connect%20All%20Points.md) | `Union Find` | **Medium** |
+| [1585. Check If String Is Transformable With Substring Sort Operations](https://github.com/103style/LeetCode/blob/master/Greedy/1585.%20Check%20If%20String%20Is%20Transformable%20With%20Substring%20Sort%20Operations.md) | `String` <br> `Greedy` | **Hard** |
