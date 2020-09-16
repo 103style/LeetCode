@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(493/1585)` → `Easy 167`--`Medium 254`--`Hard 72`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(494/1585)` → `Easy 167`--`Medium 255`--`Hard 72`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -27,7 +27,7 @@ the following problem is choose by:
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `38/84` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `13/39` |
+| Bit Manipulation | `14/39` |
 | Brainteaser | `3/5` |
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
@@ -57,7 +57,7 @@ the following problem is choose by:
 | String | `77/179` |
 | Topological Sort | `4/7` |
 | Tree | `68/137` |
-| Trie | `6/17` |
+| Trie | `7/17` |
 | Two Pointers | `31/60` |
 | Union Find | `7/29` | 
 | other | `7/?` |
@@ -266,6 +266,7 @@ the following problem is choose by:
 | [410. Split Array Largest Sum](https://github.com/103style/LeetCode/blob/master/Binary%20Search/410.%20Split%20Array%20Largest%20Sum.md) | `Binary Search` <br> `Dynamic Programming` | **Hard** |
 | [412. Fizz Buzz](https://github.com/103style/LeetCode/blob/master/other/412.%20Fizz%20Buzz.md) | `other` | **Easy** |
 | [415. Add Strings](https://github.com/103style/LeetCode/blob/master/String/415.%20Add%20Strings.md) | `String` | **Easy** |
+| [421. Maximum XOR of Two Numbers in an Array](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md) | `Bit Manipulation` <br> `Trie` | **Medium** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [435. Non-overlapping Intervals](https://github.com/103style/LeetCode/blob/master/Greedy/435.%20Non-overlapping%20Intervals.md) 🚨 | `Greedy` | **Medium** |
 | [436. Find Right Interval](https://github.com/103style/LeetCode/blob/master/Binary%20Search/436.%20Find%20Right%20Interval.md) | `Binary Search` | **Medium** | 
