@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(494/1585)` → `Easy 167`--`Medium 255`--`Hard 72`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(496/1585)` → `Easy 167`--`Medium 256`--`Hard 73`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,12 +32,12 @@ the following problem is choose by:
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `52/95` |
+| Depth-first Search | `53/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `75/188` |
 | Geometry | `2/7` |
-| Graph | `12/42` | 
+| Graph | `14/42` | 
 | Greedy | `25/80` |
 | Hash Table | `32/127` |
 | Heap | `6/34` |
@@ -56,10 +56,10 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `77/179` |
 | Topological Sort | `4/7` |
-| Tree | `68/137` |
+| Tree | `70/137` |
 | Trie | `7/17` |
 | Two Pointers | `31/60` |
-| Union Find | `7/29` | 
+| Union Find | `9/29` | 
 | other | `7/?` |
 
 ---
@@ -333,6 +333,8 @@ the following problem is choose by:
 | [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md) | `Array` | **Easy** |
 | [679. 24 Game](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/679.%2024%20Game.md) 🚨 | `DFS` | **Hard** | 
 | [680. Valid Palindrome II](https://github.com/103style/LeetCode/blob/master/String/680.%20Valid%20Palindrome%20II.md) | `String` | **Easy** |
+| [684. Redundant Connection](https://github.com/103style/LeetCode/blob/master/Union%20Find/684.%20Redundant%20Connection.md) | `Tree` <br> `Union Find` <br> `Graph` | **Medium** |
+| [685. Redundant Connection II](https://github.com/103style/LeetCode/blob/master/Union%20Find/685.%20Redundant%20Connection%20II.md) | `Tree` <br> `Union Find` <br> `Graph` <br> `DFS` | **Hard** |
 | [692. Top K Frequent Words](https://github.com/103style/LeetCode/blob/master/Heap/692.%20Top%20K%20Frequent%20Words.md) | `HashTable` <br> `Heap` <br> `Trie` | **Medium** |
 | [695. Max Area of Island](https://github.com/103style/LeetCode/blob/master/Array/695.%20Max%20Area%20of%20Island.md) | `Array` <br> `DFS` | **Medium** |
 | [696. Count Binary Substrings](https://github.com/103style/LeetCode/blob/master/String/696.%20Count%20Binary%20Substrings.md) | `String` | **Easy** |
