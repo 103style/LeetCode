@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(496/1585)` → `Easy 167`--`Medium 256`--`Hard 73`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(497/1585)` → `Easy 167`--`Medium 257`--`Hard 73`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `45/122` |
+| Math | `46/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
 | Ordered Map | `1/10` |
@@ -428,6 +428,7 @@ the following problem is choose by:
 | [1029. Two City Scheduling](https://github.com/103style/LeetCode/blob/master/Greedy/1029.%20Two%20City%20Scheduling.md) | `Greedy` | **Easy** |	 
 | [1032. Stream of Characters](https://github.com/103style/LeetCode/blob/master/Trie/1032.%20Stream%20of%20Characters.md) | `Trie` | **Hard** |
 | [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md) | `Binary Search Tree` | **Medium** |	
+| [1041. Robot Bounded In Circle](https://github.com/103style/LeetCode/blob/master/Math/1041.%20Robot%20Bounded%20In%20Circle.md) | `Math` | **Medium** |
 | [1044. Longest Duplicate Substring](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1044.%20Longest%20Duplicate%20Substring.md) :rotating_light::rotating_light::rotating_light: | `Binary Search` <br> `HashTable` | **Hard** |	
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |	
 | [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |	
