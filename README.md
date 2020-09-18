@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(498/1585)` → `Easy 167`--`Medium 258`--`Hard 73`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(499/1585)` → `Easy 167`--`Medium 258`--`Hard 74`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `53/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `76/188` |
+| Dynamic Programming | `77/188` |
 | Geometry | `2/7` |
 | Graph | `14/42` | 
 | Greedy | `25/80` |
@@ -413,6 +413,7 @@ the following problem is choose by:
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |	
 | [992. Subarrays with K Different Integers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers.md) | `Two Pointers` <br> `HashTable` <br> `Sliding Window` | **Hard** |	
 | [994. Rotting Oranges](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/994.%20Rotting%20Oranges.md) | `BFS` | **Medium** |	
+| [1000. Minimum Cost to Merge Stones](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1000.%20Minimum%20Cost%20to%20Merge%20Stones.md) 🚨 | `Dynamic Programming` | **Hard** |
 | [1002. Find Common Characters](https://github.com/103style/LeetCode/blob/master/Array/1002.%20Find%20Common%20Characters.md) | `Array` <br> `HashTable` | **Easy** |	
 | [1004. Max Consecutive Ones III](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III.md) | `Two Pointers` <br> `Sliding Window` | **Medium** |	
 | [1005. Maximize Sum Of Array After K Negations](https://github.com/103style/LeetCode/blob/master/Greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md) | `Greedy` | **Easy** |	
@@ -428,7 +429,7 @@ the following problem is choose by:
 | [1029. Two City Scheduling](https://github.com/103style/LeetCode/blob/master/Greedy/1029.%20Two%20City%20Scheduling.md) | `Greedy` | **Easy** |	 
 | [1032. Stream of Characters](https://github.com/103style/LeetCode/blob/master/Trie/1032.%20Stream%20of%20Characters.md) | `Trie` | **Hard** |
 | [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md) | `Binary Search Tree` | **Medium** |	
-| [1039. Minimum Score Triangulation of Polygon](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon.md) | `Dynamic Programming` | **Medium** |
+| [1039. Minimum Score Triangulation of Polygon](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [1041. Robot Bounded In Circle](https://github.com/103style/LeetCode/blob/master/Math/1041.%20Robot%20Bounded%20In%20Circle.md) | `Math` | **Medium** |
 | [1044. Longest Duplicate Substring](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1044.%20Longest%20Duplicate%20Substring.md) :rotating_light::rotating_light::rotating_light: | `Binary Search` <br> `HashTable` | **Hard** |	
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |	
