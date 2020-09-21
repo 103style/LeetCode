@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(501/1585)` → `Easy 168`--`Medium 258`--`Hard 75`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(502/1585)` → `Easy 168`--`Medium 259`--`Hard 75`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -38,7 +38,7 @@ the following problem is choose by:
 | Dynamic Programming | `77/188` |
 | Geometry | `2/7` |
 | Graph | `14/42` | 
-| Greedy | `25/80` |
+| Greedy | `26/80` |
 | Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -437,6 +437,7 @@ the following problem is choose by:
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |	
 | [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |	
 | [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md) :rotating_light: | `BackTracking` | **Medium** |	
+| [1094. Car Pooling](https://github.com/103style/LeetCode/blob/master/Greedy/1094.%20Car%20Pooling.md) | `Greedy` | **Medium** |
 | [1095. Find in Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1095.%20Find%20in%20Mountain%20Array.md) | `Binary Search` | **Hard** | 	
 | [1103. Distribute Candies to People](https://github.com/103style/LeetCode/blob/master/Math/1103.%20Distribute%20Candies%20to%20People.md) | `Math` | **Easy** |	
 | [1108.Defanging an IP Address](https://github.com/103style/LeetCode/blob/master/String/1108.%20Defanging%20an%20IP%20Address.md) | `String` | **Easy** |	
