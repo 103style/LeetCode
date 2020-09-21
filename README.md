@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(500/1585)` → `Easy 168`--`Medium 258`--`Hard 74`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(501/1585)` → `Easy 168`--`Medium 258`--`Hard 75`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -42,7 +42,7 @@ the following problem is choose by:
 | Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
-| Math | `46/122` |
+| Math | `47/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
 | Ordered Map | `1/10` |
@@ -59,7 +59,7 @@ the following problem is choose by:
 | Tree | `71/137` |
 | Trie | `7/17` |
 | Two Pointers | `31/60` |
-| Union Find | `9/29` | 
+| Union Find | `10/29` | 
 | other | `7/?` |
 
 ---
@@ -397,6 +397,7 @@ the following problem is choose by:
 | [943. Find the Shortest Superstring](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/943.%20Find%20the%20Shortest%20Superstring.md) | `Dynamic Programming` | **Hard** |	
 | [949. Largest Time for Given Digits](https://github.com/103style/LeetCode/blob/master/Math/949.%20Largest%20Time%20for%20Given%20Digits.md) | `Math` | **Easy** |
 | [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md) | `Array` | **Medium** |	
+| [952. Largest Component Size by Common Factor](https://github.com/103style/LeetCode/blob/master/Union%20Find/952.%20Largest%20Component%20Size%20by%20Common%20Factor.md) | `Math` <br> `Union Find` | **Hard** |
 | [957. Prison Cells After N Days](https://github.com/103style/LeetCode/blob/master/Hash%20Table/957.%20Prison%20Cells%20After%20N%20Days.md) | `HashTable` | **Medium** |	
 | [959. Regions Cut By Slashes](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/959.%20Regions%20Cut%20By%20Slashes.md) | `DFS` <br> `Graph` <br> `Union Find` | **Medium** |	
 | [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md) | `HashTable` | **Easy** |	
