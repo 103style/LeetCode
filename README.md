@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(499/1585)` → `Easy 167`--`Medium 258`--`Hard 74`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(500/1585)` → `Easy 168`--`Medium 258`--`Hard 74`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -56,7 +56,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `77/179` |
 | Topological Sort | `4/7` |
-| Tree | `70/137` |
+| Tree | `71/137` |
 | Trie | `7/17` |
 | Two Pointers | `31/60` |
 | Union Find | `9/29` | 
@@ -304,6 +304,7 @@ the following problem is choose by:
 | [530. Minimum Absolute Difference in BST](https://github.com/103style/LeetCode/blob/master/Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.md) | `Tree` | **Easy** |
 | [535. Encode and Decode TinyURL](https://github.com/103style/LeetCode/blob/master/Math/535.%20Encode%20and%20Decode%20TinyURL.md) | `Math` <br> `HashTable` | **Medium** |
 | [537. Complex Number Multiplication](https://github.com/103style/LeetCode/blob/master/Math/537.%20Complex%20Number%20Multiplication.md) | `Math` <br> `String` | **Medium** |
+| [538. Convert BST to Greater Tree](https://github.com/103style/LeetCode/blob/master/Tree/538.%20Convert%20BST%20to%20Greater%20Tree.md) | `Tree` | **Easy** |
 | [539. Minimum Time Difference](https://github.com/103style/LeetCode/blob/master/String/539.%20Minimum%20Time%20Difference.md) | `String` | **Easy** |
 | [543. Diameter of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/543.%20Diameter%20of%20Binary%20Tree.md) | `Tree` | **Easy** |
 | [546. Remove Boxes](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/546.%20Remove%20Boxes.md) 🚨🚨🚨 | `Dynamic Programming` <br> `DFS` | **Hard** |
