@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(507/1595)` → `Easy 168`--`Medium 264`--`Hard 75`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(508/1595)` → `Easy 168`--`Medium 265`--`Hard 75`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -38,7 +38,7 @@ the following problem is choose by:
 | Dynamic Programming | `79/188` |
 | Geometry | `2/7` |
 | Graph | `15/42` | 
-| Greedy | `27/80` |
+| Greedy | `28/80` |
 | Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -172,6 +172,7 @@ the following problem is choose by:
 | [129. Sum Root to Leaf Numbers](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | `DFS` <br> `Tree` | **Medium** |
 | [130. Surrounded Regions](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/130.%20Surrounded%20Regions.md) | `DFS` <br> `BFS` <br> `Union Find` | **Medium** |
 | [133. Clone Graph](https://github.com/103style/LeetCode/blob/master/Graph/133.%20Clone%20Graph.md) | `DFS` <br> `BFS` <br> `Graph` | **Medium** |
+| [134. Gas Station](https://github.com/103style/LeetCode/blob/master/Greedy/134.%20Gas%20Station.md) | `Greedy` | **Medium** | 
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [137. Single Number II](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/137.%20Single%20Number%20II.md) | `Bit Manipulation` | **Medium** |
 | [138. Copy List with Random Pointer](https://github.com/103style/LeetCode/blob/master/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.md) | `LinkedList` <br> `HashTable` | **Medium** |
