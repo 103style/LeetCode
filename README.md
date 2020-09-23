@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(502/1585)` → `Easy 168`--`Medium 259`--`Hard 75`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(507/1595)` → `Easy 168`--`Medium 264`--`Hard 75`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,8 +22,8 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `124/261` |
-| Backtracking | `24/55` |
+| Array | `125/261` |
+| Backtracking | `25/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `38/84` |
 | Binary Search Tree | `2/15` |
@@ -35,10 +35,10 @@ the following problem is choose by:
 | Depth-first Search | `53/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `77/188` |
+| Dynamic Programming | `79/188` |
 | Geometry | `2/7` |
-| Graph | `14/42` | 
-| Greedy | `26/80` |
+| Graph | `15/42` | 
+| Greedy | `27/80` |
 | Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -54,7 +54,7 @@ the following problem is choose by:
 | Sliding Window | `7/23` |
 | Sort | `22/52` | 
 | Stack | `19/57` |
-| String | `77/179` |
+| String | `78/179` |
 | Topological Sort | `4/7` |
 | Tree | `71/137` |
 | Trie | `7/17` |
@@ -216,6 +216,7 @@ the following problem is choose by:
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
 | [222. Count Complete Tree Nodes](https://github.com/103style/LeetCode/blob/master/Binary%20Search/222.%20Count%20Complete%20Tree%20Nodes.md) | `Tree` <br> `Binary Search` | **Medium** |
 | [226. Invert Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/226.%20Invert%20Binary%20Tree.md) | `Tree` | **Easy** |
+| [229. Majority Element II](https://github.com/103style/LeetCode/blob/master/Array/229.%20Majority%20Element%20II.md) 🚨 | `Array` | **Medium** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
@@ -569,3 +570,7 @@ the following problem is choose by:
 | [1583. Count Unhappy Friends](https://github.com/103style/LeetCode/blob/master/Array/1583.%20Count%20Unhappy%20Friends.md) | `Array` | **Medium** |
 | [1584. Min Cost to Connect All Points](https://github.com/103style/LeetCode/blob/master/Union%20Find/1584.%20Min%20Cost%20to%20Connect%20All%20Points.md) | `Union Find` | **Medium** |
 | [1585. Check If String Is Transformable With Substring Sort Operations](https://github.com/103style/LeetCode/blob/master/Greedy/1585.%20Check%20If%20String%20Is%20Transformable%20With%20Substring%20Sort%20Operations.md) | `String` <br> `Greedy` | **Hard** |
+| [1592. Rearrange Spaces Between Words](https://github.com/103style/LeetCode/blob/master/String/1592.%20Rearrange%20Spaces%20Between%20Words.md) | `String` | **Easy** |
+| [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/103style/LeetCode/blob/master/Backtracking/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md) | `Backtracking` | **Medium** |
+| [1594. Maximum Non Negative Product in a Matrix](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix.md) | `Dynamic Programming` <br> `Greedy` | **Medium** |
+| [1595. Minimum Cost to Connect Two Groups of Points](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1595.%20Minimum%20Cost%20to%20Connect%20Two%20Groups%20of%20Points.md) 🚨🚨 | `Dynamic Programming` <br> `Graph` | **Hard** |
