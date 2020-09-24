@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(514/1595)` → `Easy 170`--`Medium 268`--`Hard 76`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(515/1595)` → `Easy 171`--`Medium 268`--`Hard 76`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -27,7 +27,7 @@ the following problem is choose by:
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `39/84` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `14/39` |
+| Bit Manipulation | `15/39` |
 | Brainteaser | `3/5` |
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
@@ -39,7 +39,7 @@ the following problem is choose by:
 | Geometry | `2/7` |
 | Graph | `15/42` | 
 | Greedy | `30/80` |
-| Hash Table | `32/127` |
+| Hash Table | `33/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
 | Math | `47/122` |
@@ -260,6 +260,7 @@ the following problem is choose by:
 | [350. Intersection of Two Arrays II](https://github.com/103style/LeetCode/blob/master/Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II.md) | `HashTable` <br> `Two Pointers` <br> `BinarySearch` <br> `Sort` | **Easy** |
 | [368. Largest Divisible Subset](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/368.%20Largest%20Divisible%20Subset.md) | `Dynamic Programming` <br> `Math` | **Medium** |
 | [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md) | `Binary Search` <br> `Heap` | **Medium** |
+| [389. Find the Difference](https://github.com/103style/LeetCode/blob/master/Hash%20Table/389.%20Find%20the%20Difference.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
 | [400. Nth Digit](https://github.com/103style/LeetCode/blob/master/Math/400.%20Nth%20Digit.md) | `Math` | **Medium** |
