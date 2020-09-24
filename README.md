@@ -407,7 +407,7 @@ the following problem is choose by:
 | [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md) | `Tree` | **Easy** |	
 | [967. Numbers With Same Consecutive Differences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/967.%20Numbers%20With%20Same%20Consecutive%20Differences.md) | `Dynamic Programming` | **Medium** |	
 | [969. Pancake Sorting](https://github.com/103style/LeetCode/blob/master/Sort/969.%20Pancake%20Sorting.md) | `Array` <br> `Sort` | **Medium** |
-| [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | `Array` <br> `HashTable` | **Medium** |	
+| [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) 🚨 | `Array` <br> `HashTable` | **Medium** |	
 | [976. Largest Perimeter Triangle](https://github.com/103style/LeetCode/blob/master/Sort/976.%20Largest%20Perimeter%20Triangle.md) | `Sort` <br> `Math` | **Easy** |	
 | [977.Squares of a Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/977.%20Squares%20of%20a%20Sorted%20Array.md) | `Array` <br> `TwoPointers` | **Easy** |	
 | [978. Longest Turbulent Subarray](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/978.%20Longest%20Turbulent%20Subarray.md) | `Array` <br> `Dynamic Programming` <br> `Silding Window` | **Medium** |	
@@ -574,8 +574,8 @@ the following problem is choose by:
 | [1585. Check If String Is Transformable With Substring Sort Operations](https://github.com/103style/LeetCode/blob/master/Greedy/1585.%20Check%20If%20String%20Is%20Transformable%20With%20Substring%20Sort%20Operations.md) | `String` <br> `Greedy` | **Hard** |
 | [1588. Sum of All Odd Length Subarrays](https://github.com/103style/LeetCode/blob/master/Array/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md) | `Array` | **Easy** |
 | [1589. Maximum Sum Obtained of Any Permutation](https://github.com/103style/LeetCode/blob/master/Greedy/1589.%20Maximum%20Sum%20Obtained%20of%20Any%20Permutation.md) | `Greedy` | **Medium** |
-| [1590. Make Sum Divisible by P](https://github.com/103style/LeetCode/blob/master/Array/1590.%20Make%20Sum%20Divisible%20by%20P.md) | `Array` <br> `Binary Search` | **Medium** |
-| [1591. Strange Printer II](https://github.com/103style/LeetCode/blob/master/Greedy/1591.%20Strange%20Printer%20II.md) | `Greedy` | **Hard** |
+| [1590. Make Sum Divisible by P](https://github.com/103style/LeetCode/blob/master/Array/1590.%20Make%20Sum%20Divisible%20by%20P.md) 🚨 | `Array` <br> `Binary Search` | **Medium** |
+| [1591. Strange Printer II](https://github.com/103style/LeetCode/blob/master/Greedy/1591.%20Strange%20Printer%20II.md) 🚨🚨 | `Greedy` | **Hard** |
 | [1592. Rearrange Spaces Between Words](https://github.com/103style/LeetCode/blob/master/String/1592.%20Rearrange%20Spaces%20Between%20Words.md) | `String` | **Easy** |
 | [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/103style/LeetCode/blob/master/Backtracking/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md) | `Backtracking` | **Medium** |
 | [1594. Maximum Non Negative Product in a Matrix](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix.md) | `Dynamic Programming` <br> `Greedy` | **Medium** |
