@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(508/1595)` → `Easy 168`--`Medium 265`--`Hard 75`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(514/1595)` → `Easy 170`--`Medium 268`--`Hard 76`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,10 +22,10 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `125/261` |
+| Array | `127/261` |
 | Backtracking | `25/55` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `38/84` |
+| Binary Search | `39/84` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `14/39` |
 | Brainteaser | `3/5` |
@@ -38,7 +38,7 @@ the following problem is choose by:
 | Dynamic Programming | `79/188` |
 | Geometry | `2/7` |
 | Graph | `15/42` | 
-| Greedy | `28/80` |
+| Greedy | `30/80` |
 | Hash Table | `32/127` |
 | Heap | `6/34` |
 | Linked List | `27/38` |
@@ -56,7 +56,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `78/179` |
 | Topological Sort | `4/7` |
-| Tree | `71/137` |
+| Tree | `72/137` |
 | Trie | `7/17` |
 | Two Pointers | `31/60` |
 | Union Find | `10/29` | 
@@ -291,6 +291,7 @@ the following problem is choose by:
 | [495. Teemo Attacking](https://github.com/103style/LeetCode/blob/master/Array/495.%20Teemo%20Attacking.md) | `Array` | **Medium** |
 | [496. Next Greater Element I](https://github.com/103style/LeetCode/blob/master/Stack/496.%20Next%20Greater%20Element%20I.md) | `Stack` | **Easy** |
 | [497. Random Point in Non-overlapping Rectangles](https://github.com/103style/LeetCode/blob/master/Random/497.%20Random%20Point%20in%20Non-overlapping%20Rectangles.md) | `Random` <br> `Binary Search` | **Medium** |
+| [501. Find Mode in Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
 | [503. Next Greater Element II](https://github.com/103style/LeetCode/blob/master/Stack/503.%20Next%20Greater%20Element%20II.md) | `Stack` | **Medium** |
 | [507. Perfect Number](https://github.com/103style/LeetCode/blob/master/Math/507.%20Perfect%20Number.md) | `Math` | **Easy** |
 | [509. Fibonacci Number](https://github.com/103style/LeetCode/blob/master/Array/509.%20Fibonacci%20Number.md) | `Array` | **Easy** |
@@ -571,6 +572,10 @@ the following problem is choose by:
 | [1583. Count Unhappy Friends](https://github.com/103style/LeetCode/blob/master/Array/1583.%20Count%20Unhappy%20Friends.md) | `Array` | **Medium** |
 | [1584. Min Cost to Connect All Points](https://github.com/103style/LeetCode/blob/master/Union%20Find/1584.%20Min%20Cost%20to%20Connect%20All%20Points.md) | `Union Find` | **Medium** |
 | [1585. Check If String Is Transformable With Substring Sort Operations](https://github.com/103style/LeetCode/blob/master/Greedy/1585.%20Check%20If%20String%20Is%20Transformable%20With%20Substring%20Sort%20Operations.md) | `String` <br> `Greedy` | **Hard** |
+| [1588. Sum of All Odd Length Subarrays](https://github.com/103style/LeetCode/blob/master/Array/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md) | `Array` | **Easy** |
+| [1589. Maximum Sum Obtained of Any Permutation](https://github.com/103style/LeetCode/blob/master/Greedy/1589.%20Maximum%20Sum%20Obtained%20of%20Any%20Permutation.md) | `Greedy` | **Medium** |
+| [1590. Make Sum Divisible by P](https://github.com/103style/LeetCode/blob/master/Array/1590.%20Make%20Sum%20Divisible%20by%20P.md) | `Array` <br> `Binary Search` | **Medium** |
+| [1591. Strange Printer II](https://github.com/103style/LeetCode/blob/master/Greedy/1591.%20Strange%20Printer%20II.md) | `Greedy` | **Hard** |
 | [1592. Rearrange Spaces Between Words](https://github.com/103style/LeetCode/blob/master/String/1592.%20Rearrange%20Spaces%20Between%20Words.md) | `String` | **Easy** |
 | [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/103style/LeetCode/blob/master/Backtracking/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md) | `Backtracking` | **Medium** |
 | [1594. Maximum Non Negative Product in a Matrix](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix.md) | `Dynamic Programming` <br> `Greedy` | **Medium** |
