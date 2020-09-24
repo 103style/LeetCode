@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `127/261` |
+| Array | `128/261` |
 | Backtracking | `25/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `39/84` |
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Random | `3/6` |
 | Segment Tree | `4/12` |
 | Sliding Window | `7/23` |
-| Sort | `22/52` | 
+| Sort | `23/52` | 
 | Stack | `19/57` |
 | String | `78/179` |
 | Topological Sort | `4/7` |
@@ -117,6 +117,7 @@ the following problem is choose by:
 | [52. N-Queens II](https://github.com/103style/LeetCode/blob/master/Backtracking/52.%20N-Queens%20II.md) | `Backtracking` | **Hard** |
 | [53. Maximum Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/53.%20Maximum%20Subarray.md) | `Array` <br> `Divide and Conquer` <br> `Dynamic Programming`  | **Easy** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
+| [57. Insert Interval](https://github.com/103style/LeetCode/blob/master/Array/57.%20Insert%20Interval.md) | `Array` <br> `Sort` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Hard** |
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
