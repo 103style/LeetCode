@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(515/1595)` → `Easy 171`--`Medium 268`--`Hard 76`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(518/1595)` → `Easy 171`--`Medium 271`--`Hard 76`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `128/261` |
-| Backtracking | `25/55` |
+| Backtracking | `26/55` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `39/84` |
 | Binary Search Tree | `2/15` |
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `21/68` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `53/95` |
+| Depth-first Search | `54/95` |
 | Desigin | `8/49` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `79/188` |
@@ -56,7 +56,7 @@ the following problem is choose by:
 | Stack | `19/57` |
 | String | `78/179` |
 | Topological Sort | `4/7` |
-| Tree | `72/137` |
+| Tree | `74/137` |
 | Trie | `7/17` |
 | Two Pointers | `31/60` |
 | Union Find | `10/29` | 
@@ -158,6 +158,7 @@ the following problem is choose by:
 | [110. Balanced Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/110.%20Balanced%20Binary%20Tree.md) | `Tree` <br> `DFS` | **Easy** |
 | [111. Minimum Depth of Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Easy** |
 | [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
+| [113. Path Sum II](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/113.%20Path%20Sum%20II.md) | `Tree` <br> `DFS` | **Medium** |
 | [114. Flatten Binary Tree to Linked List](https://github.com/103style/LeetCode/blob/master/Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) | `Tree` <br> `DFS` | **Medium** |
 | [118. Pascal's Triangle](https://github.com/103style/LeetCode/blob/master/Array/118.%20Pascal's%20Triangle.md) | `Array` | **Easy** |
 | [119. Pascal's Triangle II](https://github.com/103style/LeetCode/blob/master/Array/119.%20Pascal's%20Triangle%20II.md) | `Array` | **Easy** |
@@ -221,6 +222,7 @@ the following problem is choose by:
 | [229. Majority Element II](https://github.com/103style/LeetCode/blob/master/Array/229.%20Majority%20Element%20II.md) 🚨 | `Array` | **Medium** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
+| [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
 | [257. Binary Tree Paths](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/257.%20Binary%20Tree%20Paths.md) | `Tree` <br> `DFS` | **Easy** |
@@ -468,6 +470,7 @@ the following problem is choose by:
 | [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light: | `Greedy` | **Medium** |	
 | [1286. Iterator for Combination](https://github.com/103style/LeetCode/blob/master/Design/1286.%20Iterator%20for%20Combination.md) | `Design` <br> `Backtracking` | **Medium** |	
 | [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) | `LinkedList` <br> `Bit Manipulation` | **Easy** |	
+| [1291. Sequential Digits](https://github.com/103style/LeetCode/blob/master/Backtracking/1291.%20Sequential%20Digits.md) | `Backtracking` | **Medium** |
 | [1300. Sum of Mutated Array Closest to Target](https://github.com/103style/LeetCode/blob/master/Array/1300.%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.md) | `Array` <br> `BinarySearch` | **Medium** |	
 | [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1305. All Elements in Two Binary Search Trees](https://github.com/103style/LeetCode/blob/master/Sort/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md) | `Sort` <br> `Tree` | **Medium** |
