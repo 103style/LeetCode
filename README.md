@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(521/1595)` → `Easy 171`--`Medium 274`--`Hard 76`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(522/1595)` → `Easy 171`--`Medium 275`--`Hard 76`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -37,7 +37,7 @@ the following problem is choose by:
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `79/188` |
 | Geometry | `2/7` |
-| Graph | `15/42` | 
+| Graph | `16/42` | 
 | Greedy | `30/80` |
 | Hash Table | `33/127` |
 | Heap | `6/34` |
@@ -59,7 +59,7 @@ the following problem is choose by:
 | Tree | `75/137` |
 | Trie | `7/17` |
 | Two Pointers | `32/60` |
-| Union Find | `10/29` | 
+| Union Find | `11/29` | 
 | other | `7/?` |
 
 ---
@@ -267,6 +267,7 @@ the following problem is choose by:
 | [389. Find the Difference](https://github.com/103style/LeetCode/blob/master/Hash%20Table/389.%20Find%20the%20Difference.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
+| [399. Evaluate Division](https://github.com/103style/LeetCode/blob/master/Union%20Find/399.%20Evaluate%20Division.md) 🚨 | `UnionFind` <br> `Graph` | **Medium** |
 | [400. Nth Digit](https://github.com/103style/LeetCode/blob/master/Math/400.%20Nth%20Digit.md) | `Math` | **Medium** |
 | [404. Sum of Left Leaves](https://github.com/103style/LeetCode/blob/master/Tree/404.%20Sum%20of%20Left%20Leaves.md) | `Tree` | **Easy** |
 | [406. Queue Reconstruction by Height](https://github.com/103style/LeetCode/blob/master/Greedy/406.%20Queue%20Reconstruction%20by%20Height.md) | `Greedy` | **Medium** |
