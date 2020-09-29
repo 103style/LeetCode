@@ -166,7 +166,7 @@ the following problem is choose by:
 | [120. Triangle](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/120.%20Triangle.md) | `Array` <br> `Dynamic Programming` | **Medium** |
 | [121. Best Time to Buy and Sell Stock](https://github.com/103style/LeetCode/blob/master/Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | `Array` <br> `Dynamic Programming` | **Easy** |
 | [122. Best Time to Buy and Sell Stock II](https://github.com/103style/LeetCode/blob/master/Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | `Array` <br> `Greedy` | **Easy** |
-| [123. Best Time to Buy and Sell Stock III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md) | `Array` <br> `Dynamic Programming` | **Hrad** |
+| [123. Best Time to Buy and Sell Stock III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md) | `Array` <br> `Dynamic Programming` | **Hard** |
 | [124. Binary Tree Maximum Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | `DFS` <br> `Tree` | **Hard** |
 | [125. Valid Palindrome](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/125.%20Valid%20Palindrome.md) | `String` <br> `Two Pointer` | **Easy** |
 | [126. Word Ladder II](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/126.%20Word%20Ladder%20II.md) 🚨 | `Array` <br> `Backtracking` <br> `String` <br> `BFS`  | **Hard** |
@@ -531,7 +531,7 @@ the following problem is choose by:
 | [1515. Best Position for a Service Centre](https://github.com/103style/LeetCode/blob/master/Geometry/1515.%20Best%20Position%20for%20a%20Service%20Centre.md) 🚨🚨 | `Geometry` | **Hard** |		
 | [1518. Water Bottles](https://github.com/103style/LeetCode/blob/master/Greedy/1518.%20Water%20Bottles.md) | `Greedy` | **Easy** |		
 | [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.md) | `BFS` <br> `DFS` | **Medium** |		| [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1519.	
-| [1520. Maximum Number of Non-Overlapping Substrings](https://github.com/103style/LeetCode/blob/master/Greedy/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.md) 🚨🚨 | `Greedy` | **Medium** |			
+| [1520. Maximum Number of Non-Overlapping Substrings](https://github.com/103style/LeetCode/blob/master/Greedy/1520.%20Maximum%20Number%20of%20Non-Overlapping%20Substrings.md) 🚨🚨 | `Greedy` | **Hard** |			
 | [1521. Find a Value of a Mysterious Function Closest to Target](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.md) 🚨🚨🚨 | `BinarySearch` <br> `Segment Tree` <br> `Bit Manipulation` | **Hard** |		
 | [1523. Count Odd Numbers in an Interval Range](https://github.com/103style/LeetCode/blob/master/Math/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | `Math` | **Easy** |		
 | [1524. Number of Sub-arrays With Odd Sum](https://github.com/103style/LeetCode/blob/master/Math/1524.%20Number%20of%20Sub-arrays%20With%20Odd%20Sum.md) 🚨 | `Array` <br> `Math` | **Medium** |	
