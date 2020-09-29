@@ -185,7 +185,7 @@ the following problem is choose by:
 | [142. Linked List Cycle II](https://github.com/103style/LeetCode/blob/master/Linked%20List/142.%20Linked%20List%20Cycle%20II.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [143. Reorder List](https://github.com/103style/LeetCode/blob/master/Linked%20List/143.%20Reorder%20List.md) | `LinkedList` | **Medium** |
 | [144. Binary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md) | `Stack` <br> `Tree` | **Medium** |
-| [145. Binary Tree Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) | `Tree` <br> `Stack` | **Hard** |
+| [145. Binary Tree Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) | `Tree` <br> `Stack` | **Medium** |
 | [151. Reverse Words in a String](https://github.com/103style/LeetCode/blob/master/String/151.%20Reverse%20Words%20in%20a%20String.md) | `String` | **Medium** |
 | [152. Maximum Product Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/152.%20Maximum%20Product%20Subarray.md) 🚨🚨 | `Array` <br> `Dynamic Programming` | **Medium** |
 | [153. Find Minimum in Rotated Sorted Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) | `Array` <br> `BinarySearch` | **Medium** |
