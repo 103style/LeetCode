@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(522/1595)` → `Easy 171`--`Medium 275`--`Hard 76`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(523/1595)` → `Easy 172`--`Medium 275`--`Hard 76`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -46,7 +46,7 @@ the following problem is choose by:
 | Memoization | `1/1` |
 | Minimax | `3/8` |
 | Ordered Map | `1/10` |
-| Queue | `2/9` |
+| Queue | `3/9` |
 | Recursion | `5/15` | 
 | Rejection Sampling | `1/2` |
 | Random | `3/6` |
@@ -403,6 +403,7 @@ the following problem is choose by:
 | [925. Long Pressed Name](https://github.com/103style/LeetCode/blob/master/String/925.%20Long%20Pressed%20Name.md) | `String` <br> `Two Pointer` | **Easy** |	
 | [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md) | `String` | **Easy** |	
 | [930. Binary Subarrays With Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/930.%20Binary%20Subarrays%20With%20Sum.md) | `Two Pointers` <br> `HashTable` | **Medium** |	
+| [933. Number of Recent Calls](https://github.com/103style/LeetCode/blob/master/Queue/933.%20Number%20of%20Recent%20Calls.md) | `Queue` | **Easy** |
 | [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md) | `Tree` <br> `Recursion` | **Easy** |	
 | [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md) | `Math` | **Easy** |	
 | [943. Find the Shortest Superstring](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/943.%20Find%20the%20Shortest%20Superstring.md) | `Dynamic Programming` | **Hard** |	
