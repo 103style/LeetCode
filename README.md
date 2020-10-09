@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(523/1595)` → `Easy 172`--`Medium 275`--`Hard 76`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(532/1595)` → `Easy 173`--`Medium 281`--`Hard 78`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,44 +22,44 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `129/261` |
-| Backtracking | `26/55` |
+| Array | `127/287` |
+| Backtracking | `27/57` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `39/84` |
+| Binary Search | `40/91` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `15/39` |
-| Brainteaser | `3/5` |
-| Breadth-first Search | `21/68` |
+| Bit Manipulation | `19/54` |
+| Brainteaser | `4/7` |
+| Breadth-first Search | `23/74` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `55/95` |
-| Desigin | `8/49` |
+| Depth-first Search | `59/134` |
+| Desigin | `10/55` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `79/188` |
-| Geometry | `2/7` |
-| Graph | `16/42` | 
-| Greedy | `30/80` |
-| Hash Table | `33/127` |
-| Heap | `6/34` |
-| Linked List | `27/38` |
+| Dynamic Programming | `79/222` |
+| Geometry | `2/9` |
+| Graph | `17/47` | 
+| Greedy | `32/100` |
+| Hash Table | `45/133` |
+| Heap | `8/35` |
+| Linked List | `27/39` |
 | Math | `47/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
-| Ordered Map | `1/10` |
+| Ordered Map | `3/12` |
 | Queue | `3/9` |
 | Recursion | `5/15` | 
 | Rejection Sampling | `1/2` |
 | Random | `3/6` |
-| Segment Tree | `4/12` |
-| Sliding Window | `7/23` |
+| Segment Tree | `4/14` |
+| Sliding Window | `7/25` |
 | Sort | `24/52` | 
-| Stack | `19/57` |
-| String | `78/179` |
+| Stack | `20/57` |
+| String | `79/199` |
 | Topological Sort | `4/7` |
-| Tree | `75/137` |
+| Tree | `76/148` |
 | Trie | `7/17` |
 | Two Pointers | `32/60` |
-| Union Find | `11/29` | 
+| Union Find | `11/32` | 
 | other | `7/?` |
 
 ---
@@ -352,6 +352,7 @@ the following problem is choose by:
 | [697. Degree of an Array](https://github.com/103style/LeetCode/blob/master/Array/697.%20Degree%20of%20an%20Array.md) | `Array` | **Easy** |
 | [700. Search in a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/700.%20Search%20in%20a%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
 | [701. Insert into a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/701.%20Insert%20into%20a%20Binary%20Search%20Tree.md) | `Tree` | **Medium** |
+| [704. Binary Search](https://github.com/103style/LeetCode/blob/master/Binary%20Search/704.%20Binary%20Search.md) | `Binary Search` | **Easy** |
 | [705. Design HashSet](https://github.com/103style/LeetCode/blob/master/Design/705.%20Design%20HashSet.md) | `HashTable` <br> `Design` | **Easy** |
 | [709.To Lower Case](https://github.com/103style/LeetCode/blob/master/String/709.%20To%20Lower%20Case.md) | `String` | **Easy** |
 | [713. Subarray Product Less Than K](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/713.%20Subarray%20Product%20Less%20Than%20K.md) | `Array` <br> `Two Pointers` | **Medium** |
@@ -590,3 +591,11 @@ the following problem is choose by:
 | [1593. Split a String Into the Max Number of Unique Substrings](https://github.com/103style/LeetCode/blob/master/Backtracking/1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings.md) | `Backtracking` | **Medium** |
 | [1594. Maximum Non Negative Product in a Matrix](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1594.%20Maximum%20Non%20Negative%20Product%20in%20a%20Matrix.md) | `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [1595. Minimum Cost to Connect Two Groups of Points](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1595.%20Minimum%20Cost%20to%20Connect%20Two%20Groups%20of%20Points.md) 🚨🚨 | `Dynamic Programming` <br> `Graph` | **Hard** |
+| [1598. Crawler Log Folder](https://github.com/103style/LeetCode/blob/master/Stack/1598.%20Crawler%20Log%20Folder.md) | `Stack` | **Easy** |
+| [1599. Maximum Profit of Operating a Centennial Wheel](https://github.com/103style/LeetCode/blob/master/Greedy/1599.%20Maximum%20Profit%20of%20Operating%20a%20Centennial%20Wheel.md) | `Greedy` | **Medium** |
+| [1600. Throne Inheritance](https://github.com/103style/LeetCode/blob/master/Design/1600.%20Throne%20Inheritance.md) | `Tree` <br> `Design` | **Medium** |
+| [1601. Maximum Number of Achievable Transfer Requests](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1601.%20Maximum%20Number%20of%20Achievable%20Transfer%20Requests.md) 🚨🚨 | `Dynamic Programming` | **Hard** |
+| [1603. Design Parking System](https://github.com/103style/LeetCode/blob/master/Design/1603.%20Design%20Parking%20System.md) | `Design` | **Easy** |
+| [1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://github.com/103style/LeetCode/blob/master/String/1604.%20Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period.md) | `String` <br> `Ordered Map` | **Medium** |
+| [1605. Find Valid Matrix Given Row and Column Sums](https://github.com/103style/LeetCode/blob/master/Greedy/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.md) | `Greedy` 🚨 | **Medium** |
+| [1606. Find Servers That Handled Most Number of Requests](https://github.com/103style/LeetCode/blob/master/Ordered%20Map/1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests.md) 🚨🚨 | `Ordered Map` | **Hard** |
