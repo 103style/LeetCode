@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(532/1595)` → `Easy 173`--`Medium 281`--`Hard 78`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(536/1595)` → `Easy 174`--`Medium 282`--`Hard 80`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,12 +22,12 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `127/287` |
+| Array | `128/287` |
 | Backtracking | `27/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `40/91` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `19/54` |
+| Bit Manipulation | `20/54` |
 | Brainteaser | `4/7` |
 | Breadth-first Search | `23/74` |
 | Concurrency | `1/9` |
@@ -35,8 +35,8 @@ the following problem is choose by:
 | Depth-first Search | `59/134` |
 | Desigin | `10/55` |
 | Divide and Conquer | `7/19` |
-| Dynamic Programming | `79/222` |
-| Geometry | `2/9` |
+| Dynamic Programming | `80/222` |
+| Geometry | `3/9` |
 | Graph | `17/47` | 
 | Greedy | `32/100` |
 | Hash Table | `45/133` |
@@ -56,9 +56,9 @@ the following problem is choose by:
 | Stack | `20/57` |
 | String | `79/199` |
 | Topological Sort | `4/7` |
-| Tree | `76/148` |
+| Tree | `77/148` |
 | Trie | `7/17` |
-| Two Pointers | `32/60` |
+| Two Pointers | `33/60` |
 | Union Find | `11/32` | 
 | other | `7/?` |
 
@@ -599,3 +599,7 @@ the following problem is choose by:
 | [1604. Alert Using Same Key-Card Three or More Times in a One Hour Period](https://github.com/103style/LeetCode/blob/master/String/1604.%20Alert%20Using%20Same%20Key-Card%20Three%20or%20More%20Times%20in%20a%20One%20Hour%20Period.md) | `String` <br> `Ordered Map` | **Medium** |
 | [1605. Find Valid Matrix Given Row and Column Sums](https://github.com/103style/LeetCode/blob/master/Greedy/1605.%20Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums.md) | `Greedy` 🚨 | **Medium** |
 | [1606. Find Servers That Handled Most Number of Requests](https://github.com/103style/LeetCode/blob/master/Ordered%20Map/1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests.md) 🚨🚨 | `Ordered Map` | **Hard** |
+| [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/103style/LeetCode/blob/master/Array/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.md) | `Array` | **Easy** |
+| [1609. Even Odd Tree](https://github.com/103style/LeetCode/blob/master/Tree/1609.%20Even%20Odd%20Tree.md) | `Tree` | **Medium** |
+| [1610. Maximum Number of Visible Points](https://github.com/103style/LeetCode/blob/master/Geometry/1610.%20Maximum%20Number%20of%20Visible%20Points.md) | `Two Pointers` <br> `Geometry` | **Hard** |
+| [1611. Minimum One Bit Operations to Make Integers Zero](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.md) | `DynamicProgramming` <br> `Bit Manipulation` | **Hard** |
