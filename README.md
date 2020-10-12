@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(536/1595)` → `Easy 174`--`Medium 282`--`Hard 80`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(540/1595)` → `Easy 175`--`Medium 285`--`Hard 80`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -38,7 +38,7 @@ the following problem is choose by:
 | Dynamic Programming | `80/222` |
 | Geometry | `3/9` |
 | Graph | `17/47` | 
-| Greedy | `32/100` |
+| Greedy | `35/100` |
 | Hash Table | `45/133` |
 | Heap | `8/35` |
 | Linked List | `27/39` |
@@ -52,9 +52,9 @@ the following problem is choose by:
 | Random | `3/6` |
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
-| Sort | `24/52` | 
-| Stack | `20/57` |
-| String | `79/199` |
+| Sort | `25/52` | 
+| Stack | `22/57` |
+| String | `82/199` |
 | Topological Sort | `4/7` |
 | Tree | `77/148` |
 | Trie | `7/17` |
@@ -249,6 +249,7 @@ the following problem is choose by:
 | [310. Minimum Height Trees](https://github.com/103style/LeetCode/blob/master/Graph/310.%20Minimum%20Height%20Trees.md) | `BFS` <br> `Graph` | **Medium** |
 | [312. Burst Balloons](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/312.%20Burst%20Balloons.md) 🚨 | `Divide and Conquer` <br> `Dynamic Programming` | **Hard** |
 | [315. Count of Smaller Numbers After Self](https://github.com/103style/LeetCode/blob/master/Binary%20Search/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md) | `Binary Search` <br> `Binary Indexed Tree` <br> `Divide and Conquer` <br> `Sort` <br> `Segment Tree` | **Hard** |
+| [316. Remove Duplicate Letters](https://github.com/103style/LeetCode/blob/master/Stack/316.%20Remove%20Duplicate%20Letters.md) | `String` <br> `Stack` <br> `Greedy` | **Medium** |
 | [319. Bulb Switcher](https://github.com/103style/LeetCode/blob/master/Brainteaser/319.%20Bulb%20Switcher.md) | `Math` <br> `Brainteaser` | **Medium** |
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
@@ -285,6 +286,7 @@ the following problem is choose by:
 | [445. Add Two Numbers II](https://github.com/103style/LeetCode/blob/master/Linked%20List/445.%20Add%20Two%20Numbers%20II.md) | `LinkedList` | **Medium** |
 | [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | `Array` | **Easy** |
 | [450. Delete Node in a BST](https://github.com/103style/LeetCode/blob/master/Tree/450.%20Delete%20Node%20in%20a%20BST.md) | `Tree` | **Medium** |
+| [452. Minimum Number of Arrows to Burst Balloons](https://github.com/103style/LeetCode/blob/master/Greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | `Greedy` <br> `Sort` | **Medium** |
 | [459. Repeated Substring Pattern](https://github.com/103style/LeetCode/blob/master/String/459.%20Repeated%20Substring%20Pattern.md) | `String` | **Easy** |
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
 | [463. Island Perimeter](https://github.com/103style/LeetCode/blob/master/Hash%20Table/463.%20Island%20Perimeter.md) | `HashTable` | **Easy** |
@@ -386,7 +388,8 @@ the following problem is choose by:
 | [835. Image Overlap](https://github.com/103style/LeetCode/blob/master/Array/835.%20Image%20Overlap.md) 🚨 | `Array` | **Medium** |
 | [837. New 21 Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/837.%20New%2021%20Game.md) 🚨 | `Dynamic Programming` | **Medium** |	
 | [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |	
-| [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |	
+| [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
+| [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |	
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |	
@@ -449,7 +452,8 @@ the following problem is choose by:
 | [1044. Longest Duplicate Substring](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1044.%20Longest%20Duplicate%20Substring.md) :rotating_light::rotating_light::rotating_light: | `Binary Search` <br> `HashTable` | **Hard** |	
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |	
 | [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |	
-| [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md) :rotating_light: | `BackTracking` | **Medium** |	
+| [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md) :rotating_light: | `BackTracking` | **Medium** |
+| [1081. Smallest Subsequence of Distinct Characters](https://github.com/103style/LeetCode/blob/master/Greedy/1081.%20Smallest%20Subsequence%20of%20Distinct%20Characters.md) | `String` <br> `Stack` <br> `Greedy` | **Medium** |
 | [1094. Car Pooling](https://github.com/103style/LeetCode/blob/master/Greedy/1094.%20Car%20Pooling.md) | `Greedy` | **Medium** |
 | [1095. Find in Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1095.%20Find%20in%20Mountain%20Array.md) | `Binary Search` | **Hard** | 	
 | [1103. Distribute Candies to People](https://github.com/103style/LeetCode/blob/master/Math/1103.%20Distribute%20Candies%20to%20People.md) | `Math` | **Easy** |	
