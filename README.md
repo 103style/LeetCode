@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(540/1595)` → `Easy 175`--`Medium 285`--`Hard 80`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(544/1595)` → `Easy 175`--`Medium 289`--`Hard 80`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `128/287` |
+| Array | `130/287` |
 | Backtracking | `27/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `40/91` |
@@ -41,7 +41,7 @@ the following problem is choose by:
 | Greedy | `35/100` |
 | Hash Table | `45/133` |
 | Heap | `8/35` |
-| Linked List | `27/39` |
+| Linked List | `28/39` |
 | Math | `47/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
@@ -52,13 +52,13 @@ the following problem is choose by:
 | Random | `3/6` |
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
-| Sort | `25/52` | 
+| Sort | `27/52` | 
 | Stack | `22/57` |
 | String | `82/199` |
 | Topological Sort | `4/7` |
-| Tree | `77/148` |
+| Tree | `78/148` |
 | Trie | `7/17` |
-| Two Pointers | `33/60` |
+| Two Pointers | `34/60` |
 | Union Find | `11/32` | 
 | other | `7/?` |
 
@@ -117,6 +117,7 @@ the following problem is choose by:
 | [52. N-Queens II](https://github.com/103style/LeetCode/blob/master/Backtracking/52.%20N-Queens%20II.md) | `Backtracking` | **Hard** |
 | [53. Maximum Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/53.%20Maximum%20Subarray.md) | `Array` <br> `Divide and Conquer` <br> `Dynamic Programming`  | **Easy** |
 | [54. Spiral Matrix](https://github.com/103style/LeetCode/blob/master/Array/54.%20Spiral%20Matrix.md) | `Array` | **Medium** |
+| [56. Merge Intervals](https://github.com/103style/LeetCode/blob/master/Sort/56.%20Merge%20Intervals.md) | `Sort` <br> `Array` | **Medium** |
 | [57. Insert Interval](https://github.com/103style/LeetCode/blob/master/Array/57.%20Insert%20Interval.md) | `Array` <br> `Sort` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
 | [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Hard** |
@@ -132,6 +133,7 @@ the following problem is choose by:
 | [77. Combinations](https://github.com/103style/LeetCode/blob/master/Backtracking/77.%20Combinations.md) | `Backtracking` | **Medium** |
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
 | [79. Word Search](https://github.com/103style/LeetCode/blob/master/Backtracking/79.%20Word%20Search.md) | `Array` <br> `BackTracking` | **Medium** |
+| [80. Remove Duplicates from Sorted Array II](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md) | `Array` <br> `Two Pointers` | **Medium** |
 | [82. Remove Duplicates from Sorted List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) | `LinkedList` | **Medium** |
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
 | [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) | `Array` <br> `Stack` | **Hard** |
@@ -186,6 +188,7 @@ the following problem is choose by:
 | [143. Reorder List](https://github.com/103style/LeetCode/blob/master/Linked%20List/143.%20Reorder%20List.md) | `LinkedList` | **Medium** |
 | [144. Binary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md) | `Stack` <br> `Tree` | **Medium** |
 | [145. Binary Tree Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) | `Tree` <br> `Stack` | **Medium** |
+| [148. Sort List](https://github.com/103style/LeetCode/blob/master/Sort/148.%20Sort%20List.md) | `Sort` <br> `LinkedList` | **Medium** |
 | [151. Reverse Words in a String](https://github.com/103style/LeetCode/blob/master/String/151.%20Reverse%20Words%20in%20a%20String.md) | `String` | **Medium** |
 | [152. Maximum Product Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/152.%20Maximum%20Product%20Subarray.md) 🚨🚨 | `Array` <br> `Dynamic Programming` | **Medium** |
 | [153. Find Minimum in Rotated Sorted Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md) | `Array` <br> `BinarySearch` | **Medium** |
@@ -225,6 +228,7 @@ the following problem is choose by:
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
+| [236. Lowest Common Ancestor of a Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
 | [257. Binary Tree Paths](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/257.%20Binary%20Tree%20Paths.md) | `Tree` <br> `DFS` | **Easy** |
