@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(544/1595)` → `Easy 175`--`Medium 289`--`Hard 80`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(548/1617)` → `Easy 176`--`Medium 291`--`Hard 81`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -23,7 +23,7 @@ the following problem is choose by:
 | Tag | Progress |
 |:-:|:-:|
 | Array | `130/287` |
-| Backtracking | `27/57` |
+| Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `40/91` |
 | Binary Search Tree | `2/15` |
@@ -37,8 +37,8 @@ the following problem is choose by:
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `80/222` |
 | Geometry | `3/9` |
-| Graph | `17/47` | 
-| Greedy | `35/100` |
+| Graph | `18/47` | 
+| Greedy | `36/100` |
 | Hash Table | `45/133` |
 | Heap | `8/35` |
 | Linked List | `28/39` |
@@ -54,11 +54,11 @@ the following problem is choose by:
 | Sliding Window | `7/25` |
 | Sort | `27/52` | 
 | Stack | `22/57` |
-| String | `82/199` |
+| String | `84/199` |
 | Topological Sort | `4/7` |
 | Tree | `78/148` |
 | Trie | `7/17` |
-| Two Pointers | `34/60` |
+| Two Pointers | `35/60` |
 | Union Find | `11/32` | 
 | other | `7/?` |
 
@@ -610,4 +610,8 @@ the following problem is choose by:
 | [1608. Special Array With X Elements Greater Than or Equal X](https://github.com/103style/LeetCode/blob/master/Array/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.md) | `Array` | **Easy** |
 | [1609. Even Odd Tree](https://github.com/103style/LeetCode/blob/master/Tree/1609.%20Even%20Odd%20Tree.md) | `Tree` | **Medium** |
 | [1610. Maximum Number of Visible Points](https://github.com/103style/LeetCode/blob/master/Geometry/1610.%20Maximum%20Number%20of%20Visible%20Points.md) | `Two Pointers` <br> `Geometry` | **Hard** |
-| [1611. Minimum One Bit Operations to Make Integers Zero](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.md) | `DynamicProgramming` <br> `Bit Manipulation` | **Hard** |
+| [1611. Minimum One Bit Operations to Make Integers Zero](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.md) 🚨🚨 | `DynamicProgramming` <br> `Bit Manipulation` | **Hard** |
+| [1614. Maximum Nesting Depth of the Parentheses](https://github.com/103style/LeetCode/blob/master/String/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.md) | `String` | **Easy** |
+| [1615. Maximal Network Rank](https://github.com/103style/LeetCode/blob/master/Graph/1615.%20Maximal%20Network%20Rank.md) | `Graph` | **Medium** |
+| [1616. Split Two Strings to Make Palindrome](https://github.com/103style/LeetCode/blob/master/Greedy/1616.%20Split%20Two%20Strings%20to%20Make%20Palindrome.md) 🚨 | `String` <br> `Two Pointers` <br> `Greedy` | **Medium** |
+| [1617. Count Subtrees With Max Distance Between Cities](https://github.com/103style/LeetCode/blob/master/Backtracking/1617.%20Count%20Subtrees%20With%20Max%20Distance%20Between%20Cities.md) 🚨🚨 | `Backtracking` | **Hard** |
