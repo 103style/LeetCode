@@ -67,6 +67,32 @@
       }
       ```
       
+    * `执行用时：51 ms, 击败了 96.24%, 内存消耗：48.7 MB, 击败了 100%.`
+      ```
+      LinkedList<Integer> list1,list2;
+
+      public CQueue() {
+          list1 = new LinkedList<>();
+          list2 = new LinkedList<>();
+      }
+
+      public void appendTail(int value) {
+          list1.push(value);
+      }
+
+      public int deleteHead() {
+          if(!list2.isEmpty()){
+              return list2.pop();
+          }
+          if(list1.isEmpty()){
+              return -1;
+          }
+          while(!list1.isEmpty()){
+              list2.push(list1.pop());
+          }
+          return list2.pop();
+      }
+      ```
 ---
 
 * **the most votes**
