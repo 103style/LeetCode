@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(549/1617)` → `Easy 176`--`Medium 292`--`Hard 81`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(551/1617)` → `Easy 176`--`Medium 293`--`Hard 82`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `130/287` |
+| Array | `131/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `40/91` |
@@ -33,7 +33,7 @@ the following problem is choose by:
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `60/134` |
-| Desigin | `10/55` |
+| Desigin | `11/55` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `80/222` |
 | Geometry | `3/9` |
@@ -111,6 +111,7 @@ the following problem is choose by:
 | [44. Wildcard Matching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/44.%20Wildcard%20Matching.md) | `String` <br> `Dynamic Programming` <br> `Greedy` <br> `Backtracking` | **Hard** |
 | [46. Permutations](https://github.com/103style/LeetCode/blob/master/Backtracking/46.%20Permutations.md) | `Backtracking` | **Medium** |
 | [47. Permutations II](https://github.com/103style/LeetCode/blob/master/Backtracking/47.%20Permutations%20II.md) | `Backtracking` | **Medium** |
+| [48. Rotate Image](https://github.com/103style/LeetCode/blob/master/Array/48.%20Rotate%20Image.md) | `Array` | **Medium** |
 | [49. Group Anagrams](https://github.com/103style/LeetCode/blob/master/String/49.%20Group%20Anagrams.md) | `String` <br> `HashTable` | **Medium** |
 | [50. Pow(x, n)](https://github.com/103style/LeetCode/blob/master/Math/50.%20Pow(x%2C%20n).md) | `Math` <br> `BinarySearch` | **Medium** |
 | [51. N-Queens](https://github.com/103style/LeetCode/blob/master/Backtracking/51.%20N-Queens.md) | `Backtracking` | **Hard** |
@@ -293,6 +294,7 @@ the following problem is choose by:
 | [450. Delete Node in a BST](https://github.com/103style/LeetCode/blob/master/Tree/450.%20Delete%20Node%20in%20a%20BST.md) | `Tree` | **Medium** |
 | [452. Minimum Number of Arrows to Burst Balloons](https://github.com/103style/LeetCode/blob/master/Greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | `Greedy` <br> `Sort` | **Medium** |
 | [459. Repeated Substring Pattern](https://github.com/103style/LeetCode/blob/master/String/459.%20Repeated%20Substring%20Pattern.md) | `String` | **Easy** |
+| [460. LFU Cache](https://github.com/103style/LeetCode/blob/master/Design/460.%20LFU%20Cache.md) | `Design` | **Hard** |
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
 | [463. Island Perimeter](https://github.com/103style/LeetCode/blob/master/Hash%20Table/463.%20Island%20Perimeter.md) | `HashTable` | **Easy** |
 | [468. Validate IP Address](https://github.com/103style/LeetCode/blob/master/String/468.%20Validate%20IP%20Address.md) | `String` | **Medium** |
