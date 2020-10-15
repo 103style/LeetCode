@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(548/1617)` → `Easy 176`--`Medium 291`--`Hard 81`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(549/1617)` → `Easy 176`--`Medium 292`--`Hard 81`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -32,7 +32,7 @@ the following problem is choose by:
 | Breadth-first Search | `23/74` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
-| Depth-first Search | `59/134` |
+| Depth-first Search | `60/134` |
 | Desigin | `10/55` |
 | Divide and Conquer | `7/19` |
 | Dynamic Programming | `80/222` |
@@ -56,7 +56,7 @@ the following problem is choose by:
 | Stack | `22/57` |
 | String | `84/199` |
 | Topological Sort | `4/7` |
-| Tree | `78/148` |
+| Tree | `79/148` |
 | Trie | `7/17` |
 | Two Pointers | `35/60` |
 | Union Find | `11/32` | 
@@ -162,6 +162,7 @@ the following problem is choose by:
 | [112. Path Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/112.%20Path%20Sum.md) | `DFS` <br> `Tree` | **Easy** |
 | [113. Path Sum II](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/113.%20Path%20Sum%20II.md) | `Tree` <br> `DFS` | **Medium** |
 | [114. Flatten Binary Tree to Linked List](https://github.com/103style/LeetCode/blob/master/Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) | `Tree` <br> `DFS` | **Medium** |
+| [116. Populating Next Right Pointers in Each Node](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md) | `DFS` <br> `Tree` | **Medium** |
 | [117. Populating Next Right Pointers in Each Node II](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md) | `Tree` <br> `DFS` | **Medium** |
 | [118. Pascal's Triangle](https://github.com/103style/LeetCode/blob/master/Array/118.%20Pascal's%20Triangle.md) | `Array` | **Easy** |
 | [119. Pascal's Triangle II](https://github.com/103style/LeetCode/blob/master/Array/119.%20Pascal's%20Triangle%20II.md) | `Array` | **Easy** |
