@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(557/1617)` → `Easy 178`--`Medium 297`--`Hard 82`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(559/1617)` → `Easy 178`--`Medium 299`--`Hard 82`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,10 +22,10 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `133/287` |
+| Array | `134/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
-| Binary Search | `41/91` |
+| Binary Search | `42/91` |
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `20/54` |
 | Brainteaser | `4/7` |
@@ -34,13 +34,13 @@ the following problem is choose by:
 | Database | `3/112` |
 | Depth-first Search | `61/134` |
 | Desigin | `11/55` |
-| Divide and Conquer | `7/19` |
+| Divide and Conquer | `8/19` |
 | Dynamic Programming | `80/222` |
 | Geometry | `3/9` |
 | Graph | `18/47` | 
 | Greedy | `37/100` |
 | Hash Table | `45/133` |
-| Heap | `9/35` |
+| Heap | `10/35` |
 | Linked List | `28/39` |
 | Math | `47/122` |
 | Memoization | `1/1` |
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Random | `3/6` |
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
-| Sort | `28/52` | 
+| Sort | `29/52` | 
 | Stack | `23/57` |
 | String | `85/199` |
 | Topological Sort | `4/7` |
@@ -130,6 +130,7 @@ the following problem is choose by:
 | [66. Plus One](https://github.com/103style/LeetCode/blob/master/Array/66.%20Plus%20One.md) | `Array` | **Easy** |
 | [67. Add Binary](https://github.com/103style/LeetCode/blob/master/Math/67.%20Add%20Binary.md) | `Math` <br> `String` | **Easy** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
+| [74. Search a 2D Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/74.%20Search%20a%202D%20Matrix.md) | `Array` <br> `Binary Search` | **Medium** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
 | [77. Combinations](https://github.com/103style/LeetCode/blob/master/Backtracking/77.%20Combinations.md) | `Backtracking` | **Medium** |
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
@@ -432,6 +433,7 @@ the following problem is choose by:
 | [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md) | `Tree` | **Easy** |	
 | [967. Numbers With Same Consecutive Differences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/967.%20Numbers%20With%20Same%20Consecutive%20Differences.md) | `Dynamic Programming` | **Medium** |	
 | [969. Pancake Sorting](https://github.com/103style/LeetCode/blob/master/Sort/969.%20Pancake%20Sorting.md) | `Array` <br> `Sort` | **Medium** |
+| [973. K Closest Points to Origin](https://github.com/103style/LeetCode/blob/master/Sort/973.%20K%20Closest%20Points%20to%20Origin.md) | `Divide and Conquer` <br> `Heap` <br> `Sort` | **Medium** |
 | [974. Subarray Sums Divisible by K](https://github.com/103style/LeetCode/blob/master/Hash%20Table/974.%20Subarray%20Sums%20Divisible%20by%20K.md) 🚨 | `Array` <br> `HashTable` | **Medium** |	
 | [976. Largest Perimeter Triangle](https://github.com/103style/LeetCode/blob/master/Sort/976.%20Largest%20Perimeter%20Triangle.md) | `Sort` <br> `Math` | **Easy** |	
 | [977.Squares of a Sorted Array](https://github.com/103style/LeetCode/blob/master/Array/977.%20Squares%20of%20a%20Sorted%20Array.md) | `Array` <br> `TwoPointers` | **Easy** |	
