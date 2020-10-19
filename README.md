@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(559/1617)` → `Easy 178`--`Medium 299`--`Hard 82`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(560/1617)` → `Easy 179`--`Medium 299`--`Hard 82`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -53,12 +53,12 @@ the following problem is choose by:
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
 | Sort | `29/52` | 
-| Stack | `23/57` |
+| Stack | `24/57` |
 | String | `85/199` |
 | Topological Sort | `4/7` |
 | Tree | `80/148` |
 | Trie | `7/17` |
-| Two Pointers | `35/60` |
+| Two Pointers | `36/60` |
 | Union Find | `12/32` | 
 | other | `7/?` |
 
@@ -400,7 +400,8 @@ the following problem is choose by:
 | [832. Flipping an Image](https://github.com/103style/LeetCode/blob/master/Array/832.%20Flipping%20an%20Image.md) | `Array` | **Easy** |	
 | [835. Image Overlap](https://github.com/103style/LeetCode/blob/master/Array/835.%20Image%20Overlap.md) 🚨 | `Array` | **Medium** |
 | [837. New 21 Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/837.%20New%2021%20Game.md) 🚨 | `Dynamic Programming` | **Medium** |	
-| [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |	
+| [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |	\
+| [844. Backspace String Compare](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/844.%20Backspace%20String%20Compare.md) | `Two Pointers` <br> `Stack` | **Easy** |
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
 | [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
