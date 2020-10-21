@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(560/1617)` → `Easy 179`--`Medium 299`--`Hard 82`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(562/1617)` → `Easy 179`--`Medium 301`--`Hard 82`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `134/287` |
+| Array | `135/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `42/91` |
@@ -38,7 +38,7 @@ the following problem is choose by:
 | Dynamic Programming | `80/222` |
 | Geometry | `3/9` |
 | Graph | `18/47` | 
-| Greedy | `37/100` |
+| Greedy | `38/100` |
 | Hash Table | `45/133` |
 | Heap | `10/35` |
 | Linked List | `28/39` |
@@ -53,7 +53,7 @@ the following problem is choose by:
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
 | Sort | `29/52` | 
-| Stack | `24/57` |
+| Stack | `25/57` |
 | String | `85/199` |
 | Topological Sort | `4/7` |
 | Tree | `80/148` |
@@ -377,6 +377,7 @@ the following problem is choose by:
 | [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) | `HashTable` <br> `Stack` <br> `Recursion` | **Hard** |
 | [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md) | `Math` | **Easy** |
 | [733. Flood Fill](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/733.%20Flood%20Fill.md) | `DFS` | **Easy** |
+| [735. Asteroid Collision](https://github.com/103style/LeetCode/blob/master/Stack/735.%20Asteroid%20Collision.md) | `Stack` | **Medium** |
 | [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md) | `Stack` <br> `HashTable` | **Medium** |
 | [741. Cherry Pickup](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/741.%20Cherry%20Pickup.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
 | [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md) | `Array` <br> `Dynamic Programming` | **Easy** |
@@ -450,6 +451,7 @@ the following problem is choose by:
 | [1002. Find Common Characters](https://github.com/103style/LeetCode/blob/master/Array/1002.%20Find%20Common%20Characters.md) | `Array` <br> `HashTable` | **Easy** |	
 | [1004. Max Consecutive Ones III](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1004.%20Max%20Consecutive%20Ones%20III.md) | `Two Pointers` <br> `Sliding Window` | **Medium** |	
 | [1005. Maximize Sum Of Array After K Negations](https://github.com/103style/LeetCode/blob/master/Greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md) | `Greedy` | **Easy** |	
+| [1007. Minimum Domino Rotations For Equal Row](https://github.com/103style/LeetCode/blob/master/Greedy/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md) | `Array` <br> `Greedy` | **Medium** |
 | [1008. Construct Binary Search Tree from Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) | `Tree` | **Medium** |	
 | [1011. Capacity To Ship Packages Within D Days](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | `Array` <br> `Binary Search` | **Medium** |	
 | [1013. Partition Array Into Three Parts With Equal Sum](https://github.com/103style/LeetCode/blob/master/Array/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.md) | `Array` | **Easy** |
