@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(563/1617)` → `Easy 180`--`Medium 301`--`Hard 82`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(564/1617)` → `Easy 180`--`Medium 302`--`Hard 82`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -53,7 +53,7 @@ the following problem is choose by:
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
 | Sort | `29/52` | 
-| Stack | `25/57` |
+| Stack | `26/57` |
 | String | `85/199` |
 | Topological Sort | `4/7` |
 | Tree | `80/148` |
@@ -297,6 +297,7 @@ the following problem is choose by:
 | [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | `Array` | **Easy** |
 | [450. Delete Node in a BST](https://github.com/103style/LeetCode/blob/master/Tree/450.%20Delete%20Node%20in%20a%20BST.md) | `Tree` | **Medium** |
 | [452. Minimum Number of Arrows to Burst Balloons](https://github.com/103style/LeetCode/blob/master/Greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | `Greedy` <br> `Sort` | **Medium** |
+| [456. 132 Pattern](https://github.com/103style/LeetCode/blob/master/Stack/456.%20132%20Pattern.md) 🚨 | `Stack` | **Medium** |
 | [459. Repeated Substring Pattern](https://github.com/103style/LeetCode/blob/master/String/459.%20Repeated%20Substring%20Pattern.md) | `String` | **Easy** |
 | [460. LFU Cache](https://github.com/103style/LeetCode/blob/master/Design/460.%20LFU%20Cache.md) | `Design` | **Hard** |
 | [461. Hamming Distance](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/461.%20Hamming%20Distance.md) | `Bit Manipulation` | **Easy** |
