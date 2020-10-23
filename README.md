@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(562/1617)` → `Easy 179`--`Medium 301`--`Hard 82`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(563/1617)` → `Easy 180`--`Medium 301`--`Hard 82`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -41,7 +41,7 @@ the following problem is choose by:
 | Greedy | `38/100` |
 | Hash Table | `45/133` |
 | Heap | `10/35` |
-| Linked List | `28/39` |
+| Linked List | `29/39` |
 | Math | `47/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
@@ -58,7 +58,7 @@ the following problem is choose by:
 | Topological Sort | `4/7` |
 | Tree | `80/148` |
 | Trie | `7/17` |
-| Two Pointers | `36/60` |
+| Two Pointers | `37/60` |
 | Union Find | `12/32` | 
 | other | `7/?` |
 
@@ -232,6 +232,7 @@ the following problem is choose by:
 | [229. Majority Element II](https://github.com/103style/LeetCode/blob/master/Array/229.%20Majority%20Element%20II.md) 🚨 | `Array` | **Medium** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
+| [234. Palindrome Linked List](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/234.%20Palindrome%20Linked%20List.md) | `LinkedList` <br> `Two Pointers` | **Easy** |
 | [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) | `Tree` | **Easy** |
 | [236. Lowest Common Ancestor of a Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
