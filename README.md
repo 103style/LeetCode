@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(564/1617)` → `Easy 180`--`Medium 302`--`Hard 82`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(570/1617)` → `Easy 181`--`Medium 307`--`Hard 82`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,12 +22,12 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `135/287` |
+| Array | `136/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `42/91` |
 | Binary Search Tree | `2/15` |
-| Bit Manipulation | `20/54` |
+| Bit Manipulation | `21/54` |
 | Brainteaser | `4/7` |
 | Breadth-first Search | `23/74` |
 | Concurrency | `1/9` |
@@ -35,11 +35,11 @@ the following problem is choose by:
 | Depth-first Search | `61/134` |
 | Desigin | `11/55` |
 | Divide and Conquer | `8/19` |
-| Dynamic Programming | `80/222` |
+| Dynamic Programming | `81/222` |
 | Geometry | `3/9` |
 | Graph | `18/47` | 
-| Greedy | `38/100` |
-| Hash Table | `45/133` |
+| Greedy | `39/100` |
+| Hash Table | `47/133` |
 | Heap | `10/35` |
 | Linked List | `29/39` |
 | Math | `47/122` |
@@ -58,9 +58,9 @@ the following problem is choose by:
 | Topological Sort | `4/7` |
 | Tree | `80/148` |
 | Trie | `7/17` |
-| Two Pointers | `37/60` |
+| Two Pointers | `38/60` |
 | Union Find | `12/32` | 
-| other | `7/?` |
+| other | `8/?` |
 
 ---
 
@@ -206,6 +206,7 @@ the following problem is choose by:
 | [173. Binary Search Tree Iterator](https://github.com/103style/LeetCode/blob/master/Tree/173.%20Binary%20Search%20Tree%20Iterator.md) | `Tree` <br> `Stack` <br> `Design` | **Medium** |
 | [174. Dungeon Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/174.%20Dungeon%20Game.md) | `Dynamic Programming` <br> `Binary Search` | **Hard** |
 | [179. Largest Number](https://github.com/103style/LeetCode/blob/master/Sort/179.%20Largest%20Number.md) | `Sort` | **Medium** |
+| [187. Repeated DNA Sequences](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/187.%20Repeated%20DNA%20Sequences.md) | `HashTable` <br> `Bit Manipulation` | **Medium** |
 | [188. Best Time to Buy and Sell Stock IV](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md) | `Dynamic Programming` | **Hard** |
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
 | [190. Reverse Bits](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/190.%20Reverse%20Bits.md) | `Bit Manipulation` | **Easy** |
@@ -392,7 +393,8 @@ the following problem is choose by:
 | [785. Is Graph Bipartite?](https://github.com/103style/LeetCode/blob/master/Graph/785.%20Is%20Graph%20Bipartite.md) | `DFS` <br> `BFS` <br> `Graph` | **Medium** |	
 | [787. Cheapest Flights Within K Stops](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) 🚨 | `Dynamic Programming` <br> `DFS` <br> `Heap` | **Medium** |	
 | [791. Custom Sort String](https://github.com/103style/LeetCode/blob/master/String/791.%20Custom%20Sort%20String.md) | `String` | **Medium** |	
-| [797. All Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/797.%20All%20Paths%20From%20Source%20to%20Target.md) | `DFS` | **Medium** |	
+| [797. Al Paths From Source to Target](https://github.com/103style/LeetCode/blob/master/other/797.%20All%20Paths%20From%20Source%20to%20Target.md) | `DFS` | **Medium** |	
+| [799. Champagne Tower](https://github.com/103style/LeetCode/blob/master/other/799.%20Champagne%20Tower.md) | `other` | **Medium** |
 | [804. Unique Morse Code Words](https://github.com/103style/LeetCode/blob/master/String/804.%20Unique%20Morse%20Code%20Words.md) | `String` | **Easy** |	
 | [807. Max Increase to Keep City Skyline](https://github.com/103style/LeetCode/blob/master/other/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.md) | `other` | **Medium** |	
 | [814. Binary Tree Pruning](https://github.com/103style/LeetCode/blob/master/Tree/814.%20Binary%20Tree%20Pruning.md) | `Tree` | **Medium** |	
@@ -405,6 +407,7 @@ the following problem is choose by:
 | [837. New 21 Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/837.%20New%2021%20Game.md) 🚨 | `Dynamic Programming` | **Medium** |	
 | [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |	\
 | [844. Backspace String Compare](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/844.%20Backspace%20String%20Compare.md) | `Two Pointers` <br> `Stack` | **Easy** |
+| [845. Longest Mountain in Array](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/845.%20Longest%20Mountain%20in%20Array.md) | `Two Pointers` | **Medium** |
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
 | [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
@@ -428,6 +431,7 @@ the following problem is choose by:
 | [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md) | `Tree` <br> `Recursion` | **Easy** |	
 | [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md) | `Math` | **Easy** |	
 | [943. Find the Shortest Superstring](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/943.%20Find%20the%20Shortest%20Superstring.md) | `Dynamic Programming` | **Hard** |	
+| [948. Bag of Tokens](https://github.com/103style/LeetCode/blob/master/Greedy/948.%20Bag%20of%20Tokens.md) | `Greedy` | **Medium** | 
 | [949. Largest Time for Given Digits](https://github.com/103style/LeetCode/blob/master/Math/949.%20Largest%20Time%20for%20Given%20Digits.md) | `Math` | **Medium** |
 | [950. Reveal Cards In Increasing Order](https://github.com/103style/LeetCode/blob/master/Array/950.%20Reveal%20Cards%20In%20Increasing%20Order.md) | `Array` | **Medium** |	
 | [952. Largest Component Size by Common Factor](https://github.com/103style/LeetCode/blob/master/Union%20Find/952.%20Largest%20Component%20Size%20by%20Common%20Factor.md) | `Math` <br> `Union Find` | **Hard** |
@@ -461,6 +465,7 @@ the following problem is choose by:
 | [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) 🚨 | `LinkedList` <br> `Stack` | **Medium** |	
 | [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md) | `Stack` | **Easy** |	
 | [1022. Sum of Root To Leaf Binary Numbers](https://github.com/103style/LeetCode/blob/master/Tree/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md) | `Tree` | **Easy** |
+| [1024. Video Stitching](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1024.%20Video%20Stitching.md) | `Dynamic Programming` | **Medium** |
 | [1025. Divisor Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1025.%20Divisor%20Game.md) | `Math` <br> `Dynamic Programming`| **Easy** |	
 | [1026. Maximum Difference Between Node and Ancestor](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md) | `DFS` <br> `Tree` | **Hard** |	
@@ -509,6 +514,7 @@ the following problem is choose by:
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |	
 | [1344. Angle Between Hands of a Clock](https://github.com/103style/LeetCode/blob/master/Math/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md) | `Math` | **Medium** |	
 | [1358. Number of Substrings Containing All Three Characters](https://github.com/103style/LeetCode/blob/master/String/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.md) | `String` | **Medium** |	
+| [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md) | `Array` <br> `HashTable` | **Easy** |
 | [1406. Stone Game III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1406.%20Stone%20Game%20III.md) 🚨 | `Dynamic Programming` | **Hard** |
 | [1419. Minimum Number of Frogs Croaking](https://github.com/103style/LeetCode/blob/master/String/1419.%20Minimum%20Number%20of%20Frogs%20Croaking.md) | `String` | **Medium** |	
 | [1425. Constrained Subsequence Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1425.%20Constrained%20Subsequence%20Sum.md) | `Dynamic Programming` | **Hard** |	
