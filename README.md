@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(570/1617)` → `Easy 181`--`Medium 307`--`Hard 82`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(572/1617)` → `Easy 182`--`Medium 307`--`Hard 83`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `136/287` |
+| Array | `138/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `42/91` |
@@ -230,6 +230,7 @@ the following problem is choose by:
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
 | [222. Count Complete Tree Nodes](https://github.com/103style/LeetCode/blob/master/Binary%20Search/222.%20Count%20Complete%20Tree%20Nodes.md) | `Tree` <br> `Binary Search` | **Medium** |
 | [226. Invert Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/226.%20Invert%20Binary%20Tree.md) | `Tree` | **Easy** |
+| [228. Summary Ranges](https://github.com/103style/LeetCode/blob/master/Array/228.%20Summary%20Ranges.md) | `Array` | **Easy** |
 | [229. Majority Element II](https://github.com/103style/LeetCode/blob/master/Array/229.%20Majority%20Element%20II.md) 🚨 | `Array` | **Medium** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
 | [231. Power of Two](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/231.%20Power%20of%20Two.md) | `Math` <br> `Bit Manipulation` | **Easy** |
@@ -387,6 +388,7 @@ the following problem is choose by:
 | [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) | `Greedy` <br> `Two Pointers` | **Medium** |	| [763. Partition La
 | [766. Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md) | `Array` | **Easy** |	
 | [767. Reorganize String](https://github.com/103style/LeetCode/blob/master/String/767.%20Reorganize%20String.md) | `String` <br> `Heap` <br> `Greedy` <br> `Sort` | **Medium** |
+| [768. Max Chunks To Make Sorted II](https://github.com/103style/LeetCode/blob/master/Array/768.%20Max%20Chunks%20To%20Make%20Sorted%20II.md) | `Array` | **Hard** |
 | [769. Max Chunks To Make Sorted](https://github.com/103style/LeetCode/blob/master/Array/769.%20Max%20Chunks%20To%20Make%20Sorted.md) | `Array` | **Medium** |	
 | [771. Jewels and Stones](https://github.com/103style/LeetCode/blob/master/Hash%20Table/771.%20Jewels%20and%20Stones.md) | `HashTable` | **Easy** |	
 | [783. Minimum Distance Between BST Nodes](https://github.com/103style/LeetCode/blob/master/Tree/783.%20Minimum%20Distance%20Between%20BST%20Nodes.md) | `Tree` <br> `Recursive` | **Easy** |	
