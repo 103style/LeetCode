@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(573/1617)` → `Easy 182`--`Medium 308`--`Hard 83`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(574/1617)` → `Easy 182`--`Medium 309`--`Hard 83`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -35,7 +35,7 @@ the following problem is choose by:
 | Depth-first Search | `61/134` |
 | Desigin | `11/55` |
 | Divide and Conquer | `8/19` |
-| Dynamic Programming | `81/222` |
+| Dynamic Programming | `82/222` |
 | Geometry | `3/9` |
 | Graph | `18/47` | 
 | Greedy | `39/100` |
@@ -359,6 +359,7 @@ the following problem is choose by:
 | [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md) | `Array` | **Easy** |
 | [662. Maximum Width of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md) | `Array` | **Medium** |
+| [673. Number of Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/673.%20Number%20of%20Longest%20Increasing%20Subsequence.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md) | `Array` | **Easy** |
 | [679. 24 Game](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/679.%2024%20Game.md) 🚨 | `DFS` | **Hard** | 
 | [680. Valid Palindrome II](https://github.com/103style/LeetCode/blob/master/String/680.%20Valid%20Palindrome%20II.md) | `String` | **Easy** |
