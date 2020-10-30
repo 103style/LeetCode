@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(572/1617)` → `Easy 182`--`Medium 307`--`Hard 83`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(573/1617)` → `Easy 182`--`Medium 308`--`Hard 83`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `138/287` |
+| Array | `139/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `42/91` |
@@ -410,6 +410,7 @@ the following problem is choose by:
 | [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |	\
 | [844. Backspace String Compare](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/844.%20Backspace%20String%20Compare.md) | `Two Pointers` <br> `Stack` | **Easy** |
 | [845. Longest Mountain in Array](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/845.%20Longest%20Mountain%20in%20Array.md) | `Two Pointers` | **Medium** |
+| [849. Maximize Distance to Closest Person](https://github.com/103style/LeetCode/blob/master/Array/849.%20Maximize%20Distance%20to%20Closest%20Person.md) | `Array` | **Medium** |
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
 | [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
