@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(574/1617)` → `Easy 182`--`Medium 309`--`Hard 83`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(576/1617)` → `Easy 183`--`Medium 310`--`Hard 83`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `139/287` |
+| Array | `140/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `42/91` |
@@ -41,7 +41,7 @@ the following problem is choose by:
 | Greedy | `39/100` |
 | Hash Table | `47/133` |
 | Heap | `10/35` |
-| Linked List | `29/39` |
+| Linked List | `30/39` |
 | Math | `47/122` |
 | Memoization | `1/1` |
 | Minimax | `3/8` |
@@ -52,7 +52,7 @@ the following problem is choose by:
 | Random | `3/6` |
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
-| Sort | `29/52` | 
+| Sort | `30/52` | 
 | Stack | `26/57` |
 | String | `85/199` |
 | Topological Sort | `4/7` |
@@ -191,6 +191,7 @@ the following problem is choose by:
 | [143. Reorder List](https://github.com/103style/LeetCode/blob/master/Linked%20List/143.%20Reorder%20List.md) | `LinkedList` | **Medium** |
 | [144. Binary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.md) | `Stack` <br> `Tree` | **Medium** |
 | [145. Binary Tree Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/145.%20Binary%20Tree%20Postorder%20Traversal.md) | `Tree` <br> `Stack` | **Medium** |
+| [147. Insertion Sort List](https://github.com/103style/LeetCode/blob/master/Sort/147.%20Insertion%20Sort%20List.md) | `Sort` <br> `LinkedList` | **Medium** |
 | [148. Sort List](https://github.com/103style/LeetCode/blob/master/Sort/148.%20Sort%20List.md) | `Sort` <br> `LinkedList` | **Medium** |
 | [150. Evaluate Reverse Polish Notation](https://github.com/103style/LeetCode/blob/master/Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.md) | `Stack` | **Medium** |
 | [151. Reverse Words in a String](https://github.com/103style/LeetCode/blob/master/String/151.%20Reverse%20Words%20in%20a%20String.md) | `String` | **Medium** |
@@ -433,6 +434,7 @@ the following problem is choose by:
 | [930. Binary Subarrays With Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/930.%20Binary%20Subarrays%20With%20Sum.md) | `Two Pointers` <br> `HashTable` | **Medium** |	
 | [933. Number of Recent Calls](https://github.com/103style/LeetCode/blob/master/Queue/933.%20Number%20of%20Recent%20Calls.md) | `Queue` | **Easy** |
 | [938. Range Sum of BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/938.%20Range%20Sum%20of%20BST.md) | `Tree` <br> `Recursion` | **Easy** |	
+| [941. Valid Mountain Array](https://github.com/103style/LeetCode/blob/master/Array/941.%20Valid%20Mountain%20Array.md) | `Array` | **Easy** |
 | [942. DI String Match](https://github.com/103style/LeetCode/blob/master/Math/942.%20DI%20String%20Match.md) | `Math` | **Easy** |	
 | [943. Find the Shortest Superstring](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/943.%20Find%20the%20Shortest%20Superstring.md) | `Dynamic Programming` | **Hard** |	
 | [948. Bag of Tokens](https://github.com/103style/LeetCode/blob/master/Greedy/948.%20Bag%20of%20Tokens.md) | `Greedy` | **Medium** | 
