@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(576/1617)` → `Easy 183`--`Medium 310`--`Hard 83`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(580/1644)` → `Easy 184`--`Medium 312`--`Hard 84`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -22,7 +22,7 @@ the following problem is choose by:
 
 | Tag | Progress |
 |:-:|:-:|
-| Array | `140/287` |
+| Array | `141/287` |
 | Backtracking | `28/57` |
 | Binary Indexed Tree | `2/6` |
 | Binary Search | `42/91` |
@@ -35,11 +35,11 @@ the following problem is choose by:
 | Depth-first Search | `61/134` |
 | Desigin | `11/55` |
 | Divide and Conquer | `8/19` |
-| Dynamic Programming | `82/222` |
+| Dynamic Programming | `83/222` |
 | Geometry | `3/9` |
 | Graph | `18/47` | 
 | Greedy | `39/100` |
-| Hash Table | `47/133` |
+| Hash Table | `48/133` |
 | Heap | `10/35` |
 | Linked List | `30/39` |
 | Math | `47/122` |
@@ -50,14 +50,15 @@ the following problem is choose by:
 | Recursion | `5/15` | 
 | Rejection Sampling | `1/2` |
 | Random | `3/6` |
+| Rolling Hash | `1/3` |
 | Segment Tree | `4/14` |
 | Sliding Window | `7/25` |
-| Sort | `30/52` | 
+| Sort | `32/52` | 
 | Stack | `26/57` |
-| String | `85/199` |
+| String | `86/199` |
 | Topological Sort | `4/7` |
 | Tree | `80/148` |
-| Trie | `7/17` |
+| Trie | `8/17` |
 | Two Pointers | `38/60` |
 | Union Find | `12/32` | 
 | other | `8/?` |
@@ -643,3 +644,7 @@ the following problem is choose by:
 | [1615. Maximal Network Rank](https://github.com/103style/LeetCode/blob/master/Graph/1615.%20Maximal%20Network%20Rank.md) | `Graph` | **Medium** |
 | [1616. Split Two Strings to Make Palindrome](https://github.com/103style/LeetCode/blob/master/Greedy/1616.%20Split%20Two%20Strings%20to%20Make%20Palindrome.md) 🚨 | `String` <br> `Two Pointers` <br> `Greedy` | **Medium** |
 | [1617. Count Subtrees With Max Distance Between Cities](https://github.com/103style/LeetCode/blob/master/Backtracking/1617.%20Count%20Subtrees%20With%20Max%20Distance%20Between%20Cities.md) 🚨🚨 | `Backtracking` | **Hard** |
+| [1636. Sort Array by Increasing Frequency](https://github.com/103style/LeetCode/blob/master/Sort/1636.%20Sort%20Array%20by%20Increasing%20Frequency.md) | `Sort` <br> `Array` | **Easy** |
+| [1637. Widest Vertical Area Between Two Points Containing No Points](https://github.com/103style/LeetCode/blob/master/Sort/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.md) | `Sort` | **Medium** |
+| [1638. Count Substrings That Differ by One Character](https://github.com/103style/LeetCode/blob/master/String/1638.%20Count%20Substrings%20That%20Differ%20by%20One%20Character.md) | `String` <br> `Rolling Hash` <br> `Trie` <br> `HashTable` | **Medium** |
+| [1639. Number of Ways to Form a Target String Given a Dictionary](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary.md) | `Dynamic Programming` | **Hard** |
