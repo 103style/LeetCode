@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(580/1644)` → `Easy 184`--`Medium 312`--`Hard 84`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(581/1644)` → `Easy 185`--`Medium 312`--`Hard 84`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -501,6 +501,7 @@ the following problem is choose by:
 | [1155. Number of Dice Rolls With Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md) | `Dynamic Programming` | **Medium** |	
 | [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light: | `Datebase` | **Easy** |	
 | [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md) | `HashTable` | **Easy** |	
+| [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/103style/LeetCode/blob/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) | `Math` <br> `Array` <br> `Greedy` | **Easy** |
 | [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md) | `String` | **Easy** |	
 | [1234. Replace the Substring for Balanced String](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.md) | `String` <br> `Two Pointers` | **Medium** | 	
 | [1248. Count Number of Nice Subarrays](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1248.%20Count%20Number%20of%20Nice%20Subarrays.md) | `Two Pointers` | **Medium** |	
