@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(581/1644)` → `Easy 185`--`Medium 312`--`Hard 84`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(583/1644)` → `Easy 186`--`Medium 313`--`Hard 84`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -511,6 +511,7 @@ the following problem is choose by:
 | [1266. Minimum Time Visiting All Points](https://github.com/103style/LeetCode/blob/master/Math/1266.%20Minimum%20Time%20Visiting%20All%20Points.md) | `Array` <br> `Geometry` | **Easy** |	
 | [1281. Subtract the Product and Sum of Digits of an Integer](https://github.com/103style/LeetCode/blob/master/Math/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md) | `Math` | **Easy** |	
 | [1282. Group the People Given the Group Size They Belong To](https://github.com/103style/LeetCode/blob/master/Greedy/*1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md):rotating_light: | `Greedy` | **Medium** |	
+| [1283. Find the Smallest Divisor Given a Threshold](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.md) | `Binary Search` | **Medium** |
 | [1286. Iterator for Combination](https://github.com/103style/LeetCode/blob/master/Design/1286.%20Iterator%20for%20Combination.md) | `Design` <br> `Backtracking` | **Medium** |	
 | [1290.Convert Binary Number in a Linked List to Integer](https://github.com/103style/LeetCode/blob/master/Linked%20List/1290.Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md) | `LinkedList` <br> `Bit Manipulation` | **Easy** |	
 | [1291. Sequential Digits](https://github.com/103style/LeetCode/blob/master/Backtracking/1291.%20Sequential%20Digits.md) | `Backtracking` | **Medium** |
@@ -521,6 +522,7 @@ the following problem is choose by:
 | [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |	
 | [1344. Angle Between Hands of a Clock](https://github.com/103style/LeetCode/blob/master/Math/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md) | `Math` | **Medium** |	
+| [1356. Sort Integers by The Number of 1 Bits](https://github.com/103style/LeetCode/blob/master/Sort/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md) | `Sort` <br> `Bit Manipulation` | **Easy** |
 | [1358. Number of Substrings Containing All Three Characters](https://github.com/103style/LeetCode/blob/master/String/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.md) | `String` | **Medium** |	
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md) | `Array` <br> `HashTable` | **Easy** |
 | [1406. Stone Game III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1406.%20Stone%20Game%20III.md) 🚨 | `Dynamic Programming` | **Hard** |
