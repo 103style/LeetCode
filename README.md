@@ -3,6 +3,12 @@
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
 
+> [my homepage in leetcode.com](https://leetcode.com/103style/)
+> 
+> [my homepage in leetcode.com-cn](https://leetcode-cn.com/u/103style/)
+
+
+
 the following problem is choose by:
 
 **the problem of Daily Challenges and Weekly Contest, and the similar problem on [leetcode.com](https://www.leetcode.com) and [leetcode-cn.com](https://leetcode-cn.com).**
