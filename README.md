@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(583/1644)` → `Easy 186`--`Medium 313`--`Hard 84`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(587/1650)` → `Easy 187`--`Medium 315`--`Hard 85`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -651,3 +651,7 @@ the following problem is choose by:
 | [1637. Widest Vertical Area Between Two Points Containing No Points](https://github.com/103style/LeetCode/blob/master/Sort/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.md) | `Sort` | **Medium** |
 | [1638. Count Substrings That Differ by One Character](https://github.com/103style/LeetCode/blob/master/String/1638.%20Count%20Substrings%20That%20Differ%20by%20One%20Character.md) | `String` <br> `Rolling Hash` <br> `Trie` <br> `HashTable` | **Medium** |
 | [1639. Number of Ways to Form a Target String Given a Dictionary](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary.md) | `Dynamic Programming` | **Hard** |
+| [1646. Get Maximum in Generated Array](https://github.com/103style/LeetCode/blob/master/Array/1646.%20Get%20Maximum%20in%20Generated%20Array.md) | `Array` | **Easy** |
+| [1647. Minimum Deletions to Make Character Frequencies Unique](https://github.com/103style/LeetCode/blob/master/Sort/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.md) | `Greedy` <br> `Sort` | **Medium** |
+| [1648. Sell Diminishing-Valued Colored Balls](https://github.com/103style/LeetCode/blob/master/Sort/1648.%20Sell%20Diminishing-Valued%20Colored%20Balls.md) | `Greedy` <br> `Sort` <br> `Math` | **Medium** |
+| [1649. Create Sorted Array through Instructions](https://github.com/103style/LeetCode/blob/master/Binary%20Indexed%20Tree/1649.%20Create%20Sorted%20Array%20through%20Instructions.md) | `Binary Indexed Tree` <br> `Segment Tree` <br> `Ordered Map` | **Hard** |
