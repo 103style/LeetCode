@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(587/1650)` → `Easy 187`--`Medium 315`--`Hard 85`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(591/1665)` → `Easy 188`--`Medium 317`--`Hard 86`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -661,3 +661,7 @@ the following problem is choose by:
 | [1647. Minimum Deletions to Make Character Frequencies Unique](https://github.com/103style/LeetCode/blob/master/Sort/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.md) | `Greedy` <br> `Sort` | **Medium** |
 | [1648. Sell Diminishing-Valued Colored Balls](https://github.com/103style/LeetCode/blob/master/Sort/1648.%20Sell%20Diminishing-Valued%20Colored%20Balls.md) | `Greedy` <br> `Sort` <br> `Math` | **Medium** |
 | [1649. Create Sorted Array through Instructions](https://github.com/103style/LeetCode/blob/master/Binary%20Indexed%20Tree/1649.%20Create%20Sorted%20Array%20through%20Instructions.md) | `Binary Indexed Tree` <br> `Segment Tree` <br> `Ordered Map` | **Hard** |
+| [1662. Check If Two String Arrays are Equivalent](https://github.com/103style/LeetCode/blob/master/String/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.md) | `String` | **Easy** |
+| [1663. Smallest String With A Given Numeric Value](https://github.com/103style/LeetCode/blob/master/Greedy/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.md) | `Greedy` | **Medium** |
+| [1664. Ways to Make a Fair Array](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1664.%20Ways%20to%20Make%20a%20Fair%20Array.md) | `Greedy` <br> `Dynamic Programming` | **Medium** |
+| [1665. Minimum Initial Energy to Finish Tasks](https://github.com/103style/LeetCode/blob/master/Greedy/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks.md) | `Greedy` | **Hard** |
