@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(591/1665)` → `Easy 188`--`Medium 317`--`Hard 86`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(598/1665)` → `Easy 192`--`Medium 320`--`Hard 86`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -238,6 +238,7 @@ the following problem is choose by:
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
 | [222. Count Complete Tree Nodes](https://github.com/103style/LeetCode/blob/master/Binary%20Search/222.%20Count%20Complete%20Tree%20Nodes.md) | `Tree` <br> `Binary Search` | **Medium** |
 | [226. Invert Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/226.%20Invert%20Binary%20Tree.md) | `Tree` | **Easy** |
+| [227. Basic Calculator II](https://github.com/103style/LeetCode/blob/master/String/227.%20Basic%20Calculator%20II.md) | `String` <br> `Stack` | **Medium** |
 | [228. Summary Ranges](https://github.com/103style/LeetCode/blob/master/Array/228.%20Summary%20Ranges.md) | `Array` | **Easy** |
 | [229. Majority Element II](https://github.com/103style/LeetCode/blob/master/Array/229.%20Majority%20Element%20II.md) 🚨 | `Array` | **Medium** |
 | [230. Kth Smallest Element in a BST](https://github.com/103style/LeetCode/blob/master/Binary%20Search/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | `Binary Search` <br> `Tree` | **Medium** |
@@ -247,6 +248,7 @@ the following problem is choose by:
 | [236. Lowest Common Ancestor of a Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
+| [242. Valid Anagram](https://github.com/103style/LeetCode/blob/master/Hash%20Table/242.%20Valid%20Anagram.md) | `HsahTable` <br> `Sort` | **Easy** |
 | [257. Binary Tree Paths](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/257.%20Binary%20Tree%20Paths.md) | `Tree` <br> `DFS` | **Easy** |
 | [258. Add Digits](https://github.com/103style/LeetCode/blob/master/Math/258.%20Add%20Digits.md) | `Math` | **Easy** |
 | [260. Single Number III](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/260.%20Single%20Number%20III.md) | `Bit Manipulation` | **Medium** |
@@ -290,6 +292,7 @@ the following problem is choose by:
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
 | [399. Evaluate Division](https://github.com/103style/LeetCode/blob/master/Union%20Find/399.%20Evaluate%20Division.md) 🚨 | `UnionFind` <br> `Graph` | **Medium** |
 | [400. Nth Digit](https://github.com/103style/LeetCode/blob/master/Math/400.%20Nth%20Digit.md) | `Math` | **Medium** |
+| [402. Remove K Digits](https://github.com/103style/LeetCode/blob/master/Greedy/402.%20Remove%20K%20Digits.md) | ` Stack` <br> `Greedy` | **Medium** |
 | [404. Sum of Left Leaves](https://github.com/103style/LeetCode/blob/master/Tree/404.%20Sum%20of%20Left%20Leaves.md) | `Tree` | **Easy** |
 | [406. Queue Reconstruction by Height](https://github.com/103style/LeetCode/blob/master/Greedy/406.%20Queue%20Reconstruction%20by%20Height.md) | `Greedy` | **Medium** |
 | [409. Longest Palindrome](https://github.com/103style/LeetCode/blob/master/Hash%20Table/409.%20Longest%20Palindrome.md) | `HashTable` | **Easy** |
@@ -347,6 +350,7 @@ the following problem is choose by:
 | [557. Reverse Words in a String III](https://github.com/103style/LeetCode/blob/master/String/557.%20Reverse%20Words%20in%20a%20String%20III.md) | `String` | **Easy** |
 | [559. Maximum Depth of N-ary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/559.%20Maximum%20Depth%20of%20N-ary%20Tree.md) | `DFS` <br> `BFS` <br> `Tree` | **Easy** |
 | [561. Array Partition I](https://github.com/103style/LeetCode/blob/master/Array/561.%20Array%20Partition%20I.md) | `Array` | **Easy** |
+| [563. Binary Tree Tilt](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/563.%20Binary%20Tree%20Tilt.md) | `Tree` <br> `DFS` <br> `Recursion` | **Easy** |
 | [565. Array Nesting](https://github.com/103style/LeetCode/blob/master/Array/565.%20Array%20Nesting.md) | `Array` | **Medium** |
 | [566. Reshape the Matrix](https://github.com/103style/LeetCode/blob/master/Array/566.%20Reshape%20the%20Matrix.md) | `Array` | **Easy** |
 | [572. Subtree of Another Tree](https://github.com/103style/LeetCode/blob/master/Tree/572.%20Subtree%20of%20Another%20Tree.md) | `Tree` | **Easy** |
@@ -421,6 +425,7 @@ the following problem is choose by:
 | [845. Longest Mountain in Array](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/845.%20Longest%20Mountain%20in%20Array.md) | `Two Pointers` | **Medium** |
 | [849. Maximize Distance to Closest Person](https://github.com/103style/LeetCode/blob/master/Array/849.%20Maximize%20Distance%20to%20Closest%20Person.md) | `Array` | **Medium** |
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
+| [858. Mirror Reflection](https://github.com/103style/LeetCode/blob/master/Math/858.%20Mirror%20Reflection.md) | `Math` | **Medium** |
 | [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |	
@@ -483,6 +488,7 @@ the following problem is choose by:
 | [1026. Maximum Difference Between Node and Ancestor](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1028. Recover a Tree From Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md) | `DFS` <br> `Tree` | **Hard** |	
 | [1029. Two City Scheduling](https://github.com/103style/LeetCode/blob/master/Greedy/1029.%20Two%20City%20Scheduling.md) | `Greedy` | **Medium** |	 
+| [1030. Matrix Cells in Distance Order](https://github.com/103style/LeetCode/blob/master/Sort/1030.%20Matrix%20Cells%20in%20Distance%20Order.md) | `Sort` | **Easy** |
 | [1032. Stream of Characters](https://github.com/103style/LeetCode/blob/master/Trie/1032.%20Stream%20of%20Characters.md) | `Trie` | **Hard** |
 | [1038. Binary Search Tree to Greater Sum Tree](https://github.com/103style/LeetCode/blob/master/Binary%20Search%20Tree/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md) | `Binary Search Tree` | **Medium** |	
 | [1039. Minimum Score Triangulation of Polygon](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1039.%20Minimum%20Score%20Triangulation%20of%20Polygon.md) 🚨 | `Dynamic Programming` | **Medium** |
@@ -531,6 +537,7 @@ the following problem is choose by:
 | [1356. Sort Integers by The Number of 1 Bits](https://github.com/103style/LeetCode/blob/master/Sort/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md) | `Sort` <br> `Bit Manipulation` | **Easy** |
 | [1358. Number of Substrings Containing All Three Characters](https://github.com/103style/LeetCode/blob/master/String/1358.%20Number%20of%20Substrings%20Containing%20All%20Three%20Characters.md) | `String` | **Medium** |	
 | [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.md) | `Array` <br> `HashTable` | **Easy** |
+| [1370. Increasing Decreasing String](https://github.com/103style/LeetCode/blob/master/String/1370.%20Increasing%20Decreasing%20String.md) | `String` <br> `Sort` | **Easy** |
 | [1406. Stone Game III](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1406.%20Stone%20Game%20III.md) 🚨 | `Dynamic Programming` | **Hard** |
 | [1419. Minimum Number of Frogs Croaking](https://github.com/103style/LeetCode/blob/master/String/1419.%20Minimum%20Number%20of%20Frogs%20Croaking.md) | `String` | **Medium** |	
 | [1425. Constrained Subsequence Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1425.%20Constrained%20Subsequence%20Sum.md) | `Dynamic Programming` | **Hard** |	
