@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(598/1665)` → `Easy 192`--`Medium 320`--`Hard 86`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(603/1665)` → `Easy 192`--`Medium 324`--`Hard 87`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -143,6 +143,7 @@ the following problem is choose by:
 | [78. Subsets](https://github.com/103style/LeetCode/blob/master/Array/78.%20Subsets.md) | `Array` <br> `Backtracking` <br> `Bit Manipulation` | **Medium** |
 | [79. Word Search](https://github.com/103style/LeetCode/blob/master/Backtracking/79.%20Word%20Search.md) | `Array` <br> `BackTracking` | **Medium** |
 | [80. Remove Duplicates from Sorted Array II](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md) | `Array` <br> `Two Pointers` | **Medium** |
+| [81. Search in Rotated Sorted Array II](https://github.com/103style/LeetCode/blob/master/Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md) | `Array` <br> `BinarySearch` | **Medium** |
 | [82. Remove Duplicates from Sorted List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md) | `LinkedList` | **Medium** |
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
 | [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) | `Array` <br> `Stack` | **Hard** |
@@ -310,6 +311,7 @@ the following problem is choose by:
 | [448. Find All Numbers Disappeared in an Array](https://github.com/103style/LeetCode/blob/master/Array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) | `Array` | **Easy** |
 | [450. Delete Node in a BST](https://github.com/103style/LeetCode/blob/master/Tree/450.%20Delete%20Node%20in%20a%20BST.md) | `Tree` | **Medium** |
 | [452. Minimum Number of Arrows to Burst Balloons](https://github.com/103style/LeetCode/blob/master/Greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | `Greedy` <br> `Sort` | **Medium** |
+| [454. 4Sum II](https://github.com/103style/LeetCode/blob/master/Hash%20Table/454.%204Sum%20II.md) | `HashTable` <br> `BinarySearch` | **Medium** |
 | [456. 132 Pattern](https://github.com/103style/LeetCode/blob/master/Stack/456.%20132%20Pattern.md) 🚨 | `Stack` | **Medium** |
 | [459. Repeated Substring Pattern](https://github.com/103style/LeetCode/blob/master/String/459.%20Repeated%20Substring%20Pattern.md) | `String` | **Easy** |
 | [460. LFU Cache](https://github.com/103style/LeetCode/blob/master/Design/460.%20LFU%20Cache.md) | `Design` | **Hard** |
@@ -356,6 +358,7 @@ the following problem is choose by:
 | [572. Subtree of Another Tree](https://github.com/103style/LeetCode/blob/master/Tree/572.%20Subtree%20of%20Another%20Tree.md) | `Tree` | **Easy** |
 | [581. Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md) | `Array` | **Easy** |
 | [589. N-ary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/589.%20N-ary%20Tree%20Preorder%20Traversal.md) | `Tree` | **Easy** |
+| [593. Valid Square](https://github.com/103style/LeetCode/blob/master/Math/593.%20Valid%20Square.md) | `Math` | **Medium** |
 | [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md) | `Database` | **Easy** |
 | [617. Merge Two Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees.md) | `Tree` | **Easy** |
 | [621. Task Scheduler](https://github.com/103style/LeetCode/blob/master/Greedy/621.%20Task%20Scheduler.md) | `Array` <br> `Greedy` <br> `Queue` | **Medium** |
@@ -437,6 +440,7 @@ the following problem is choose by:
 | [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md) | `String` | **Medium** |	
 | [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light: | `Tree` <br> `Recursion` | **Medium** |	
 | [897. Increasing Order Search Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/897.%20Increasing%20Order%20Search%20Tree.md) | `DFS` <br> `Tree` | **Easy** |	
+| [902. Numbers At Most N Given Digit Set](https://github.com/103style/LeetCode/blob/master/Math/902.%20Numbers%20At%20Most%20N%20Given%20Digit%20Set.md) 🚨 | `Math` <br> `Dynamic Programming` | **Hard** |
 | [904. Fruit Into Baskets](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/904.%20Fruit%20Into%20Baskets.md) | `Two Pointers` | **Medium** |	
 | [905. Sort Array By Parity](https://github.com/103style/LeetCode/blob/master/Array/905.%20Sort%20Array%20By%20Parity.md) | `Array` | **Easy** |	
 | [912. Sort an Array](https://github.com/103style/LeetCode/blob/master/Sort/912.%20Sort%20an%20Array.md) | `Sort` | **Medium** |	
@@ -480,6 +484,7 @@ the following problem is choose by:
 | [1011. Capacity To Ship Packages Within D Days](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | `Array` <br> `Binary Search` | **Medium** |	
 | [1013. Partition Array Into Three Parts With Equal Sum](https://github.com/103style/LeetCode/blob/master/Array/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.md) | `Array` | **Easy** |
 | [1014. Best Sightseeing Pair](https://github.com/103style/LeetCode/blob/master/Array/1014.%20Best%20Sightseeing%20Pair.md) 🚨 | `Array` | **Medium** |	
+| [1015. Smallest Integer Divisible by K](https://github.com/103style/LeetCode/blob/master/Math/1015.%20Smallest%20Integer%20Divisible%20by%20K.md) | `Math` | **Medium** |
 | [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) 🚨 | `LinkedList` <br> `Stack` | **Medium** |	
 | [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md) | `Stack` | **Easy** |	
 | [1022. Sum of Root To Leaf Binary Numbers](https://github.com/103style/LeetCode/blob/master/Tree/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md) | `Tree` | **Easy** |
