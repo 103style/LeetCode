@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(603/1665)` → `Easy 192`--`Medium 324`--`Hard 87`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(607/1675)` → `Easy 193`--`Medium 326`--`Hard 88`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -677,3 +677,7 @@ the following problem is choose by:
 | [1663. Smallest String With A Given Numeric Value](https://github.com/103style/LeetCode/blob/master/Greedy/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.md) | `Greedy` | **Medium** |
 | [1664. Ways to Make a Fair Array](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1664.%20Ways%20to%20Make%20a%20Fair%20Array.md) | `Greedy` <br> `Dynamic Programming` | **Medium** |
 | [1665. Minimum Initial Energy to Finish Tasks](https://github.com/103style/LeetCode/blob/master/Greedy/1665.%20Minimum%20Initial%20Energy%20to%20Finish%20Tasks.md) | `Greedy` | **Hard** |
+| [1668. Maximum Repeating Substring](https://github.com/103style/LeetCode/blob/master/String/1668.%20Maximum%20Repeating%20Substring.md) | `String` | **Easy** |
+| [1669. Merge In Between Linked Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/1669.%20Merge%20In%20Between%20Linked%20Lists.md) | `LinkedList` | **Medium** |
+| [1670. Design Front Middle Back Queue](https://github.com/103style/LeetCode/blob/master/Design/1670.%20Design%20Front%20Middle%20Back%20Queue.md) | `LinkedList` <br> `Design` <br> `Dequeue` | **Medium** |
+| [1671. Minimum Number of Removals to Make Mountain Array](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.md) | `Dynamic Programming` | **Hard** |
