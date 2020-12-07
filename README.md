@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(607/1675)` → `Easy 193`--`Medium 326`--`Hard 88`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(609/1675)` → `Easy 193`--`Medium 328`--`Hard 88`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -288,6 +288,7 @@ the following problem is choose by:
 | [350. Intersection of Two Arrays II](https://github.com/103style/LeetCode/blob/master/Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II.md) | `HashTable` <br> `Two Pointers` <br> `BinarySearch` <br> `Sort` | **Easy** |
 | [368. Largest Divisible Subset](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/368.%20Largest%20Divisible%20Subset.md) | `Dynamic Programming` <br> `Math` | **Medium** |
 | [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md) | `Binary Search` <br> `Heap` | **Medium** |
+| [382. Linked List Random Node](https://github.com/103style/LeetCode/blob/master/Reservoir%20Sampling/382.%20Linked%20List%20Random%20Node.md) | `Reservoir Sampling` | **Medium** |
 | [389. Find the Difference](https://github.com/103style/LeetCode/blob/master/Hash%20Table/389.%20Find%20the%20Difference.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Easy** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
@@ -430,6 +431,7 @@ the following problem is choose by:
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
 | [858. Mirror Reflection](https://github.com/103style/LeetCode/blob/master/Math/858.%20Mirror%20Reflection.md) | `Math` | **Medium** |
 | [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
+| [861. Score After Flipping Matrix](https://github.com/103style/LeetCode/blob/master/Greedy/861.%20Score%20After%20Flipping%20Matrix.md) | `Greedy` | **Medium** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |	
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |	
