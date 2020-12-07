@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(609/1675)` → `Easy 193`--`Medium 328`--`Hard 88`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(610/1675)` → `Easy 193`--`Medium 329`--`Hard 88`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -128,6 +128,7 @@ the following problem is choose by:
 | [56. Merge Intervals](https://github.com/103style/LeetCode/blob/master/Sort/56.%20Merge%20Intervals.md) | `Sort` <br> `Array` | **Medium** |
 | [57. Insert Interval](https://github.com/103style/LeetCode/blob/master/Array/57.%20Insert%20Interval.md) | `Array` <br> `Sort` | **Medium** |
 | [58. Length of Last Word](https://github.com/103style/LeetCode/blob/master/String/58.%20Length%20of%20Last%20Word.md) | `String` | **Easy** |
+| [59. Spiral Matrix II](https://github.com/103style/LeetCode/blob/master/Array/59.%20Spiral%20Matrix%20II.md) | `Array` | **Medium** |
 | [60. Permutation Sequence](https://github.com/103style/LeetCode/blob/master/Math/60.%20Permutation%20Sequence.md) | `Math` <br> `Backtracking` | **Hard** |
 | [61. Rotate List](https://github.com/103style/LeetCode/blob/master/Linked%20List/61.%20Rotate%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
 | [62. Unique Paths](https://github.com/103style/LeetCode/blob/master/Array/62.%20Unique%20Paths.md) | `Array` <br> `Dynamic Programming` | **Medium** |
