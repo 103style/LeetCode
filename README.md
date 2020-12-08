@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(610/1675)` → `Easy 193`--`Medium 329`--`Hard 88`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(611/1675)` → `Easy 193`--`Medium 330`--`Hard 88`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -426,6 +426,7 @@ the following problem is choose by:
 | [835. Image Overlap](https://github.com/103style/LeetCode/blob/master/Array/835.%20Image%20Overlap.md) 🚨 | `Array` | **Medium** |
 | [837. New 21 Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/837.%20New%2021%20Game.md) 🚨 | `Dynamic Programming` | **Medium** |	
 | [841. Keys and Rooms](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/841.%20Keys%20and%20Rooms.md) | `DFS` <br> `Graph` | **Medium** |	\
+| [842. Split Array into Fibonacci Sequence](https://github.com/103style/LeetCode/blob/master/Backtracking/842.%20Split%20Array%20into%20Fibonacci%20Sequence.md) | `Backtracking` <br> `Greedy` <br> `String` | **Medium** |
 | [844. Backspace String Compare](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/844.%20Backspace%20String%20Compare.md) | `Two Pointers` <br> `Stack` | **Easy** |
 | [845. Longest Mountain in Array](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/845.%20Longest%20Mountain%20in%20Array.md) | `Two Pointers` | **Medium** |
 | [849. Maximize Distance to Closest Person](https://github.com/103style/LeetCode/blob/master/Array/849.%20Maximize%20Distance%20to%20Closest%20Person.md) | `Array` | **Medium** |
