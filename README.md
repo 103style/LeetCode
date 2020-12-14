@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(611/1675)` → `Easy 193`--`Medium 330`--`Hard 88`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(614/1675)` → `Easy 194`--`Medium 332`--`Hard 88`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -235,7 +235,7 @@ the following problem is choose by:
 | [214. Shortest Palindrome](https://github.com/103style/LeetCode/blob/master/String/214.%20Shortest%20Palindrome.md) 🚨🚨🚨 | `String` | **Hard** |
 | [215. Kth Largest Element in an Array](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/215.%20Kth%20Largest%20Element%20in%20an%20Array.md) 🚨 | `Divide and Conquer` <br> `Heap` | **Medium** |
 | [216. Combination Sum III](https://github.com/103style/LeetCode/blob/master/Array/216.%20Combination%20Sum%20III.md) | `Array` <br> `Backtracking` | **Medium** |
-| [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Array/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
+| [217. Contains Duplicate](https://github.com/103style/LeetCode/blob/master/Hash%20Table/217.%20Contains%20Duplicate.md) | `Array` <br> `HashTable` | **Easy** |
 | [220. Contains Duplicate III](https://github.com/103style/LeetCode/blob/master/Sort/220.%20Contains%20Duplicate%20III.md) | `Sort` <br> `Ordered Map` | **Medium** |
 | [221. Maximal Square](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/221.%20Maximal%20Square.md) | `Dynamic Programming` | **Medium** |
 | [222. Count Complete Tree Nodes](https://github.com/103style/LeetCode/blob/master/Binary%20Search/222.%20Count%20Complete%20Tree%20Nodes.md) | `Tree` <br> `Binary Search` | **Medium** |
@@ -288,6 +288,7 @@ the following problem is choose by:
 | [349. Intersection of Two Arrays](https://github.com/103style/LeetCode/blob/master/Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md) | `Binary Search` <br> `Two Pointers` <br> `HashTable` <br> `Sort` | **Easy** |
 | [350. Intersection of Two Arrays II](https://github.com/103style/LeetCode/blob/master/Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II.md) | `HashTable` <br> `Two Pointers` <br> `BinarySearch` <br> `Sort` | **Easy** |
 | [368. Largest Divisible Subset](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/368.%20Largest%20Divisible%20Subset.md) | `Dynamic Programming` <br> `Math` | **Medium** |
+| [376. Wiggle Subsequence](https://github.com/103style/LeetCode/blob/master/Greedy/376.%20Wiggle%20Subsequence.md) | `Dynamic Programming` <br> `Greedy` | **Medium** | 
 | [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md) | `Binary Search` <br> `Heap` | **Medium** |
 | [382. Linked List Random Node](https://github.com/103style/LeetCode/blob/master/Reservoir%20Sampling/382.%20Linked%20List%20Random%20Node.md) | `Reservoir Sampling` | **Medium** |
 | [389. Find the Difference](https://github.com/103style/LeetCode/blob/master/Hash%20Table/389.%20Find%20the%20Difference.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
@@ -371,6 +372,7 @@ the following problem is choose by:
 | [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) | `Math` <br> `HashTable` | **Easy** |
 | [646. Maximum Length of Pair Chain](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/646.%20Maximum%20Length%20of%20Pair%20Chain.md) | `Dynamic Programming` | **Medium** |
 | [647. Palindromic Substrings](https://github.com/103style/LeetCode/blob/master/String/647.%20Palindromic%20Substrings.md) | `String` <br> `Dynamic Programming` | **Medium** |
+| [649. Dota2 Senate](https://github.com/103style/LeetCode/blob/master/Greedy/649.%20Dota2%20Senate.md) | `Greedy` | **Medium** |
 | [654.Maximum Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/654.%20Maximum%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [657. Robot Return to Origin](https://github.com/103style/LeetCode/blob/master/String/657.%20Robot%20Return%20to%20Origin.md) | `String` | **Easy** |
 | [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md) | `Array` | **Easy** |
@@ -433,6 +435,7 @@ the following problem is choose by:
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
 | [858. Mirror Reflection](https://github.com/103style/LeetCode/blob/master/Math/858.%20Mirror%20Reflection.md) | `Math` | **Medium** |
 | [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
+| [860. Lemonade Change](https://github.com/103style/LeetCode/blob/master/Greedy/860.%20Lemonade%20Change.md) | `Greedy` | **Easy** |
 | [861. Score After Flipping Matrix](https://github.com/103style/LeetCode/blob/master/Greedy/861.%20Score%20After%20Flipping%20Matrix.md) | `Greedy` | **Medium** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |	
