@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(614/1675)` → `Easy 194`--`Medium 332`--`Hard 88`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(616/1675)` → `Easy 194`--`Medium 334`--`Hard 88`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -188,6 +188,7 @@ the following problem is choose by:
 | [128. Longest Consecutive Sequence](https://github.com/103style/LeetCode/blob/master/Array/128.%20Longest%20Consecutive%20Sequence.md) 🚨 | `Array` <br> `Union Find` | **Hard** |
 | [129. Sum Root to Leaf Numbers](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | `DFS` <br> `Tree` | **Medium** |
 | [130. Surrounded Regions](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/130.%20Surrounded%20Regions.md) | `DFS` <br> `BFS` <br> `Union Find` | **Medium** |
+| [131. Palindrome Partitioning](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/131.%20Palindrome%20Partitioning.md) | `DynamicProgramming` <br> `Backtracking` <br> `DFS` | **Medium** | 
 | [133. Clone Graph](https://github.com/103style/LeetCode/blob/master/Graph/133.%20Clone%20Graph.md) | `DFS` <br> `BFS` <br> `Graph` | **Medium** |
 | [134. Gas Station](https://github.com/103style/LeetCode/blob/master/Greedy/134.%20Gas%20Station.md) | `Greedy` | **Medium** | 
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
@@ -402,6 +403,7 @@ the following problem is choose by:
 | [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md) | `Math` | **Easy** |
 | [733. Flood Fill](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/733.%20Flood%20Fill.md) | `DFS` | **Easy** |
 | [735. Asteroid Collision](https://github.com/103style/LeetCode/blob/master/Stack/735.%20Asteroid%20Collision.md) | `Stack` | **Medium** |
+| [738. Monotone Increasing Digits](https://github.com/103style/LeetCode/blob/master/Greedy/738.%20Monotone%20Increasing%20Digits.md) | `Greedy` | **Medium** |
 | [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md) | `Stack` <br> `HashTable` | **Medium** |
 | [741. Cherry Pickup](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/741.%20Cherry%20Pickup.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
 | [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md) | `Array` <br> `Dynamic Programming` | **Easy** |
