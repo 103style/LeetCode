@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(616/1675)` → `Easy 194`--`Medium 334`--`Hard 88`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(617/1697)` → `Easy 195`--`Medium 334`--`Hard 88`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -292,6 +292,7 @@ the following problem is choose by:
 | [376. Wiggle Subsequence](https://github.com/103style/LeetCode/blob/master/Greedy/376.%20Wiggle%20Subsequence.md) | `Dynamic Programming` <br> `Greedy` | **Medium** | 
 | [378. Kth Smallest Element in a Sorted Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md) | `Binary Search` <br> `Heap` | **Medium** |
 | [382. Linked List Random Node](https://github.com/103style/LeetCode/blob/master/Reservoir%20Sampling/382.%20Linked%20List%20Random%20Node.md) | `Reservoir Sampling` | **Medium** |
+| [387. First Unique Character in a String](https://github.com/103style/LeetCode/blob/master/Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String.md) | `HashTable` <br> `String` | **Easy** | 
 | [389. Find the Difference](https://github.com/103style/LeetCode/blob/master/Hash%20Table/389.%20Find%20the%20Difference.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
 | [392. Is Subsequence](https://github.com/103style/LeetCode/blob/master/Binary%20Search/392.%20Is%20Subsequence.md) | `Binary Search` <br> `Dynamic Programming` <br> `Greedy` | **Easy** |
 | [394. Decode String](https://github.com/103style/LeetCode/blob/master/Stack/394.%20Decode%20String.md) | `DFS` <br> `Stack` | **Medium** |
