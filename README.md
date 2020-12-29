@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(617/1697)` → `Easy 195`--`Medium 334`--`Hard 88`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(619/1697)` → `Easy 195`--`Medium 335`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -279,6 +279,7 @@ the following problem is choose by:
 | [322. Coin Change](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/322.%20Coin%20Change.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [328. Odd Even Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/328.%20Odd%20Even%20Linked%20List.md) | `LinkedList` | **Medium** |
 | [329. Longest Increasing Path in a Matrix](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md) | `DFS` <br> `TopologicalSort` <br> `Memoization` | **Hard** |
+| [330. Patching Array](https://github.com/103style/LeetCode/blob/master/Greedy/330.%20Patching%20Array.md) 🚨🚨🚨 | `Greedy` | **Hard** |
 | [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
 | [336. Palindrome Pairs](https://github.com/103style/LeetCode/blob/master/Trie/336.%20Palindrome%20Pairs.md) 🚨🚨🚨 | `HashTable` <br> `String` <br> `Trie` | **Hard** |
 | [337. House Robber III](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/337.%20House%20Robber%20III.md) | `Tree` <br> `DFS` | **Medium** |
@@ -408,6 +409,7 @@ the following problem is choose by:
 | [739. Daily Temperatures](https://github.com/103style/LeetCode/blob/master/Stack/739.%20Daily%20Temperatures.md) | `Stack` <br> `HashTable` | **Medium** |
 | [741. Cherry Pickup](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/741.%20Cherry%20Pickup.md) 🚨🚨🚨 | `Dynamic Programming` | **Hard** |
 | [746. Min Cost Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Array/746.%20Min%20Cost%20Climbing%20Stairs.md) | `Array` <br> `Dynamic Programming` | **Easy** |
+| [754. Reach a Number](https://github.com/103style/LeetCode/blob/master/Math/754.%20Reach%20a%20Number.md) 🚨 | `Math` | **Medium** |
 | [763. Partition Labels](https://github.com/103style/LeetCode/blob/master/Greedy/763.%20Partition%20Labels.md) | `Greedy` <br> `Two Pointers` | **Medium** |	| [763. Partition La
 | [766. Toeplitz Matrix](https://github.com/103style/LeetCode/blob/master/Array/766.%20Toeplitz%20Matrix.md) | `Array` | **Easy** |	
 | [767. Reorganize String](https://github.com/103style/LeetCode/blob/master/String/767.%20Reorganize%20String.md) | `String` <br> `Heap` <br> `Greedy` <br> `Sort` | **Medium** |
