@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(621/1697)` → `Easy 196`--`Medium 336`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(622/1697)` → `Easy 197`--`Medium 336`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -149,6 +149,7 @@ the following problem is choose by:
 | [83. Remove Duplicates from Sorted List](https://github.com/103style/LeetCode/blob/master/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md) | `LinkedList` | **Easy** |
 | [84. Largest Rectangle in Histogram](https://github.com/103style/LeetCode/blob/master/Array/84.%20Largest%20Rectangle%20in%20Histogram.md) 🚨🚨 | `Array` <br> `Stack` | **Hard** |
 | [86. Partition List](https://github.com/103style/LeetCode/blob/master/Linked%20List/86.%20Partition%20List.md) | `LinkedList` <br> `Two Pointers` | **Medium** |
+| [88. Merge Sorted Array](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/88.%20Merge%20Sorted%20Array.md) | `Array` <br> `Two Pointers` | **Easy** |
 | [91. Decode Ways](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/91.%20Decode%20Ways.md) | `Dynamic Programming` <br> `String` | **Medium** |
 | [92. Reverse Linked List II](https://github.com/103style/LeetCode/blob/master/Linked%20List/92.%20Reverse%20Linked%20List%20II.md) | `LinkedList` | **Medium** |
 | [93. Restore IP Addresses](https://github.com/103style/LeetCode/blob/master/Backtracking/93.%20Restore%20IP%20Addresses.md) | `String` <br> `Backtracking` | **Medium** |
