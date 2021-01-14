@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(622/1697)` → `Easy 197`--`Medium 336`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(623/1697)` → `Easy 198`--`Medium 336`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -499,6 +499,7 @@ the following problem is choose by:
 | [1013. Partition Array Into Three Parts With Equal Sum](https://github.com/103style/LeetCode/blob/master/Array/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.md) | `Array` | **Easy** |
 | [1014. Best Sightseeing Pair](https://github.com/103style/LeetCode/blob/master/Array/1014.%20Best%20Sightseeing%20Pair.md) 🚨 | `Array` | **Medium** |	
 | [1015. Smallest Integer Divisible by K](https://github.com/103style/LeetCode/blob/master/Math/1015.%20Smallest%20Integer%20Divisible%20by%20K.md) | `Math` | **Medium** |
+| [1018. Binary Prefix Divisible By 5](https://github.com/103style/LeetCode/blob/master/Array/1018.%20Binary%20Prefix%20Divisible%20By%205.md) | `Array` | **Easy** |
 | [1019. Next Greater Node In Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/1019.%20Next%20Greater%20Node%20In%20Linked%20List.md) 🚨 | `LinkedList` <br> `Stack` | **Medium** |	
 | [1021. Remove Outermost Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/1021.%20Remove%20Outermost%20Parentheses.md) | `Stack` | **Easy** |	
 | [1022. Sum of Root To Leaf Binary Numbers](https://github.com/103style/LeetCode/blob/master/Tree/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md) | `Tree` | **Easy** |
