@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(623/1697)` → `Easy 198`--`Medium 336`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(624/1697)` → `Easy 198`--`Medium 337`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -450,6 +450,7 @@ the following problem is choose by:
 | [875. Koko Eating Bananas](https://github.com/103style/LeetCode/blob/master/Binary%20Search/875.%20Koko%20Eating%20Bananas.md) | `BinarySearch` | **Medium** |	
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |	
 | [877. Stone Game](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/877.%20Stone%20Game.md) | `Dynamic Programming` <br> `MiniMax` <br> `Math` | **Medium** |
+| [881. Boats to Save People](https://github.com/103style/LeetCode/blob/master/Greedy/881.%20Boats%20to%20Save%20People.md) | `Greedy` <br> `Two Pointers` | **Medium** |
 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) | `Tree` | **Medium** |	
 | [890. Find and Replace Pattern](https://github.com/103style/LeetCode/blob/master/String/890.%20Find%20and%20Replace%20Pattern.md) | `String` | **Medium** |	
 | [894. All Possible Full Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/894.%20All%20Possible%20Full%20Binary%20Trees.md):rotating_light: | `Tree` <br> `Recursion` | **Medium** |	
