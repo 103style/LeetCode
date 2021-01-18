@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(624/1697)` → `Easy 198`--`Medium 337`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(625/1697)` → `Easy 198`--`Medium 338`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -402,6 +402,7 @@ the following problem is choose by:
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | `Array` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md) | `Array` | **Easy** |
 | [718. Maximum Length of Repeated Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray.md) | `Array` <br> `BinarySearch` <br> `HashTable` <br> `Dynamic Programming` | **Medium** |
+| [721. Accounts Merge](https://github.com/103style/LeetCode/blob/master/Union%20Find/721.%20Accounts%20Merge.md) | `DFS` <br> `UnionFind` | **Medium** |
 | [725. Split Linked List in Parts](https://github.com/103style/LeetCode/blob/master/Linked%20List/725.%20Split%20Linked%20List%20in%20Parts.md) | `LinkedList` | **Medium** |
 | [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) | `HashTable` <br> `Stack` <br> `Recursion` | **Hard** |
 | [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md) | `Math` | **Easy** |
