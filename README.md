@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(625/1697)` → `Easy 198`--`Medium 338`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(627/1697)` → `Easy 199`--`Medium 339`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -699,3 +699,5 @@ the following problem is choose by:
 | [1669. Merge In Between Linked Lists](https://github.com/103style/LeetCode/blob/master/Linked%20List/1669.%20Merge%20In%20Between%20Linked%20Lists.md) | `LinkedList` | **Medium** |
 | [1670. Design Front Middle Back Queue](https://github.com/103style/LeetCode/blob/master/Design/1670.%20Design%20Front%20Middle%20Back%20Queue.md) | `LinkedList` <br> `Design` <br> `Dequeue` | **Medium** |
 | [1671. Minimum Number of Removals to Make Mountain Array](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.md) | `Dynamic Programming` | **Hard** |
+| [1678. Goal Parser Interpretation](https://github.com/103style/LeetCode/blob/master/String/1678.%20Goal%20Parser%20Interpretation.md) | `String` | **Easy** |
+| [1679. Max Number of K-Sum Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1679.%20Max%20Number%20of%20K-Sum%20Pairs.md) | `HashTable` | **Medium** |
