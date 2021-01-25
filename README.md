@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(627/1697)` → `Easy 199`--`Medium 339`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(629/1697)` → `Easy 200`--`Medium 340`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -488,6 +488,7 @@ the following problem is choose by:
 | [980. Unique Paths III](https://github.com/103style/LeetCode/blob/master/Backtracking/980.%20Unique%20Paths%20III.md) | `DFS` <br> `BackTracking` | **Hard** |	
 | [983. Minimum Cost For Tickets](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/983.%20Minimum%20Cost%20For%20Tickets.md) 🚨 | `Dynamic Programming` | **Medium** |	
 | [987. Vertical Order Traversal of a Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) | `Tree` <br> `HashTable` | **Medium** |	
+| [989. Add to Array-Form of Integer](https://github.com/103style/LeetCode/blob/master/Array/989.%20Add%20to%20Array-Form%20of%20Integer.md) | `Array` | **Easy** |
 | [990. Satisfiability of Equality Equations](https://github.com/103style/LeetCode/blob/master/Union%20Find/990.%20Satisfiability%20of%20Equality%20Equations.md) | `Union Find` <br> `Graph` | **Medium** |	
 | [992. Subarrays with K Different Integers](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/992.%20Subarrays%20with%20K%20Different%20Integers.md) | `Two Pointers` <br> `HashTable` <br> `Sliding Window` | **Hard** |	
 | [994. Rotting Oranges](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/994.%20Rotting%20Oranges.md) | `BFS` | **Medium** |	
@@ -554,7 +555,8 @@ the following problem is choose by:
 | [1302. Deepest Leaves Sum](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1302.%20Deepest%20Leaves%20Sum.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1305. All Elements in Two Binary Search Trees](https://github.com/103style/LeetCode/blob/master/Sort/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md) | `Sort` <br> `Tree` | **Medium** |
 | [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md) | `Dynamic Programming` | **Medium** |	
-| [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |	
+| [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |
+| [1319. Number of Operations to Make Network Connected](https://github.com/103style/LeetCode/blob/master/Union%20Find/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md) | `DFS` <br> `BFS` <br> `UnionFind` | **Medium** |
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |	
 | [1344. Angle Between Hands of a Clock](https://github.com/103style/LeetCode/blob/master/Math/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md) | `Math` | **Medium** |	
 | [1356. Sort Integers by The Number of 1 Bits](https://github.com/103style/LeetCode/blob/master/Sort/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md) | `Sort` <br> `Bit Manipulation` | **Easy** |
