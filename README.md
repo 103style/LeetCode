@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(629/1697)` → `Easy 200`--`Medium 340`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(633/1697)` → `Easy 202`--`Medium 342`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -530,6 +530,7 @@ the following problem is choose by:
 | [1110. Delete Nodes And Return Forest](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1110.%20Delete%20Nodes%20And%20Return%20Forest.md) | `DFS` <br> `Tree` | **Medium** |	
 | [1115. Print FooBar Alternately](https://github.com/103style/LeetCode/blob/master/Concurrency/1115.%20Print%20FooBar%20Alternately.md) | `Concurrency` | **Medium** |	
 | [1122. Relative Sort Array](https://github.com/103style/LeetCode/blob/master/Array/1122.%20Relative%20Sort%20Array.md) | `Array` <br> `Sort` | **Easy** |	
+| [1128. Number of Equivalent Domino Pairs](https://github.com/103style/LeetCode/blob/master/Array/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.md) | `Array` | **Easy** |
 | [1130. Minimum Cost Tree From Leaf Values](https://github.com/103style/LeetCode/blob/master/Tree/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.md) | `Tree` <br> `Stack` <br> `Dynamic Programming` | **Medium** |	
 | [1137. N-th Tribonacci Number](https://github.com/103style/LeetCode/blob/master/Recursion/1137.%20N-th%20Tribonacci%20Number.md) | `Recursive` | **Easy** |	
 | [1140. Stone Game II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1140.%20Stone%20Game%20II.md) 🚨 | `Dynamic Programming` | **Medium** |
@@ -557,6 +558,7 @@ the following problem is choose by:
 | [1314. Matrix Block Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1314.%20Matrix%20Block%20Sum.md) | `Dynamic Programming` | **Medium** |	
 | [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/1315.%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md) | `DFS` <br> `Tree` | **Medium** |
 | [1319. Number of Operations to Make Network Connected](https://github.com/103style/LeetCode/blob/master/Union%20Find/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md) | `DFS` <br> `BFS` <br> `UnionFind` | **Medium** |
+| [1329. Sort the Matrix Diagonally](https://github.com/103style/LeetCode/blob/master/Sort/1329.%20Sort%20the%20Matrix%20Diagonally.md) | `Array` <br> `Sort` | **Medium** |
 | [1340. Jump Game V](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1340.%20Jump%20Game%20V.md) 🚨 | `Dynamic Programming` | **Hard** |	
 | [1344. Angle Between Hands of a Clock](https://github.com/103style/LeetCode/blob/master/Math/1344.%20Angle%20Between%20Hands%20of%20a%20Clock.md) | `Math` | **Medium** |	
 | [1356. Sort Integers by The Number of 1 Bits](https://github.com/103style/LeetCode/blob/master/Sort/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md) | `Sort` <br> `Bit Manipulation` | **Easy** |
@@ -567,6 +569,7 @@ the following problem is choose by:
 | [1419. Minimum Number of Frogs Croaking](https://github.com/103style/LeetCode/blob/master/String/1419.%20Minimum%20Number%20of%20Frogs%20Croaking.md) | `String` | **Medium** |	
 | [1425. Constrained Subsequence Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1425.%20Constrained%20Subsequence%20Sum.md) | `Dynamic Programming` | **Hard** |	
 | [1431. Kids With the Greatest Number of Candies](https://github.com/103style/LeetCode/blob/master/Array/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) | `Array` | **Easy** |	
+| [1437. Check If All 1's Are at Least Length K Places Away](https://github.com/103style/LeetCode/blob/master/Array/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.md) | `Array` | **Easy** |
 | [1446. Consecutive Characters](https://github.com/103style/LeetCode/blob/master/String/1446.%20Consecutive%20Characters.md) | `String` | **Easy** |	
 | [1450. Number of Students Doing Homework at a Given Time](https://github.com/103style/LeetCode/blob/master/Array/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.md) | `Array` | **Easy** |	
 | [1451. Rearrange Words in a Sentence](https://github.com/103style/LeetCode/blob/master/String/1451.Rearrange%20Words%20in%20a%20Sentence.md) | `String` <br> `Sort` | **Medium** |	
@@ -693,6 +696,7 @@ the following problem is choose by:
 | [1647. Minimum Deletions to Make Character Frequencies Unique](https://github.com/103style/LeetCode/blob/master/Sort/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.md) | `Greedy` <br> `Sort` | **Medium** |
 | [1648. Sell Diminishing-Valued Colored Balls](https://github.com/103style/LeetCode/blob/master/Sort/1648.%20Sell%20Diminishing-Valued%20Colored%20Balls.md) | `Greedy` <br> `Sort` <br> `Math` | **Medium** |
 | [1649. Create Sorted Array through Instructions](https://github.com/103style/LeetCode/blob/master/Binary%20Indexed%20Tree/1649.%20Create%20Sorted%20Array%20through%20Instructions.md) | `Binary Indexed Tree` <br> `Segment Tree` <br> `Ordered Map` | **Hard** |
+| [1657. Determine if Two Strings Are Close](https://github.com/103style/LeetCode/blob/master/Greedy/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md) | `Medium` | **Medium** |
 | [1662. Check If Two String Arrays are Equivalent](https://github.com/103style/LeetCode/blob/master/String/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.md) | `String` | **Easy** |
 | [1663. Smallest String With A Given Numeric Value](https://github.com/103style/LeetCode/blob/master/Greedy/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.md) | `Greedy` | **Medium** |
 | [1664. Ways to Make a Fair Array](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1664.%20Ways%20to%20Make%20a%20Fair%20Array.md) | `Greedy` <br> `Dynamic Programming` | **Medium** |
