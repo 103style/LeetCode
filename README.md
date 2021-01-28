@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(633/1697)` → `Easy 202`--`Medium 342`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(635/1697)` → `Easy 203`--`Medium 343`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -403,6 +403,7 @@ the following problem is choose by:
 | [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md) | `Array` | **Easy** |
 | [718. Maximum Length of Repeated Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray.md) | `Array` <br> `BinarySearch` <br> `HashTable` <br> `Dynamic Programming` | **Medium** |
 | [721. Accounts Merge](https://github.com/103style/LeetCode/blob/master/Union%20Find/721.%20Accounts%20Merge.md) | `DFS` <br> `UnionFind` | **Medium** |
+| [724. Find Pivot Index](https://github.com/103style/LeetCode/blob/master/Array/724.%20Find%20Pivot%20Index.md) | `Array` | **Easy** |
 | [725. Split Linked List in Parts](https://github.com/103style/LeetCode/blob/master/Linked%20List/725.%20Split%20Linked%20List%20in%20Parts.md) | `LinkedList` | **Medium** |
 | [726. Number of Atoms](https://github.com/103style/LeetCode/blob/master/Stack/726.%20Number%20of%20Atoms.md) | `HashTable` <br> `Stack` <br> `Recursion` | **Hard** |
 | [728. Self Dividing Numbers](https://github.com/103style/LeetCode/blob/master/Math/728.%20Self%20Dividing%20Numbers.md) | `Math` | **Easy** |
@@ -707,3 +708,4 @@ the following problem is choose by:
 | [1671. Minimum Number of Removals to Make Mountain Array](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1671.%20Minimum%20Number%20of%20Removals%20to%20Make%20Mountain%20Array.md) | `Dynamic Programming` | **Hard** |
 | [1678. Goal Parser Interpretation](https://github.com/103style/LeetCode/blob/master/String/1678.%20Goal%20Parser%20Interpretation.md) | `String` | **Easy** |
 | [1679. Max Number of K-Sum Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1679.%20Max%20Number%20of%20K-Sum%20Pairs.md) | `HashTable` | **Medium** |
+| [1680. Concatenation of Consecutive Binary Numbers](https://github.com/103style/LeetCode/blob/master/Math/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.md) | `Math` | **Medium** |
