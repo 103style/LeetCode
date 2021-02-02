@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(637/1745)` → `Easy 205`--`Medium 343`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(638/1745)` → `Easy 205`--`Medium 344`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -540,6 +540,7 @@ the following problem is choose by:
 | [1143. Longest Common Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.md) | `Dynamic Programming` | **Medium** |	
 | [1155. Number of Dice Rolls With Target Sum](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md) | `Dynamic Programming` | **Medium** |	
 | [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light: | `Datebase` | **Easy** |	
+| [1202. Smallest String With Swaps](https://github.com/103style/LeetCode/blob/master/Union%20Find/1202.%20Smallest%20String%20With%20Swaps.md) | `Array` <br> `UnionFind` | **Medium** |
 | [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md) | `HashTable` | **Easy** |	
 | [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/103style/LeetCode/blob/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) | `Math` <br> `Array` <br> `Greedy` | **Easy** |
 | [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md) | `String` | **Easy** |	
