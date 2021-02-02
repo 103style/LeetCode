@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(636/1745)` → `Easy 204`--`Medium 343`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(637/1745)` → `Easy 205`--`Medium 343`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -222,6 +222,7 @@ the following problem is choose by:
 | [188. Best Time to Buy and Sell Stock IV](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md) | `Dynamic Programming` | **Hard** |
 | [189. Rotate Array](https://github.com/103style/LeetCode/blob/master/Array/189.%20Rotate%20Array.md) | `Array` | **Easy** |
 | [190. Reverse Bits](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/190.%20Reverse%20Bits.md) | `Bit Manipulation` | **Easy** |
+| [191. Number of 1 Bits](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/191.%20Number%20of%201%20Bits.md) | `Bit Manipulation` | **Easy** |
 | [198. House Robber](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/198.%20House%20Robber.md) | `Dynamic Programming` | **Easy** |
 | [201. Bitwise AND of Numbers Range](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/201.%20Bitwise%20AND%20of%20Numbers%20Range.md) | `Bit Manipulation` | **Medium** |
 | [203. Remove Linked List Elements](https://github.com/103style/LeetCode/blob/master/Linked%20List/203.%20Remove%20Linked%20List%20Elements.md) | `LinkedList` | **Easy** |
