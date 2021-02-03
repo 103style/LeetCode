@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(638/1745)` → `Easy 205`--`Medium 344`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(640/1745)` → `Easy 205`--`Medium 346`--`Hard 89`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -310,6 +310,7 @@ the following problem is choose by:
 | [412. Fizz Buzz](https://github.com/103style/LeetCode/blob/master/other/412.%20Fizz%20Buzz.md) | `other` | **Easy** |
 | [415. Add Strings](https://github.com/103style/LeetCode/blob/master/String/415.%20Add%20Strings.md) | `String` | **Easy** |
 | [421. Maximum XOR of Two Numbers in an Array](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md) 🚨 | `Bit Manipulation` <br> `Trie` | **Medium** |
+| [424. Longest Repeating Character Replacement](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/424.%20Longest%20Repeating%20Character%20Replacement.md) 🚨 | `Two Pointers` <br> `Sliding Windows` | **Medium** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [435. Non-overlapping Intervals](https://github.com/103style/LeetCode/blob/master/Greedy/435.%20Non-overlapping%20Intervals.md) 🚨 | `Greedy` | **Medium** |
 | [436. Find Right Interval](https://github.com/103style/LeetCode/blob/master/Binary%20Search/436.%20Find%20Right%20Interval.md) | `Binary Search` | **Medium** | 
@@ -384,6 +385,7 @@ the following problem is choose by:
 | [661. Image Smoother](https://github.com/103style/LeetCode/blob/master/Array/661.%20Image%20Smoother.md) | `Array` | **Easy** |
 | [662. Maximum Width of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md) | `Array` | **Medium** |
+| [669. Trim a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Recursion/669.%20Trim%20a%20Binary%20Search%20Tree.md) | `Tree` <br> `Recursion` | **Medium** |
 | [673. Number of Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/673.%20Number%20of%20Longest%20Increasing%20Subsequence.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md) | `Array` | **Easy** |
 | [679. 24 Game](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/679.%2024%20Game.md) 🚨 | `DFS` | **Hard** | 
