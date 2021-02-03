@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(640/1745)` → `Easy 205`--`Medium 346`--`Hard 89`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(641/1745)` → `Easy 205`--`Medium 346`--`Hard 90`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -329,6 +329,7 @@ the following problem is choose by:
 | [463. Island Perimeter](https://github.com/103style/LeetCode/blob/master/Hash%20Table/463.%20Island%20Perimeter.md) | `HashTable` | **Easy** |
 | [468. Validate IP Address](https://github.com/103style/LeetCode/blob/master/String/468.%20Validate%20IP%20Address.md) | `String` | **Medium** |
 | [470. Implement Rand10() Using Rand7()](https://github.com/103style/LeetCode/blob/master/Random/470.%20Implement%20Rand10()%20Using%20Rand7().md) | `Random` <br> `Rejection Sampling` | **Medium** |
+| [480. Sliding Window Median](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/480.%20Sliding%20Window%20Median.md) | `Sliding Window` | **Hard** |
 | [481. Magical String](https://github.com/103style/LeetCode/blob/master/other/481.%20Magical%20String.md) | `other` | **Medium** |
 | [485. Max Consecutive Ones](https://github.com/103style/LeetCode/blob/master/Array/485.%20Max%20Consecutive%20Ones.md) | `Array` | **Easy** |
 | [486. Predict the Winner](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/486.%20Predict%20the%20Winner.md) 🚨 | `Dynamic Programming` <br> `MiniMax` | **Medium** |
