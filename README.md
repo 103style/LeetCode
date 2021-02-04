@@ -601,6 +601,7 @@ the following problem is choose by:
 | [1486. XOR Operation in an Array](https://github.com/103style/LeetCode/blob/master/Array/1486.%20XOR%20Operation%20in%20an%20Array.md) | `Array` <br> `Bit Manipulation` | **Easy** |		
 | [1487. Making File Names Unique](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1487.%20Making%20File%20Names%20Unique.md) | `String` <br> `HashTable` | **Medium** |		
 | [1488. Avoid Flood in The City](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1488.%20Avoid%20Flood%20in%20The%20City.md) | `Array` <br> `HashTable` | **Medium** |		
+| [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://github.com/103style/LeetCode/blob/master/Union%20Find/1489.%20Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree.md) 🚨 | `DFS` <br> `UnionFind` | **Hard** |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://github.com/103style/LeetCode/blob/master/Array/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md) | `Array` <br> `Sort` | **Easy** |		
 | [1492. The kth Factor of n](https://github.com/103style/LeetCode/blob/master/Math/1492.%20The%20kth%20Factor%20of%20n.md) | `Math` | **Medium** |		
 | [1493. Longest Subarray of 1's After Deleting One Element](https://github.com/103style/LeetCode/blob/master/Array/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.md) | `Array` | **Medium** |		
