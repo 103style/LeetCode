@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(641/1745)` → `Easy 205`--`Medium 346`--`Hard 90`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(642/1745)` → `Easy 206`--`Medium 346`--`Hard 90`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -377,6 +377,7 @@ the following problem is choose by:
 | [628. Maximum Product of Three Numbers](https://github.com/103style/LeetCode/blob/master/Array/628.%20Maximum%20Product%20of%20Three%20Numbers.md) | `Array` <br> `Math` | **Easy** |
 | [630. Course Schedule III](https://github.com/103style/LeetCode/blob/master/Greedy/630.%20Course%20Schedule%20III.md) | `Greedy` | **Hard** | 
 | [637. Average of Levels in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/637.%20Average%20of%20Levels%20in%20Binary%20Tree.md) | `Tree` | **Easy** |
+| [643. Maximum Average Subarray I](https://github.com/103style/LeetCode/blob/master/Array/643.%20Maximum%20Average%20Subarray%20I.md) | `Array` | **Easy** |
 | [645. Set Mismatch](https://github.com/103style/LeetCode/blob/master/Math/645.%20Set%20Mismatch.md) | `Math` <br> `HashTable` | **Easy** |
 | [646. Maximum Length of Pair Chain](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/646.%20Maximum%20Length%20of%20Pair%20Chain.md) | `Dynamic Programming` | **Medium** |
 | [647. Palindromic Substrings](https://github.com/103style/LeetCode/blob/master/String/647.%20Palindromic%20Substrings.md) | `String` <br> `Dynamic Programming` | **Medium** |
