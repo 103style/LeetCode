@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(643/1745)` → `Easy 206`--`Medium 346`--`Hard 91`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(645/1745)` → `Easy 207`--`Medium 347`--`Hard 91`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -370,6 +370,7 @@ the following problem is choose by:
 | [581. Shortest Unsorted Continuous Subarray](https://github.com/103style/LeetCode/blob/master/Array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.md) | `Array` | **Easy** |
 | [589. N-ary Tree Preorder Traversal](https://github.com/103style/LeetCode/blob/master/Tree/589.%20N-ary%20Tree%20Preorder%20Traversal.md) | `Tree` | **Easy** |
 | [593. Valid Square](https://github.com/103style/LeetCode/blob/master/Math/593.%20Valid%20Square.md) | `Math` | **Medium** |
+| [594. Longest Harmonious Subsequence](https://github.com/103style/LeetCode/blob/master/Hash%20Table/594.%20Longest%20Harmonious%20Subsequence.md) | `HashTable` | **Easy** |
 | [595. Big Countries](https://github.com/103style/LeetCode/blob/master/other/595.%20Big%20Countries.md) | `Database` | **Easy** |
 | [617. Merge Two Binary Trees](https://github.com/103style/LeetCode/blob/master/Tree/617.%20Merge%20Two%20Binary%20Trees.md) | `Tree` | **Easy** |
 | [621. Task Scheduler](https://github.com/103style/LeetCode/blob/master/Greedy/621.%20Task%20Scheduler.md) | `Array` <br> `Greedy` <br> `Queue` | **Medium** |
@@ -547,6 +548,7 @@ the following problem is choose by:
 | [1179. Reformat Department Table](https://github.com/103style/LeetCode/blob/master/other/*1179.%20Reformat%20Department%20Table.md):rotating_light: | `Datebase` | **Easy** |	
 | [1202. Smallest String With Swaps](https://github.com/103style/LeetCode/blob/master/Union%20Find/1202.%20Smallest%20String%20With%20Swaps.md) | `Array` <br> `UnionFind` | **Medium** |
 | [1207. Unique Number of Occurrences](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1207.%20Unique%20Number%20of%20Occurrences.md) | `HashTable` | **Easy** |	
+| [1208. Get Equal Substrings Within Budget](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/1208.%20Get%20Equal%20Substrings%20Within%20Budget.md) | `Array` <br> `Sliding Window` | **Medium** |
 | [1217. Minimum Cost to Move Chips to The Same Position](https://github.com/103style/LeetCode/blob/master/Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) | `Math` <br> `Array` <br> `Greedy` | **Easy** |
 | [1221. Split a String in Balanced Strings](https://github.com/103style/LeetCode/blob/master/String/1221.%20Split%20a%20String%20in%20Balanced%20Strings.md) | `String` | **Easy** |	
 | [1234. Replace the Substring for Balanced String](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.md) | `String` <br> `Two Pointers` | **Medium** | 	
