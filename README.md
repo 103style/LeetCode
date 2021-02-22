@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(645/1745)` → `Easy 207`--`Medium 347`--`Hard 91`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(647/1745)` → `Easy 208`--`Medium 348`--`Hard 91`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -348,6 +348,7 @@ the following problem is choose by:
 | [520. Detect Capital](https://github.com/103style/LeetCode/blob/master/String/520.%20Detect%20Capital.md) | `String` | **Easy** |
 | [521. Longest Uncommon Subsequence I](https://github.com/103style/LeetCode/blob/master/String/521.%20Longest%20Uncommon%20Subsequence%20I.md) | `String` | **Easy** |
 | [523. Continuous Subarray Sum](https://github.com/103style/LeetCode/blob/master/Hash%20Table/523.%20Continuous%20Subarray%20Sum.md) 🚨 | `Math` <br> `Dynamic Programming` | **Medium** |
+| [524. Longest Word in Dictionary through Deleting](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.md) | `Two Pointers` <br> `Sort` | **Medium** |
 | [525. Contiguous Array](https://github.com/103style/LeetCode/blob/master/Hash%20Table/525.%20Contiguous%20Array.md) 🚨 | `HashTable` | **Medium** |
 | [528. Random Pick with Weight](https://github.com/103style/LeetCode/blob/master/Random/528.%20Random%20Pick%20with%20Weight.md) 🚨 | `Random` <br> `BinarySerach` | **Medium** |
 | [529. Minesweeper](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/529.%20Minesweeper.md) | `DFS` <br> `BFS` | **Medium** |
@@ -408,6 +409,7 @@ the following problem is choose by:
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md) | `Array` <br> `Dynamic Programming` <br> `Greedy` | **Medium** |
 | [717. 1-bit and 2-bit Characters](https://github.com/103style/LeetCode/blob/master/Array/717.%201-bit%20and%202-bit%20Characters.md) | `Array` | **Easy** |
 | [718. Maximum Length of Repeated Subarray](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/718.%20Maximum%20Length%20of%20Repeated%20Subarray.md) | `Array` <br> `BinarySearch` <br> `HashTable` <br> `Dynamic Programming` | **Medium** |
+| [720. Longest Word in Dictionary](https://github.com/103style/LeetCode/blob/master/Trie/720.%20Longest%20Word%20in%20Dictionary.md) | `HashTable` <br> `Trie` | **Easy** |
 | [721. Accounts Merge](https://github.com/103style/LeetCode/blob/master/Union%20Find/721.%20Accounts%20Merge.md) | `DFS` <br> `UnionFind` | **Medium** |
 | [724. Find Pivot Index](https://github.com/103style/LeetCode/blob/master/Array/724.%20Find%20Pivot%20Index.md) | `Array` | **Easy** |
 | [725. Split Linked List in Parts](https://github.com/103style/LeetCode/blob/master/Linked%20List/725.%20Split%20Linked%20List%20in%20Parts.md) | `LinkedList` | **Medium** |
