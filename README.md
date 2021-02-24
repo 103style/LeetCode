@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(647/1745)` → `Easy 208`--`Medium 348`--`Hard 91`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(648/1745)` → `Easy 208`--`Medium 349`--`Hard 91`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -253,6 +253,7 @@ the following problem is choose by:
 | [236. Lowest Common Ancestor of a Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [237. Delete Node in a Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | `LinkedList` | **Easy** |
 | [238. Product of Array Except Self](https://github.com/103style/LeetCode/blob/master/Array/238.%20Product%20of%20Array%20Except%20Self.md) | `Array` | **Medium** |
+| [240. Search a 2D Matrix II](https://github.com/103style/LeetCode/blob/master/Divide%20and%20Conquer/240.%20Search%20a%202D%20Matrix%20II.md) 🚨 | `BinarySearch` <br> `Divide and Conquer` | **Medium** |
 | [242. Valid Anagram](https://github.com/103style/LeetCode/blob/master/Hash%20Table/242.%20Valid%20Anagram.md) | `HsahTable` <br> `Sort` | **Easy** |
 | [257. Binary Tree Paths](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/257.%20Binary%20Tree%20Paths.md) | `Tree` <br> `DFS` | **Easy** |
 | [258. Add Digits](https://github.com/103style/LeetCode/blob/master/Math/258.%20Add%20Digits.md) | `Math` | **Easy** |
