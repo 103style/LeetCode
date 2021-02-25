@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(648/1745)` → `Easy 208`--`Medium 349`--`Hard 91`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(650/1745)` → `Easy 209`--`Medium 350`--`Hard 91`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -452,12 +452,14 @@ the following problem is choose by:
 | [845. Longest Mountain in Array](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/845.%20Longest%20Mountain%20in%20Array.md) | `Two Pointers` | **Medium** |
 | [849. Maximize Distance to Closest Person](https://github.com/103style/LeetCode/blob/master/Array/849.%20Maximize%20Distance%20to%20Closest%20Person.md) | `Array` | **Medium** |
 | [852. Peak Index in a Mountain Array](https://github.com/103style/LeetCode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array.md) | `Binary Search` | **Easy** |
+| [856. Score of Parentheses](https://github.com/103style/LeetCode/blob/master/Stack/856.%20Score%20of%20Parentheses.md) | `Array` <br> `Stack` | **Medium** |
 | [858. Mirror Reflection](https://github.com/103style/LeetCode/blob/master/Math/858.%20Mirror%20Reflection.md) | `Math` | **Medium** |
 | [859. Buddy Strings](https://github.com/103style/LeetCode/blob/master/String/859.%20Buddy%20Strings.md) | `String` | **Easy** |
 | [860. Lemonade Change](https://github.com/103style/LeetCode/blob/master/Greedy/860.%20Lemonade%20Change.md) | `Greedy` | **Easy** |
 | [861. Score After Flipping Matrix](https://github.com/103style/LeetCode/blob/master/Greedy/861.%20Score%20After%20Flipping%20Matrix.md) | `Greedy` | **Medium** |
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |	
+| [867. Transpose Matrix](https://github.com/103style/LeetCode/blob/master/Array/867.%20Transpose%20Matrix.md) | `Array` | **Easy** |
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |	
 | [875. Koko Eating Bananas](https://github.com/103style/LeetCode/blob/master/Binary%20Search/875.%20Koko%20Eating%20Bananas.md) | `BinarySearch` | **Medium** |	
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |	
