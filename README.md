@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(650/1745)` → `Easy 209`--`Medium 350`--`Hard 91`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(651/1745)` → `Easy 209`--`Medium 351`--`Hard 91`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -287,6 +287,7 @@ the following problem is choose by:
 | [332. Reconstruct Itinerary](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/332.%20Reconstruct%20Itinerary.md) 🚨 | `DFS` <br> `Graph` | **Medium** |
 | [336. Palindrome Pairs](https://github.com/103style/LeetCode/blob/master/Trie/336.%20Palindrome%20Pairs.md) 🚨🚨🚨 | `HashTable` <br> `String` <br> `Trie` | **Hard** |
 | [337. House Robber III](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/337.%20House%20Robber%20III.md) | `Tree` <br> `DFS` | **Medium** |
+| [338. Counting Bits](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/338.%20Counting%20Bits.md) | `Dynamic Programming` <br> `Bit Manipulation` | **Medium** |
 | [342. Power of Four](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/342.%20Power%20of%20Four.md) | `Bit Manipulation` | **Easy** |
 | [343. Integer Break](https://github.com/103style/LeetCode/blob/master/Math/343.%20Integer%20Break.md) | `Math` <br> `Dynamic Programming` | **Medium** | 
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
