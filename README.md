@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(652/1745)` → `Easy 210`--`Medium 351`--`Hard 91`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(653/1745)` → `Easy 210`--`Medium 351`--`Hard 92`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -190,6 +190,7 @@ the following problem is choose by:
 | [129. Sum Root to Leaf Numbers](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | `DFS` <br> `Tree` | **Medium** |
 | [130. Surrounded Regions](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/130.%20Surrounded%20Regions.md) | `DFS` <br> `BFS` <br> `Union Find` | **Medium** |
 | [131. Palindrome Partitioning](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/131.%20Palindrome%20Partitioning.md) | `DynamicProgramming` <br> `Backtracking` <br> `DFS` | **Medium** | 
+| [132. Palindrome Partitioning II](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/132.%20Palindrome%20Partitioning%20II.md) | `Dynamic Programming` | **Hard** |
 | [133. Clone Graph](https://github.com/103style/LeetCode/blob/master/Graph/133.%20Clone%20Graph.md) | `DFS` <br> `BFS` <br> `Graph` | **Medium** |
 | [134. Gas Station](https://github.com/103style/LeetCode/blob/master/Greedy/134.%20Gas%20Station.md) | `Greedy` | **Medium** | 
 | [136. Single Number](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/136.%20Single%20Number.md) | `HashTable` <br> `Bit Manipulation` | **Easy** |
