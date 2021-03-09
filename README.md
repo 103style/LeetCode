@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(653/1745)` → `Easy 210`--`Medium 351`--`Hard 92`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(654/1745)` → `Easy 211`--`Medium 351`--`Hard 92`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -535,6 +535,7 @@ the following problem is choose by:
 | [1041. Robot Bounded In Circle](https://github.com/103style/LeetCode/blob/master/Math/1041.%20Robot%20Bounded%20In%20Circle.md) | `Math` | **Medium** |
 | [1044. Longest Duplicate Substring](https://github.com/103style/LeetCode/blob/master/Binary%20Search/1044.%20Longest%20Duplicate%20Substring.md) :rotating_light::rotating_light::rotating_light: | `Binary Search` <br> `HashTable` | **Hard** |	
 | [1046. Last Stone Weight](https://github.com/103style/LeetCode/blob/master/Heap/1046.%20Last%20Stone%20Weight.md) | `Heap` <br> `Greedy` | **Easy** |
+| [1047. Remove All Adjacent Duplicates In String](https://github.com/103style/LeetCode/blob/master/Stack/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md) | `Stack` | **Easy** |
 | [1051. Height Checker](https://github.com/103style/LeetCode/blob/master/Array/1051.%20Height%20Checker.md) | `Array` | **Easy** |	
 | [1053. Previous Permutation With One Swap](https://github.com/103style/LeetCode/blob/master/Array/1053.%20Previous%20Permutation%20With%20One%20Swap.md) | `Array` <br> `Greedy` | **Medium** |	
 | [1079. Letter Tile Possibilities](https://github.com/103style/LeetCode/blob/master/Backtracking/1079.%20Letter%20Tile%20Possibilities.md) :rotating_light: | `BackTracking` | **Medium** |
