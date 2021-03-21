@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(658/1793)` → `Easy 212`--`Medium 353`--`Hard 93`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(659/1793)` → `Easy 212`--`Medium 357`--`Hard 93`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -138,6 +138,7 @@ the following problem is choose by:
 | [66. Plus One](https://github.com/103style/LeetCode/blob/master/Array/66.%20Plus%20One.md) | `Array` | **Easy** |
 | [67. Add Binary](https://github.com/103style/LeetCode/blob/master/Math/67.%20Add%20Binary.md) | `Math` <br> `String` | **Easy** |
 | [70. Climbing Stairs](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/70.%20Climbing%20Stairs.md) | `Dynamic Programming` | **Easy** |
+| [73. Set Matrix Zeroes](https://github.com/103style/LeetCode/blob/master/Array/73.%20Set%20Matrix%20Zeroes.md) | `Array` | **Medium** |
 | [74. Search a 2D Matrix](https://github.com/103style/LeetCode/blob/master/Binary%20Search/74.%20Search%20a%202D%20Matrix.md) | `Array` <br> `Binary Search` | **Medium** |
 | [75. Sort Colors](https://github.com/103style/LeetCode/blob/master/Sort/75.%20Sort%20Colors.md) | `Array` <br> `Two Pointer` <br> `Sort` | **Medium** |
 | [77. Combinations](https://github.com/103style/LeetCode/blob/master/Backtracking/77.%20Combinations.md) | `Backtracking` | **Medium** |
