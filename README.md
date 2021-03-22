@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(659/1793)` → `Easy 212`--`Medium 357`--`Hard 93`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(660/1793)` → `Easy 212`--`Medium 358`--`Hard 93`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -464,6 +464,7 @@ the following problem is choose by:
 | [862. Shortest Subarray with Sum at Least K](https://github.com/103style/LeetCode/blob/master/Queue/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md) 🚨 | `Queue` <br> `Binary Search` | **Hard** |	
 | [863. All Nodes Distance K in Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `BFS` | **Medium** |	
 | [867. Transpose Matrix](https://github.com/103style/LeetCode/blob/master/Array/867.%20Transpose%20Matrix.md) | `Array` | **Easy** |
+| [869. Reordered Power of 2](https://github.com/103style/LeetCode/blob/master/Math/869.%20Reordered%20Power%20of%202.md) | `Math` | **Medium** |
 | [872. Leaf-Similar Trees](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/872.%20Leaf-Similar%20Trees.md) | `DFS` <br> `Tree` | **Easy** |	
 | [875. Koko Eating Bananas](https://github.com/103style/LeetCode/blob/master/Binary%20Search/875.%20Koko%20Eating%20Bananas.md) | `BinarySearch` | **Medium** |	
 | [876. Middle of the Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.md) | `LinkedList` | **Easy** |	
