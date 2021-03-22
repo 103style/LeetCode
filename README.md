@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(660/1793)` → `Easy 212`--`Medium 358`--`Hard 93`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(695/1803)` → `Easy 218`--`Medium 377`--`Hard 100`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -735,3 +735,7 @@ the following problem is choose by:
 | [1791. Find Center of Star Graph](https://github.com/103style/LeetCode/blob/master/Graph/1791.%20Find%20Center%20of%20Star%20Graph.md) | `Graph` | **Mediun** |
 | [1792. Maximum Average Pass Ratio](https://github.com/103style/LeetCode/blob/master/Heap/1792.%20Maximum%20Average%20Pass%20Ratio.md) | `Heap` | **Mediun** |
 | [1793. Maximum Score of a Good Subarray](https://github.com/103style/LeetCode/blob/master/Greedy/1793.%20Maximum%20Score%20of%20a%20Good%20Subarray.md) | `Greedy` | **Hard** |
+| [1796. Second Largest Digit in a String](https://github.com/103style/LeetCode/blob/master/String/1796.%20Second%20Largest%20Digit%20in%20a%20String.md) | `String` | **Easy** |
+| [1797. Design Authentication Manager](https://github.com/103style/LeetCode/blob/master/Design/1797.%20Design%20Authentication%20Manager.md) | `Design` <br> `HashTable` | **Medium** |
+| [1798. Maximum Number of Consecutive Values You Can Make](https://github.com/103style/LeetCode/blob/master/Greedy/1798.%20Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make.md) | `Greedy` | **Medium** |
+| [1799. Maximize Score After N Operations](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1799.%20Maximize%20Score%20After%20N%20Operations.md) 🚨🚨 | `Dynamic Programming` <br> `Backtracking` <br> `Recursion` | **Hard** |
