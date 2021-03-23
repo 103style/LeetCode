@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(695/1803)` → `Easy 218`--`Medium 377`--`Hard 100`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(698/1803)` → `Easy 219`--`Medium 379`--`Hard 100`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -291,6 +291,7 @@ the following problem is choose by:
 | [336. Palindrome Pairs](https://github.com/103style/LeetCode/blob/master/Trie/336.%20Palindrome%20Pairs.md) 🚨🚨🚨 | `HashTable` <br> `String` <br> `Trie` | **Hard** |
 | [337. House Robber III](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/337.%20House%20Robber%20III.md) | `Tree` <br> `DFS` | **Medium** |
 | [338. Counting Bits](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/338.%20Counting%20Bits.md) | `Dynamic Programming` <br> `Bit Manipulation` | **Medium** |
+| [341. Flatten Nested List Iterator](https://github.com/103style/LeetCode/blob/master/Stack/341.%20Flatten%20Nested%20List%20Iterator.md) | `Stack` <br> `Design` | **Medium** |
 | [342. Power of Four](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/342.%20Power%20of%20Four.md) | `Bit Manipulation` | **Easy** |
 | [343. Integer Break](https://github.com/103style/LeetCode/blob/master/Math/343.%20Integer%20Break.md) | `Math` <br> `Dynamic Programming` | **Medium** | 
 | [344. Reverse String](https://github.com/103style/LeetCode/blob/master/String/344.%20Reverse%20String.md) | `String` <br> `Two Pointers` | **Easy** |
@@ -496,6 +497,7 @@ the following problem is choose by:
 | [959. Regions Cut By Slashes](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/959.%20Regions%20Cut%20By%20Slashes.md) | `DFS` <br> `Graph` <br> `Union Find` | **Medium** |	
 | [961. N-Repeated Element in Size 2N Array](https://github.com/103style/LeetCode/blob/master/other/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.md) | `HashTable` | **Easy** |	
 | [965. Univalued Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/965.%20Univalued%20Binary%20Tree.md) | `Tree` | **Easy** |	
+| [966. Vowel Spellchecker](https://github.com/103style/LeetCode/blob/master/Hash%20Table/966.%20Vowel%20Spellchecker.md) | `HashTable` <br> `String` | **Medium** |
 | [967. Numbers With Same Consecutive Differences](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/967.%20Numbers%20With%20Same%20Consecutive%20Differences.md) | `Dynamic Programming` | **Medium** |	
 | [969. Pancake Sorting](https://github.com/103style/LeetCode/blob/master/Sort/969.%20Pancake%20Sorting.md) | `Array` <br> `Sort` | **Medium** |
 | [973. K Closest Points to Origin](https://github.com/103style/LeetCode/blob/master/Sort/973.%20K%20Closest%20Points%20to%20Origin.md) | `Divide and Conquer` <br> `Heap` <br> `Sort` | **Medium** |
@@ -739,3 +741,4 @@ the following problem is choose by:
 | [1797. Design Authentication Manager](https://github.com/103style/LeetCode/blob/master/Design/1797.%20Design%20Authentication%20Manager.md) | `Design` <br> `HashTable` | **Medium** |
 | [1798. Maximum Number of Consecutive Values You Can Make](https://github.com/103style/LeetCode/blob/master/Greedy/1798.%20Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make.md) | `Greedy` | **Medium** |
 | [1799. Maximize Score After N Operations](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1799.%20Maximize%20Score%20After%20N%20Operations.md) 🚨🚨 | `Dynamic Programming` <br> `Backtracking` <br> `Recursion` | **Hard** |
+| [1800. Maximum Ascending Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1800.%20Maximum%20Ascending%20Subarray%20Sum.md) | `Two Pointers` | **Easy** |
