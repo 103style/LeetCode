@@ -481,7 +481,7 @@ the following problem is choose by:
 | [905. Sort Array By Parity](https://github.com/103style/LeetCode/blob/master/Array/905.%20Sort%20Array%20By%20Parity.md) | `Array` | **Easy** |	
 | [912. Sort an Array](https://github.com/103style/LeetCode/blob/master/Sort/912.%20Sort%20an%20Array.md) | `Sort` | **Medium** |	
 | [922. Sort Array By Parity II](https://github.com/103style/LeetCode/blob/master/Array/922.%20Sort%20Array%20By%20Parity%20II.md) | `Array` <br> `Sort` | **Easy** |	
-| [923. 3Sum With Multiplicity](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/923.%203Sum%20With%20Multiplicity.md) | `Two Pointer` | **Medium** | 
+| [923. 3Sum With Multiplicity](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/923.%203Sum%20With%20Multiplicity.md) :rotating_light: | `Two Pointer` | **Medium** | 
 | [925. Long Pressed Name](https://github.com/103style/LeetCode/blob/master/String/925.%20Long%20Pressed%20Name.md) | `String` <br> `Two Pointer` | **Easy** |	
 | [929. Unique Email Addresses](https://github.com/103style/LeetCode/blob/master/String/929.%20Unique%20Email%20Addresses.md) | `String` | **Easy** |	
 | [930. Binary Subarrays With Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/930.%20Binary%20Subarrays%20With%20Sum.md) | `Two Pointers` <br> `HashTable` | **Medium** |	
