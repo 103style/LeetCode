@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(699/1803)` → `Easy 219`--`Medium 380`--`Hard 100`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(700/1803)` → `Easy 220`--`Medium 380`--`Hard 100`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -734,6 +734,7 @@ the following problem is choose by:
 | [1678. Goal Parser Interpretation](https://github.com/103style/LeetCode/blob/master/String/1678.%20Goal%20Parser%20Interpretation.md) | `String` | **Easy** |
 | [1679. Max Number of K-Sum Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1679.%20Max%20Number%20of%20K-Sum%20Pairs.md) | `HashTable` | **Medium** |
 | [1680. Concatenation of Consecutive Binary Numbers](https://github.com/103style/LeetCode/blob/master/Math/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.md) | `Math` | **Medium** |
+| [1704. Determine if String Halves Are Alike](https://github.com/103style/LeetCode/blob/master/String/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | `String` | **Easy** |
 | [1790. Check if One String Swap Can Make Strings Equal](https://github.com/103style/LeetCode/blob/master/String/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.md) | `String` | **Easy** |
 | [1791. Find Center of Star Graph](https://github.com/103style/LeetCode/blob/master/Graph/1791.%20Find%20Center%20of%20Star%20Graph.md) | `Graph` | **Mediun** |
 | [1792. Maximum Average Pass Ratio](https://github.com/103style/LeetCode/blob/master/Heap/1792.%20Maximum%20Average%20Pass%20Ratio.md) | `Heap` | **Mediun** |
