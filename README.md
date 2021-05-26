@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(701/1851)` → `Easy 220`--`Medium 382`--`Hard 99`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(702/1873)` → `Easy 225`--`Medium 380`--`Hard 97`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -734,6 +734,7 @@ the following problem is choose by:
 | [1678. Goal Parser Interpretation](https://github.com/103style/LeetCode/blob/master/String/1678.%20Goal%20Parser%20Interpretation.md) | `String` | **Easy** |
 | [1679. Max Number of K-Sum Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/1679.%20Max%20Number%20of%20K-Sum%20Pairs.md) | `HashTable` | **Medium** |
 | [1680. Concatenation of Consecutive Binary Numbers](https://github.com/103style/LeetCode/blob/master/Math/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.md) | `Math` | **Medium** |
+| [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/103style/LeetCode/blob/master/Greedy/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.md) | `Greedy` | **Medium** |
 | [1704. Determine if String Halves Are Alike](https://github.com/103style/LeetCode/blob/master/String/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | `String` | **Easy** |
 | [1720. Decode XORed Array](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1720.%20Decode%20XORed%20Array.md) | `Bit Manipulation` | **Easy** |
 | [1734. Decode XORed Permutation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1734.%20Decode%20XORed%20Permutation.md) | `Bit Manipulation` | **Medium** |
