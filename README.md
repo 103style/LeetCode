@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(702/1873)` → `Easy 225`--`Medium 380`--`Hard 97`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(703/1939)` → `Easy 225`--`Medium 381`--`Hard 97`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -747,3 +747,4 @@ the following problem is choose by:
 | [1798. Maximum Number of Consecutive Values You Can Make](https://github.com/103style/LeetCode/blob/master/Greedy/1798.%20Maximum%20Number%20of%20Consecutive%20Values%20You%20Can%20Make.md) | `Greedy` | **Medium** |
 | [1799. Maximize Score After N Operations](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1799.%20Maximize%20Score%20After%20N%20Operations.md) 🚨🚨 | `Dynamic Programming` <br> `Backtracking` <br> `Recursion` | **Hard** |
 | [1800. Maximum Ascending Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1800.%20Maximum%20Ascending%20Subarray%20Sum.md) | `Two Pointers` | **Easy** |
+| [1838. Frequency of the Most Frequent Element](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md) | ` Array` <br> `Binary Search` <br> `Greedy` <br> `Sliding Window` <br> `Sorting` <br> `Prefix Sum` | **Medium** |
