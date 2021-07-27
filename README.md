@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(703/1939)` → `Easy 225`--`Medium 381`--`Hard 97`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(704/1939)` → `Easy 226`--`Medium 381`--`Hard 97`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -396,6 +396,7 @@ the following problem is choose by:
 | [662. Maximum Width of Binary Tree](https://github.com/103style/LeetCode/blob/master/Tree/662.%20Maximum%20Width%20of%20Binary%20Tree.md) | `Tree` | **Medium** |
 | [667. Beautiful Arrangement II](https://github.com/103style/LeetCode/blob/master/Array/667.%20Beautiful%20Arrangement%20II.md) | `Array` | **Medium** |
 | [669. Trim a Binary Search Tree](https://github.com/103style/LeetCode/blob/master/Recursion/669.%20Trim%20a%20Binary%20Search%20Tree.md) | `Tree` <br> `Recursion` | **Medium** |
+| [671. Second Minimum Node In a Binary Tree](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md) | `Tree` <br> `DFS` <br> `Binary Tree` | **Easy** |
 | [673. Number of Longest Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/673.%20Number%20of%20Longest%20Increasing%20Subsequence.md) 🚨 | `Dynamic Programming` | **Medium** |
 | [674. Longest Continuous Increasing Subsequence](https://github.com/103style/LeetCode/blob/master/Array/674.%20Longest%20Continuous%20Increasing%20Subsequence.md) | `Array` | **Easy** |
 | [679. 24 Game](https://github.com/103style/LeetCode/blob/master/Depth-first%20Search/679.%2024%20Game.md) 🚨 | `DFS` | **Hard** | 
