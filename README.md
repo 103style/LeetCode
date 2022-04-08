@@ -35,7 +35,7 @@ the following problem is choose by:
 | Binary Search Tree | `2/15` |
 | Bit Manipulation | `21/54` |
 | Brainteaser | `4/7` |
-| Breadth-first Search | `23/74` |
+| Breadth-first Search | `24/74` |
 | Concurrency | `1/9` |
 | Database | `3/112` |
 | Depth-first Search | `61/134` |
@@ -63,7 +63,7 @@ the following problem is choose by:
 | Stack | `26/57` |
 | String | `86/199` |
 | Topological Sort | `4/7` |
-| Tree | `80/148` |
+| Tree | `81/148` |
 | Trie | `8/17` |
 | Two Pointers | `38/60` |
 | Union Find | `12/32` | 
