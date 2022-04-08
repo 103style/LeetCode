@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(704/1939)` → `Easy 226`--`Medium 381`--`Hard 97`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(707/2229)` → `Easy 226`--`Medium 382`--`Hard 97`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -317,6 +317,7 @@ the following problem is choose by:
 | [415. Add Strings](https://github.com/103style/LeetCode/blob/master/String/415.%20Add%20Strings.md) | `String` | **Easy** |
 | [421. Maximum XOR of Two Numbers in an Array](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md) 🚨 | `Bit Manipulation` <br> `Trie` | **Medium** |
 | [424. Longest Repeating Character Replacement](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/424.%20Longest%20Repeating%20Character%20Replacement.md) 🚨 | `Two Pointers` <br> `Sliding Windows` | **Medium** |
+| [429. N-ary Tree Level Order Traversal](https://github.com/103style/LeetCode/blob/master/Breadth-first%20Search/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) | `BFS` <br> `Tree` | **Medium** |
 | [430. Flatten a Multilevel Doubly Linked List](https://github.com/103style/LeetCode/blob/master/Linked%20List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md) | `LinkedList` <br> `DFS` | **Medium** |
 | [435. Non-overlapping Intervals](https://github.com/103style/LeetCode/blob/master/Greedy/435.%20Non-overlapping%20Intervals.md) 🚨 | `Greedy` | **Medium** |
 | [436. Find Right Interval](https://github.com/103style/LeetCode/blob/master/Binary%20Search/436.%20Find%20Right%20Interval.md) | `Binary Search` | **Medium** | 
