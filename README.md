@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(707/2229)` → `Easy 226`--`Medium 382`--`Hard 97`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(708/2356)` → `Easy 227`--`Medium 382`--`Hard 97`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -37,6 +37,7 @@ the following problem is choose by:
 | Brainteaser | `4/7` |
 | Breadth-first Search | `24/74` |
 | Concurrency | `1/9` |
+| Counting | `25/86` |
 | Database | `3/112` |
 | Depth-first Search | `61/134` |
 | Desigin | `11/55` |
@@ -45,7 +46,7 @@ the following problem is choose by:
 | Geometry | `3/9` |
 | Graph | `18/47` | 
 | Greedy | `39/100` |
-| Hash Table | `48/133` |
+| Hash Table | `49/133` |
 | Heap | `10/35` |
 | Linked List | `30/39` |
 | Math | `47/122` |
@@ -61,7 +62,7 @@ the following problem is choose by:
 | Sliding Window | `7/25` |
 | Sort | `32/52` | 
 | Stack | `26/57` |
-| String | `86/199` |
+| String | `87/199` |
 | Topological Sort | `4/7` |
 | Tree | `81/148` |
 | Trie | `8/17` |
@@ -750,3 +751,4 @@ the following problem is choose by:
 | [1799. Maximize Score After N Operations](https://github.com/103style/LeetCode/blob/master/Dynamic%20Programming/1799.%20Maximize%20Score%20After%20N%20Operations.md) 🚨🚨 | `Dynamic Programming` <br> `Backtracking` <br> `Recursion` | **Hard** |
 | [1800. Maximum Ascending Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1800.%20Maximum%20Ascending%20Subarray%20Sum.md) | `Two Pointers` | **Easy** |
 | [1838. Frequency of the Most Frequent Element](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md) | ` Array` <br> `Binary Search` <br> `Greedy` <br> `Sliding Window` <br> `Sorting` <br> `Prefix Sum` | **Medium** |
+| [2351. First Letter to Appear Twice](https://github.com/103style/LeetCode/blob/master/Counting/2351.%20First%20Letter%20to%20Appear%20Twice.md) | `String` <br> `HashTable` <br> `Counting` | **Easy** |
