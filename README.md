@@ -1,4 +1,4 @@
-## [LeetCode](https://leetcode.com/problemset/all/)  `(708/2356)` → `Easy 227`--`Medium 382`--`Hard 97`
+## [LeetCode](https://leetcode.com/problemset/all/)  `(709/2356)` → `Easy 227`--`Medium 383`--`Hard 97`
 
 Algorithm exercises :rotating_light::rotating_light::rotating_light:
 
@@ -46,7 +46,7 @@ the following problem is choose by:
 | Geometry | `3/9` |
 | Graph | `18/47` | 
 | Greedy | `39/100` |
-| Hash Table | `49/133` |
+| Hash Table | `50/133` |
 | Heap | `10/35` |
 | Linked List | `30/39` |
 | Math | `47/122` |
@@ -752,3 +752,4 @@ the following problem is choose by:
 | [1800. Maximum Ascending Subarray Sum](https://github.com/103style/LeetCode/blob/master/Two%20Pointers/1800.%20Maximum%20Ascending%20Subarray%20Sum.md) | `Two Pointers` | **Easy** |
 | [1838. Frequency of the Most Frequent Element](https://github.com/103style/LeetCode/blob/master/Sliding%20Window/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.md) | ` Array` <br> `Binary Search` <br> `Greedy` <br> `Sliding Window` <br> `Sorting` <br> `Prefix Sum` | **Medium** |
 | [2351. First Letter to Appear Twice](https://github.com/103style/LeetCode/blob/master/Counting/2351.%20First%20Letter%20to%20Appear%20Twice.md) | `String` <br> `HashTable` <br> `Counting` | **Easy** |
+| [2352. Equal Row and Column Pairs](https://github.com/103style/LeetCode/blob/master/Hash%20Table/2352.%20Equal%20Row%20and%20Column%20Pairs.md) | `Array` <br> `HashTable` <br> `Matrix` <br> `Simulation` | **Medium** |
