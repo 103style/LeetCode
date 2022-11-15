@@ -739,6 +739,7 @@ the following problem is choose by:
 | [1680. Concatenation of Consecutive Binary Numbers](https://github.com/103style/LeetCode/blob/master/Math/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.md) | `Math` | **Medium** |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/103style/LeetCode/blob/master/Greedy/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.md) | `Greedy` | **Medium** |
 | [1704. Determine if String Halves Are Alike](https://github.com/103style/LeetCode/blob/master/String/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | `String` | **Easy** |
+| [1710. Maximum Units on a Truck](https://github.com/103style/LeetCode/blob/master/Sort/1710.%20Maximum%20Units%20on%20a%20Truck.md) | `Sort` <br> `Greedy` <br> `Array` | **Easy** |
 | [1720. Decode XORed Array](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1720.%20Decode%20XORed%20Array.md) | `Bit Manipulation` | **Easy** |
 | [1734. Decode XORed Permutation](https://github.com/103style/LeetCode/blob/master/Bit%20Manipulation/1734.%20Decode%20XORed%20Permutation.md) | `Bit Manipulation` | **Medium** |
 | [1790. Check if One String Swap Can Make Strings Equal](https://github.com/103style/LeetCode/blob/master/String/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.md) | `String` | **Easy** |
